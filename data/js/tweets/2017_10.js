@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 15:46:38 +0000 2017",
+		"id": 921402286487650300,
+		"id_str": "921402286487650305",
+		"text": "RT @ko2w: Obama: \"Jika kamu menang dengan memecah belah orang-orang, nantinya kamu tidak akan bisa menyatukan mereka.\" https://t.co/uddvfsH…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ko2w",
+					"name": "Koko",
+					"id": 200144577,
+					"id_str": "200144577",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1366,
+			"friends_count": 866,
+			"listed_count": 17,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2122,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 01:08:21 +0000 2017",
+			"id": 921181258998091800,
+			"id_str": "921181258998091776",
+			"text": "Obama: \"Jika kamu menang dengan memecah belah orang-orang, nantinya kamu tidak akan bisa menyatukan mereka.\" https://t.co/uddvfsHVkD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921162722657566700,
+						"id_str": "921162722657566720",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921162722657566720/pu/img/PYoLxfLAR45ZXYJF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921162722657566720/pu/img/PYoLxfLAR45ZXYJF.jpg",
+						"url": "https://t.co/uddvfsHVkD",
+						"display_url": "pic.twitter.com/uddvfsHVkD",
+						"expanded_url": "https://twitter.com/CBSNews/status/921162752248381440/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 921162752248381400,
+						"source_status_id_str": "921162752248381440",
+						"source_user_id": 15012486,
+						"source_user_id_str": "15012486"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921162722657566700,
+						"id_str": "921162722657566720",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921162722657566720/pu/img/PYoLxfLAR45ZXYJF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921162722657566720/pu/img/PYoLxfLAR45ZXYJF.jpg",
+						"url": "https://t.co/uddvfsHVkD",
+						"display_url": "pic.twitter.com/uddvfsHVkD",
+						"expanded_url": "https://twitter.com/CBSNews/status/921162752248381440/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 921162752248381400,
+						"source_status_id_str": "921162752248381440",
+						"source_user_id": 15012486,
+						"source_user_id_str": "15012486",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 24051,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921162722657566720/pu/vid/320x180/MvTGjjZesbbfGw_4.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921162722657566720/pu/vid/640x360/oe1MpAN5h-xNC72H.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/921162722657566720/pu/pl/9XtXiYXX-1vrjr1H.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 15012486,
+								"id_str": "15012486",
+								"name": "CBS News",
+								"screen_name": "CBSNews",
+								"location": "New York, NY",
+								"description": "Your source for original reporting and trusted news.",
+								"url": "https://t.co/VGut7r2Vg5",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/VGut7r2Vg5",
+												"expanded_url": "http://CBSNews.com",
+												"display_url": "CBSNews.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 6180571,
+								"friends_count": 430,
+								"listed_count": 46592,
+								"created_at": "Thu Jun 05 00:54:31 +0000 2008",
+								"favourites_count": 270,
+								"utc_offset": -14400,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 146964,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "D9DADA",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736106551/37bf1f784305fe4a9c7e9105772c6e1a.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736106551/37bf1f784305fe4a9c7e9105772c6e1a.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1507844022",
+								"profile_link_color": "B12124",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EAEDF0",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 200144577,
+				"id_str": "200144577",
+				"name": "Koko",
+				"screen_name": "ko2w",
+				"location": "Jakarta",
+				"description": "Husband. IT. Valorian. Writer occasionally. Nerd. Full time FPL Player. Email : ko2w@ko2w.com",
+				"url": "https://t.co/eL1jFTYH3e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eL1jFTYH3e",
+								"expanded_url": "http://wwww.ko2w.com",
+								"display_url": "wwww.ko2w.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12881,
+				"friends_count": 1570,
+				"listed_count": 70,
+				"created_at": "Fri Oct 08 15:14:26 +0000 2010",
+				"favourites_count": 1085,
+				"utc_offset": 25200,
+				"time_zone": "Novosibirsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29755,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885178024735277056/x-yIclkC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885178024735277056/x-yIclkC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/200144577/1498706134",
+				"profile_link_color": "800000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1615,
+			"favorite_count": 1103,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1615,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in"
+	},
+	{
 		"created_at": "Thu Oct 19 19:07:44 +0000 2017",
 		"id": 921090506687356900,
 		"id_str": "921090506687356928",
