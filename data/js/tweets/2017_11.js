@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 07 02:22:22 +0000 2017",
+		"id": 927722866514075600,
+		"id_str": "927722866514075648",
+		"text": "RT @DrawingPenciI: Artwork by Mauricio Abril https://t.co/gGl625xkXK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrawingPenciI",
+					"name": "Drawings",
+					"id": 457692129,
+					"id_str": "457692129",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 927476727143530500,
+					"id_str": "927476727143530496",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+					"url": "https://t.co/gGl625xkXK",
+					"display_url": "pic.twitter.com/gGl625xkXK",
+					"expanded_url": "https://twitter.com/DrawingPenciI/status/927573801285640193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 585,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 585,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927573801285640200,
+					"source_status_id_str": "927573801285640193",
+					"source_user_id": 457692129,
+					"source_user_id_str": "457692129"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 927476727143530500,
+					"id_str": "927476727143530496",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+					"url": "https://t.co/gGl625xkXK",
+					"display_url": "pic.twitter.com/gGl625xkXK",
+					"expanded_url": "https://twitter.com/DrawingPenciI/status/927573801285640193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 585,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 585,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 927573801285640200,
+					"source_status_id_str": "927573801285640193",
+					"source_user_id": 457692129,
+					"source_user_id_str": "457692129"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1366,
+			"friends_count": 872,
+			"listed_count": 17,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2207,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7555,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 16:30:02 +0000 2017",
+			"id": 927573801285640200,
+			"id_str": "927573801285640193",
+			"text": "Artwork by Mauricio Abril https://t.co/gGl625xkXK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 927476727143530500,
+						"id_str": "927476727143530496",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+						"url": "https://t.co/gGl625xkXK",
+						"display_url": "pic.twitter.com/gGl625xkXK",
+						"expanded_url": "https://twitter.com/DrawingPenciI/status/927573801285640193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 585,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 585,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 585,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927476727143530500,
+						"id_str": "927476727143530496",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN8PK1rVAAA7uNx.jpg",
+						"url": "https://t.co/gGl625xkXK",
+						"display_url": "pic.twitter.com/gGl625xkXK",
+						"expanded_url": "https://twitter.com/DrawingPenciI/status/927573801285640193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 585,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 585,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 585,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 457692129,
+				"id_str": "457692129",
+				"name": "Drawings",
+				"screen_name": "DrawingPenciI",
+				"location": "Parody",
+				"description": "'All art is but dirtying the paper delicately.' - John Ruskin. Email: drawinggpencil@gmail.com \nhttps://t.co/ps71D8Iimi",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ps71D8Iimi",
+								"expanded_url": "https://www.instagram.com/drawinggpencil/",
+								"display_url": "instagram.com/drawinggpencil/",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 516392,
+				"friends_count": 273,
+				"listed_count": 1432,
+				"created_at": "Sat Jan 07 18:14:31 +0000 2012",
+				"favourites_count": 1929,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764039171560177664/hHvh_qEi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764039171560177664/hHvh_qEi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/457692129/1463011386",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 182,
+			"favorite_count": 599,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 05 04:57:51 +0000 2017",
 		"id": 927037221223329800,
 		"id_str": "927037221223329792",
