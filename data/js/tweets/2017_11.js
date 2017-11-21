@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 20 06:39:58 +0000 2017",
+		"id": 932498734977400800,
+		"id_str": "932498734977400832",
+		"text": "Time waits for nobody, time waits for nobody\nWe all must plan our hopes together\nOr we'll have no more future at al… https://t.co/CqwZsrIwT1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CqwZsrIwT1",
+					"expanded_url": "https://twitter.com/i/web/status/932498734977400832",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1372,
+			"friends_count": 889,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2338,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 20 03:59:01 +0000 2017",
+		"id": 932458233872056300,
+		"id_str": "932458233872056320",
+		"text": "@ChajanJr @RizmaWidiono @wahhabicc_jabar @angelmaximilan @fariz1234 @indra_zaids @kaysae76 @kanuhate @egistria_r… https://t.co/jm4yu6oqd3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChajanJr",
+					"name": "Chajan.Jr",
+					"id": 753537234150694900,
+					"id_str": "753537234150694912",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "RizmaWidiono",
+					"name": "Rizma  👠",
+					"id": 746241503714934800,
+					"id_str": "746241503714934784",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "wahhabicc_jabar",
+					"name": "WahhabiCC JAWA BARAT",
+					"id": 838413792677507100,
+					"id_str": "838413792677507072",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"screen_name": "angelmaximilan",
+					"name": "Angel Maximilan",
+					"id": 2162529847,
+					"id_str": "2162529847",
+					"indices": [
+						41,
+						56
+					]
+				},
+				{
+					"screen_name": "fariz1234",
+					"name": "Mr.K🔺FIR",
+					"id": 215769719,
+					"id_str": "215769719",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"screen_name": "indra_zaids",
+					"name": "indralisme #FNI🇮🇩",
+					"id": 235209980,
+					"id_str": "235209980",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "kaysae76",
+					"name": "#GABENERceleng#WS",
+					"id": 2783528108,
+					"id_str": "2783528108",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "kanuhate",
+					"name": "KNHT® #WS",
+					"id": 806548825506660400,
+					"id_str": "806548825506660352",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"screen_name": "egistria_r",
+					"name": "#Gie Hanya Gue#WS",
+					"id": 270258246,
+					"id_str": "270258246",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jm4yu6oqd3",
+					"expanded_url": "https://twitter.com/i/web/status/932458233872056320",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 932108673014362100,
+		"in_reply_to_status_id_str": "932108673014362112",
+		"in_reply_to_user_id": 753537234150694900,
+		"in_reply_to_user_id_str": "753537234150694912",
+		"in_reply_to_screen_name": "ChajanJr",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1372,
+			"friends_count": 889,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2338,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Sat Nov 18 05:39:56 +0000 2017",
 		"id": 931758854152450000,
 		"id_str": "931758854152450048",
