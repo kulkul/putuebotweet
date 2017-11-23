@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 03:40:46 +0000 2017",
+		"id": 933178414705524700,
+		"id_str": "933178414705524736",
+		"text": "RT @CW_TheFlash: DC's greatest heroes unite in the 2-night crossover event, #CrisisOnEarthX, starting next Monday at 8/7c on The CW. https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CrisisOnEarthX",
+					"indices": [
+						76,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CW_TheFlash",
+					"name": "The Flash",
+					"id": 2282671736,
+					"id_str": "2282671736",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1372,
+			"friends_count": 891,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2358,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 20 19:01:04 +0000 2017",
+			"id": 932685241008906200,
+			"id_str": "932685241008906240",
+			"text": "DC's greatest heroes unite in the 2-night crossover event, #CrisisOnEarthX, starting next Monday at 8/7c on The CW. https://t.co/be9B3evofP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CrisisOnEarthX",
+						"indices": [
+							59,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 932684373744169000,
+						"id_str": "932684373744168960",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DPGP6piVAAAjBra.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPGP6piVAAAjBra.jpg",
+						"url": "https://t.co/be9B3evofP",
+						"display_url": "pic.twitter.com/be9B3evofP",
+						"expanded_url": "https://twitter.com/CW_TheFlash/status/932685241008906240/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 932684373744169000,
+						"id_str": "932684373744168960",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DPGP6piVAAAjBra.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPGP6piVAAAjBra.jpg",
+						"url": "https://t.co/be9B3evofP",
+						"display_url": "pic.twitter.com/be9B3evofP",
+						"expanded_url": "https://twitter.com/CW_TheFlash/status/932685241008906240/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 154780,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/932684373744168960/pl/Q7FpXcbEZaSPJv33.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/932684373744168960/vid/640x360/5WGSwfnSF_SSKtOu.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/932684373744168960/vid/1280x720/iAZcvJ4T490OPvcA.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/932684373744168960/vid/320x180/6ezKUnoMG0kGqdK-.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2282671736,
+				"id_str": "2282671736",
+				"name": "The Flash",
+				"screen_name": "CW_TheFlash",
+				"location": "Central City",
+				"description": "Official account for #TheFlash I Tuesdays at 8/7c on The CW I Stream next day free only on The CW App!",
+				"url": "https://t.co/Cqj90y29jS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cqj90y29jS",
+								"expanded_url": "http://go.cwtv.com/Flashtw",
+								"display_url": "go.cwtv.com/Flashtw",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1667124,
+				"friends_count": 114,
+				"listed_count": 3908,
+				"created_at": "Wed Jan 08 22:09:02 +0000 2014",
+				"favourites_count": 2313,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2D100F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657612246403551232/6FTzVNel.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657612246403551232/6FTzVNel.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914933308525441024/GUTVHt5i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914933308525441024/GUTVHt5i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2282671736/1508798125",
+				"profile_link_color": "F3B808",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6395,
+			"favorite_count": 14344,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6395,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 21 11:09:36 +0000 2017",
 		"id": 932928981946466300,
 		"id_str": "932928981946466305",
