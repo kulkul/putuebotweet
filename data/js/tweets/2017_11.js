@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 06:19:10 +0000 2017",
+		"id": 933580664288538600,
+		"id_str": "933580664288538625",
+		"text": "Perumpamaan yang paling best dalam sejarah twitter #haijakarta https://t.co/IMkP9HfZTY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "haijakarta",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IMkP9HfZTY",
+					"expanded_url": "https://twitter.com/RezaWLX/status/933317398433751040",
+					"display_url": "twitter.com/RezaWLX/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 891,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2359,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 933317398433751000,
+		"quoted_status_id_str": "933317398433751040",
+		"quoted_status": {
+			"created_at": "Wed Nov 22 12:53:02 +0000 2017",
+			"id": 933317398433751000,
+			"id_str": "933317398433751040",
+			"text": "@Takviri Ibarat kata sehabis Metallica maen, kemudian Kangen Band naik panggung, ya jadi bulan-bulananlah...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Takviri",
+						"name": "Takviri",
+						"id": 2547595849,
+						"id_str": "2547595849",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 933275186975203300,
+			"in_reply_to_status_id_str": "933275186975203328",
+			"in_reply_to_user_id": 2547595849,
+			"in_reply_to_user_id_str": "2547595849",
+			"in_reply_to_screen_name": "Takviri",
+			"user": {
+				"id": 104267328,
+				"id_str": "104267328",
+				"name": "Reza Rahardian",
+				"screen_name": "RezaWLX",
+				"location": "Earth",
+				"description": "A Living Thing | Tifosi @acmilan | #18 | Penikmat MotoGP | Penggemar Fall Out Boy | #QuitSmoking since early 2012 | A Connector | https://t.co/WJwdAXOgBb",
+				"url": "https://t.co/dp6RPAhb8w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dp6RPAhb8w",
+								"expanded_url": "http://youtube.com/rezarahardianwlx",
+								"display_url": "youtube.com/rezarahardianw…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WJwdAXOgBb",
+								"expanded_url": "http://Marketeers.com",
+								"display_url": "Marketeers.com",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4084,
+				"friends_count": 524,
+				"listed_count": 6,
+				"created_at": "Tue Jan 12 20:43:00 +0000 2010",
+				"favourites_count": 51,
+				"utc_offset": -39600,
+				"time_zone": "International Date Line West",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464538288/3263541290_4299ed736a.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464538288/3263541290_4299ed736a.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683918462515675136/1sB_hbCf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683918462515675136/1sB_hbCf_normal.jpg",
+				"profile_link_color": "CC0C26",
+				"profile_sidebar_border_color": "1D1E1F",
+				"profile_sidebar_fill_color": "0A0A0A",
+				"profile_text_color": "A68F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Wed Nov 22 03:40:46 +0000 2017",
 		"id": 933178414705524700,
 		"id_str": "933178414705524736",
