@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 28 09:50:37 +0000 2017",
+		"id": 935445819041267700,
+		"id_str": "935445819041267713",
+		"text": "RT @antonemus: a very interesting multi-platform article about #MountAgung by @hariankompas.\n\nKUDOS!\n\nhttps://t.co/BlEAwlZ7jd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MountAgung",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "antonemus",
+					"name": "Anton Muhajir",
+					"id": 10524562,
+					"id_str": "10524562",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "hariankompas",
+					"name": "Harian Kompas",
+					"id": 255866913,
+					"id_str": "255866913",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BlEAwlZ7jd",
+					"expanded_url": "http://bit.ly/2BhKcQ5",
+					"display_url": "bit.ly/2BhKcQ5",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1372,
+			"friends_count": 893,
+			"listed_count": 0,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2398,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 28 02:53:10 +0000 2017",
+			"id": 935340765093412900,
+			"id_str": "935340765093412864",
+			"text": "a very interesting multi-platform article about #MountAgung by @hariankompas.\n\nKUDOS!\n\nhttps://t.co/BlEAwlZ7jd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MountAgung",
+						"indices": [
+							48,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hariankompas",
+						"name": "Harian Kompas",
+						"id": 255866913,
+						"id_str": "255866913",
+						"indices": [
+							63,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BlEAwlZ7jd",
+						"expanded_url": "http://bit.ly/2BhKcQ5",
+						"display_url": "bit.ly/2BhKcQ5",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10524562,
+				"id_str": "10524562",
+				"name": "Anton Muhajir",
+				"screen_name": "antonemus",
+				"location": "Denpasar | Bali | Indonesia",
+				"description": "journalist, blogger, editor, and (occasionally) provocateur\n\n\nantonemus@disroot.org",
+				"url": "https://t.co/VjFHuIO2HT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VjFHuIO2HT",
+								"expanded_url": "http://anton.nawalapatra.com",
+								"display_url": "anton.nawalapatra.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4110,
+				"friends_count": 595,
+				"listed_count": 69,
+				"created_at": "Sat Nov 24 16:04:46 +0000 2007",
+				"favourites_count": 757,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49921,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593888491651502080/5oz69dtJ.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593888491651502080/5oz69dtJ.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/934163835555946496/qrQxhv4O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/934163835555946496/qrQxhv4O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10524562/1503925106",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 27 16:02:32 +0000 2017",
 		"id": 935177025790210000,
 		"id_str": "935177025790210049",
