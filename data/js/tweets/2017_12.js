@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 13 03:47:40 +0000 2017",
+		"id": 940790298002776000,
+		"id_str": "940790298002776066",
+		"text": "RT @sergiewonder: For those who plan on posting Star Wars spoilers: https://t.co/PWCUuiIKMB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sergiewonder",
+					"name": "Serge Gabriel",
+					"id": 229400231,
+					"id_str": "229400231",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 940767987665027100,
+					"id_str": "940767987665027072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+					"url": "https://t.co/PWCUuiIKMB",
+					"display_url": "pic.twitter.com/PWCUuiIKMB",
+					"expanded_url": "https://twitter.com/sergiewonder/status/940767996389281793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 380,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940767996389281800,
+					"source_status_id_str": "940767996389281793",
+					"source_user_id": 229400231,
+					"source_user_id_str": "229400231"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 940767987665027100,
+					"id_str": "940767987665027072",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+					"url": "https://t.co/PWCUuiIKMB",
+					"display_url": "pic.twitter.com/PWCUuiIKMB",
+					"expanded_url": "https://twitter.com/sergiewonder/status/940767996389281793/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 380,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 940767996389281800,
+					"source_status_id_str": "940767996389281793",
+					"source_user_id": 229400231,
+					"source_user_id_str": "229400231",
+					"video_info": {
+						"aspect_ratio": [
+							19,
+							8
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DQ5HgBjVQAADL-N.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 898,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2357,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 02:19:03 +0000 2017",
+			"id": 940767996389281800,
+			"id_str": "940767996389281793",
+			"text": "For those who plan on posting Star Wars spoilers: https://t.co/PWCUuiIKMB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940767987665027100,
+						"id_str": "940767987665027072",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+						"url": "https://t.co/PWCUuiIKMB",
+						"display_url": "pic.twitter.com/PWCUuiIKMB",
+						"expanded_url": "https://twitter.com/sergiewonder/status/940767996389281793/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 380,
+								"h": 160,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 380,
+								"h": 160,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 380,
+								"h": 160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940767987665027100,
+						"id_str": "940767987665027072",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQ5HgBjVQAADL-N.jpg",
+						"url": "https://t.co/PWCUuiIKMB",
+						"display_url": "pic.twitter.com/PWCUuiIKMB",
+						"expanded_url": "https://twitter.com/sergiewonder/status/940767996389281793/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 380,
+								"h": 160,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 380,
+								"h": 160,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 380,
+								"h": 160,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								19,
+								8
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DQ5HgBjVQAADL-N.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229400231,
+				"id_str": "229400231",
+				"name": "Serge Gabriel",
+				"screen_name": "sergiewonder",
+				"location": "",
+				"description": "Storyteller. Triathlete. | @wordsanonph",
+				"url": "https://t.co/NODTImzZtH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NODTImzZtH",
+								"expanded_url": "https://www.instagram.com/sergiegabriel/",
+								"display_url": "instagram.com/sergiegabriel/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3973,
+				"friends_count": 364,
+				"listed_count": 29,
+				"created_at": "Wed Dec 22 09:11:57 +0000 2010",
+				"favourites_count": 7785,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4842,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936963169779466244/Ovq7EXoo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936963169779466244/Ovq7EXoo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/229400231/1455805331",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 13 03:30:19 +0000 2017",
+		"id": 940785929727496200,
+		"id_str": "940785929727496193",
+		"text": "Turut berduka gus @AgusYudhanegara (kartunis Bali &amp; @bogbogcartoon designer) atas berpulangnya ibunda, Amor ring Ac… https://t.co/pU0uHj7DEL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgusYudhanegara",
+					"name": "Agus Yudha BOG",
+					"id": 211774724,
+					"id_str": "211774724",
+					"indices": [
+						18,
+						34
+					]
+				},
+				{
+					"screen_name": "bogbogcartoon",
+					"name": "bog-bog bali cartoon",
+					"id": 77375984,
+					"id_str": "77375984",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pU0uHj7DEL",
+					"expanded_url": "https://twitter.com/i/web/status/940785929727496193",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 898,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2357,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Tue Dec 12 04:34:12 +0000 2017",
 		"id": 940439621678149600,
 		"id_str": "940439621678149632",
