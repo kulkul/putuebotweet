@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 23 05:23:15 +0000 2017",
+		"id": 944438228081303600,
+		"id_str": "944438228081303552",
+		"text": "RT @jokowi: Bali Aman, silakan liburan Ke Bali. Sore ini Pantai Kuta ramai sekali coba lihat, ramai, ramai sekali -Jkw https://t.co/8W0yJ2T…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jokowi",
+					"name": "Joko Widodo",
+					"id": 366987179,
+					"id_str": "366987179",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1387,
+			"friends_count": 896,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2453,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 22 13:34:30 +0000 2017",
+			"id": 944199470106812400,
+			"id_str": "944199470106812417",
+			"text": "Bali Aman, silakan liburan Ke Bali. Sore ini Pantai Kuta ramai sekali coba lihat, ramai, ramai sekali -Jkw https://t.co/8W0yJ2TXu9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 944199458970988500,
+						"id_str": "944199458970988544",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DRp4Z8UU8AAm0qQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRp4Z8UU8AAm0qQ.jpg",
+						"url": "https://t.co/8W0yJ2TXu9",
+						"display_url": "pic.twitter.com/8W0yJ2TXu9",
+						"expanded_url": "https://twitter.com/jokowi/status/944199470106812417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 818,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 872,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 944199458970988500,
+						"id_str": "944199458970988544",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DRp4Z8UU8AAm0qQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRp4Z8UU8AAm0qQ.jpg",
+						"url": "https://t.co/8W0yJ2TXu9",
+						"display_url": "pic.twitter.com/8W0yJ2TXu9",
+						"expanded_url": "https://twitter.com/jokowi/status/944199470106812417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 818,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 872,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 944199458945769500,
+						"id_str": "944199458945769472",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DRp4Z8OUIAAqmRr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRp4Z8OUIAAqmRr.jpg",
+						"url": "https://t.co/8W0yJ2TXu9",
+						"display_url": "pic.twitter.com/8W0yJ2TXu9",
+						"expanded_url": "https://twitter.com/jokowi/status/944199470106812417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 804,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1244,
+								"h": 833,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 944199458954166300,
+						"id_str": "944199458954166272",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DRp4Z8QUQAAqqhz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRp4Z8QUQAAqqhz.jpg",
+						"url": "https://t.co/8W0yJ2TXu9",
+						"display_url": "pic.twitter.com/8W0yJ2TXu9",
+						"expanded_url": "https://twitter.com/jokowi/status/944199470106812417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 583,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 792,
+								"h": 923,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 792,
+								"h": 923,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 944199458954256400,
+						"id_str": "944199458954256384",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DRp4Z8QVoAA-0pA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRp4Z8QVoAA-0pA.jpg",
+						"url": "https://t.co/8W0yJ2TXu9",
+						"display_url": "pic.twitter.com/8W0yJ2TXu9",
+						"expanded_url": "https://twitter.com/jokowi/status/944199470106812417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 949,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 366987179,
+				"id_str": "366987179",
+				"name": "Joko Widodo",
+				"screen_name": "jokowi",
+				"location": "Jakarta",
+				"description": "Akun resmi Joko Widodo, Presiden Republik Indonesia",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9306547,
+				"friends_count": 59,
+				"listed_count": 3651,
+				"created_at": "Sat Sep 03 05:21:21 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": 25200,
+				"time_zone": "Jakarta",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 826,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5B5C5A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/682583126636236801/CI2oM7Un_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/682583126636236801/CI2oM7Un_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/366987179/1472626911",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4594,
+			"favorite_count": 11343,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4594,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in"
+	},
+	{
 		"created_at": "Fri Dec 22 18:34:01 +0000 2017",
 		"id": 944274843800780800,
 		"id_str": "944274843800780800",
