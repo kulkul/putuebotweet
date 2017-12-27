@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Tue Dec 26 06:35:14 +0000 2017",
+		"id": 945543508047274000,
+		"id_str": "945543508047273984",
+		"text": "RT @thereaIbanksy: \"Birds born in cages think freedom is a crime.\" https://t.co/0qGTO823sI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thereaIbanksy",
+					"name": "banksy",
+					"id": 1542533869,
+					"id_str": "1542533869",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 945490616846254100,
+					"id_str": "945490616846254080",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+					"url": "https://t.co/0qGTO823sI",
+					"display_url": "pic.twitter.com/0qGTO823sI",
+					"expanded_url": "https://twitter.com/thereaIbanksy/status/945490619329282048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 702,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 520,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945490619329282000,
+					"source_status_id_str": "945490619329282048",
+					"source_user_id": 1542533869,
+					"source_user_id_str": "1542533869"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 945490616846254100,
+					"id_str": "945490616846254080",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+					"url": "https://t.co/0qGTO823sI",
+					"display_url": "pic.twitter.com/0qGTO823sI",
+					"expanded_url": "https://twitter.com/thereaIbanksy/status/945490619329282048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 702,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 520,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 945490619329282000,
+					"source_status_id_str": "945490619329282048",
+					"source_user_id": 1542533869,
+					"source_user_id_str": "1542533869"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 897,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2478,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 26 03:05:04 +0000 2017",
+			"id": 945490619329282000,
+			"id_str": "945490619329282048",
+			"text": "\"Birds born in cages think freedom is a crime.\" https://t.co/0qGTO823sI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 945490616846254100,
+						"id_str": "945490616846254080",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+						"url": "https://t.co/0qGTO823sI",
+						"display_url": "pic.twitter.com/0qGTO823sI",
+						"expanded_url": "https://twitter.com/thereaIbanksy/status/945490619329282048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 702,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 702,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 945490616846254100,
+						"id_str": "945490616846254080",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DR8OtOOWAAAR1rZ.jpg",
+						"url": "https://t.co/0qGTO823sI",
+						"display_url": "pic.twitter.com/0qGTO823sI",
+						"expanded_url": "https://twitter.com/thereaIbanksy/status/945490619329282048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 702,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 702,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1542533869,
+				"id_str": "1542533869",
+				"name": "banksy",
+				"screen_name": "thereaIbanksy",
+				"location": "we own nothing shared ",
+				"description": "fan account",
+				"url": "http://t.co/1q2Gx1QdRW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1q2Gx1QdRW",
+								"expanded_url": "http://banksy.co.uk",
+								"display_url": "banksy.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2263993,
+				"friends_count": 0,
+				"listed_count": 9810,
+				"created_at": "Mon Jun 24 04:56:38 +0000 2013",
+				"favourites_count": 3,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2672,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120311197/03db772a80083711fc02233e99e11238.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120311197/03db772a80083711fc02233e99e11238.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000643505271/80c2ea605ed52d7996f4146bf4c7481f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000643505271/80c2ea605ed52d7996f4146bf4c7481f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1542533869/1420430000",
+				"profile_link_color": "080808",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3306,
+			"favorite_count": 8031,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3306,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 26 05:37:14 +0000 2017",
+		"id": 945528912687149000,
+		"id_str": "945528912687149056",
+		"text": "Kartunis Bali kembali menggelar hajatan akhir tahun pd Denpasar Festival 2017. Pameran Kartun 28-31 Desember di Bal… https://t.co/qnXgRj3F1c",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qnXgRj3F1c",
+					"expanded_url": "https://twitter.com/i/web/status/945528912687149056",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 897,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2478,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "25f5e9dbc1b635ac",
+			"url": "https://api.twitter.com/1.1/geo/id/25f5e9dbc1b635ac.json",
+			"place_type": "city",
+			"name": "Gambir",
+			"full_name": "Gambir, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							106.807441,
+							-6.180635
+						],
+						[
+							106.846151,
+							-6.180635
+						],
+						[
+							106.846151,
+							-6.157287
+						],
+						[
+							106.807441,
+							-6.157287
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Sun Dec 24 07:57:39 +0000 2017",
 		"id": 944839472675508200,
 		"id_str": "944839472675508225",
