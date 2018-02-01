@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 31 09:47:10 +0000 2018",
+		"id": 958637774617247700,
+		"id_str": "958637774617247744",
+		"text": "RT @Metro_TV: Gerhana Bulan Dapat Picu Letusan Gunung Agung https://t.co/0vmhb7Sr7l https://t.co/HXE1cqhwn1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Metro_TV",
+					"name": "METRO TV",
+					"id": 57261519,
+					"id_str": "57261519",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0vmhb7Sr7l",
+					"expanded_url": "http://metrotvn.ws/9K5RPg3N",
+					"display_url": "metrotvn.ws/9K5RPg3N",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 958322836254343200,
+					"id_str": "958322836254343169",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+					"url": "https://t.co/HXE1cqhwn1",
+					"display_url": "pic.twitter.com/HXE1cqhwn1",
+					"expanded_url": "https://twitter.com/Metro_TV/status/958322837705469953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958322837705470000,
+					"source_status_id_str": "958322837705469953",
+					"source_user_id": 57261519,
+					"source_user_id_str": "57261519"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958322836254343200,
+					"id_str": "958322836254343169",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+					"url": "https://t.co/HXE1cqhwn1",
+					"display_url": "pic.twitter.com/HXE1cqhwn1",
+					"expanded_url": "https://twitter.com/Metro_TV/status/958322837705469953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958322837705470000,
+					"source_status_id_str": "958322837705469953",
+					"source_user_id": 57261519,
+					"source_user_id_str": "57261519"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1386,
+			"friends_count": 915,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 2616,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7798,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 30 12:55:43 +0000 2018",
+			"id": 958322837705470000,
+			"id_str": "958322837705469953",
+			"text": "Gerhana Bulan Dapat Picu Letusan Gunung Agung https://t.co/0vmhb7Sr7l https://t.co/HXE1cqhwn1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0vmhb7Sr7l",
+						"expanded_url": "http://metrotvn.ws/9K5RPg3N",
+						"display_url": "metrotvn.ws/9K5RPg3N",
+						"indices": [
+							46,
+							69
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 958322836254343200,
+						"id_str": "958322836254343169",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+						"url": "https://t.co/HXE1cqhwn1",
+						"display_url": "pic.twitter.com/HXE1cqhwn1",
+						"expanded_url": "https://twitter.com/Metro_TV/status/958322837705469953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 337,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 337,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 958322836254343200,
+						"id_str": "958322836254343169",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUylissVwAE-Rdz.jpg",
+						"url": "https://t.co/HXE1cqhwn1",
+						"display_url": "pic.twitter.com/HXE1cqhwn1",
+						"expanded_url": "https://twitter.com/Metro_TV/status/958322837705469953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 337,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 337,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.metrotvnews.com\" rel=\"nofollow\">metrotvnews.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57261519,
+				"id_str": "57261519",
+				"name": "METRO TV",
+				"screen_name": "Metro_TV",
+				"location": "ÜT:-6.186977, 106.759125",
+				"description": "The Official Twitter Page of METRO TV | METROTVNEWS com",
+				"url": "http://t.co/cgdyUTM6Kq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cgdyUTM6Kq",
+								"expanded_url": "http://www.metrotvnews.com",
+								"display_url": "metrotvnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10343632,
+				"friends_count": 72,
+				"listed_count": 12288,
+				"created_at": "Thu Jul 16 06:19:23 +0000 2009",
+				"favourites_count": 4531,
+				"utc_offset": 25200,
+				"time_zone": "Jakarta",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 932856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E7E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460994637956517890/mA81p9QK.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460994637956517890/mA81p9QK.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/679231508352139264/r-QHCvxW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/679231508352139264/r-QHCvxW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57261519/1516864015",
+				"profile_link_color": "0070A4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Wed Jan 31 00:32:15 +0000 2018",
 		"id": 958498124468817900,
 		"id_str": "958498124468817920",
