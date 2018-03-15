@@ -1,6 +1,1578 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 14 14:33:37 +0000 2018",
+		"id": 973930153431785500,
+		"id_str": "973930153431785479",
+		"text": "RT @deAdder: Cartoon on Stephen Hawking for Mar 13 #Hawking #StephenHawking #ABriefHistoryOfTime #cdnpoli #uspoli #TheoryOfEverything https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hawking",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "StephenHawking",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"text": "ABriefHistoryOfTime",
+					"indices": [
+						76,
+						96
+					]
+				},
+				{
+					"text": "cdnpoli",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "uspoli",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "TheoryOfEverything",
+					"indices": [
+						114,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deAdder",
+					"name": "Michael de Adder",
+					"id": 22027975,
+					"id_str": "22027975",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 901,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3113,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 14 13:01:19 +0000 2018",
+			"id": 973906923501310000,
+			"id_str": "973906923501309953",
+			"text": "Cartoon on Stephen Hawking for Mar 13 #Hawking #StephenHawking #ABriefHistoryOfTime #cdnpoli #uspoli… https://t.co/y56pvvlSwt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hawking",
+						"indices": [
+							38,
+							46
+						]
+					},
+					{
+						"text": "StephenHawking",
+						"indices": [
+							47,
+							62
+						]
+					},
+					{
+						"text": "ABriefHistoryOfTime",
+						"indices": [
+							63,
+							83
+						]
+					},
+					{
+						"text": "cdnpoli",
+						"indices": [
+							84,
+							92
+						]
+					},
+					{
+						"text": "uspoli",
+						"indices": [
+							93,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y56pvvlSwt",
+						"expanded_url": "https://twitter.com/i/web/status/973906923501309953",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22027975,
+				"id_str": "22027975",
+				"name": "Michael de Adder",
+				"screen_name": "deAdder",
+				"location": "Halifax",
+				"description": "Political cartoonist and author. Please follow me on Twitter.",
+				"url": "http://t.co/t4zqDXbzaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/t4zqDXbzaR",
+								"expanded_url": "http://www.deadder.net",
+								"display_url": "deadder.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11415,
+				"friends_count": 3649,
+				"listed_count": 278,
+				"created_at": "Thu Feb 26 16:28:23 +0000 2009",
+				"favourites_count": 1105,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4848,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/832404507/4282e6b0b6ad4ba580d9c9d296abeadb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/832404507/4282e6b0b6ad4ba580d9c9d296abeadb.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588677536810291200/L8N52UqV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588677536810291200/L8N52UqV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22027975/1509061651",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 165,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 14 14:23:59 +0000 2018",
+		"id": 973927727936913400,
+		"id_str": "973927727936913408",
+		"text": "Stephen Hawking lahir pd hari meninggalnya Galileo, 8 Januari. Lalu Hawking meninggal pada hari kelahiran Albert Einstein 14 Maret",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 901,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3113,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Mar 14 14:15:28 +0000 2018",
+		"id": 973925583410249700,
+		"id_str": "973925583410249728",
+		"text": "RT @Switbabydee: So basically we are all going to hell in other people's religions.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Switbabydee",
+					"name": "Wait, what?",
+					"id": 373854858,
+					"id_str": "373854858",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 901,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3113,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 07:19:16 +0000 2018",
+			"id": 972008906187718700,
+			"id_str": "972008906187718656",
+			"text": "So basically we are all going to hell in other people's religions.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373854858,
+				"id_str": "373854858",
+				"name": "Wait, what?",
+				"screen_name": "Switbabydee",
+				"location": "Purgatory",
+				"description": "🐸☕ A twerson is only as good as their weakest tweet.\nQuick tweet access in the link",
+				"url": "https://t.co/5SlLBSWYPK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5SlLBSWYPK",
+								"expanded_url": "https://twitter.com/search?q=from%3A%40switbabydee%28exclude%3Areplies%29&s=01",
+								"display_url": "twitter.com/search?q=from%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2380,
+				"friends_count": 1989,
+				"listed_count": 30,
+				"created_at": "Thu Sep 15 08:59:43 +0000 2011",
+				"favourites_count": 12566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4897,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173949514/FTXmCBpn.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173949514/FTXmCBpn.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973915679358439425/zHpfUe2t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973915679358439425/zHpfUe2t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373854858/1488971639",
+				"profile_link_color": "DE2895",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "381437",
+				"profile_text_color": "1324D6",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10608,
+			"favorite_count": 10648,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10608,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 14 13:57:53 +0000 2018",
+		"id": 973921157471588400,
+		"id_str": "973921157471588354",
+		"text": "RT @KomikFaktap: Kolab @komikfaktap dan @kostumkomik \nPasti elo ngga ngeh kalo hari ini Anti Kritik Kritik Club resmi launching.\n\n#faktapxk…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KomikFaktap",
+					"name": "KomikFaktap",
+					"id": 3852225934,
+					"id_str": "3852225934",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "KomikFaktap",
+					"name": "KomikFaktap",
+					"id": 3852225934,
+					"id_str": "3852225934",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "kostumkomik",
+					"name": "kostumkomik",
+					"id": 198544486,
+					"id_str": "198544486",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 901,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3113,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 14 09:26:50 +0000 2018",
+			"id": 973852946948489200,
+			"id_str": "973852946948489217",
+			"text": "Kolab @komikfaktap dan @kostumkomik \nPasti elo ngga ngeh kalo hari ini Anti Kritik Kritik Club resmi launching.… https://t.co/rwrRM01rRX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KomikFaktap",
+						"name": "KomikFaktap",
+						"id": 3852225934,
+						"id_str": "3852225934",
+						"indices": [
+							6,
+							18
+						]
+					},
+					{
+						"screen_name": "kostumkomik",
+						"name": "kostumkomik",
+						"id": 198544486,
+						"id_str": "198544486",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rwrRM01rRX",
+						"expanded_url": "https://twitter.com/i/web/status/973852946948489217",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3852225934,
+				"id_str": "3852225934",
+				"name": "KomikFaktap",
+				"screen_name": "KomikFaktap",
+				"location": "",
+				"description": "Banyolan cupu.... itu pun kalo lucu.\nhttps://t.co/xLjDf3Ze90 https://t.co/rmBSWdfVyx",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xLjDf3Ze90",
+								"expanded_url": "http://Instagram.com/komikfaktap",
+								"display_url": "Instagram.com/komikfaktap",
+								"indices": [
+									37,
+									60
+								]
+							},
+							{
+								"url": "https://t.co/rmBSWdfVyx",
+								"expanded_url": "http://facebook.com/komikfaktap",
+								"display_url": "facebook.com/komikfaktap",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8318,
+				"friends_count": 716,
+				"listed_count": 37,
+				"created_at": "Sat Oct 03 12:12:24 +0000 2015",
+				"favourites_count": 854,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/650286966139850752/C07_mIwP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/650286966139850752/C07_mIwP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3852225934/1477961503",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Mar 14 05:50:50 +0000 2018",
+		"id": 973798587883835400,
+		"id_str": "973798587883835392",
+		"text": "RT @lartist: Editorial cartoon: RIP Stephen Hawking. I hope he'd have gotten a chuckle out of this trope. https://t.co/tbek4bDv9N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lartist",
+					"name": "Lar - Dare to be Stupid",
+					"id": 1132461,
+					"id_str": "1132461",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 973790878362894300,
+					"id_str": "973790878362894336",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+					"url": "https://t.co/tbek4bDv9N",
+					"display_url": "pic.twitter.com/tbek4bDv9N",
+					"expanded_url": "https://twitter.com/lartist/status/973790911334404099/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973790911334404100,
+					"source_status_id_str": "973790911334404099",
+					"source_user_id": 1132461,
+					"source_user_id_str": "1132461"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973790878362894300,
+					"id_str": "973790878362894336",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+					"url": "https://t.co/tbek4bDv9N",
+					"display_url": "pic.twitter.com/tbek4bDv9N",
+					"expanded_url": "https://twitter.com/lartist/status/973790911334404099/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973790911334404100,
+					"source_status_id_str": "973790911334404099",
+					"source_user_id": 1132461,
+					"source_user_id_str": "1132461"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 901,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3113,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 14 05:20:20 +0000 2018",
+			"id": 973790911334404100,
+			"id_str": "973790911334404099",
+			"text": "Editorial cartoon: RIP Stephen Hawking. I hope he'd have gotten a chuckle out of this trope. https://t.co/tbek4bDv9N",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 973790878362894300,
+						"id_str": "973790878362894336",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+						"url": "https://t.co/tbek4bDv9N",
+						"display_url": "pic.twitter.com/tbek4bDv9N",
+						"expanded_url": "https://twitter.com/lartist/status/973790911334404099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973790878362894300,
+						"id_str": "973790878362894336",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYOZpP5WAAAyEnF.jpg",
+						"url": "https://t.co/tbek4bDv9N",
+						"display_url": "pic.twitter.com/tbek4bDv9N",
+						"expanded_url": "https://twitter.com/lartist/status/973790911334404099/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1132461,
+				"id_str": "1132461",
+				"name": "Lar - Dare to be Stupid",
+				"screen_name": "lartist",
+				"location": "Southern Ontario, Canada",
+				"description": "Cartoonist for Least I Could Do and Looking for Group also, I have a Redbubble with stuff. https://t.co/FsFOiJq4XE",
+				"url": "https://t.co/t02Or3LPYO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t02Or3LPYO",
+								"expanded_url": "http://www.leasticoulddo.com",
+								"display_url": "leasticoulddo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FsFOiJq4XE",
+								"expanded_url": "https://www.redbubble.com/people/uncalar",
+								"display_url": "redbubble.com/people/uncalar",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18996,
+				"friends_count": 577,
+				"listed_count": 1288,
+				"created_at": "Wed Mar 14 02:10:03 +0000 2007",
+				"favourites_count": 122645,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106253,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715947091/d829b4c620513746e06bc1760467e38d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715947091/d829b4c620513746e06bc1760467e38d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958155119346049024/y0nMboXx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958155119346049024/y0nMboXx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1132461/1494910789",
+				"profile_link_color": "366BA3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 14 05:47:44 +0000 2018",
+		"id": 973797809609691100,
+		"id_str": "973797809609691136",
+		"text": "RT @satishacharya: Stephen Hawking dies at 76! @sifydotcom cartoon #stephenhawking https://t.co/mvWt2Je36s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stephenhawking",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "satishacharya",
+					"name": "Satish Acharya",
+					"id": 25106021,
+					"id_str": "25106021",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "sifydotcom",
+					"name": "Sify.com",
+					"id": 44078328,
+					"id_str": "44078328",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 973789945268703200,
+					"id_str": "973789945268703232",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+					"url": "https://t.co/mvWt2Je36s",
+					"display_url": "pic.twitter.com/mvWt2Je36s",
+					"expanded_url": "https://twitter.com/satishacharya/status/973790059903225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973790059903225900,
+					"source_status_id_str": "973790059903225856",
+					"source_user_id": 25106021,
+					"source_user_id_str": "25106021"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 973789945268703200,
+					"id_str": "973789945268703232",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+					"url": "https://t.co/mvWt2Je36s",
+					"display_url": "pic.twitter.com/mvWt2Je36s",
+					"expanded_url": "https://twitter.com/satishacharya/status/973790059903225856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 973790059903225900,
+					"source_status_id_str": "973790059903225856",
+					"source_user_id": 25106021,
+					"source_user_id_str": "25106021"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 901,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3113,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 14 05:16:57 +0000 2018",
+			"id": 973790059903225900,
+			"id_str": "973790059903225856",
+			"text": "Stephen Hawking dies at 76! @sifydotcom cartoon #stephenhawking https://t.co/mvWt2Je36s",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stephenhawking",
+						"indices": [
+							48,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sifydotcom",
+						"name": "Sify.com",
+						"id": 44078328,
+						"id_str": "44078328",
+						"indices": [
+							28,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 973789945268703200,
+						"id_str": "973789945268703232",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+						"url": "https://t.co/mvWt2Je36s",
+						"display_url": "pic.twitter.com/mvWt2Je36s",
+						"expanded_url": "https://twitter.com/satishacharya/status/973790059903225856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 652,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 652,
+								"h": 536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 652,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973789945268703200,
+						"id_str": "973789945268703232",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYOYy72WkAA2BGS.jpg",
+						"url": "https://t.co/mvWt2Je36s",
+						"display_url": "pic.twitter.com/mvWt2Je36s",
+						"expanded_url": "https://twitter.com/satishacharya/status/973790059903225856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 652,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 652,
+								"h": 536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 652,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25106021,
+				"id_str": "25106021",
+				"name": "Satish Acharya",
+				"screen_name": "satishacharya",
+				"location": "Kundapura (in Udupi)",
+				"description": "Editorial Cartoonist",
+				"url": "https://t.co/UcjYz6cUKD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UcjYz6cUKD",
+								"expanded_url": "http://www.cartoonistsatish.com/",
+								"display_url": "cartoonistsatish.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32194,
+				"friends_count": 459,
+				"listed_count": 413,
+				"created_at": "Wed Mar 18 16:55:53 +0000 2009",
+				"favourites_count": 2033,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19995,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/76272985/2009_in_cartoons_blog.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/76272985/2009_in_cartoons_blog.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951702621558943744/lj5Io5Rt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951702621558943744/lj5Io5Rt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25106021/1515738482",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 205,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 13 17:39:09 +0000 2018",
 		"id": 973614454666534900,
 		"id_str": "973614454666534912",
