@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 25 14:59:27 +0000 2018",
+		"id": 989156944521846800,
+		"id_str": "989156944521846784",
+		"text": "RT @THM_Off: There was an idea....😂\n#InfinityWar\n\n~Shared https://t.co/z7jxzpvcli",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InfinityWar",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "THM_Off",
+					"name": "THⓂ️ Official™",
+					"id": 3646108524,
+					"id_str": "3646108524",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 989033094555603000,
+					"id_str": "989033094555602945",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+					"url": "https://t.co/z7jxzpvcli",
+					"display_url": "pic.twitter.com/z7jxzpvcli",
+					"expanded_url": "https://twitter.com/THM_Off/status/989033121764007936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 753,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989033121764008000,
+					"source_status_id_str": "989033121764007936",
+					"source_user_id": 3646108524,
+					"source_user_id_str": "3646108524"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989033094555603000,
+					"id_str": "989033094555602945",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+					"url": "https://t.co/z7jxzpvcli",
+					"display_url": "pic.twitter.com/z7jxzpvcli",
+					"expanded_url": "https://twitter.com/THM_Off/status/989033121764007936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 753,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 753,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989033121764008000,
+					"source_status_id_str": "989033121764007936",
+					"source_user_id": 3646108524,
+					"source_user_id_str": "3646108524"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1379,
+			"friends_count": 889,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3215,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 06:47:26 +0000 2018",
+			"id": 989033121764008000,
+			"id_str": "989033121764007936",
+			"text": "There was an idea....😂\n#InfinityWar\n\n~Shared https://t.co/z7jxzpvcli",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InfinityWar",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 989033094555603000,
+						"id_str": "989033094555602945",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+						"url": "https://t.co/z7jxzpvcli",
+						"display_url": "pic.twitter.com/z7jxzpvcli",
+						"expanded_url": "https://twitter.com/THM_Off/status/989033121764007936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 753,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 753,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989033094555603000,
+						"id_str": "989033094555602945",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbnAXAAXkAEB6U0.jpg",
+						"url": "https://t.co/z7jxzpvcli",
+						"display_url": "pic.twitter.com/z7jxzpvcli",
+						"expanded_url": "https://twitter.com/THM_Off/status/989033121764007936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 753,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 753,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3646108524,
+				"id_str": "3646108524",
+				"name": "THⓂ️ Official™",
+				"screen_name": "THM_Off",
+				"location": "Chennai, India",
+				"description": "Nothing Business.!⏏️\nJust a Die-Hard Fan Page Of #ThalapathyVijay  Backup Acc : @THMOff_       LIKE : https://t.co/sbiDjIiGVg ~ Trollywood Headmaster",
+				"url": "https://t.co/xwMFLefB84",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xwMFLefB84",
+								"expanded_url": "http://instagram.com/thm_off",
+								"display_url": "instagram.com/thm_off",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sbiDjIiGVg",
+								"expanded_url": "http://facebook.com/thmofficials/",
+								"display_url": "facebook.com/thmofficials/",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 117733,
+				"friends_count": 3,
+				"listed_count": 36,
+				"created_at": "Tue Sep 22 07:10:55 +0000 2015",
+				"favourites_count": 9450,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22448,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988753454884536320/SeK_OBC3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988753454884536320/SeK_OBC3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3646108524/1523784589",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 627,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 25 14:52:38 +0000 2018",
+		"id": 989155225448534000,
+		"id_str": "989155225448534017",
+		"text": "RT @RockStationID: Enter Sandman by Metallica, live @ Moscow '91\nCrowd yg keren, belom dipenuhi gadget pula! https://t.co/jUz9cBZFe4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RockStationID",
+					"name": "Rock Station Indonesia",
+					"id": 915063555086458900,
+					"id_str": "915063555086458880",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 988996441778540500,
+					"id_str": "988996441778540544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+					"url": "https://t.co/jUz9cBZFe4",
+					"display_url": "pic.twitter.com/jUz9cBZFe4",
+					"expanded_url": "https://twitter.com/RockStationID/status/988999121187962880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 988999121187962900,
+					"source_status_id_str": "988999121187962880",
+					"source_user_id": 915063555086458900,
+					"source_user_id_str": "915063555086458880"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 988996441778540500,
+					"id_str": "988996441778540544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+					"url": "https://t.co/jUz9cBZFe4",
+					"display_url": "pic.twitter.com/jUz9cBZFe4",
+					"expanded_url": "https://twitter.com/RockStationID/status/988999121187962880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 988999121187962900,
+					"source_status_id_str": "988999121187962880",
+					"source_user_id": 915063555086458900,
+					"source_user_id_str": "915063555086458880",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/pl/vEDovG8Xk76lywGt.m3u8?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/vid/640x360/eEFla6E5E13gckVU.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/vid/320x180/aUbHPRxi5zQ4N-ae.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/vid/1280x720/ALvfLwtRno0fWSoh.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 915063555086458900,
+							"id_str": "915063555086458880",
+							"name": "Rock Station Indonesia",
+							"screen_name": "RockStationID",
+							"location": "Indonesia",
+							"description": "Kadang ngebahas musik, kadang ngebahas musisi, kadang ngebahas gigs. Tapi ya kadang-kadang aja sih.",
+							"url": "https://t.co/hG5GI5BfYB",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/hG5GI5BfYB",
+											"expanded_url": "https://open.spotify.com/user/rockstationid/playlist/5KVMwaPbPuaxODo8VFbNis",
+											"display_url": "open.spotify.com/user/rockstati…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4301,
+							"friends_count": 34,
+							"listed_count": 9,
+							"created_at": "Tue Oct 03 03:58:47 +0000 2017",
+							"favourites_count": 55,
+							"utc_offset": 25200,
+							"time_zone": "Jakarta",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1440,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/915496333477273600/RInglLXg_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/915496333477273600/RInglLXg_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/915063555086458880/1507175245",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1379,
+			"friends_count": 889,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3215,
+			"utc_offset": 28800,
+			"time_zone": "Ulaan Bataar",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/739898263/db3e67b3b4be6e9123616cb237a46315.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 04:32:19 +0000 2018",
+			"id": 988999121187962900,
+			"id_str": "988999121187962880",
+			"text": "Enter Sandman by Metallica, live @ Moscow '91\nCrowd yg keren, belom dipenuhi gadget pula! https://t.co/jUz9cBZFe4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 988996441778540500,
+						"id_str": "988996441778540544",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+						"url": "https://t.co/jUz9cBZFe4",
+						"display_url": "pic.twitter.com/jUz9cBZFe4",
+						"expanded_url": "https://twitter.com/RockStationID/status/988999121187962880/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 988996441778540500,
+						"id_str": "988996441778540544",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/988996441778540544/pu/img/yKNVZGe68TFAiEjd.jpg",
+						"url": "https://t.co/jUz9cBZFe4",
+						"display_url": "pic.twitter.com/jUz9cBZFe4",
+						"expanded_url": "https://twitter.com/RockStationID/status/988999121187962880/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/pl/vEDovG8Xk76lywGt.m3u8?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/vid/640x360/eEFla6E5E13gckVU.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/vid/320x180/aUbHPRxi5zQ4N-ae.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/988996441778540544/pu/vid/1280x720/ALvfLwtRno0fWSoh.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 915063555086458900,
+				"id_str": "915063555086458880",
+				"name": "Rock Station Indonesia",
+				"screen_name": "RockStationID",
+				"location": "Indonesia",
+				"description": "Kadang ngebahas musik, kadang ngebahas musisi, kadang ngebahas gigs. Tapi ya kadang-kadang aja sih.",
+				"url": "https://t.co/hG5GI5BfYB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hG5GI5BfYB",
+								"expanded_url": "https://open.spotify.com/user/rockstationid/playlist/5KVMwaPbPuaxODo8VFbNis",
+								"display_url": "open.spotify.com/user/rockstati…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4301,
+				"friends_count": 34,
+				"listed_count": 9,
+				"created_at": "Tue Oct 03 03:58:47 +0000 2017",
+				"favourites_count": 55,
+				"utc_offset": 25200,
+				"time_zone": "Jakarta",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915496333477273600/RInglLXg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915496333477273600/RInglLXg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/915063555086458880/1507175245",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 263,
+			"favorite_count": 339,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Mon Apr 23 10:16:53 +0000 2018",
 		"id": 988361058388656100,
 		"id_str": "988361058388656128",
