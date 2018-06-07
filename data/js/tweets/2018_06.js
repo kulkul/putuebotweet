@@ -1,6 +1,1446 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 07 00:51:36 +0000 2018",
+		"id": 1004526254475829200,
+		"id_str": "1004526254475829248",
+		"text": "RT @kelly_knox: #FanArtforRose may be the best hashtag I've ever clicked https://t.co/CVRnOclH6r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FanArtforRose",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kelly_knox",
+					"name": "Kelly Knox",
+					"id": 25757241,
+					"id_str": "25757241",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004160992027164700,
+					"id_str": "1004160992027164672",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+					"url": "https://t.co/CVRnOclH6r",
+					"display_url": "pic.twitter.com/CVRnOclH6r",
+					"expanded_url": "https://twitter.com/kelly_knox/status/1004161447109189632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 226,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004161447109189600,
+					"source_status_id_str": "1004161447109189632",
+					"source_user_id": 25757241,
+					"source_user_id_str": "25757241"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004160992027164700,
+					"id_str": "1004160992027164672",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+					"url": "https://t.co/CVRnOclH6r",
+					"display_url": "pic.twitter.com/CVRnOclH6r",
+					"expanded_url": "https://twitter.com/kelly_knox/status/1004161447109189632/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 226,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 226,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1004161447109189600,
+					"source_status_id_str": "1004161447109189632",
+					"source_user_id": 25757241,
+					"source_user_id_str": "25757241",
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							113
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/De9_GhsVQAAQ6t1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 906,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 06 00:42:00 +0000 2018",
+			"id": 1004161447109189600,
+			"id_str": "1004161447109189632",
+			"text": "#FanArtforRose may be the best hashtag I've ever clicked https://t.co/CVRnOclH6r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FanArtforRose",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1004160992027164700,
+						"id_str": "1004160992027164672",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+						"url": "https://t.co/CVRnOclH6r",
+						"display_url": "pic.twitter.com/CVRnOclH6r",
+						"expanded_url": "https://twitter.com/kelly_knox/status/1004161447109189632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 226,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 226,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 226,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1004160992027164700,
+						"id_str": "1004160992027164672",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/De9_GhsVQAAQ6t1.jpg",
+						"url": "https://t.co/CVRnOclH6r",
+						"display_url": "pic.twitter.com/CVRnOclH6r",
+						"expanded_url": "https://twitter.com/kelly_knox/status/1004161447109189632/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 226,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 226,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 226,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								113
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/De9_GhsVQAAQ6t1.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25757241,
+				"id_str": "25757241",
+				"name": "Kelly Knox",
+				"screen_name": "kelly_knox",
+				"location": "Seattle, WA",
+				"description": "☆ writer at Geek & Sundry, https://t.co/IdqLcfQVhg, Nerdist, and more ☆ knox.kelly@gmail.com ☆ header by @karekareo ☆ she/her ☆",
+				"url": "https://t.co/riQN7elIKO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/riQN7elIKO",
+								"expanded_url": "http://thestartbutton.net",
+								"display_url": "thestartbutton.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IdqLcfQVhg",
+								"expanded_url": "http://StarWars.com",
+								"display_url": "StarWars.com",
+								"indices": [
+									27,
+									50
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2624,
+				"friends_count": 483,
+				"listed_count": 80,
+				"created_at": "Sun Mar 22 01:02:05 +0000 2009",
+				"favourites_count": 32808,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13965,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004108769469521920/bw4c5dX__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004108769469521920/bw4c5dX__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25757241/1510980564",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 439,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 06 09:57:12 +0000 2018",
+		"id": 1004301167847850000,
+		"id_str": "1004301167847849989",
+		"text": "RT @Mentimoen: Ada buku baru yg membahas pembunuhan massal di Indonesia 1965/66. \n\nGeoffrey B. Robinson, The Killing Season. A History of t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mentimoen",
+					"name": "Daemoen",
+					"id": 736384867181547500,
+					"id_str": "736384867181547520",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 906,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 06 08:50:00 +0000 2018",
+			"id": 1004284257206800400,
+			"id_str": "1004284257206800384",
+			"text": "Ada buku baru yg membahas pembunuhan massal di Indonesia 1965/66. \n\nGeoffrey B. Robinson, The Killing Season. A His… https://t.co/ijIcPFqBpa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ijIcPFqBpa",
+						"expanded_url": "https://twitter.com/i/web/status/1004284257206800384",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 736384867181547500,
+				"id_str": "736384867181547520",
+				"name": "Daemoen",
+				"screen_name": "Mentimoen",
+				"location": "",
+				"description": "post-theist freethinker, urbanite, omnivore, taken/unavailable, madly in love with a tap dancer, deserts and oceans. not a jokower.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15577,
+				"friends_count": 0,
+				"listed_count": 46,
+				"created_at": "Sat May 28 02:33:28 +0000 2016",
+				"favourites_count": 314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82091,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867276992353374208/ggcvrPa-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867276992353374208/ggcvrPa-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/736384867181547520/1495609907",
+				"profile_link_color": "734D26",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Jun 06 09:42:46 +0000 2018",
+		"id": 1004297537346392000,
+		"id_str": "1004297537346392064",
+		"text": "Digital drawing using #KoiFishSushi's Realistic Pencil Brush #FanArtForRose #KellyMarieTran #Starwars #thelastjedi https://t.co/P8wlMh15Ko",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KoiFishSushi",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"text": "FanArtForRose",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "KellyMarieTran",
+					"indices": [
+						76,
+						91
+					]
+				},
+				{
+					"text": "Starwars",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "thelastjedi",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1004297364432044000,
+					"id_str": "1004297364432044032",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/De_7IcfVQAAWaH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De_7IcfVQAAWaH-.jpg",
+					"url": "https://t.co/P8wlMh15Ko",
+					"display_url": "pic.twitter.com/P8wlMh15Ko",
+					"expanded_url": "https://twitter.com/putuebo/status/1004297537346392064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004297364432044000,
+					"id_str": "1004297364432044032",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/De_7IcfVQAAWaH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De_7IcfVQAAWaH-.jpg",
+					"url": "https://t.co/P8wlMh15Ko",
+					"display_url": "pic.twitter.com/P8wlMh15Ko",
+					"expanded_url": "https://twitter.com/putuebo/status/1004297537346392064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 906,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 06 04:47:17 +0000 2018",
+		"id": 1004223178003005400,
+		"id_str": "1004223178003005443",
+		"text": "Saya juga baru tau kalo Tony Stark dan Aunt May diam2 pernah pacaran https://t.co/DAk7djKnyE https://t.co/eFXaoFjLi4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DAk7djKnyE",
+					"expanded_url": "https://trakt.tv/movies/only-you-1994",
+					"display_url": "trakt.tv/movies/only-yo…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1004222368158384100,
+					"id_str": "1004222368158384128",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/De-27FmVAAAhbhq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De-27FmVAAAhbhq.jpg",
+					"url": "https://t.co/eFXaoFjLi4",
+					"display_url": "pic.twitter.com/eFXaoFjLi4",
+					"expanded_url": "https://twitter.com/putuebo/status/1004223178003005443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004222368158384100,
+					"id_str": "1004222368158384128",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/De-27FmVAAAhbhq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De-27FmVAAAhbhq.jpg",
+					"url": "https://t.co/eFXaoFjLi4",
+					"display_url": "pic.twitter.com/eFXaoFjLi4",
+					"expanded_url": "https://twitter.com/putuebo/status/1004223178003005443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 906,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Jun 06 04:37:42 +0000 2018",
+		"id": 1004220763577053200,
+		"id_str": "1004220763577053184",
+		"text": "RT @ryckopratama: Mengenang https://t.co/kdt7zZ9bYE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryckopratama",
+					"name": "ｒｙｃｋｏ。",
+					"id": 75015146,
+					"id_str": "75015146",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003738614390374400,
+					"id_str": "1003738614390374400",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+					"url": "https://t.co/kdt7zZ9bYE",
+					"display_url": "pic.twitter.com/kdt7zZ9bYE",
+					"expanded_url": "https://twitter.com/ryckopratama/status/1003738633570926592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1077,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1077,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003738633570926600,
+					"source_status_id_str": "1003738633570926592",
+					"source_user_id": 75015146,
+					"source_user_id_str": "75015146"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003738614390374400,
+					"id_str": "1003738614390374400",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+					"url": "https://t.co/kdt7zZ9bYE",
+					"display_url": "pic.twitter.com/kdt7zZ9bYE",
+					"expanded_url": "https://twitter.com/ryckopratama/status/1003738633570926592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1077,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1077,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1003738633570926600,
+					"source_status_id_str": "1003738633570926592",
+					"source_user_id": 75015146,
+					"source_user_id_str": "75015146"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 906,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 20:41:53 +0000 2018",
+			"id": 1003738633570926600,
+			"id_str": "1003738633570926592",
+			"text": "Mengenang https://t.co/kdt7zZ9bYE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003738614390374400,
+						"id_str": "1003738614390374400",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+						"url": "https://t.co/kdt7zZ9bYE",
+						"display_url": "pic.twitter.com/kdt7zZ9bYE",
+						"expanded_url": "https://twitter.com/ryckopratama/status/1003738633570926592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003738614390374400,
+						"id_str": "1003738614390374400",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/De3-86YUwAA-uPs.jpg",
+						"url": "https://t.co/kdt7zZ9bYE",
+						"display_url": "pic.twitter.com/kdt7zZ9bYE",
+						"expanded_url": "https://twitter.com/ryckopratama/status/1003738633570926592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75015146,
+				"id_str": "75015146",
+				"name": "ｒｙｃｋｏ。",
+				"screen_name": "ryckopratama",
+				"location": "under a rooftops",
+				"description": "I'd just really can't realise how my lyfe goes",
+				"url": "https://t.co/TWA7zRE9PS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TWA7zRE9PS",
+								"expanded_url": "http://last.fm/user/ryckowltdzk",
+								"display_url": "last.fm/user/ryckowltd…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 508,
+				"friends_count": 141,
+				"listed_count": 4,
+				"created_at": "Thu Sep 17 13:46:16 +0000 2009",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14819,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000416769041809408/IG8DzeQo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000416769041809408/IG8DzeQo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75015146/1527352844",
+				"profile_link_color": "29E3D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "19FF53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 641,
+			"favorite_count": 217,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 641,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Jun 06 02:30:11 +0000 2018",
+		"id": 1004188676128030700,
+		"id_str": "1004188676128030720",
+		"text": "@richoz Tanda2 ki amat sudah dekat, ketika minuman menyerupai rokok, dan rokok menyerupai minuman",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richoz",
+					"name": "richoz",
+					"id": 11561042,
+					"id_str": "11561042",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1004170174952403000,
+		"in_reply_to_status_id_str": "1004170174952402945",
+		"in_reply_to_user_id": 11561042,
+		"in_reply_to_user_id_str": "11561042",
+		"in_reply_to_screen_name": "richoz",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 906,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Tue Jun 05 22:03:23 +0000 2018",
 		"id": 1004121532627447800,
 		"id_str": "1004121532627447813",
