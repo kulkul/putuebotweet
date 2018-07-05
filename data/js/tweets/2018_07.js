@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 04 06:34:52 +0000 2018",
+		"id": 1014397109305368600,
+		"id_str": "1014397109305368576",
+		"text": "RT @errik_irwan: Oom Pasikom &amp; persekusi zaman old. https://t.co/1WVu0MGuXb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "errik_irwan",
+					"name": "errik",
+					"id": 71466821,
+					"id_str": "71466821",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014284603392122900,
+					"id_str": "1014284603392122880",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+					"url": "https://t.co/1WVu0MGuXb",
+					"display_url": "pic.twitter.com/1WVu0MGuXb",
+					"expanded_url": "https://twitter.com/errik_irwan/status/1014284616037879808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1018,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014284616037879800,
+					"source_status_id_str": "1014284616037879808",
+					"source_user_id": 71466821,
+					"source_user_id_str": "71466821"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014284603392122900,
+					"id_str": "1014284603392122880",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+					"url": "https://t.co/1WVu0MGuXb",
+					"display_url": "pic.twitter.com/1WVu0MGuXb",
+					"expanded_url": "https://twitter.com/errik_irwan/status/1014284616037879808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1018,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014284616037879800,
+					"source_status_id_str": "1014284616037879808",
+					"source_user_id": 71466821,
+					"source_user_id_str": "71466821"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1395,
+			"friends_count": 913,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 3969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 03 23:07:51 +0000 2018",
+			"id": 1014284616037879800,
+			"id_str": "1014284616037879808",
+			"text": "Oom Pasikom &amp; persekusi zaman old. https://t.co/1WVu0MGuXb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014284603392122900,
+						"id_str": "1014284603392122880",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+						"url": "https://t.co/1WVu0MGuXb",
+						"display_url": "pic.twitter.com/1WVu0MGuXb",
+						"expanded_url": "https://twitter.com/errik_irwan/status/1014284616037879808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1018,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014284603392122900,
+						"id_str": "1014284603392122880",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhN2eQ5V4AAYBFn.jpg",
+						"url": "https://t.co/1WVu0MGuXb",
+						"display_url": "pic.twitter.com/1WVu0MGuXb",
+						"expanded_url": "https://twitter.com/errik_irwan/status/1014284616037879808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1018,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71466821,
+				"id_str": "71466821",
+				"name": "errik",
+				"screen_name": "errik_irwan",
+				"location": "Semarang, Indonesia",
+				"description": "illustrator, architect, author Gump n Hell",
+				"url": "https://t.co/zdavFiSKqm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zdavFiSKqm",
+								"expanded_url": "http://instagram.com/gumpnhell",
+								"display_url": "instagram.com/gumpnhell",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 846,
+				"friends_count": 222,
+				"listed_count": 3,
+				"created_at": "Fri Sep 04 05:52:50 +0000 2009",
+				"favourites_count": 128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4437,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856675831367610368/9uvMrmoQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856675831367610368/9uvMrmoQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71466821/1508181143",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Sun Jul 01 23:02:45 +0000 2018",
 		"id": 1013558554781892600,
 		"id_str": "1013558554781892608",
@@ -137,7 +494,7 @@ Grailbird.data.tweets_2018_07 =
 							"name": "•-•",
 							"screen_name": "ThatsSoMariam",
 							"location": "Neitherworld",
-							"description": "small tiddies, big dreams. 🏳️‍🌈",
+							"description": "small tiddies, big dreams. 🏳️🌈",
 							"url": "https://t.co/9MtwV4LQ4e",
 							"entities": {
 								"url": {
@@ -395,7 +752,7 @@ Grailbird.data.tweets_2018_07 =
 				"name": "•-•",
 				"screen_name": "ThatsSoMariam",
 				"location": "Neitherworld",
-				"description": "small tiddies, big dreams. 🏳️‍🌈",
+				"description": "small tiddies, big dreams. 🏳️🌈",
 				"url": "https://t.co/9MtwV4LQ4e",
 				"entities": {
 					"url": {
