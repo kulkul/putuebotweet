@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sun Jul 22 22:10:20 +0000 2018",
+		"id": 1021155510261768200,
+		"id_str": "1021155510261768193",
+		"text": "@gungws Oooo ibi day... mare tawang puk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gungws",
+					"name": "Gung ws",
+					"id": 54494270,
+					"id_str": "54494270",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1020865013337112600,
+		"in_reply_to_status_id_str": "1020865013337112576",
+		"in_reply_to_user_id": 54494270,
+		"in_reply_to_user_id_str": "54494270",
+		"in_reply_to_screen_name": "gungws",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1396,
+			"friends_count": 925,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Sun Jul 22 11:49:28 +0000 2018",
+		"id": 1020999264661487600,
+		"id_str": "1020999264661487616",
+		"text": "RT @thisisinsider: 13 adventures in Indonesia that can't be missed 😍 https://t.co/SLe6yUFYfB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisisinsider",
+					"name": "INSIDER",
+					"id": 3226282347,
+					"id_str": "3226282347",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1020025042795737100,
+					"id_str": "1020025042795737089",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+					"url": "https://t.co/SLe6yUFYfB",
+					"display_url": "pic.twitter.com/SLe6yUFYfB",
+					"expanded_url": "https://twitter.com/thisisinsider/status/1020277140510699520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1020277140510699500,
+					"source_status_id_str": "1020277140510699520",
+					"source_user_id": 3226282347,
+					"source_user_id_str": "3226282347"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1020025042795737100,
+					"id_str": "1020025042795737089",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+					"url": "https://t.co/SLe6yUFYfB",
+					"display_url": "pic.twitter.com/SLe6yUFYfB",
+					"expanded_url": "https://twitter.com/thisisinsider/status/1020277140510699520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1020277140510699500,
+					"source_status_id_str": "1020277140510699520",
+					"source_user_id": 3226282347,
+					"source_user_id_str": "3226282347",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 233650,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1020025042795737089/vid/480x480/C7Dd-cuSumYT7mmb.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1020025042795737089/pl/N8zETTpSxgWv-cJ0.m3u8?tag=3"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1020025042795737089/vid/240x240/b3hLNihosoTosWLz.mp4?tag=3"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1020025042795737089/vid/720x720/MqrcQ9p5ErFGInzp.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "13 adventures in Indonesia that can't be missed",
+						"description": "From diving into a glass-bottom pool to swinging high above the Ayung River valley, these are 13 adventures in Indonesia that can't be missed.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.thisisinsider.com/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 3226282347,
+							"id_str": "3226282347",
+							"name": "INSIDER",
+							"screen_name": "thisisinsider",
+							"location": "Manhattan, NY",
+							"description": "Life is an adventure! Facebook: https://t.co/BHQJ7unDIx Instagram: @thisisinsider YouTube: https://t.co/LhLulkTR9Z",
+							"url": "https://t.co/TDaJ8Jawnf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/TDaJ8Jawnf",
+											"expanded_url": "http://www.thisisinsider.com",
+											"display_url": "thisisinsider.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/BHQJ7unDIx",
+											"expanded_url": "http://insder.co/2l0CKpk",
+											"display_url": "insder.co/2l0CKpk",
+											"indices": [
+												32,
+												55
+											]
+										},
+										{
+											"url": "https://t.co/LhLulkTR9Z",
+											"expanded_url": "http://insder.co/2dPAT18",
+											"display_url": "insder.co/2dPAT18",
+											"indices": [
+												91,
+												114
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 258430,
+							"friends_count": 553,
+							"listed_count": 2040,
+							"created_at": "Fri May 01 14:53:51 +0000 2015",
+							"favourites_count": 2051,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 77651,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/971485718676729856/TE5dPw_c_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/971485718676729856/TE5dPw_c_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3226282347/1516983624",
+							"profile_link_color": "00C59C",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1396,
+			"friends_count": 925,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 20 12:00:00 +0000 2018",
+			"id": 1020277140510699500,
+			"id_str": "1020277140510699520",
+			"text": "13 adventures in Indonesia that can't be missed 😍 https://t.co/SLe6yUFYfB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1020025042795737100,
+						"id_str": "1020025042795737089",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+						"url": "https://t.co/SLe6yUFYfB",
+						"display_url": "pic.twitter.com/SLe6yUFYfB",
+						"expanded_url": "https://twitter.com/thisisinsider/status/1020277140510699520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1020025042795737100,
+						"id_str": "1020025042795737089",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DifeinLW0AEIU4M.jpg",
+						"url": "https://t.co/SLe6yUFYfB",
+						"display_url": "pic.twitter.com/SLe6yUFYfB",
+						"expanded_url": "https://twitter.com/thisisinsider/status/1020277140510699520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 233650,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1020025042795737089/vid/480x480/C7Dd-cuSumYT7mmb.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1020025042795737089/pl/N8zETTpSxgWv-cJ0.m3u8?tag=3"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1020025042795737089/vid/240x240/b3hLNihosoTosWLz.mp4?tag=3"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1020025042795737089/vid/720x720/MqrcQ9p5ErFGInzp.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "13 adventures in Indonesia that can't be missed",
+							"description": "From diving into a glass-bottom pool to swinging high above the Ayung River valley, these are 13 adventures in Indonesia that can't be missed.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://www.thisisinsider.com/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": true
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3226282347,
+				"id_str": "3226282347",
+				"name": "INSIDER",
+				"screen_name": "thisisinsider",
+				"location": "Manhattan, NY",
+				"description": "Life is an adventure! Facebook: https://t.co/BHQJ7unDIx Instagram: @thisisinsider YouTube: https://t.co/LhLulkTR9Z",
+				"url": "https://t.co/TDaJ8Jawnf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TDaJ8Jawnf",
+								"expanded_url": "http://www.thisisinsider.com",
+								"display_url": "thisisinsider.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BHQJ7unDIx",
+								"expanded_url": "http://insder.co/2l0CKpk",
+								"display_url": "insder.co/2l0CKpk",
+								"indices": [
+									32,
+									55
+								]
+							},
+							{
+								"url": "https://t.co/LhLulkTR9Z",
+								"expanded_url": "http://insder.co/2dPAT18",
+								"display_url": "insder.co/2dPAT18",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 258430,
+				"friends_count": 553,
+				"listed_count": 2040,
+				"created_at": "Fri May 01 14:53:51 +0000 2015",
+				"favourites_count": 2051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77651,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971485718676729856/TE5dPw_c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971485718676729856/TE5dPw_c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3226282347/1516983624",
+				"profile_link_color": "00C59C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6803,
+			"favorite_count": 8893,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6803,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 22 01:03:46 +0000 2018",
 		"id": 1020836767405133800,
 		"id_str": "1020836767405133824",
