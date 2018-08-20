@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 19 22:29:46 +0000 2018",
+		"id": 1031307262260699100,
+		"id_str": "1031307262260699136",
+		"text": "Bikin kaligrafi https://t.co/FiFLGPlDqY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031299193716060200,
+					"id_str": "1031299193716060160",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031299193716060160/pu/img/oQteB-BPZY2e_mPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031299193716060160/pu/img/oQteB-BPZY2e_mPY.jpg",
+					"url": "https://t.co/FiFLGPlDqY",
+					"display_url": "pic.twitter.com/FiFLGPlDqY",
+					"expanded_url": "https://twitter.com/awkwardgoogle/status/1031299782734741504/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031299782734741500,
+					"source_status_id_str": "1031299782734741504",
+					"source_user_id": 476199422,
+					"source_user_id_str": "476199422"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031299193716060200,
+					"id_str": "1031299193716060160",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031299193716060160/pu/img/oQteB-BPZY2e_mPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031299193716060160/pu/img/oQteB-BPZY2e_mPY.jpg",
+					"url": "https://t.co/FiFLGPlDqY",
+					"display_url": "pic.twitter.com/FiFLGPlDqY",
+					"expanded_url": "https://twitter.com/awkwardgoogle/status/1031299782734741504/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031299782734741500,
+					"source_status_id_str": "1031299782734741504",
+					"source_user_id": 476199422,
+					"source_user_id_str": "476199422",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58884,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031299193716060160/pu/vid/240x240/9aaY_txQR6wH3VcD.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031299193716060160/pu/vid/640x640/_YPxkG_p-Hd4VXvB.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031299193716060160/pu/vid/480x480/ZKXcz25yuGFj3F_6.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1031299193716060160/pu/pl/Z1_LR-w5-cDk_GVU.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 476199422,
+							"id_str": "476199422",
+							"name": "Tips & Tricks",
+							"screen_name": "awkwardgoogle",
+							"location": "awkwardgxxgle@gmail.com",
+							"description": "DIY ideas, tips and tricks.\nDo it Yourself, Do it For Great!\nWe do not own the videos in our tweets.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2903856,
+							"friends_count": 54,
+							"listed_count": 3897,
+							"created_at": "Fri Jan 27 21:43:58 +0000 2012",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1645,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/772081219680997377/94gOHSK8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/772081219680997377/94gOHSK8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/476199422/1459801579",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1410,
+			"friends_count": 922,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Sun Aug 19 22:20:52 +0000 2018",
+		"id": 1031305023567745000,
+		"id_str": "1031305023567745024",
+		"text": "Seperti kata pepatah, udah jatu ketimpa tangga.. kena pakunya.. https://t.co/CeOBGvJ9nN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031289563845681200,
+					"id_str": "1031289563845681152",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dk_gZPGW4AA0b9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dk_gZPGW4AA0b9M.jpg",
+					"url": "https://t.co/CeOBGvJ9nN",
+					"display_url": "pic.twitter.com/CeOBGvJ9nN",
+					"expanded_url": "https://twitter.com/CaughtCctv/status/1031289617541201920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1031289617541201900,
+					"source_status_id_str": "1031289617541201920",
+					"source_user_id": 2986210360,
+					"source_user_id_str": "2986210360"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031289563845681200,
+					"id_str": "1031289563845681152",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dk_gZPGW4AA0b9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dk_gZPGW4AA0b9M.jpg",
+					"url": "https://t.co/CeOBGvJ9nN",
+					"display_url": "pic.twitter.com/CeOBGvJ9nN",
+					"expanded_url": "https://twitter.com/CaughtCctv/status/1031289617541201920/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1031289617541201900,
+					"source_status_id_str": "1031289617541201920",
+					"source_user_id": 2986210360,
+					"source_user_id_str": "2986210360",
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dk_gZPGW4AA0b9M.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1410,
+			"friends_count": 922,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Fri Aug 17 23:47:31 +0000 2018",
 		"id": 1030602051779088400,
 		"id_str": "1030602051779088386",
