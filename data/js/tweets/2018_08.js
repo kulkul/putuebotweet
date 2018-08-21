@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 02:32:58 +0000 2018",
+		"id": 1031368464559030300,
+		"id_str": "1031368464559030272",
+		"text": "RT @GuritnaPramana: Ucapan selamat Maria Ozawa atau Miyabi buat Indonesia. Kerja kerja kerja 😍😍😍 https://t.co/JPm5Ctgclh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuritnaPramana",
+					"name": "ghp",
+					"id": 762029856,
+					"id_str": "762029856",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1031186253352456200,
+					"id_str": "1031186253352456192",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+					"url": "https://t.co/JPm5Ctgclh",
+					"display_url": "pic.twitter.com/JPm5Ctgclh",
+					"expanded_url": "https://twitter.com/GuritnaPramana/status/1031186324555018242/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031186324555018200,
+					"source_status_id_str": "1031186324555018242",
+					"source_user_id": 762029856,
+					"source_user_id_str": "762029856"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1031186253352456200,
+					"id_str": "1031186253352456192",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+					"url": "https://t.co/JPm5Ctgclh",
+					"display_url": "pic.twitter.com/JPm5Ctgclh",
+					"expanded_url": "https://twitter.com/GuritnaPramana/status/1031186324555018242/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1031186324555018200,
+					"source_status_id_str": "1031186324555018242",
+					"source_user_id": 762029856,
+					"source_user_id_str": "762029856",
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							37
+						],
+						"duration_millis": 25253,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/vid/360x444/Yf94kZnYMYU9P87D.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/vid/180x222/i5Zg7yHTZE-rpafy.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/pl/V7pa7QMYlF1JgRPT.m3u8?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/vid/480x592/tK_Fub-bnD1wCWT7.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 762029856,
+							"id_str": "762029856",
+							"name": "ghp",
+							"screen_name": "GuritnaPramana",
+							"location": "",
+							"description": "Wherefore the brightness of the day denies us to behold them. Gak nrimo twitwar, ogah ribet",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1033,
+							"friends_count": 577,
+							"listed_count": 1,
+							"created_at": "Thu Aug 16 18:06:19 +0000 2012",
+							"favourites_count": 12325,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 12440,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1013256944809754624/VAOU_s15_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013256944809754624/VAOU_s15_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/762029856/1530414257",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1409,
+			"friends_count": 922,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 19 14:29:12 +0000 2018",
+			"id": 1031186324555018200,
+			"id_str": "1031186324555018242",
+			"text": "Ucapan selamat Maria Ozawa atau Miyabi buat Indonesia. Kerja kerja kerja 😍😍😍 https://t.co/JPm5Ctgclh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1031186253352456200,
+						"id_str": "1031186253352456192",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+						"url": "https://t.co/JPm5Ctgclh",
+						"display_url": "pic.twitter.com/JPm5Ctgclh",
+						"expanded_url": "https://twitter.com/GuritnaPramana/status/1031186324555018242/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 592,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 592,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1031186253352456200,
+						"id_str": "1031186253352456192",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1031186253352456192/pu/img/Nj8ZwGGL0ZcfkS5K.jpg",
+						"url": "https://t.co/JPm5Ctgclh",
+						"display_url": "pic.twitter.com/JPm5Ctgclh",
+						"expanded_url": "https://twitter.com/GuritnaPramana/status/1031186324555018242/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 592,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								30,
+								37
+							],
+							"duration_millis": 25253,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/vid/360x444/Yf94kZnYMYU9P87D.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/vid/180x222/i5Zg7yHTZE-rpafy.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/pl/V7pa7QMYlF1JgRPT.m3u8?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1031186253352456192/pu/vid/480x592/tK_Fub-bnD1wCWT7.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 762029856,
+				"id_str": "762029856",
+				"name": "ghp",
+				"screen_name": "GuritnaPramana",
+				"location": "",
+				"description": "Wherefore the brightness of the day denies us to behold them. Gak nrimo twitwar, ogah ribet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1033,
+				"friends_count": 577,
+				"listed_count": 1,
+				"created_at": "Thu Aug 16 18:06:19 +0000 2012",
+				"favourites_count": 12325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013256944809754624/VAOU_s15_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013256944809754624/VAOU_s15_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/762029856/1530414257",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 141,
+			"favorite_count": 268,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Sun Aug 19 22:29:46 +0000 2018",
 		"id": 1031307262260699100,
 		"id_str": "1031307262260699136",
