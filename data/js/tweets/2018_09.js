@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 11 22:29:11 +0000 2018",
+		"id": 1039642033395130400,
+		"id_str": "1039642033395130369",
+		"text": "Eh, Solo StarWarsStory BRRip udah nongol di torrent...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1411,
+			"friends_count": 921,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Tue Sep 11 20:56:32 +0000 2018",
+		"id": 1039618719587000300,
+		"id_str": "1039618719587000320",
+		"text": "RT @MahisaMedari: @putuebo @inktober versi #InktoberIndonesia dapet dari IG https://t.co/joXM4x4ZEi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InktoberIndonesia",
+					"indices": [
+						43,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MahisaMedari",
+					"name": "Mahisa Medari",
+					"id": 421858459,
+					"id_str": "421858459",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "putuebo",
+					"name": "Putu Ebo",
+					"id": 14065297,
+					"id_str": "14065297",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "inktober",
+					"name": "Inktober",
+					"id": 857477456,
+					"id_str": "857477456",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1039519669357436900,
+					"id_str": "1039519669357436929",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+					"url": "https://t.co/joXM4x4ZEi",
+					"display_url": "pic.twitter.com/joXM4x4ZEi",
+					"expanded_url": "https://twitter.com/MahisaMedari/status/1039519787221573634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1055,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1229,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039519787221573600,
+					"source_status_id_str": "1039519787221573634",
+					"source_user_id": 421858459,
+					"source_user_id_str": "421858459"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1039519669357436900,
+					"id_str": "1039519669357436929",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+					"url": "https://t.co/joXM4x4ZEi",
+					"display_url": "pic.twitter.com/joXM4x4ZEi",
+					"expanded_url": "https://twitter.com/MahisaMedari/status/1039519787221573634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1055,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1229,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039519787221573600,
+					"source_status_id_str": "1039519787221573634",
+					"source_user_id": 421858459,
+					"source_user_id_str": "421858459"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1411,
+			"friends_count": 921,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 11 14:23:25 +0000 2018",
+			"id": 1039519787221573600,
+			"id_str": "1039519787221573634",
+			"text": "@putuebo @inktober versi #InktoberIndonesia dapet dari IG https://t.co/joXM4x4ZEi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InktoberIndonesia",
+						"indices": [
+							25,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "putuebo",
+						"name": "Putu Ebo",
+						"id": 14065297,
+						"id_str": "14065297",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "inktober",
+						"name": "Inktober",
+						"id": 857477456,
+						"id_str": "857477456",
+						"indices": [
+							9,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1039519669357436900,
+						"id_str": "1039519669357436929",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+						"url": "https://t.co/joXM4x4ZEi",
+						"display_url": "pic.twitter.com/joXM4x4ZEi",
+						"expanded_url": "https://twitter.com/MahisaMedari/status/1039519787221573634/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1055,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 598,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1229,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1039519669357436900,
+						"id_str": "1039519669357436929",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dm0dobUU4AE4sv6.jpg",
+						"url": "https://t.co/joXM4x4ZEi",
+						"display_url": "pic.twitter.com/joXM4x4ZEi",
+						"expanded_url": "https://twitter.com/MahisaMedari/status/1039519787221573634/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1055,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 598,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1229,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1037489440455704600,
+			"in_reply_to_status_id_str": "1037489440455704576",
+			"in_reply_to_user_id": 14065297,
+			"in_reply_to_user_id_str": "14065297",
+			"in_reply_to_screen_name": "putuebo",
+			"user": {
+				"id": 421858459,
+				"id_str": "421858459",
+				"name": "Mahisa Medari",
+				"screen_name": "MahisaMedari",
+				"location": "Indonesia",
+				"description": "semakin kuno semakin mahal",
+				"url": "https://t.co/M3T6Kcvo6l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M3T6Kcvo6l",
+								"expanded_url": "http://smartfonemedia.blogspot.com/",
+								"display_url": "smartfonemedia.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133,
+				"friends_count": 281,
+				"listed_count": 7,
+				"created_at": "Sat Nov 26 13:39:29 +0000 2011",
+				"favourites_count": 796,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1572,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2601066576/rv1cbv67lnbts099icyk_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2601066576/rv1cbv67lnbts099icyk_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/421858459/1348580257",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Tue Sep 11 09:46:34 +0000 2018",
+		"id": 1039450116573163500,
+		"id_str": "1039450116573163522",
+		"text": "@JennyJusuf Saya merasa justru twit ini yang rasis",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennyJusuf",
+					"name": "Jenny Jusuf",
+					"id": 28747261,
+					"id_str": "28747261",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1038743851622514700,
+		"in_reply_to_status_id_str": "1038743851622514691",
+		"in_reply_to_user_id": 28747261,
+		"in_reply_to_user_id_str": "28747261",
+		"in_reply_to_screen_name": "JennyJusuf",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1411,
+			"friends_count": 921,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 4872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Mon Sep 10 02:21:05 +0000 2018",
 		"id": 1038975620850446300,
 		"id_str": "1038975620850446336",
