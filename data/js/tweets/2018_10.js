@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 10 06:51:24 +0000 2018",
+		"id": 1049915282872029200,
+		"id_str": "1049915282872029184",
+		"text": "RT @BNGPY: Terima kasih, Televisi! https://t.co/P963BjLVm9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BNGPY",
+					"name": "Pay",
+					"id": 99705510,
+					"id_str": "99705510",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049457560049213400,
+					"id_str": "1049457560049213440",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+					"url": "https://t.co/P963BjLVm9",
+					"display_url": "pic.twitter.com/P963BjLVm9",
+					"expanded_url": "https://twitter.com/BNGPY/status/1049457838685179904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049457838685179900,
+					"source_status_id_str": "1049457838685179904",
+					"source_user_id": 99705510,
+					"source_user_id_str": "99705510"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049457560049213400,
+					"id_str": "1049457560049213440",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+					"url": "https://t.co/P963BjLVm9",
+					"display_url": "pic.twitter.com/P963BjLVm9",
+					"expanded_url": "https://twitter.com/BNGPY/status/1049457838685179904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1049457838685179900,
+					"source_status_id_str": "1049457838685179904",
+					"source_user_id": 99705510,
+					"source_user_id_str": "99705510",
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 56080,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/vid/848x480/UFtt5QuVszQcqCf-.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/vid/318x180/9wjEJk_oUnmOhaUe.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/vid/636x360/dF7GByks9bleApEO.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/pl/NoQdC_q_IYjyKgZh.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 99705510,
+							"id_str": "99705510",
+							"name": "Pay",
+							"screen_name": "BNGPY",
+							"location": "mailto: BNGPY@kotakbesi.web.id",
+							"description": "This person requires data that you entered earlier in order to be properly displayed. You can send this data again, but by doing so you will repeat any action.",
+							"url": "https://t.co/xOakKUrmAy",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/xOakKUrmAy",
+											"expanded_url": "https://www.instagram.com/bngpy",
+											"display_url": "instagram.com/bngpy",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 20536,
+							"friends_count": 468,
+							"listed_count": 70,
+							"created_at": "Sun Dec 27 13:12:33 +0000 2009",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 167725,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "DD2E44",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1048847393381179392/j0tL_SjM_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048847393381179392/j0tL_SjM_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/99705510/1535529468",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 927,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 09 00:33:41 +0000 2018",
+			"id": 1049457838685179900,
+			"id_str": "1049457838685179904",
+			"text": "Terima kasih, Televisi! https://t.co/P963BjLVm9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049457560049213400,
+						"id_str": "1049457560049213440",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+						"url": "https://t.co/P963BjLVm9",
+						"display_url": "pic.twitter.com/P963BjLVm9",
+						"expanded_url": "https://twitter.com/BNGPY/status/1049457838685179904/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049457560049213400,
+						"id_str": "1049457560049213440",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049457560049213440/pu/img/v1MhXoppZn_X6CtF.jpg",
+						"url": "https://t.co/P963BjLVm9",
+						"display_url": "pic.twitter.com/P963BjLVm9",
+						"expanded_url": "https://twitter.com/BNGPY/status/1049457838685179904/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								30
+							],
+							"duration_millis": 56080,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/vid/848x480/UFtt5QuVszQcqCf-.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/vid/318x180/9wjEJk_oUnmOhaUe.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/vid/636x360/dF7GByks9bleApEO.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1049457560049213440/pu/pl/NoQdC_q_IYjyKgZh.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99705510,
+				"id_str": "99705510",
+				"name": "Pay",
+				"screen_name": "BNGPY",
+				"location": "mailto: BNGPY@kotakbesi.web.id",
+				"description": "This person requires data that you entered earlier in order to be properly displayed. You can send this data again, but by doing so you will repeat any action.",
+				"url": "https://t.co/xOakKUrmAy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xOakKUrmAy",
+								"expanded_url": "https://www.instagram.com/bngpy",
+								"display_url": "instagram.com/bngpy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20536,
+				"friends_count": 468,
+				"listed_count": 70,
+				"created_at": "Sun Dec 27 13:12:33 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 167725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E44",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048847393381179392/j0tL_SjM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048847393381179392/j0tL_SjM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/99705510/1535529468",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 841,
+			"favorite_count": 413,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"is_quote_status": false,
+		"retweet_count": 841,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Oct 10 06:38:02 +0000 2018",
+		"id": 1049911916913729500,
+		"id_str": "1049911916913729540",
+		"text": "City Boy - Menemukan band ini rasanya seperti menemukan harta karun - padahal band lama. Mengingatkan pd favorit sa… https://t.co/FCY96VI5VM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FCY96VI5VM",
+					"expanded_url": "https://twitter.com/i/web/status/1049911916913729540",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 927,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Oct 10 05:53:03 +0000 2018",
+		"id": 1049900598244634600,
+		"id_str": "1049900598244634624",
+		"text": "Kartun politik (yg saya bikin) bbrapa bulan lalu https://t.co/5dWkt0oaWx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049900324289437700,
+					"id_str": "1049900324289437700",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DpH-yEbW4AQefGC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpH-yEbW4AQefGC.jpg",
+					"url": "https://t.co/5dWkt0oaWx",
+					"display_url": "pic.twitter.com/5dWkt0oaWx",
+					"expanded_url": "https://twitter.com/putuebo/status/1049900598244634624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1697,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049900324289437700,
+					"id_str": "1049900324289437700",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DpH-yEbW4AQefGC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpH-yEbW4AQefGC.jpg",
+					"url": "https://t.co/5dWkt0oaWx",
+					"display_url": "pic.twitter.com/5dWkt0oaWx",
+					"expanded_url": "https://twitter.com/putuebo/status/1049900598244634624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1697,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 927,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Wed Oct 10 04:36:53 +0000 2018",
+		"id": 1049881428773797900,
+		"id_str": "1049881428773797889",
+		"text": "what is to be done? https://t.co/JVldMYhKJR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049880111896559600,
+					"id_str": "1049880111896559616",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DpHsZjZXgAAfi2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpHsZjZXgAAfi2M.jpg",
+					"url": "https://t.co/JVldMYhKJR",
+					"display_url": "pic.twitter.com/JVldMYhKJR",
+					"expanded_url": "https://twitter.com/putuebo/status/1049881428773797889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 511,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049880111896559600,
+					"id_str": "1049880111896559616",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DpHsZjZXgAAfi2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpHsZjZXgAAfi2M.jpg",
+					"url": "https://t.co/JVldMYhKJR",
+					"display_url": "pic.twitter.com/JVldMYhKJR",
+					"expanded_url": "https://twitter.com/putuebo/status/1049881428773797889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 511,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1049880226539470800,
+					"id_str": "1049880226539470848",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DpHsgOeXgAARg2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpHsgOeXgAARg2O.jpg",
+					"url": "https://t.co/JVldMYhKJR",
+					"display_url": "pic.twitter.com/JVldMYhKJR",
+					"expanded_url": "https://twitter.com/putuebo/status/1049881428773797889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 372,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 372,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 372,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1049880282244010000,
+					"id_str": "1049880282244009995",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DpHsjd_XUAsFfAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpHsjd_XUAsFfAy.jpg",
+					"url": "https://t.co/JVldMYhKJR",
+					"display_url": "pic.twitter.com/JVldMYhKJR",
+					"expanded_url": "https://twitter.com/putuebo/status/1049881428773797889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 459,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 459,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1049880384715059200,
+					"id_str": "1049880384715059200",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DpHspbuXcAA7WCZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpHspbuXcAA7WCZ.jpg",
+					"url": "https://t.co/JVldMYhKJR",
+					"display_url": "pic.twitter.com/JVldMYhKJR",
+					"expanded_url": "https://twitter.com/putuebo/status/1049881428773797889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 927,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 10 00:11:33 +0000 2018",
 		"id": 1049814655709851600,
 		"id_str": "1049814655709851648",
