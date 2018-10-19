@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 00:49:41 +0000 2018",
+		"id": 1053085742933528600,
+		"id_str": "1053085742933528576",
+		"full_text": "@Budibaliski Hai Bram yuk kenalan sama kucingku.. Mantili ...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Budibaliski",
+					"name": "Budi Kumbang",
+					"id": 64899384,
+					"id_str": "64899384",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1052884572201873400,
+		"in_reply_to_status_id_str": "1052884572201873408",
+		"in_reply_to_user_id": 64899384,
+		"in_reply_to_user_id_str": "64899384",
+		"in_reply_to_screen_name": "Budibaliski",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 924,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8406,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Budibaliski Hai Bram yuk kenalan sama kucingku.. Mantili ..."
+	},
+	{
+		"created_at": "Fri Oct 19 00:37:46 +0000 2018",
+		"id": 1053082745818116100,
+		"id_str": "1053082745818116096",
+		"full_text": "Day19 #inktober #Inktober2018 artis Swedia: Rebecca Ferguson. Hppy Birthday @rfergusonweb, saya merasa menemukan bagian2 typikal wajah2 lahir oktober ~ mba Becca dlm bbrp bgian rada mirip sama mba Nicky kemaren https://t.co/rKGDgaMVAW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inktober",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "Inktober2018",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rfergusonweb",
+					"name": "Rebecca Ferguson web",
+					"id": 3250087278,
+					"id_str": "3250087278",
+					"indices": [
+						76,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053080347481501700,
+					"id_str": "1053080347481501696",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp1K_x-UcAAtJBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp1K_x-UcAAtJBC.jpg",
+					"url": "https://t.co/rKGDgaMVAW",
+					"display_url": "pic.twitter.com/rKGDgaMVAW",
+					"expanded_url": "https://twitter.com/putuebo/status/1053082745818116096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1037,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1037,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053080347481501700,
+					"id_str": "1053080347481501696",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp1K_x-UcAAtJBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp1K_x-UcAAtJBC.jpg",
+					"url": "https://t.co/rKGDgaMVAW",
+					"display_url": "pic.twitter.com/rKGDgaMVAW",
+					"expanded_url": "https://twitter.com/putuebo/status/1053082745818116096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1037,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1037,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1052750218167341000,
+		"in_reply_to_status_id_str": "1052750218167341057",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 924,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8406,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Day19 #inktober #Inktober2018 artis Swedia: Rebecca Ferguson. Hppy Birthday @rfergusonweb, saya merasa menemukan bagian2 typikal wajah2 lahir oktober ~ mba Becca dlm bbrp bgian rada mirip sama mba Nicky kemaren https://t.co/rKGDgaMVAW"
+	},
+	{
+		"created_at": "Thu Oct 18 02:36:25 +0000 2018",
+		"id": 1052750218167341000,
+		"id_str": "1052750218167341057",
+		"full_text": "Day18 #inktober #Inktober2018 lanjut... mencoba membuat sketsa ladyrocker Indonesia: Nicky Astria https://t.co/hnwCA7tqLZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inktober",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "Inktober2018",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052750157786173400,
+					"id_str": "1052750157786173440",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DpwesNgU0AAC30U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpwesNgU0AAC30U.jpg",
+					"url": "https://t.co/hnwCA7tqLZ",
+					"display_url": "pic.twitter.com/hnwCA7tqLZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1052750218167341057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1044,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052750157786173400,
+					"id_str": "1052750157786173440",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DpwesNgU0AAC30U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpwesNgU0AAC30U.jpg",
+					"url": "https://t.co/hnwCA7tqLZ",
+					"display_url": "pic.twitter.com/hnwCA7tqLZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1052750218167341057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1044,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1052363406617923600,
+		"in_reply_to_status_id_str": "1052363406617923586",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 924,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8406,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Day18 #inktober #Inktober2018 lanjut... mencoba membuat sketsa ladyrocker Indonesia: Nicky Astria https://t.co/hnwCA7tqLZ"
+	},
+	{
 		"created_at": "Wed Oct 17 09:45:32 +0000 2018",
 		"id": 1052495817741758500,
 		"id_str": "1052495817741758464",
