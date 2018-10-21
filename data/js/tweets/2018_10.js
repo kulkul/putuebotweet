@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 23:26:23 +0000 2018",
+		"id": 1053789559018840000,
+		"id_str": "1053789559018840067",
+		"full_text": "@moodvintage feels like an optical illusion, if I look at it for a long time, I think I can see the cars moving",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "moodvintage",
+					"name": "Mood:Vintage",
+					"id": 1915012974,
+					"id_str": "1915012974",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053771099434074100,
+		"in_reply_to_status_id_str": "1053771099434074113",
+		"in_reply_to_user_id": 1915012974,
+		"in_reply_to_user_id_str": "1915012974",
+		"in_reply_to_screen_name": "moodvintage",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 923,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@moodvintage feels like an optical illusion, if I look at it for a long time, I think I can see the cars moving"
+	},
+	{
+		"created_at": "Sat Oct 20 23:10:31 +0000 2018",
+		"id": 1053785564225228800,
+		"id_str": "1053785564225228800",
+		"full_text": "Day21 #inktober #Inktober2018 posting lebih pagi; maklum sketsa oktober kali ini tokoh paling berpengaruh dlm hidup yg telah meng-crush banyak hati pria era 70&amp;80 fans #starwars #CarrieFisher https://t.co/SSY5ProqEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inktober",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "Inktober2018",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"text": "starwars",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "CarrieFisher",
+					"indices": [
+						182,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053785302165217300,
+					"id_str": "1053785302165217280",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp_MJi0V4AAICVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp_MJi0V4AAICVn.jpg",
+					"url": "https://t.co/SSY5ProqEb",
+					"display_url": "pic.twitter.com/SSY5ProqEb",
+					"expanded_url": "https://twitter.com/putuebo/status/1053785564225228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1234,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053785302165217300,
+					"id_str": "1053785302165217280",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp_MJi0V4AAICVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp_MJi0V4AAICVn.jpg",
+					"url": "https://t.co/SSY5ProqEb",
+					"display_url": "pic.twitter.com/SSY5ProqEb",
+					"expanded_url": "https://twitter.com/putuebo/status/1053785564225228800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1234,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053599981255323600,
+		"in_reply_to_status_id_str": "1053599981255323648",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 923,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Day21 #inktober #Inktober2018 posting lebih pagi; maklum sketsa oktober kali ini tokoh paling berpengaruh dlm hidup yg telah meng-crush banyak hati pria era 70&amp;80 fans #starwars #CarrieFisher https://t.co/SSY5ProqEb"
+	},
+	{
+		"created_at": "Sat Oct 20 11:09:10 +0000 2018",
+		"id": 1053604030943903700,
+		"id_str": "1053604030943903745",
+		"full_text": "@ndorokakung Buat nunjukin ke orang-orang kalau dia mampu...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ndorokakung",
+					"name": "Wicaksono 🇮🇩",
+					"id": 18598424,
+					"id_str": "18598424",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053484435159404500,
+		"in_reply_to_status_id_str": "1053484435159404549",
+		"in_reply_to_user_id": 18598424,
+		"in_reply_to_user_id_str": "18598424",
+		"in_reply_to_screen_name": "ndorokakung",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 923,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@ndorokakung Buat nunjukin ke orang-orang kalau dia mampu..."
+	},
+	{
+		"created_at": "Sat Oct 20 10:53:05 +0000 2018",
+		"id": 1053599981255323600,
+		"id_str": "1053599981255323648",
+		"full_text": "Day20 #inktober #Inktober2018 banyak juga rapper yang ulang tahun bulan ini.. ini yg paling guk..guk.. @SnoopDogg https://t.co/nDAntlYa6v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inktober",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "Inktober2018",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SnoopDogg",
+					"name": "Snoop Dogg",
+					"id": 3004231,
+					"id_str": "3004231",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053599648714113000,
+					"id_str": "1053599648714113024",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp8jTF0UwAAr8Kq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp8jTF0UwAAr8Kq.jpg",
+					"url": "https://t.co/nDAntlYa6v",
+					"display_url": "pic.twitter.com/nDAntlYa6v",
+					"expanded_url": "https://twitter.com/putuebo/status/1053599981255323648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1206,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053599648714113000,
+					"id_str": "1053599648714113024",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp8jTF0UwAAr8Kq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp8jTF0UwAAr8Kq.jpg",
+					"url": "https://t.co/nDAntlYa6v",
+					"display_url": "pic.twitter.com/nDAntlYa6v",
+					"expanded_url": "https://twitter.com/putuebo/status/1053599981255323648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1206,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053082745818116100,
+		"in_reply_to_status_id_str": "1053082745818116096",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 923,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Day20 #inktober #Inktober2018 banyak juga rapper yang ulang tahun bulan ini.. ini yg paling guk..guk.. @SnoopDogg https://t.co/nDAntlYa6v"
+	},
+	{
+		"created_at": "Sat Oct 20 03:37:22 +0000 2018",
+		"id": 1053490330203504600,
+		"id_str": "1053490330203504640",
+		"full_text": "Hari ini... Workshop lomba karakter smp sma Faber-Castell buat lomba besok. Pendaftaran masih terbuka sampai besok jam 10... (@ SMKN 1 Sukawati (SMSR) in Batubulan, Bali) https://t.co/U6ojApJCFD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U6ojApJCFD",
+					"expanded_url": "https://www.swarmapp.com/c/fZH1OLILMUF",
+					"display_url": "swarmapp.com/c/fZH1OLILMUF",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 923,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-8.60817315,
+				115.25758185
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				115.25758185,
+				-8.60817315
+			]
+		},
+		"place": {
+			"id": "526b5b0a9ee00dc6",
+			"url": "https://api.twitter.com/1.1/geo/id/526b5b0a9ee00dc6.json",
+			"place_type": "city",
+			"name": "Sukawati",
+			"full_name": "Sukawati, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.233006,
+							-8.650439
+						],
+						[
+							115.316435,
+							-8.650439
+						],
+						[
+							115.316435,
+							-8.516465
+						],
+						[
+							115.233006,
+							-8.516465
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Hari ini... Workshop lomba karakter smp sma Faber-Castell buat lomba besok. Pendaftaran masih terbuka sampai besok jam 10... (@ SMKN 1 Sukawati (SMSR) in Batubulan, Bali) https://t.co/U6ojApJCFD"
+	},
+	{
 		"created_at": "Fri Oct 19 00:49:41 +0000 2018",
 		"id": 1053085742933528600,
 		"id_str": "1053085742933528576",
