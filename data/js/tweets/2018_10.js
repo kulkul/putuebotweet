@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 13:42:00 +0000 2018",
+		"id": 1053642492556595200,
+		"id_str": "1053642492556595201",
+		"full_text": "Man Who Saved 669 Children During The Holocaust Has No Idea They’re Around Him On Live Television Show. https://t.co/jR1oLlKDAj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053642412810293200,
+					"id_str": "1053642412810293248",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1053642412810293248/pu/img/EhPCodQSdSIiBgSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1053642412810293248/pu/img/EhPCodQSdSIiBgSv.jpg",
+					"url": "https://t.co/jR1oLlKDAj",
+					"display_url": "pic.twitter.com/jR1oLlKDAj",
+					"expanded_url": "https://twitter.com/kwilli1046/status/1053642492556595201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053642412810293200,
+					"id_str": "1053642412810293248",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1053642412810293248/pu/img/EhPCodQSdSIiBgSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1053642412810293248/pu/img/EhPCodQSdSIiBgSv.jpg",
+					"url": "https://t.co/jR1oLlKDAj",
+					"display_url": "pic.twitter.com/jR1oLlKDAj",
+					"expanded_url": "https://twitter.com/kwilli1046/status/1053642492556595201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 95367,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1053642412810293248/pu/vid/240x240/YOWLzRqjZiuQLN37.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1053642412810293248/pu/vid/480x480/wubj53qkccv77WIZ.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1053642412810293248/pu/pl/4szf730Gjhyq-QZq.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1053642412810293248/pu/vid/720x720/1DV8ezfJuRpofuIB.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3297022953,
+			"id_str": "3297022953",
+			"name": "Kevin W",
+			"screen_name": "kwilli1046",
+			"location": "North Carolina, USA",
+			"description": "Co-Host of America Out Loud, “The Brink of Greatness” and contributor  to “Viewpoint This Sunday”. Enjoys politics and believes anyone can make a difference.",
+			"url": "https://t.co/MTbwzBQYkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MTbwzBQYkZ",
+							"expanded_url": "https://brinkofgreatness.com/",
+							"display_url": "brinkofgreatness.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153484,
+			"friends_count": 145820,
+			"listed_count": 358,
+			"created_at": "Sun May 24 21:12:09 +0000 2015",
+			"favourites_count": 5621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 181578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036746541401350144/I5K2nZoT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036746541401350144/I5K2nZoT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3297022953/1536014485",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60709,
+		"favorite_count": 146766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Man Who Saved 669 Children During The Holocaust Has No Idea They’re Around Him On Live Television Show. https://t.co/jR1oLlKDAj"
+	},
+	{
+		"created_at": "Mon Oct 22 02:25:40 +0000 2018",
+		"id": 1054197061619335200,
+		"id_str": "1054197061619335168",
+		"full_text": "@Ikhbatajron @zoelfick @pandji @detikcom @TretanMuslim @pardedereza kata siapa mas? saya malah bingung kalo situ bisa bingung. Kecuali situ doyannya mengagumi diri sendiri. joke bertopik agama di dunia 99,99 persen berbahan agama lain gitu. Asik asik aja. Saya malah susah nemu becandaan dari yg situ bingungin",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			310
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ikhbatajron",
+					"name": "Ikhbat Ajron",
+					"id": 2323508419,
+					"id_str": "2323508419",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "zoelfick",
+					"name": "Zulfikar Akbar",
+					"id": 86934018,
+					"id_str": "86934018",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "pandji",
+					"name": "Pandji Pragiwaksono",
+					"id": 14305560,
+					"id_str": "14305560",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "detikcom",
+					"name": "detikcom",
+					"id": 69183155,
+					"id_str": "69183155",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "TretanMuslim",
+					"name": "Pro Chef",
+					"id": 533359500,
+					"id_str": "533359500",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "pardedereza",
+					"name": "Ahli Nujum",
+					"id": 488128299,
+					"id_str": "488128299",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054029428286582800,
+		"in_reply_to_status_id_str": "1054029428286582785",
+		"in_reply_to_user_id": 2323508419,
+		"in_reply_to_user_id_str": "2323508419",
+		"in_reply_to_screen_name": "Ikhbatajron",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 924,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Ikhbatajron @zoelfick @pandji @detikcom @TretanMuslim @pardedereza kata siapa mas? saya malah bingung kalo situ bisa bingung. Kecuali situ doyannya mengagumi diri sendiri. joke bertopik agama di dunia 99,99 persen berbahan agama lain gitu. Asik asik aja. Saya malah susah nemu becandaan dari yg situ bingungin"
+	},
+	{
+		"created_at": "Sun Oct 21 22:13:17 +0000 2018",
+		"id": 1054133550474121200,
+		"id_str": "1054133550474121216",
+		"full_text": "@Ikhbatajron @zoelfick @pandji @detikcom @TretanMuslim @pardedereza Anda pasti kurang piknik. Guyonan dan candaan agama itu sudah biasa di dunia ini, dan umat agama lain menanggapinya dengan santai dan riang gembira. https://t.co/tvUk9K2Jpo",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ikhbatajron",
+					"name": "Ikhbat Ajron",
+					"id": 2323508419,
+					"id_str": "2323508419",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "zoelfick",
+					"name": "Zulfikar Akbar",
+					"id": 86934018,
+					"id_str": "86934018",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "pandji",
+					"name": "Pandji Pragiwaksono",
+					"id": 14305560,
+					"id_str": "14305560",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "detikcom",
+					"name": "detikcom",
+					"id": 69183155,
+					"id_str": "69183155",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "TretanMuslim",
+					"name": "Pro Chef",
+					"id": 533359500,
+					"id_str": "533359500",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "pardedereza",
+					"name": "Ahli Nujum",
+					"id": 488128299,
+					"id_str": "488128299",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1054133542014185500,
+					"id_str": "1054133542014185472",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/DqEI3xWUcAAGa-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqEI3xWUcAAGa-b.jpg",
+					"url": "https://t.co/tvUk9K2Jpo",
+					"display_url": "pic.twitter.com/tvUk9K2Jpo",
+					"expanded_url": "https://twitter.com/ViyasaBagoes/status/1054133550474121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 631,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 631,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 486,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054133542014185500,
+					"id_str": "1054133542014185472",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/DqEI3xWUcAAGa-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqEI3xWUcAAGa-b.jpg",
+					"url": "https://t.co/tvUk9K2Jpo",
+					"display_url": "pic.twitter.com/tvUk9K2Jpo",
+					"expanded_url": "https://twitter.com/ViyasaBagoes/status/1054133550474121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 631,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 631,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 486,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1054133544912486400,
+					"id_str": "1054133544912486400",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/DqEI38JVAAAED6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqEI38JVAAAED6i.jpg",
+					"url": "https://t.co/tvUk9K2Jpo",
+					"display_url": "pic.twitter.com/tvUk9K2Jpo",
+					"expanded_url": "https://twitter.com/ViyasaBagoes/status/1054133550474121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 310,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 310,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1054133547454279700,
+					"id_str": "1054133547454279681",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/DqEI4FnVsAEQuGM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqEI4FnVsAEQuGM.jpg",
+					"url": "https://t.co/tvUk9K2Jpo",
+					"display_url": "pic.twitter.com/tvUk9K2Jpo",
+					"expanded_url": "https://twitter.com/ViyasaBagoes/status/1054133550474121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 448,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 448,
+							"h": 328,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1054029428286582800,
+		"in_reply_to_status_id_str": "1054029428286582785",
+		"in_reply_to_user_id": 2323508419,
+		"in_reply_to_user_id_str": "2323508419",
+		"in_reply_to_screen_name": "Ikhbatajron",
+		"user": {
+			"id": 872602664592220200,
+			"id_str": "872602664592220160",
+			"name": "#TetapJokowi",
+			"screen_name": "ViyasaBagoes",
+			"location": "Indonesia",
+			"description": "#TetapJokowi\n#Jokowi2Periode",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 196,
+			"listed_count": 0,
+			"created_at": "Wed Jun 07 23:54:22 +0000 2017",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005135869336903681/a5jgixWm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005135869336903681/a5jgixWm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872602664592220160/1523585756",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@Ikhbatajron @zoelfick @pandji @detikcom @TretanMuslim @pardedereza Anda pasti kurang piknik. Guyonan dan candaan agama itu sudah biasa di dunia ini, dan umat agama lain menanggapinya dengan santai dan riang gembira. https://t.co/tvUk9K2Jpo"
+	},
+	{
+		"created_at": "Mon Oct 22 01:23:39 +0000 2018",
+		"id": 1054181457977962500,
+		"id_str": "1054181457977962497",
+		"full_text": "@wowoalqardusy @aniesbaswedan @basuki_btp @SuaraAnies @JktMajuBersama Halo Jakarta.. kalian hebat!! https://t.co/MFzYaeS7qP",
+		"truncated": false,
+		"display_text_range": [
+			70,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wowoalqardusy",
+					"name": "Prabohong LOSER🔥",
+					"id": 76000792,
+					"id_str": "76000792",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "aniesbaswedan",
+					"name": "Anies Baswedan",
+					"id": 110312278,
+					"id_str": "110312278",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "basuki_btp",
+					"name": "Ahok Basuki TPurnama",
+					"id": 115286138,
+					"id_str": "115286138",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "SuaraAnies",
+					"name": "IG: suaraanies",
+					"id": 2522654737,
+					"id_str": "2522654737",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "JktMajuBersama",
+					"name": "Jakarta Maju Bersama",
+					"id": 785856544520998900,
+					"id_str": "785856544520998913",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 877169646104961000,
+					"id_str": "877169646104961024",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DCxVJUvXYAA5pJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCxVJUvXYAA5pJ-.jpg",
+					"url": "https://t.co/MFzYaeS7qP",
+					"display_url": "pic.twitter.com/MFzYaeS7qP",
+					"expanded_url": "https://twitter.com/putuebo/status/877169648986456065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 682,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877169648986456000,
+					"source_status_id_str": "877169648986456065",
+					"source_user_id": 14065297,
+					"source_user_id_str": "14065297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877169646104961000,
+					"id_str": "877169646104961024",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DCxVJUvXYAA5pJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCxVJUvXYAA5pJ-.jpg",
+					"url": "https://t.co/MFzYaeS7qP",
+					"display_url": "pic.twitter.com/MFzYaeS7qP",
+					"expanded_url": "https://twitter.com/putuebo/status/877169648986456065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 682,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 682,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 269,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877169648986456000,
+					"source_status_id_str": "877169648986456065",
+					"source_user_id": 14065297,
+					"source_user_id_str": "14065297"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1053892428992630800,
+		"in_reply_to_status_id_str": "1053892428992630784",
+		"in_reply_to_user_id": 76000792,
+		"in_reply_to_user_id_str": "76000792",
+		"in_reply_to_screen_name": "wowoalqardusy",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 924,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@wowoalqardusy @aniesbaswedan @basuki_btp @SuaraAnies @JktMajuBersama Halo Jakarta.. kalian hebat!! https://t.co/MFzYaeS7qP"
+	},
+	{
 		"created_at": "Mon Oct 22 01:07:33 +0000 2018",
 		"id": 1054177404602605600,
 		"id_str": "1054177404602605568",
