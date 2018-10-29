@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 02:56:39 +0000 2018",
+		"id": 1056379188884627500,
+		"id_str": "1056379188884627457",
+		"full_text": "- Kami putra dan putri Indonesia mengaku bahwa bumi itu bulat\n\n- Kami putra dan putri Indonesia akan selalu memberikan vaksin kepada anak yang dipercayakan Tuhan kepada kami\n\n- Kami putra dan putri Indonesia mengetahui bahwa penyebab bencana alam adalah bumi atau cuaca.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200144577,
+			"id_str": "200144577",
+			"name": "Kokowi 2019",
+			"screen_name": "ko2w",
+			"location": "Jakarta",
+			"description": "Husband. IT. Team Valor. Ampunilah mereka sebab mereka tidak tahu apa yang mereka perbuat.",
+			"url": "https://t.co/eL1jFTYH3e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eL1jFTYH3e",
+							"expanded_url": "http://wwww.ko2w.com",
+							"display_url": "wwww.ko2w.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26829,
+			"friends_count": 2127,
+			"listed_count": 104,
+			"created_at": "Fri Oct 08 15:14:26 +0000 2010",
+			"favourites_count": 1688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046733426756218880/7z1gfdIW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046733426756218880/7z1gfdIW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200144577/1498706134",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1629,
+		"favorite_count": 811,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "- Kami putra dan putri Indonesia mengaku bahwa bumi itu bulat\n\n- Kami putra dan putri Indonesia akan selalu memberikan vaksin kepada anak yang dipercayakan Tuhan kepada kami\n\n- Kami putra dan putri Indonesia mengetahui bahwa penyebab bencana alam adalah bumi atau cuaca."
+	},
+	{
+		"created_at": "Sun Oct 28 10:30:31 +0000 2018",
+		"id": 1056493408133365800,
+		"id_str": "1056493408133365760",
+		"full_text": "Day28 #inktober #inktober2018 Hari Sumpah Pemuda banyak tokoh penting yg ultah.. hari ini saya pilih bapak gubernur Jawa Tengah @ganjarpranowo Semoga berkenan... Selamat Ulang Tahun! https://t.co/geJgNLFWhQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inktober",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "inktober2018",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ganjarpranowo",
+					"name": "Ganjar Pranowo",
+					"id": 109762193,
+					"id_str": "109762193",
+					"indices": [
+						128,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056493267070513200,
+					"id_str": "1056493267070513152",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DqlrB2NUcAAfOCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqlrB2NUcAAfOCH.jpg",
+					"url": "https://t.co/geJgNLFWhQ",
+					"display_url": "pic.twitter.com/geJgNLFWhQ",
+					"expanded_url": "https://twitter.com/putuebo/status/1056493408133365760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1086,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056493267070513200,
+					"id_str": "1056493267070513152",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DqlrB2NUcAAfOCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqlrB2NUcAAfOCH.jpg",
+					"url": "https://t.co/geJgNLFWhQ",
+					"display_url": "pic.twitter.com/geJgNLFWhQ",
+					"expanded_url": "https://twitter.com/putuebo/status/1056493408133365760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1086,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1086,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1055979078510010400,
+		"in_reply_to_status_id_str": "1055979078510010368",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 927,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 5918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Day28 #inktober #inktober2018 Hari Sumpah Pemuda banyak tokoh penting yg ultah.. hari ini saya pilih bapak gubernur Jawa Tengah @ganjarpranowo Semoga berkenan... Selamat Ulang Tahun! https://t.co/geJgNLFWhQ"
+	},
+	{
 		"created_at": "Sat Oct 27 00:26:46 +0000 2018",
 		"id": 1055979078510010400,
 		"id_str": "1055979078510010368",
