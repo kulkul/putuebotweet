@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 19:11:57 +0000 2018",
+		"id": 1064234775773294600,
+		"id_str": "1064234775773294592",
+		"full_text": "Gak kepikir semudah ini bikin gambar perspektif\nhttps://t.co/fog9IJMATn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1037774449137868800,
+					"id_str": "1037774449137868800",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1037774449137868800/pu/img/iWcLCyb9RsrlJITp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1037774449137868800/pu/img/iWcLCyb9RsrlJITp.jpg",
+					"url": "https://t.co/fog9IJMATn",
+					"display_url": "pic.twitter.com/fog9IJMATn",
+					"expanded_url": "https://twitter.com/Fantasticldeas/status/1037774571682910208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 522,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037774571682910200,
+					"source_status_id_str": "1037774571682910208",
+					"source_user_id": 903090932760821800,
+					"source_user_id_str": "903090932760821760"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1037774449137868800,
+					"id_str": "1037774449137868800",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1037774449137868800/pu/img/iWcLCyb9RsrlJITp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1037774449137868800/pu/img/iWcLCyb9RsrlJITp.jpg",
+					"url": "https://t.co/fog9IJMATn",
+					"display_url": "pic.twitter.com/fog9IJMATn",
+					"expanded_url": "https://twitter.com/Fantasticldeas/status/1037774571682910208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 522,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 522,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 522,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1037774571682910200,
+					"source_status_id_str": "1037774571682910208",
+					"source_user_id": 903090932760821800,
+					"source_user_id_str": "903090932760821760",
+					"video_info": {
+						"aspect_ratio": [
+							29,
+							20
+						],
+						"duration_millis": 41640,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1037774449137868800/pu/vid/522x360/iwjGw0peZ65Uoy05.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1037774449137868800/pu/pl/8Ry6opM7Ya8mI8hR.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1037774449137868800/pu/vid/260x180/bOoygMtStJuzrFeV.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 903090932760821800,
+							"id_str": "903090932760821760",
+							"name": "Tips & Tricks",
+							"screen_name": "Fantasticldeas",
+							"location": "World Wide",
+							"description": "Fantastic ideas ,tips and tricks. We do not own the video in our tweets .",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 179739,
+							"friends_count": 50,
+							"listed_count": 459,
+							"created_at": "Thu Aug 31 03:03:51 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 230,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1046359798814527488/zQrkyvMd_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046359798814527488/zQrkyvMd_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/903090932760821760/1538306591",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419,
+			"friends_count": 933,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 6321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Gak kepikir semudah ini bikin gambar perspektif\nhttps://t.co/fog9IJMATn"
+	},
+	{
 		"created_at": "Sat Nov 17 10:48:30 +0000 2018",
 		"id": 1063745687853051900,
 		"id_str": "1063745687853051904",
