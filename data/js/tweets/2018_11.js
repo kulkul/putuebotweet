@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 24 09:55:39 +0000 2018",
+		"id": 1066269103457919000,
+		"id_str": "1066269103457918977",
+		"full_text": "AAAAAYO https://t.co/oewVxGmNgW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oewVxGmNgW",
+					"expanded_url": "https://twitter.com/mrsclomercury/status/1066048323684048896",
+					"display_url": "twitter.com/mrsclomercury/…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 933,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 6356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066048323684048900,
+		"quoted_status_id_str": "1066048323684048896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oewVxGmNgW",
+			"expanded": "https://twitter.com/mrsclomercury/status/1066048323684048896",
+			"display": "twitter.com/mrsclomercury/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 23 19:18:21 +0000 2018",
+			"id": 1066048323684048900,
+			"id_str": "1066048323684048896",
+			"full_text": "Read this. To honor Freddie Mercury tomorrow. 💛 https://t.co/ODDfS7cqqg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1066048314456580100,
+						"id_str": "1066048314456580096",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DstdSziWoAAoGZ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DstdSziWoAAoGZ8.jpg",
+						"url": "https://t.co/ODDfS7cqqg",
+						"display_url": "pic.twitter.com/ODDfS7cqqg",
+						"expanded_url": "https://twitter.com/mrsclomercury/status/1066048323684048896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1066048314456580100,
+						"id_str": "1066048314456580096",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DstdSziWoAAoGZ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DstdSziWoAAoGZ8.jpg",
+						"url": "https://t.co/ODDfS7cqqg",
+						"display_url": "pic.twitter.com/ODDfS7cqqg",
+						"expanded_url": "https://twitter.com/mrsclomercury/status/1066048323684048896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 409452565,
+				"id_str": "409452565",
+				"name": "- clo",
+				"screen_name": "mrsclomercury",
+				"location": "barcelona",
+				"description": "i’m just a musical prostitute, my dear //scaramouche scaramouche will you do the fandango",
+				"url": "https://t.co/zNZMg9XBkC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zNZMg9XBkC",
+								"expanded_url": "https://www.instagram.com/claudiafrontin",
+								"display_url": "instagram.com/claudiafrontin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2142,
+				"friends_count": 446,
+				"listed_count": 36,
+				"created_at": "Thu Nov 10 19:14:52 +0000 2011",
+				"favourites_count": 62697,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48898,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F2F0F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057618166279479298/2NQXgci__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057618166279479298/2NQXgci__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/409452565/1542716763",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 280,
+			"favorite_count": 585,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "AAAAAYO https://t.co/oewVxGmNgW"
+	},
+	{
+		"created_at": "Sat Nov 24 09:16:27 +0000 2018",
+		"id": 1066259241441255400,
+		"id_str": "1066259241441255424",
+		"full_text": "@mrsclomercury 5:55 pm in UK has become another day in my place, no longer november 24th",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrsclomercury",
+					"name": "- clo",
+					"id": 409452565,
+					"id_str": "409452565",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1066048323684048900,
+		"in_reply_to_status_id_str": "1066048323684048896",
+		"in_reply_to_user_id": 409452565,
+		"in_reply_to_user_id_str": "409452565",
+		"in_reply_to_screen_name": "mrsclomercury",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 933,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 6356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mrsclomercury 5:55 pm in UK has become another day in my place, no longer november 24th"
+	},
+	{
+		"created_at": "Sat Nov 24 02:00:01 +0000 2018",
+		"id": 1066149405693108200,
+		"id_str": "1066149405693108224",
+		"full_text": "Jutaan orang menangisi kepergiannya. Penggemar musik tahu bahwa tak akan ada lagi vokalis sedahsyat dirinya. Tepat hari ini 27 tahun lalu, Freddie Mercury meninggal dunia. #MozaikTirto \n\nhttps://t.co/Skt7oL3WoV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MozaikTirto",
+					"indices": [
+						172,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Skt7oL3WoV",
+					"expanded_url": "https://tirto.id/dapU",
+					"display_url": "tirto.id/dapU",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4187275698,
+			"id_str": "4187275698",
+			"name": "tirto.id",
+			"screen_name": "TirtoID",
+			"location": "Indonesia",
+			"description": "Jurnalisme data. Media analisis. Infografik ciamik.",
+			"url": "https://t.co/Ss5eQAlNn3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ss5eQAlNn3",
+							"expanded_url": "https://tirto.id/",
+							"display_url": "tirto.id",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190112,
+			"friends_count": 43,
+			"listed_count": 459,
+			"created_at": "Tue Nov 10 06:15:05 +0000 2015",
+			"favourites_count": 996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1009463042206150657/MVj3R8no_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009463042206150657/MVj3R8no_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4187275698/1529509859",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 814,
+		"favorite_count": 874,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Jutaan orang menangisi kepergiannya. Penggemar musik tahu bahwa tak akan ada lagi vokalis sedahsyat dirinya. Tepat hari ini 27 tahun lalu, Freddie Mercury meninggal dunia. #MozaikTirto \n\nhttps://t.co/Skt7oL3WoV"
+	},
+	{
+		"created_at": "Sat Nov 24 08:00:59 +0000 2018",
+		"id": 1066240249783705600,
+		"id_str": "1066240249783705601",
+		"full_text": "@juriglagu jambrut! ... ejakulasy dini tenan wong iki...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juriglagu",
+					"name": "yadiloH",
+					"id": 40432613,
+					"id_str": "40432613",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1065987307403006000,
+		"in_reply_to_status_id_str": "1065987307403005954",
+		"in_reply_to_user_id": 40432613,
+		"in_reply_to_user_id_str": "40432613",
+		"in_reply_to_screen_name": "juriglagu",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 933,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 6356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@juriglagu jambrut! ... ejakulasy dini tenan wong iki..."
+	},
+	{
 		"created_at": "Sun Nov 18 19:11:57 +0000 2018",
 		"id": 1064234775773294600,
 		"id_str": "1064234775773294592",
