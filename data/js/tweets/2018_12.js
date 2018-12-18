@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 16:50:39 +0000 2018",
+		"id": 1074708463421276200,
+		"id_str": "1074708463421276160",
+		"full_text": "Soe Hok Gie\n(17 Desember 1942 - 16 Desember 1969) https://t.co/QG4FEyNumx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1074708457201139700,
+					"id_str": "1074708457201139712",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DuohpdSVAAAzBjT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuohpdSVAAAzBjT.jpg",
+					"url": "https://t.co/QG4FEyNumx",
+					"display_url": "pic.twitter.com/QG4FEyNumx",
+					"expanded_url": "https://twitter.com/errik_irwan/status/1074708463421276160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074708457201139700,
+					"id_str": "1074708457201139712",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/DuohpdSVAAAzBjT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuohpdSVAAAzBjT.jpg",
+					"url": "https://t.co/QG4FEyNumx",
+					"display_url": "pic.twitter.com/QG4FEyNumx",
+					"expanded_url": "https://twitter.com/errik_irwan/status/1074708463421276160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71466821,
+			"id_str": "71466821",
+			"name": "errik",
+			"screen_name": "errik_irwan",
+			"location": "Semarang, Indonesia",
+			"description": "amateur architect & author Gump n Hell",
+			"url": "https://t.co/zdavFiSKqm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zdavFiSKqm",
+							"expanded_url": "http://instagram.com/gumpnhell",
+							"display_url": "instagram.com/gumpnhell",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1697,
+			"friends_count": 241,
+			"listed_count": 3,
+			"created_at": "Fri Sep 04 05:52:50 +0000 2009",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5242,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856675831367610368/9uvMrmoQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856675831367610368/9uvMrmoQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71466821/1534873421",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Soe Hok Gie\n(17 Desember 1942 - 16 Desember 1969) https://t.co/QG4FEyNumx"
+	},
+	{
 		"created_at": "Tue Dec 11 06:35:05 +0000 2018",
 		"id": 1072379224219140100,
 		"id_str": "1072379224219140096",
