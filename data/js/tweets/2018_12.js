@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 15:34:46 +0000 2018",
+		"id": 1075776530863673300,
+		"id_str": "1075776530863673345",
+		"full_text": "@noviarianii_ @Adiputra0604 @AdityaWisnu banyak makan-makan!",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noviarianii_",
+					"name": "Novi Ariani",
+					"id": 159773476,
+					"id_str": "159773476",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Adiputra0604",
+					"name": "Ferdy",
+					"id": 830348877324628000,
+					"id_str": "830348877324627969",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "AdityaWisnu",
+					"name": "🎄Aditya Wisnu🎄",
+					"id": 66673735,
+					"id_str": "66673735",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075679774272499700,
+		"in_reply_to_status_id_str": "1075679774272499712",
+		"in_reply_to_user_id": 159773476,
+		"in_reply_to_user_id_str": "159773476",
+		"in_reply_to_screen_name": "noviarianii_",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 935,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 6813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@noviarianii_ @Adiputra0604 @AdityaWisnu banyak makan-makan!"
+	},
+	{
 		"created_at": "Wed Dec 19 11:04:34 +0000 2018",
 		"id": 1075346143003869200,
 		"id_str": "1075346143003869184",
