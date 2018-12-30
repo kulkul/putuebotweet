@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 02:17:51 +0000 2018",
+		"id": 1078837469099974700,
+		"id_str": "1078837469099974656",
+		"full_text": "@04Nakula @P3nj3l4j4h @RizmaWidiono @ASapardan @shinichikudo991 @Airin_NZ @CH_chotimah @liaaa_mg @BadjaNuswantara @SantiLim14 @RiuRizkiUtomo Kadang menggemaskan melihat forum para kampret sedang berdiskusi sesamanya ... mereka pikir mereka sedang berpikir",
+		"truncated": false,
+		"display_text_range": [
+			141,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "04Nakula",
+					"name": "nakuLa",
+					"id": 887859014444372000,
+					"id_str": "887859014444371969",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "P3nj3l4j4h",
+					"name": "Capres Abadi",
+					"id": 820874032408981500,
+					"id_str": "820874032408981504",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "RizmaWidiono",
+					"name": "Rizma Widiono",
+					"id": 746241503714934800,
+					"id_str": "746241503714934784",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "ASapardan",
+					"name": "Wahhabis Lokal",
+					"id": 2371452758,
+					"id_str": "2371452758",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "shinichikudo991",
+					"name": "Ari Kudo",
+					"id": 860520814923268100,
+					"id_str": "860520814923268097",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "Airin_NZ",
+					"name": "🌼Airin_NZ🌸",
+					"id": 885778797382979600,
+					"id_str": "885778797382979584",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "CH_chotimah",
+					"name": "Chusnul chotimah",
+					"id": 2928583759,
+					"id_str": "2928583759",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "liaaa_mg",
+					"name": "Lia",
+					"id": 167834698,
+					"id_str": "167834698",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "BadjaNuswantara",
+					"name": "🇲🇨 Saya Indonesia",
+					"id": 2541716540,
+					"id_str": "2541716540",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"screen_name": "SantiLim14",
+					"name": "Candle in the night",
+					"id": 717846565834989600,
+					"id_str": "717846565834989569",
+					"indices": [
+						114,
+						125
+					]
+				},
+				{
+					"screen_name": "RiuRizkiUtomo",
+					"name": "RIU™🛡️  |  #NasionalisReligius (PANCASILA)",
+					"id": 972675791531139100,
+					"id_str": "972675791531139072",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1078820148683759600,
+		"in_reply_to_status_id_str": "1078820148683759616",
+		"in_reply_to_user_id": 887859014444372000,
+		"in_reply_to_user_id_str": "887859014444371969",
+		"in_reply_to_screen_name": "04Nakula",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 938,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 6959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8522,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@04Nakula @P3nj3l4j4h @RizmaWidiono @ASapardan @shinichikudo991 @Airin_NZ @CH_chotimah @liaaa_mg @BadjaNuswantara @SantiLim14 @RiuRizkiUtomo Kadang menggemaskan melihat forum para kampret sedang berdiskusi sesamanya ... mereka pikir mereka sedang berpikir"
+	},
+	{
+		"created_at": "Fri Dec 28 17:32:31 +0000 2018",
+		"id": 1078705265837367300,
+		"id_str": "1078705265837367296",
+		"full_text": "😧 https://t.co/mxYdCSCFBn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078705204730552300,
+					"id_str": "1078705204730552320",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/DvhUqyFUYAA_JD0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvhUqyFUYAA_JD0.jpg",
+					"url": "https://t.co/mxYdCSCFBn",
+					"display_url": "pic.twitter.com/mxYdCSCFBn",
+					"expanded_url": "https://twitter.com/errik_irwan/status/1078705265837367296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078705204730552300,
+					"id_str": "1078705204730552320",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/DvhUqyFUYAA_JD0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvhUqyFUYAA_JD0.jpg",
+					"url": "https://t.co/mxYdCSCFBn",
+					"display_url": "pic.twitter.com/mxYdCSCFBn",
+					"expanded_url": "https://twitter.com/errik_irwan/status/1078705265837367296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71466821,
+			"id_str": "71466821",
+			"name": "errik",
+			"screen_name": "errik_irwan",
+			"location": "Semarang, Indonesia",
+			"description": "amateur architect & author Gump n Hell",
+			"url": "https://t.co/zdavFiSKqm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zdavFiSKqm",
+							"expanded_url": "http://instagram.com/gumpnhell",
+							"display_url": "instagram.com/gumpnhell",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1713,
+			"friends_count": 240,
+			"listed_count": 3,
+			"created_at": "Fri Sep 04 05:52:50 +0000 2009",
+			"favourites_count": 695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5278,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856675831367610368/9uvMrmoQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856675831367610368/9uvMrmoQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71466821/1534873421",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😧 https://t.co/mxYdCSCFBn"
+	},
+	{
 		"created_at": "Sat Dec 29 00:38:57 +0000 2018",
 		"id": 1078812582088069100,
 		"id_str": "1078812582088069121",
