@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 00:45:50 +0000 2019",
+		"id": 1082438194367328300,
+		"id_str": "1082438194367328256",
+		"full_text": "Nurhaddie Mercury.\n\n#KomikFaktap #mcQUEENyaQUEEN https://t.co/8IdkkdQfl7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KomikFaktap",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"text": "mcQUEENyaQUEEN",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082438011407614000,
+					"id_str": "1082438011407613953",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"url": "https://t.co/8IdkkdQfl7",
+					"display_url": "pic.twitter.com/8IdkkdQfl7",
+					"expanded_url": "https://twitter.com/KomikFaktap/status/1082438194367328256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082438011407614000,
+					"id_str": "1082438011407613953",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"url": "https://t.co/8IdkkdQfl7",
+					"display_url": "pic.twitter.com/8IdkkdQfl7",
+					"expanded_url": "https://twitter.com/KomikFaktap/status/1082438194367328256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3852225934,
+			"id_str": "3852225934",
+			"name": "KomikFaktap",
+			"screen_name": "KomikFaktap",
+			"location": "",
+			"description": "Banyolan cupu.... itu pun kalo lucu.\nhttps://t.co/xLjDf3Ze90 https://t.co/rmBSWdfVyx",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xLjDf3Ze90",
+							"expanded_url": "http://Instagram.com/komikfaktap",
+							"display_url": "Instagram.com/komikfaktap",
+							"indices": [
+								37,
+								60
+							]
+						},
+						{
+							"url": "https://t.co/rmBSWdfVyx",
+							"expanded_url": "http://facebook.com/komikfaktap",
+							"display_url": "facebook.com/komikfaktap",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18371,
+			"friends_count": 828,
+			"listed_count": 47,
+			"created_at": "Sat Oct 03 12:12:24 +0000 2015",
+			"favourites_count": 2224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1932,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/650286966139850752/C07_mIwP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/650286966139850752/C07_mIwP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3852225934/1477961503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Nurhaddie Mercury.\n\n#KomikFaktap #mcQUEENyaQUEEN https://t.co/8IdkkdQfl7"
+	},
+	{
+		"created_at": "Mon Jan 07 14:35:55 +0000 2019",
+		"id": 1082284704102080500,
+		"id_str": "1082284704102080512",
+		"full_text": "Tahun 2019, mari mulai HARGAI (USAHA) TEMAN lebih dari sekadar minta HARGA TEMAN.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79943743,
+			"id_str": "79943743",
+			"name": "Pinot",
+			"screen_name": "pinotski",
+			"location": "Weak GPS signal",
+			"description": "Tweeting in Indonesian, RAW version of @pinot. Cuma pemalas yang kebetulan demen bikin kerajinan tangan dibantu istri & anak-anaknya.\n\nMahasiswa di @vaynermedia",
+			"url": "https://t.co/tCQMjRuIL2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tCQMjRuIL2",
+							"expanded_url": "http://Instagram.com/pinot",
+							"display_url": "Instagram.com/pinot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69406,
+			"friends_count": 314,
+			"listed_count": 203,
+			"created_at": "Mon Oct 05 06:36:20 +0000 2009",
+			"favourites_count": 9305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525918099308945408/sS76zwxz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525918099308945408/sS76zwxz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79943743/1529504908",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1266,
+		"favorite_count": 780,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Tahun 2019, mari mulai HARGAI (USAHA) TEMAN lebih dari sekadar minta HARGA TEMAN."
+	},
+	{
+		"created_at": "Mon Jan 07 15:37:28 +0000 2019",
+		"id": 1082300190462279700,
+		"id_str": "1082300190462279681",
+		"full_text": "Today is the 4th anniversary of the attack on Charlie Hebdo. Keep drawing!\nhttps://t.co/NldrpTpNaK\n\nImage by @KarikaturaLv https://t.co/uUOBerpuX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarikaturaLv",
+					"name": "Gatis Šļūka",
+					"id": 40245889,
+					"id_str": "40245889",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NldrpTpNaK",
+					"expanded_url": "https://www.cartoonmovement.com/collection/105",
+					"display_url": "cartoonmovement.com/collection/105",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082300182761488400,
+					"id_str": "1082300182761488386",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DwUaSC3WwAISi2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwUaSC3WwAISi2I.jpg",
+					"url": "https://t.co/uUOBerpuX7",
+					"display_url": "pic.twitter.com/uUOBerpuX7",
+					"expanded_url": "https://twitter.com/cartoonmovement/status/1082300190462279681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 546,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082300182761488400,
+					"id_str": "1082300182761488386",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/DwUaSC3WwAISi2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwUaSC3WwAISi2I.jpg",
+					"url": "https://t.co/uUOBerpuX7",
+					"display_url": "pic.twitter.com/uUOBerpuX7",
+					"expanded_url": "https://twitter.com/cartoonmovement/status/1082300190462279681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 546,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 194042592,
+			"id_str": "194042592",
+			"name": "The Cartoon Movement",
+			"screen_name": "cartoonmovement",
+			"location": "Amsterdam",
+			"description": "A collaborative publishing platform dedicated to high quality political cartoons and comics journalism. Tweets by @royaards",
+			"url": "http://t.co/8gOqJvZovd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8gOqJvZovd",
+							"expanded_url": "http://cartoonmovement.com",
+							"display_url": "cartoonmovement.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20613,
+			"friends_count": 1629,
+			"listed_count": 741,
+			"created_at": "Thu Sep 23 08:48:31 +0000 2010",
+			"favourites_count": 291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7254,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169279007/twitter_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169279007/twitter_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/194042592/1485783678",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the 4th anniversary of the attack on Charlie Hebdo. Keep drawing!\nhttps://t.co/NldrpTpNaK\n\nImage by @KarikaturaLv https://t.co/uUOBerpuX7"
+	},
+	{
+		"created_at": "Mon Jan 07 16:25:38 +0000 2019",
+		"id": 1082312311207936000,
+		"id_str": "1082312311207936000",
+		"full_text": "@Dharmadi_pikolo ..door to door.. crotz...",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dharmadi_pikolo",
+					"name": "Dharmadi Pikolo",
+					"id": 255378229,
+					"id_str": "255378229",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082284733986308100,
+		"in_reply_to_status_id_str": "1082284733986308096",
+		"in_reply_to_user_id": 255378229,
+		"in_reply_to_user_id_str": "255378229",
+		"in_reply_to_screen_name": "Dharmadi_pikolo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 936,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Dharmadi_pikolo ..door to door.. crotz..."
+	},
+	{
+		"created_at": "Mon Jan 07 13:26:00 +0000 2019",
+		"id": 1082267107620925400,
+		"id_str": "1082267107620925440",
+		"full_text": "@LingWinata81 @rockygerung Pantesan suka ngasal berani mati.. karena tak seorangpun merindukannya",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LingWinata81",
+					"name": "Link",
+					"id": 824467150765060100,
+					"id_str": "824467150765060096",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "rockygerung",
+					"name": "Rocky Gerung",
+					"id": 190924467,
+					"id_str": "190924467",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082141752318820400,
+		"in_reply_to_status_id_str": "1082141752318820352",
+		"in_reply_to_user_id": 824467150765060100,
+		"in_reply_to_user_id_str": "824467150765060096",
+		"in_reply_to_screen_name": "LingWinata81",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 936,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@LingWinata81 @rockygerung Pantesan suka ngasal berani mati.. karena tak seorangpun merindukannya"
+	},
+	{
 		"created_at": "Sun Jan 06 03:09:46 +0000 2019",
 		"id": 1081749637562654700,
 		"id_str": "1081749637562654720",
