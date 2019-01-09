@@ -148,6 +148,201 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 18492,
+			"friends_count": 828,
+			"listed_count": 48,
+			"created_at": "Sat Oct 03 12:12:24 +0000 2015",
+			"favourites_count": 2235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1933,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/650286966139850752/C07_mIwP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/650286966139850752/C07_mIwP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3852225934/1477961503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1198,
+		"favorite_count": 741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Nurhaddie Mercury.\n\n#KomikFaktap #mcQUEENyaQUEEN https://t.co/8IdkkdQfl7"
+	},
+	{
+		"created_at": "Tue Jan 08 00:45:50 +0000 2019",
+		"id": 1082438194367328300,
+		"id_str": "1082438194367328256",
+		"full_text": "Nurhaddie Mercury.\n\n#KomikFaktap #mcQUEENyaQUEEN https://t.co/8IdkkdQfl7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KomikFaktap",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"text": "mcQUEENyaQUEEN",
+					"indices": [
+						33,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082438011407614000,
+					"id_str": "1082438011407613953",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"url": "https://t.co/8IdkkdQfl7",
+					"display_url": "pic.twitter.com/8IdkkdQfl7",
+					"expanded_url": "https://twitter.com/KomikFaktap/status/1082438194367328256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082438011407614000,
+					"id_str": "1082438011407613953",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwWXoulUwAEqOAY.jpg",
+					"url": "https://t.co/8IdkkdQfl7",
+					"display_url": "pic.twitter.com/8IdkkdQfl7",
+					"expanded_url": "https://twitter.com/KomikFaktap/status/1082438194367328256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3852225934,
+			"id_str": "3852225934",
+			"name": "KomikFaktap",
+			"screen_name": "KomikFaktap",
+			"location": "",
+			"description": "Banyolan cupu.... itu pun kalo lucu.\nhttps://t.co/xLjDf3Ze90 https://t.co/rmBSWdfVyx",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xLjDf3Ze90",
+							"expanded_url": "http://Instagram.com/komikfaktap",
+							"display_url": "Instagram.com/komikfaktap",
+							"indices": [
+								37,
+								60
+							]
+						},
+						{
+							"url": "https://t.co/rmBSWdfVyx",
+							"expanded_url": "http://facebook.com/komikfaktap",
+							"display_url": "facebook.com/komikfaktap",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 18371,
 			"friends_count": 828,
 			"listed_count": 47,
