@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 11:40:51 +0000 2019",
+		"id": 1084414971360927700,
+		"id_str": "1084414971360927744",
+		"full_text": "@gmettasari Bukan ponakan tapi adik sepupu... Singaraja city 😊",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gmettasari",
+					"name": "Gustiana Mettasari",
+					"id": 123182745,
+					"id_str": "123182745",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1084351772519325700,
+		"in_reply_to_status_id_str": "1084351772519325697",
+		"in_reply_to_user_id": 123182745,
+		"in_reply_to_user_id_str": "123182745",
+		"in_reply_to_screen_name": "gmettasari",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 941,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "df7499d458ab98e0",
+			"url": "https://api.twitter.com/1.1/geo/id/df7499d458ab98e0.json",
+			"place_type": "city",
+			"name": "Abiansemal",
+			"full_name": "Abiansemal, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.191504,
+							-8.603301
+						],
+						[
+							115.249379,
+							-8.603301
+						],
+						[
+							115.249379,
+							-8.454484
+						],
+						[
+							115.191504,
+							-8.454484
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@gmettasari Bukan ponakan tapi adik sepupu... Singaraja city 😊"
+	},
+	{
+		"created_at": "Sun Jan 13 06:06:35 +0000 2019",
+		"id": 1084330852178260000,
+		"id_str": "1084330852178259968",
+		"full_text": "Wah terimakasih @dare2emon, majalah bogbog ini edisi kenangan penuh emosional: gambar cover adalah karya kartunis almarhum Meng Widnyana https://t.co/KGwqJeHbBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dare2emon",
+					"name": "Rai Rahmayuda",
+					"id": 42379375,
+					"id_str": "42379375",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KGwqJeHbBV",
+					"expanded_url": "https://twitter.com/dare2emon/status/1084025984288927745",
+					"display_url": "twitter.com/dare2emon/stat…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 941,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084025984288927700,
+		"quoted_status_id_str": "1084025984288927745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KGwqJeHbBV",
+			"expanded": "https://twitter.com/dare2emon/status/1084025984288927745",
+			"display": "twitter.com/dare2emon/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 12 09:55:09 +0000 2019",
+			"id": 1084025984288927700,
+			"id_str": "1084025984288927745",
+			"full_text": "Nemu ini @putuebo https://t.co/8vMFeHhkcu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "putuebo",
+						"name": "Putu Ebo",
+						"id": 14065297,
+						"id_str": "14065297",
+						"indices": [
+							9,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1084025947852951600,
+						"id_str": "1084025947852951552",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/Dws72y0U0AANGOn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dws72y0U0AANGOn.jpg",
+						"url": "https://t.co/8vMFeHhkcu",
+						"display_url": "pic.twitter.com/8vMFeHhkcu",
+						"expanded_url": "https://twitter.com/dare2emon/status/1084025984288927745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084025947852951600,
+						"id_str": "1084025947852951552",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/Dws72y0U0AANGOn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dws72y0U0AANGOn.jpg",
+						"url": "https://t.co/8vMFeHhkcu",
+						"display_url": "pic.twitter.com/8vMFeHhkcu",
+						"expanded_url": "https://twitter.com/dare2emon/status/1084025984288927745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42379375,
+				"id_str": "42379375",
+				"name": "Rai Rahmayuda",
+				"screen_name": "dare2emon",
+				"location": "ÜT: -8.67573,115.16778",
+				"description": "Just a simple person\nBusiness Executive at Allianz Life Indonesia.\nhttp://t.co/3y4bAuoeyv my love @mirahtadi",
+				"url": "http://t.co/AgqoJovEjZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AgqoJovEjZ",
+								"expanded_url": "http://gungrama.wordpress.com",
+								"display_url": "gungrama.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/3y4bAuoeyv",
+								"expanded_url": "http://rahmayuda.tumblr.com",
+								"display_url": "rahmayuda.tumblr.com",
+								"indices": [
+									67,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 220,
+				"friends_count": 347,
+				"listed_count": 4,
+				"created_at": "Mon May 25 09:26:57 +0000 2009",
+				"favourites_count": 50,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4950,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068645370966601729/z0hOkjEV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068645370966601729/z0hOkjEV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42379375/1352364865",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Wah terimakasih @dare2emon, majalah bogbog ini edisi kenangan penuh emosional: gambar cover adalah karya kartunis almarhum Meng Widnyana https://t.co/KGwqJeHbBV"
+	},
+	{
 		"created_at": "Fri Jan 11 14:18:01 +0000 2019",
 		"id": 1083729750835703800,
 		"id_str": "1083729750835703808",
