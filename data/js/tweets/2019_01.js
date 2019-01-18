@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 13:05:28 +0000 2019",
+		"id": 1085885816818196500,
+		"id_str": "1085885816818196480",
+		"full_text": "@Bainpilihno2 @riyadhirahman @Andiesmile7 @kasmawati8 @albertpanjaitn @RasM16765807 Sejak 1985 saya minus 4. Sekarang minus 1. Nggak diapa-apain",
+		"truncated": false,
+		"display_text_range": [
+			84,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bainpilihno2",
+					"name": "Bain #2019PrabowoSandi",
+					"id": 924597529827713000,
+					"id_str": "924597529827713024",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "riyadhirahman",
+					"name": "AbdulRahmanRiyadhi",
+					"id": 50991444,
+					"id_str": "50991444",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "Andiesmile7",
+					"name": "Andiesmile",
+					"id": 1033015052205346800,
+					"id_str": "1033015052205346818",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "kasmawati8",
+					"name": "PaloloNoki",
+					"id": 391159458,
+					"id_str": "391159458",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "albertpanjaitn",
+					"name": "Batak Modern",
+					"id": 715734015895072800,
+					"id_str": "715734015895072768",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "RasM16765807",
+					"name": "Ras.M",
+					"id": 917160907268014100,
+					"id_str": "917160907268014080",
+					"indices": [
+						70,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1085665962391593000,
+		"in_reply_to_status_id_str": "1085665962391592960",
+		"in_reply_to_user_id": 924597529827713000,
+		"in_reply_to_user_id_str": "924597529827713024",
+		"in_reply_to_screen_name": "Bainpilihno2",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 943,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Bainpilihno2 @riyadhirahman @Andiesmile7 @kasmawati8 @albertpanjaitn @RasM16765807 Sejak 1985 saya minus 4. Sekarang minus 1. Nggak diapa-apain"
+	},
+	{
+		"created_at": "Thu Jan 17 12:51:22 +0000 2019",
+		"id": 1085882270940950500,
+		"id_str": "1085882270940950528",
+		"full_text": "There is blue in the moon \n; a photo by: infinitalavita (ig) https://t.co/Jv3QtPYAlJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085882259163381800,
+					"id_str": "1085882259163381760",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DxHUKVVVAAAmQCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxHUKVVVAAAmQCi.jpg",
+					"url": "https://t.co/Jv3QtPYAlJ",
+					"display_url": "pic.twitter.com/Jv3QtPYAlJ",
+					"expanded_url": "https://twitter.com/putuebo/status/1085882270940950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085882259163381800,
+					"id_str": "1085882259163381760",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DxHUKVVVAAAmQCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxHUKVVVAAAmQCi.jpg",
+					"url": "https://t.co/Jv3QtPYAlJ",
+					"display_url": "pic.twitter.com/Jv3QtPYAlJ",
+					"expanded_url": "https://twitter.com/putuebo/status/1085882270940950528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 943,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is blue in the moon \n; a photo by: infinitalavita (ig) https://t.co/Jv3QtPYAlJ"
+	},
+	{
+		"created_at": "Thu Jan 17 02:17:27 +0000 2019",
+		"id": 1085722740680667100,
+		"id_str": "1085722740680667137",
+		"full_text": "Menyambut Bulan Basa Bali, kartunis Nuriarta membuat strip ber-aksara Bali ttg seorg Bali yg menjadi kaya cepat, dituduh punya tuyul karena org2 melihat ia di rumah saja. Padahal dia kerja online jadi vlogger. link: https://t.co/llu4u9IcFi https://t.co/Y8w4rJYoOp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/llu4u9IcFi",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=3012062785477856&id=100000224937113",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085722730530390000,
+					"id_str": "1085722730530390016",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFDEi3UwAAznj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFDEi3UwAAznj6.jpg",
+					"url": "https://t.co/Y8w4rJYoOp",
+					"display_url": "pic.twitter.com/Y8w4rJYoOp",
+					"expanded_url": "https://twitter.com/putuebo/status/1085722740680667137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085722730530390000,
+					"id_str": "1085722730530390016",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/DxFDEi3UwAAznj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxFDEi3UwAAznj6.jpg",
+					"url": "https://t.co/Y8w4rJYoOp",
+					"display_url": "pic.twitter.com/Y8w4rJYoOp",
+					"expanded_url": "https://twitter.com/putuebo/status/1085722740680667137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 943,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e7fa66c85000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e7fa66c85000.json",
+			"place_type": "poi",
+			"name": "Studio Kartun Putu Ebo",
+			"full_name": "Studio Kartun Putu Ebo",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.22567957639694,
+							-8.615039253721804
+						],
+						[
+							115.22567957639694,
+							-8.615039253721804
+						],
+						[
+							115.22567957639694,
+							-8.615039253721804
+						],
+						[
+							115.22567957639694,
+							-8.615039253721804
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Menyambut Bulan Basa Bali, kartunis Nuriarta membuat strip ber-aksara Bali ttg seorg Bali yg menjadi kaya cepat, dituduh punya tuyul karena org2 melihat ia di rumah saja. Padahal dia kerja online jadi vlogger. link: https://t.co/llu4u9IcFi https://t.co/Y8w4rJYoOp"
+	},
+	{
 		"created_at": "Mon Jan 14 12:52:39 +0000 2019",
 		"id": 1084795431152803800,
 		"id_str": "1084795431152803840",
