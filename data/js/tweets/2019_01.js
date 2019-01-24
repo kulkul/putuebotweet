@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 02:05:20 +0000 2019",
+		"id": 1087894017113772000,
+		"id_str": "1087894017113772033",
+		"full_text": "Sejak semalam tidak ada ijin penyeberangan dari dephub. Penumpangpun numplek di pelabuhan sejak dini hari (@ Pelabuhan Lembar in Gerung, Nusa Tenggara Barat) https://t.co/GvjwDpU9oO https://t.co/xRYcu02ZBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GvjwDpU9oO",
+					"expanded_url": "https://www.swarmapp.com/c/bRYZddstdni",
+					"display_url": "swarmapp.com/c/bRYZddstdni",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087894015708672000,
+					"id_str": "1087894015708672003",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxj51-eWsAM2jAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxj51-eWsAM2jAo.jpg",
+					"url": "https://t.co/xRYcu02ZBX",
+					"display_url": "pic.twitter.com/xRYcu02ZBX",
+					"expanded_url": "https://twitter.com/putuebo/status/1087894017113772033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1900,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087894015708672000,
+					"id_str": "1087894015708672003",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxj51-eWsAM2jAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxj51-eWsAM2jAo.jpg",
+					"url": "https://t.co/xRYcu02ZBX",
+					"display_url": "pic.twitter.com/xRYcu02ZBX",
+					"expanded_url": "https://twitter.com/putuebo/status/1087894017113772033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1900,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1426,
+			"friends_count": 941,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				-8.7294137,
+				116.07654782
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				116.07654782,
+				-8.7294137
+			]
+		},
+		"place": {
+			"id": "d218713e7126504d",
+			"url": "https://api.twitter.com/1.1/geo/id/d218713e7126504d.json",
+			"place_type": "city",
+			"name": "Gerung",
+			"full_name": "Gerung, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							116.055657,
+							-8.745952
+						],
+						[
+							116.167102,
+							-8.745952
+						],
+						[
+							116.167102,
+							-8.642713
+						],
+						[
+							116.055657,
+							-8.642713
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Sejak semalam tidak ada ijin penyeberangan dari dephub. Penumpangpun numplek di pelabuhan sejak dini hari (@ Pelabuhan Lembar in Gerung, Nusa Tenggara Barat) https://t.co/GvjwDpU9oO https://t.co/xRYcu02ZBX"
+	},
+	{
 		"created_at": "Thu Jan 17 13:05:28 +0000 2019",
 		"id": 1085885816818196500,
 		"id_str": "1085885816818196480",
