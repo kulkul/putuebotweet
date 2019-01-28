@@ -1,6 +1,873 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 27 04:05:07 +0000 2019",
+		"id": 1089373714746028000,
+		"id_str": "1089373714746028032",
+		"full_text": "@pekaklonto Muaaacchh... 😘😘",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pekaklonto",
+					"name": "Pekak Lonto",
+					"id": 2902276987,
+					"id_str": "2902276987",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1089373419739566100,
+		"in_reply_to_status_id_str": "1089373419739566080",
+		"in_reply_to_user_id": 2902276987,
+		"in_reply_to_user_id_str": "2902276987",
+		"in_reply_to_screen_name": "pekaklonto",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1425,
+			"friends_count": 941,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@pekaklonto Muaaacchh... 😘😘"
+	},
+	{
+		"created_at": "Fri Jan 25 17:30:00 +0000 2019",
+		"id": 1088851493011091500,
+		"id_str": "1088851493011091456",
+		"full_text": "If you always find yourself making a mess when you eat a burger, it's probably because you're eating it wrong 🍔 https://t.co/bJIeEymgTw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1067430519468519400,
+					"id_str": "1067430519468519425",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBIP-FVYAE6AaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBIP-FVYAE6AaO.jpg",
+					"url": "https://t.co/bJIeEymgTw",
+					"display_url": "pic.twitter.com/bJIeEymgTw",
+					"expanded_url": "https://twitter.com/InsiderFood/status/1088851493011091456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1355,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067430519468519400,
+					"id_str": "1067430519468519425",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DtBIP-FVYAE6AaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtBIP-FVYAE6AaO.jpg",
+					"url": "https://t.co/bJIeEymgTw",
+					"display_url": "pic.twitter.com/bJIeEymgTw",
+					"expanded_url": "https://twitter.com/InsiderFood/status/1088851493011091456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1355,
+							"h": 1354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 188980,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1067430519468519425/vid/240x240/UrE3v2b3qXYRFToG.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1067430519468519425/pl/qG-4XypbMIKywA-S.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1067430519468519425/vid/480x480/3qzfs-m6R6YHJFCp.mp4?tag=8"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1067430519468519425/vid/720x720/aklVXJEgwKz2soOA.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The right way to eat a burger",
+						"description": "Turns out you've probably been eating burgers wrong your whole life! By flipping it upside down, you can trap more of the juices in the thicker top bun, and prevent the burger falling apart.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://insider.com"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4805771380,
+			"id_str": "4805771380",
+			"name": "FOOD INSIDER",
+			"screen_name": "InsiderFood",
+			"location": "Manhattan, NY",
+			"description": "All things delicious from the team at @thisisinsider. Our mission is to inform and inspire. Follow us on Instagram: @thisisinsiderfood",
+			"url": "https://t.co/jmswWIZ5UM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jmswWIZ5UM",
+							"expanded_url": "http://www.insider.com/",
+							"display_url": "insider.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166207,
+			"friends_count": 78,
+			"listed_count": 756,
+			"created_at": "Thu Jan 14 16:29:00 +0000 2016",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15183,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970680023106629632/G9qv6R1z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970680023106629632/G9qv6R1z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4805771380/1544133252",
+			"profile_link_color": "00C59C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you always find yourself making a mess when you eat a burger, it's probably because you're eating it wrong 🍔 https://t.co/bJIeEymgTw"
+	},
+	{
+		"created_at": "Sun Jan 27 03:55:27 +0000 2019",
+		"id": 1089371281802199000,
+		"id_str": "1089371281802199040",
+		"full_text": "Panggilan namaku tiap hari ini mah... 😘 https://t.co/wL40M4NFG0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wL40M4NFG0",
+					"expanded_url": "https://twitter.com/JajangRidwan19/status/1088986469459345410",
+					"display_url": "twitter.com/JajangRidwan19…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1425,
+			"friends_count": 941,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8561,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088986469459345400,
+		"quoted_status_id_str": "1088986469459345410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wL40M4NFG0",
+			"expanded": "https://twitter.com/JajangRidwan19/status/1088986469459345410",
+			"display": "twitter.com/JajangRidwan19…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 26 02:26:21 +0000 2019",
+			"id": 1088986469459345400,
+			"id_str": "1088986469459345410",
+			"full_text": "Ciee Ciee udah pangilan sayang suami istri 😍😍\n\nYEOBO 여보 atau BO panggilan sayang utk BTP dan BUIN utk Puput. Drakor Lover ternyata. Hmm pasti romantis 😁 \n\nCubit2an juga *Gw iri https://t.co/dXE4p2lcrs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1088985848043847700,
+						"id_str": "1088985848043847682",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1088985848043847682/pu/img/jUUhg9XJrgCq5FYY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1088985848043847682/pu/img/jUUhg9XJrgCq5FYY.jpg",
+						"url": "https://t.co/dXE4p2lcrs",
+						"display_url": "pic.twitter.com/dXE4p2lcrs",
+						"expanded_url": "https://twitter.com/JajangRidwan19/status/1088986469459345410/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088985848043847700,
+						"id_str": "1088985848043847682",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1088985848043847682/pu/img/jUUhg9XJrgCq5FYY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1088985848043847682/pu/img/jUUhg9XJrgCq5FYY.jpg",
+						"url": "https://t.co/dXE4p2lcrs",
+						"display_url": "pic.twitter.com/dXE4p2lcrs",
+						"expanded_url": "https://twitter.com/JajangRidwan19/status/1088986469459345410/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1088985848043847682/pu/vid/640x360/29dKeanpy-yDi3Iy.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1088985848043847682/pu/vid/320x180/kv8OHB4dXum3RuXe.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1088985848043847682/pu/pl/D_Ndbf2yGCpM_Gv9.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894371084174147600,
+				"id_str": "894371084174147588",
+				"name": "Pribumi Kawe",
+				"screen_name": "JajangRidwan19",
+				"location": "Indonesia",
+				"description": "Pengelana",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18896,
+				"friends_count": 2255,
+				"listed_count": 4,
+				"created_at": "Mon Aug 07 01:34:17 +0000 2017",
+				"favourites_count": 64104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46697,
+				"lang": "id",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081549228139110400/cXRaVP5D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081549228139110400/cXRaVP5D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894371084174147588/1535215354",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2601,
+			"favorite_count": 4032,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Panggilan namaku tiap hari ini mah... 😘 https://t.co/wL40M4NFG0"
+	},
+	{
+		"created_at": "Fri Jan 25 00:22:31 +0000 2019",
+		"id": 1088592920020537300,
+		"id_str": "1088592920020537344",
+		"full_text": "gambar 5 tahun lalu #BTPOrangbaik #BTPpulang  #WelcomeBackBTP https://t.co/XEP96rdo3A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTPOrangbaik",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"text": "BTPpulang",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "WelcomeBackBTP",
+					"indices": [
+						46,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088592904782700500,
+					"id_str": "1088592904782700544",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxt1erKVYAALn6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxt1erKVYAALn6e.jpg",
+					"url": "https://t.co/XEP96rdo3A",
+					"display_url": "pic.twitter.com/XEP96rdo3A",
+					"expanded_url": "https://twitter.com/pinsianArt/status/1088592920020537344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 932,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 932,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088592904782700500,
+					"id_str": "1088592904782700544",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxt1erKVYAALn6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxt1erKVYAALn6e.jpg",
+					"url": "https://t.co/XEP96rdo3A",
+					"display_url": "pic.twitter.com/XEP96rdo3A",
+					"expanded_url": "https://twitter.com/pinsianArt/status/1088592920020537344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 932,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 932,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819370860834193400,
+			"id_str": "819370860834193408",
+			"name": "Pinsiana",
+			"screen_name": "pinsianArt",
+			"location": "Denpasar, Bali",
+			"description": "cartoonist , caricaturist, fun art, fun runner Bali.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 130,
+			"listed_count": 0,
+			"created_at": "Thu Jan 12 02:30:11 +0000 2017",
+			"favourites_count": 7696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1636,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079967141686693888/y-X67Fox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079967141686693888/y-X67Fox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819370860834193408/1484190043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "gambar 5 tahun lalu #BTPOrangbaik #BTPpulang  #WelcomeBackBTP https://t.co/XEP96rdo3A"
+	},
+	{
 		"created_at": "Fri Jan 25 00:22:31 +0000 2019",
 		"id": 1088592920020537300,
 		"id_str": "1088592920020537344",
