@@ -1,6 +1,4945 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 13:11:03 +0000 2019",
+		"id": 1095309309146099700,
+		"id_str": "1095309309146099712",
+		"full_text": "Ragam jenis sandiwara: peninggalan jaman uno, yoko uno, uno dos tres katro!!! Uno ai lop yu.. uno its tru.. https://t.co/bA7zYlrIZx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095309299780186100,
+					"id_str": "1095309299780186112",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNSAUSUcAANTrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNSAUSUcAANTrc.jpg",
+					"url": "https://t.co/bA7zYlrIZx",
+					"display_url": "pic.twitter.com/bA7zYlrIZx",
+					"expanded_url": "https://twitter.com/putuebo/status/1095309309146099712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095309299780186100,
+					"id_str": "1095309299780186112",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNSAUSUcAANTrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNSAUSUcAANTrc.jpg",
+					"url": "https://t.co/bA7zYlrIZx",
+					"display_url": "pic.twitter.com/bA7zYlrIZx",
+					"expanded_url": "https://twitter.com/putuebo/status/1095309309146099712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Ragam jenis sandiwara: peninggalan jaman uno, yoko uno, uno dos tres katro!!! Uno ai lop yu.. uno its tru.. https://t.co/bA7zYlrIZx"
+	},
+	{
+		"created_at": "Tue Feb 12 09:27:15 +0000 2019",
+		"id": 1095252984676532200,
+		"id_str": "1095252984676532224",
+		"full_text": "@AdiCand82000998 @P3nj3l4j4h Ya jelas cepat... pake reverse image search. Saya bisa menemukan situs2 lain seketika kalo kau mau. Berita tahun 2016.. dan siapa bilang isinya ttg Indonesia? ada kuluk pletan msebeng dueg https://t.co/6pVi3cqg8z",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdiCand82000998",
+					"name": "Adi Candra",
+					"id": 1075131027692019700,
+					"id_str": "1075131027692019712",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "P3nj3l4j4h",
+					"name": "Capres Abadi",
+					"id": 820874032408981500,
+					"id_str": "820874032408981504",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095252710029353000,
+					"id_str": "1095252710029352960",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMeiXCVYAA82wg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMeiXCVYAA82wg.jpg",
+					"url": "https://t.co/6pVi3cqg8z",
+					"display_url": "pic.twitter.com/6pVi3cqg8z",
+					"expanded_url": "https://twitter.com/putuebo/status/1095252984676532224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 854,
+							"h": 707,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 707,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095252710029353000,
+					"id_str": "1095252710029352960",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMeiXCVYAA82wg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMeiXCVYAA82wg.jpg",
+					"url": "https://t.co/6pVi3cqg8z",
+					"display_url": "pic.twitter.com/6pVi3cqg8z",
+					"expanded_url": "https://twitter.com/putuebo/status/1095252984676532224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 854,
+							"h": 707,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 707,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1095205936648441900,
+		"in_reply_to_status_id_str": "1095205936648441857",
+		"in_reply_to_user_id": 1075131027692019700,
+		"in_reply_to_user_id_str": "1075131027692019712",
+		"in_reply_to_screen_name": "AdiCand82000998",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@AdiCand82000998 @P3nj3l4j4h Ya jelas cepat... pake reverse image search. Saya bisa menemukan situs2 lain seketika kalo kau mau. Berita tahun 2016.. dan siapa bilang isinya ttg Indonesia? ada kuluk pletan msebeng dueg https://t.co/6pVi3cqg8z"
+	},
+	{
+		"created_at": "Mon Feb 11 10:24:08 +0000 2019",
+		"id": 1094904915003039700,
+		"id_str": "1094904915003039745",
+		"full_text": "Sebuah lagu protes dari @naviculamusic merespon RUU Permusikan mereka rilis hari ini, Senin (11/2/2019). Komposisi galak berjudul “Dagelan Penipu Rakyat” @kntlruup, musik video lagu ini mereka rekam di Ubud. https://t.co/93TMH8N7VY #BillboardID https://t.co/W3sjEjR1P3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillboardID",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naviculamusic",
+					"name": "Navicula Bali",
+					"id": 17207775,
+					"id_str": "17207775",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "kntlruup",
+					"name": "kntlruup",
+					"id": 1092140219778850800,
+					"id_str": "1092140219778850816",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/93TMH8N7VY",
+					"expanded_url": "https://youtu.be/U_jDBRovuuM",
+					"display_url": "youtu.be/U_jDBRovuuM",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094904909646819300,
+					"id_str": "1094904909646819328",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHiNtpUcAAAspV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHiNtpUcAAAspV.jpg",
+					"url": "https://t.co/W3sjEjR1P3",
+					"display_url": "pic.twitter.com/W3sjEjR1P3",
+					"expanded_url": "https://twitter.com/Billboard_INA/status/1094904915003039745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094904909646819300,
+					"id_str": "1094904909646819328",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/DzHiNtpUcAAAspV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzHiNtpUcAAAspV.jpg",
+					"url": "https://t.co/W3sjEjR1P3",
+					"display_url": "pic.twitter.com/W3sjEjR1P3",
+					"expanded_url": "https://twitter.com/Billboard_INA/status/1094904915003039745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1060795131501178900,
+			"id_str": "1060795131501178881",
+			"name": "Billboard Indonesia",
+			"screen_name": "Billboard_INA",
+			"location": "Jakarta Capital Region",
+			"description": "Akun Resmi Billboard Indonesia 🇮🇩 | bd@billboardid.com | https://t.co/k8imuDUeSj",
+			"url": "https://t.co/JGcDFndSUD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JGcDFndSUD",
+							"expanded_url": "http://www.billboardid.com",
+							"display_url": "billboardid.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/k8imuDUeSj",
+							"expanded_url": "http://bit.do/Billboardid",
+							"display_url": "bit.do/Billboardid",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14101,
+			"friends_count": 3,
+			"listed_count": 10,
+			"created_at": "Fri Nov 09 07:24:02 +0000 2018",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 846,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084839534062260224/Gx6bwPDr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084839534062260224/Gx6bwPDr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1060795131501178881/1548842344",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Sebuah lagu protes dari @naviculamusic merespon RUU Permusikan mereka rilis hari ini, Senin (11/2/2019). Komposisi galak berjudul “Dagelan Penipu Rakyat” @kntlruup, musik video lagu ini mereka rekam di Ubud. https://t.co/93TMH8N7VY #BillboardID https://t.co/W3sjEjR1P3"
+	},
+	{
+		"created_at": "Tue Feb 12 06:07:15 +0000 2019",
+		"id": 1095202653968130000,
+		"id_str": "1095202653968130049",
+		"full_text": "@AdiCand82000998 @P3nj3l4j4h Kan bisa dilacak pakai reverse image search. Mikir",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdiCand82000998",
+					"name": "Adi Candra",
+					"id": 1075131027692019700,
+					"id_str": "1075131027692019712",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "P3nj3l4j4h",
+					"name": "Capres Abadi",
+					"id": 820874032408981500,
+					"id_str": "820874032408981504",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1095168734254100500,
+		"in_reply_to_status_id_str": "1095168734254100483",
+		"in_reply_to_user_id": 1075131027692019700,
+		"in_reply_to_user_id_str": "1075131027692019712",
+		"in_reply_to_screen_name": "AdiCand82000998",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@AdiCand82000998 @P3nj3l4j4h Kan bisa dilacak pakai reverse image search. Mikir"
+	},
+	{
+		"created_at": "Thu Feb 07 03:01:09 +0000 2019",
+		"id": 1093343883172270100,
+		"id_str": "1093343883172270080",
+		"full_text": "RUU Permusikan lagi ramai dibahas. Sebanyak 260 lebih musisi dalam negeri tergabung dalam Koalisi Nasional Tolak RUU Permusikan. Mengintip Buka Data kali ini, sejarah musik Indonesia ternyata memang ngga mulus. \n\n#SuaraPenentu #MakanyaNgobrol #BukaData  #NarasiTV #RUUpermusikan https://t.co/Caxa3UbiQy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuaraPenentu",
+					"indices": [
+						213,
+						226
+					]
+				},
+				{
+					"text": "MakanyaNgobrol",
+					"indices": [
+						227,
+						242
+					]
+				},
+				{
+					"text": "BukaData",
+					"indices": [
+						243,
+						252
+					]
+				},
+				{
+					"text": "NarasiTV",
+					"indices": [
+						254,
+						263
+					]
+				},
+				{
+					"text": "RUUpermusikan",
+					"indices": [
+						264,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093343861483614200,
+					"id_str": "1093343861483614208",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DyxWcwEVsAADusa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyxWcwEVsAADusa.jpg",
+					"url": "https://t.co/Caxa3UbiQy",
+					"display_url": "pic.twitter.com/Caxa3UbiQy",
+					"expanded_url": "https://twitter.com/narasitv/status/1093343883172270080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093343861483614200,
+					"id_str": "1093343861483614208",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DyxWcwEVsAADusa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyxWcwEVsAADusa.jpg",
+					"url": "https://t.co/Caxa3UbiQy",
+					"display_url": "pic.twitter.com/Caxa3UbiQy",
+					"expanded_url": "https://twitter.com/narasitv/status/1093343883172270080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093343861487808500,
+					"id_str": "1093343861487808513",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DyxWcwFVsAEtg6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyxWcwFVsAEtg6K.jpg",
+					"url": "https://t.co/Caxa3UbiQy",
+					"display_url": "pic.twitter.com/Caxa3UbiQy",
+					"expanded_url": "https://twitter.com/narasitv/status/1093343883172270080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093343861483593700,
+					"id_str": "1093343861483593728",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DyxWcwEVYAAwrUl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyxWcwEVYAAwrUl.jpg",
+					"url": "https://t.co/Caxa3UbiQy",
+					"display_url": "pic.twitter.com/Caxa3UbiQy",
+					"expanded_url": "https://twitter.com/narasitv/status/1093343883172270080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093343861483556900,
+					"id_str": "1093343861483556864",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DyxWcwEU0AAWfFc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyxWcwEU0AAWfFc.jpg",
+					"url": "https://t.co/Caxa3UbiQy",
+					"display_url": "pic.twitter.com/Caxa3UbiQy",
+					"expanded_url": "https://twitter.com/narasitv/status/1093343883172270080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 955600972394332200,
+			"id_str": "955600972394332160",
+			"name": "Narasi TV",
+			"screen_name": "narasitv",
+			"location": "",
+			"description": "Narasi TV",
+			"url": "https://t.co/WHQsT4jSqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WHQsT4jSqo",
+							"expanded_url": "http://narasi.tv",
+							"display_url": "narasi.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10179,
+			"friends_count": 4,
+			"listed_count": 4,
+			"created_at": "Tue Jan 23 00:40:00 +0000 2018",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955601590236282880/TmC8DvoB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955601590236282880/TmC8DvoB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/955600972394332160/1516668166",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "RUU Permusikan lagi ramai dibahas. Sebanyak 260 lebih musisi dalam negeri tergabung dalam Koalisi Nasional Tolak RUU Permusikan. Mengintip Buka Data kali ini, sejarah musik Indonesia ternyata memang ngga mulus. \n\n#SuaraPenentu #MakanyaNgobrol #BukaData  #NarasiTV #RUUpermusikan https://t.co/Caxa3UbiQy"
+	},
+	{
+		"created_at": "Mon Feb 11 08:17:46 +0000 2019",
+		"id": 1094873113915842600,
+		"id_str": "1094873113915842560",
+		"full_text": "We Will Rock You https://t.co/Z5ZkrvitKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094872998018875400,
+					"id_str": "1094872998018875394",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1094872998018875394/pu/img/PADKUseiAWsB2Fdt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1094872998018875394/pu/img/PADKUseiAWsB2Fdt.jpg",
+					"url": "https://t.co/Z5ZkrvitKq",
+					"display_url": "pic.twitter.com/Z5ZkrvitKq",
+					"expanded_url": "https://twitter.com/HistoriDunia/status/1094873113915842560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 304,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 304,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 304,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094872998018875400,
+					"id_str": "1094872998018875394",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1094872998018875394/pu/img/PADKUseiAWsB2Fdt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1094872998018875394/pu/img/PADKUseiAWsB2Fdt.jpg",
+					"url": "https://t.co/Z5ZkrvitKq",
+					"display_url": "pic.twitter.com/Z5ZkrvitKq",
+					"expanded_url": "https://twitter.com/HistoriDunia/status/1094873113915842560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 304,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 304,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 304,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							19,
+							25
+						],
+						"duration_millis": 29625,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1094872998018875394/pu/vid/304x400/qrY4NRVcKpVxLJKU.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1094872998018875394/pu/pl/wubKz7HGeZ4fQHG3.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 876288738074050600,
+			"id_str": "876288738074050560",
+			"name": "Cerita Dunia",
+			"screen_name": "HistoriDunia",
+			"location": "Earth",
+			"description": ".",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62427,
+			"friends_count": 9,
+			"listed_count": 73,
+			"created_at": "Sun Jun 18 04:01:30 +0000 2017",
+			"favourites_count": 7852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069580915418918912/01rae38r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069580915418918912/01rae38r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/876288738074050560/1517967773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1312,
+		"favorite_count": 800,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We Will Rock You https://t.co/Z5ZkrvitKq"
+	},
+	{
+		"created_at": "Mon Feb 11 10:37:04 +0000 2019",
+		"id": 1094908169027911700,
+		"id_str": "1094908169027911680",
+		"full_text": "@FinnyHidayah @heapmemory @Septriansyah5 @Stakof Serem .. ada yg nyebut namanya.. langsung noleh",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FinnyHidayah",
+					"name": "ambil hikmahnya aja",
+					"id": 1014587863,
+					"id_str": "1014587863",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "heapmemory",
+					"name": "Agung",
+					"id": 949427641,
+					"id_str": "949427641",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "Septriansyah5",
+					"name": "Septriansyah",
+					"id": 1062341587017945100,
+					"id_str": "1062341587017945089",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "Stakof",
+					"name": "Rumail Abbas",
+					"id": 68331085,
+					"id_str": "68331085",
+					"indices": [
+						41,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1094586561729986600,
+		"in_reply_to_status_id_str": "1094586561729986562",
+		"in_reply_to_user_id": 1014587863,
+		"in_reply_to_user_id_str": "1014587863",
+		"in_reply_to_screen_name": "FinnyHidayah",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@FinnyHidayah @heapmemory @Septriansyah5 @Stakof Serem .. ada yg nyebut namanya.. langsung noleh"
+	},
+	{
+		"created_at": "Mon Feb 11 06:14:02 +0000 2019",
+		"id": 1094841973322575900,
+		"id_str": "1094841973322575873",
+		"full_text": "Pas ValentineDay ke sini ya... Buat yg pengen punya karikatur. Rombongan kartunis pletot wajah @TamaWayan &amp; @chuksbogbog dkk bakal ngeramein ultah Dejapu di Colony @PlazaRenon https://t.co/PY9MOK4cxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TamaWayan",
+					"name": "Bali Karikatur",
+					"id": 591652988,
+					"id_str": "591652988",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "chuksbogbog",
+					"name": "chuks handono",
+					"id": 60299215,
+					"id_str": "60299215",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"screen_name": "PlazaRenon",
+					"name": "Plaza Renon",
+					"id": 757718389766885400,
+					"id_str": "757718389766885376",
+					"indices": [
+						168,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094841963990274000,
+					"id_str": "1094841963990274049",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DzGo9yzU0AE_c4_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzGo9yzU0AE_c4_.jpg",
+					"url": "https://t.co/PY9MOK4cxH",
+					"display_url": "pic.twitter.com/PY9MOK4cxH",
+					"expanded_url": "https://twitter.com/putuebo/status/1094841973322575873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1007,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094841963990274000,
+					"id_str": "1094841963990274049",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/DzGo9yzU0AE_c4_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzGo9yzU0AE_c4_.jpg",
+					"url": "https://t.co/PY9MOK4cxH",
+					"display_url": "pic.twitter.com/PY9MOK4cxH",
+					"expanded_url": "https://twitter.com/putuebo/status/1094841973322575873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1007,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Pas ValentineDay ke sini ya... Buat yg pengen punya karikatur. Rombongan kartunis pletot wajah @TamaWayan &amp; @chuksbogbog dkk bakal ngeramein ultah Dejapu di Colony @PlazaRenon https://t.co/PY9MOK4cxH"
+	},
+	{
+		"created_at": "Mon Feb 11 02:05:11 +0000 2019",
+		"id": 1094779350400921600,
+		"id_str": "1094779350400921603",
+		"full_text": "@Namaku_Mei 2:05 Saat ditanya, ada tidak kemiripan antara Bung Karno dan Jokowi. Tiba-tiba latar belakang berkumandang intro lagu The Beatles: While My Guitar Gently Weeps",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Namaku_Mei",
+					"name": "mei Amoy kecil  他很米兰",
+					"id": 3259106634,
+					"id_str": "3259106634",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1094244574506115100,
+		"in_reply_to_status_id_str": "1094244574506115077",
+		"in_reply_to_user_id": 3259106634,
+		"in_reply_to_user_id_str": "3259106634",
+		"in_reply_to_screen_name": "Namaku_Mei",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Namaku_Mei 2:05 Saat ditanya, ada tidak kemiripan antara Bung Karno dan Jokowi. Tiba-tiba latar belakang berkumandang intro lagu The Beatles: While My Guitar Gently Weeps"
+	},
+	{
+		"created_at": "Sat Feb 09 13:36:29 +0000 2019",
+		"id": 1094228545205760000,
+		"id_str": "1094228545205760000",
+		"full_text": "@Kutipan_Anda Yes... Saya percaya",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kutipan_Anda",
+					"name": "Kutipan Anda",
+					"id": 150600633,
+					"id_str": "150600633",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1094206516607873000,
+		"in_reply_to_status_id_str": "1094206516607873024",
+		"in_reply_to_user_id": 150600633,
+		"in_reply_to_user_id_str": "150600633",
+		"in_reply_to_screen_name": "Kutipan_Anda",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Kutipan_Anda Yes... Saya percaya"
+	},
+	{
+		"created_at": "Sat Feb 09 13:33:32 +0000 2019",
+		"id": 1094227802671333400,
+		"id_str": "1094227802671333376",
+		"full_text": "@ratnonan @kompascom Dulu tabrakan diprediksi akan terjadi dlm 3,9milyar tahun. Makin lama teknologi pengukur makin canggih. Setelah dihitung ulang ternyata angka lama salah dan ditemukan akan terjadi 4,5milyar th lagi. Karena perkiraan waktu terakhir dianggap lebih akurat ilmuwan merevisinya",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ratnonan",
+					"name": "ratno nano",
+					"id": 216031238,
+					"id_str": "216031238",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "kompascom",
+					"name": "Kompas.com",
+					"id": 23343960,
+					"id_str": "23343960",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1094223146037604400,
+		"in_reply_to_status_id_str": "1094223146037604352",
+		"in_reply_to_user_id": 216031238,
+		"in_reply_to_user_id_str": "216031238",
+		"in_reply_to_screen_name": "ratnonan",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@ratnonan @kompascom Dulu tabrakan diprediksi akan terjadi dlm 3,9milyar tahun. Makin lama teknologi pengukur makin canggih. Setelah dihitung ulang ternyata angka lama salah dan ditemukan akan terjadi 4,5milyar th lagi. Karena perkiraan waktu terakhir dianggap lebih akurat ilmuwan merevisinya"
+	},
+	{
+		"created_at": "Sat Feb 09 00:17:02 +0000 2019",
+		"id": 1094027356220489700,
+		"id_str": "1094027356220489728",
+		"full_text": "Kartun &amp; grafis #RUUPermusikan pt. 3 https://t.co/N6ZY2YUjxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUUPermusikan",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094027127526088700,
+					"id_str": "1094027127526088704",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy7D4EbVYAAsRr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy7D4EbVYAAsRr4.jpg",
+					"url": "https://t.co/N6ZY2YUjxe",
+					"display_url": "pic.twitter.com/N6ZY2YUjxe",
+					"expanded_url": "https://twitter.com/putuebo/status/1094027356220489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 918,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 918,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094027127526088700,
+					"id_str": "1094027127526088704",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy7D4EbVYAAsRr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy7D4EbVYAAsRr4.jpg",
+					"url": "https://t.co/N6ZY2YUjxe",
+					"display_url": "pic.twitter.com/N6ZY2YUjxe",
+					"expanded_url": "https://twitter.com/putuebo/status/1094027356220489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 918,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 918,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094027196794990600,
+					"id_str": "1094027196794990593",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy7D8GeU8AELqaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy7D8GeU8AELqaV.jpg",
+					"url": "https://t.co/N6ZY2YUjxe",
+					"display_url": "pic.twitter.com/N6ZY2YUjxe",
+					"expanded_url": "https://twitter.com/putuebo/status/1094027356220489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 734,
+							"h": 618,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 734,
+							"h": 618,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094027259864727600,
+					"id_str": "1094027259864727552",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy7D_xbUwAA4qb5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy7D_xbUwAA4qb5.jpg",
+					"url": "https://t.co/N6ZY2YUjxe",
+					"display_url": "pic.twitter.com/N6ZY2YUjxe",
+					"expanded_url": "https://twitter.com/putuebo/status/1094027356220489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 915,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 915,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1093695022443053000,
+		"in_reply_to_status_id_str": "1093695022443053057",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kartun &amp; grafis #RUUPermusikan pt. 3 https://t.co/N6ZY2YUjxe"
+	},
+	{
+		"created_at": "Fri Feb 08 15:40:15 +0000 2019",
+		"id": 1093897305193832400,
+		"id_str": "1093897305193832448",
+		"full_text": "Karena kerap terlibat bantu2 kreatif tim arsitek jadi tau kalo kejadian infografis ini real dan sering 😄 https://t.co/LqFh64Gcwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093897298101252100,
+					"id_str": "1093897298101252097",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy5NzAIVsAErTmi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy5NzAIVsAErTmi.jpg",
+					"url": "https://t.co/LqFh64Gcwl",
+					"display_url": "pic.twitter.com/LqFh64Gcwl",
+					"expanded_url": "https://twitter.com/putuebo/status/1093897305193832448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 591,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093897298101252100,
+					"id_str": "1093897298101252097",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy5NzAIVsAErTmi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy5NzAIVsAErTmi.jpg",
+					"url": "https://t.co/LqFh64Gcwl",
+					"display_url": "pic.twitter.com/LqFh64Gcwl",
+					"expanded_url": "https://twitter.com/putuebo/status/1093897305193832448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 591,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 591,
+							"h": 593,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Karena kerap terlibat bantu2 kreatif tim arsitek jadi tau kalo kejadian infografis ini real dan sering 😄 https://t.co/LqFh64Gcwl"
+	},
+	{
+		"created_at": "Fri Feb 08 14:38:10 +0000 2019",
+		"id": 1093881678483710000,
+		"id_str": "1093881678483709953",
+		"full_text": "@KompasTV @VeritasArdentur O ternyata ngamuk karena panik ingin melenyapkan barang bukti",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KompasTV",
+					"name": "KOMPAS TV",
+					"id": 71436318,
+					"id_str": "71436318",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "VeritasArdentur",
+					"name": "Fortis Est Veritas",
+					"id": 1061986531,
+					"id_str": "1061986531",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1093875518892429300,
+		"in_reply_to_status_id_str": "1093875518892429313",
+		"in_reply_to_user_id": 71436318,
+		"in_reply_to_user_id_str": "71436318",
+		"in_reply_to_screen_name": "KompasTV",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@KompasTV @VeritasArdentur O ternyata ngamuk karena panik ingin melenyapkan barang bukti"
+	},
+	{
+		"created_at": "Fri Feb 08 08:24:14 +0000 2019",
+		"id": 1093787575368601600,
+		"id_str": "1093787575368601601",
+		"full_text": "Jokowi makin keren!\n\n#01IndonesiaMaju \n#01JokowiLagi \n#01JokowiAmin \n#2019tetapjokowi\n@jokowi https://t.co/AmOVXNWPgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "01IndonesiaMaju",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"text": "01JokowiLagi",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"text": "01JokowiAmin",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"text": "2019tetapjokowi",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jokowi",
+					"name": "Joko Widodo",
+					"id": 366987179,
+					"id_str": "366987179",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093787479545569300,
+					"id_str": "1093787479545569280",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093787479545569280/pu/img/kcDdhEAw-5bJtxjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093787479545569280/pu/img/kcDdhEAw-5bJtxjA.jpg",
+					"url": "https://t.co/AmOVXNWPgf",
+					"display_url": "pic.twitter.com/AmOVXNWPgf",
+					"expanded_url": "https://twitter.com/addiems/status/1093787575368601601/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093787479545569300,
+					"id_str": "1093787479545569280",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093787479545569280/pu/img/kcDdhEAw-5bJtxjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093787479545569280/pu/img/kcDdhEAw-5bJtxjA.jpg",
+					"url": "https://t.co/AmOVXNWPgf",
+					"display_url": "pic.twitter.com/AmOVXNWPgf",
+					"expanded_url": "https://twitter.com/addiems/status/1093787575368601601/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42800,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093787479545569280/pu/vid/1280x720/LfgVJsKvaAq_D0Rb.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1093787479545569280/pu/pl/o3aNBgxX7sdDKutm.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093787479545569280/pu/vid/320x180/65SscJ8rdpJ3bEfV.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093787479545569280/pu/vid/640x360/zYt86ZOM8CPMvYqj.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94805910,
+			"id_str": "94805910",
+			"name": "ADDIE MS",
+			"screen_name": "addiems",
+			"location": "",
+			"description": "Twilite Orchestra\n\nInstagram: @addiems999\r\n\r\ntorch@dnet.net.id \n\nContact: Budi:  +6281287432965\r\n-",
+			"url": "https://t.co/QzF8rhdjg4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QzF8rhdjg4",
+							"expanded_url": "http://Youtube.com/c/AddieMS999",
+							"display_url": "Youtube.com/c/AddieMS999",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2297280,
+			"friends_count": 404,
+			"listed_count": 757,
+			"created_at": "Sat Dec 05 14:56:53 +0000 2009",
+			"favourites_count": 9988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 58119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "524117",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033645995291070465/JlJa2A8M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033645995291070465/JlJa2A8M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94805910/1549381191",
+			"profile_link_color": "735A10",
+			"profile_sidebar_border_color": "3E5227",
+			"profile_sidebar_fill_color": "FAE350",
+			"profile_text_color": "1C0202",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 915,
+		"favorite_count": 2834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Jokowi makin keren!\n\n#01IndonesiaMaju \n#01JokowiLagi \n#01JokowiAmin \n#2019tetapjokowi\n@jokowi https://t.co/AmOVXNWPgf"
+	},
+	{
+		"created_at": "Fri Feb 08 09:32:46 +0000 2019",
+		"id": 1093804825244983300,
+		"id_str": "1093804825244983296",
+		"full_text": "Pelaku Perusakan Motor Akhirnya Meminta Maaf https://t.co/Srn6KuYq6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093804340081352700,
+					"id_str": "1093804340081352705",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093804340081352705/pu/img/ekz51dWv8Hg4rtFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093804340081352705/pu/img/ekz51dWv8Hg4rtFN.jpg",
+					"url": "https://t.co/Srn6KuYq6K",
+					"display_url": "pic.twitter.com/Srn6KuYq6K",
+					"expanded_url": "https://twitter.com/Liputan9/status/1093804825244983296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093804340081352700,
+					"id_str": "1093804340081352705",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093804340081352705/pu/img/ekz51dWv8Hg4rtFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093804340081352705/pu/img/ekz51dWv8Hg4rtFN.jpg",
+					"url": "https://t.co/Srn6KuYq6K",
+					"display_url": "pic.twitter.com/Srn6KuYq6K",
+					"expanded_url": "https://twitter.com/Liputan9/status/1093804825244983296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							181
+						],
+						"duration_millis": 44833,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1093804340081352705/pu/pl/HtvcleDmqgQl2tq1.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093804340081352705/pu/vid/640x362/iy05YDyAqwIBSJkY.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093804340081352705/pu/vid/318x180/uVhmQg71v9-jTmOb.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492417738,
+			"id_str": "492417738",
+			"name": "Liputan 9",
+			"screen_name": "Liputan9",
+			"location": "liputan9@startrek.or.id",
+			"description": "Menyajikan Kabar Kedaluwarsa, Tumpul, dan Tidak Dapat Dipercaya. Parodi berita dipandu Jedi. Pimred: @uttha. Wartawan: @mhuseinali",
+			"url": "https://t.co/bRhztM0mkZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bRhztM0mkZ",
+							"expanded_url": "http://liputan9.com",
+							"display_url": "liputan9.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 949753,
+			"friends_count": 9,
+			"listed_count": 965,
+			"created_at": "Tue Feb 14 18:01:40 +0000 2012",
+			"favourites_count": 4256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3C3C3C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818714526770073601/whhX1C2I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818714526770073601/whhX1C2I_normal.jpg",
+			"profile_link_color": "981A1D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9f18b52888000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9f18b52888000.json",
+			"place_type": "poi",
+			"name": "Kalbe institute",
+			"full_name": "Kalbe institute",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							106.87649280048603,
+							-6.174422088571576
+						],
+						[
+							106.87649280048603,
+							-6.174422088571576
+						],
+						[
+							106.87649280048603,
+							-6.174422088571576
+						],
+						[
+							106.87649280048603,
+							-6.174422088571576
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 661,
+		"favorite_count": 347,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Pelaku Perusakan Motor Akhirnya Meminta Maaf https://t.co/Srn6KuYq6K"
+	},
+	{
+		"created_at": "Fri Feb 08 11:21:19 +0000 2019",
+		"id": 1093832140783906800,
+		"id_str": "1093832140783906817",
+		"full_text": "Social media 2019 (terbaik menurut cnet): facebook, twitter, instagram, snapchat, pinterest, linkedin, nextdoor, vero, minds, mewe, ello",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Social media 2019 (terbaik menurut cnet): facebook, twitter, instagram, snapchat, pinterest, linkedin, nextdoor, vero, minds, mewe, ello"
+	},
+	{
+		"created_at": "Thu Feb 07 21:03:47 +0000 2019",
+		"id": 1093616335731347500,
+		"id_str": "1093616335731347456",
+		"full_text": "Dear #RUUPermusikan #ruumusik https://t.co/gbRzsbauE2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUUPermusikan",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "ruumusik",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093616324813611000,
+					"id_str": "1093616324813611008",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1OQNEVYAA4ZU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1OQNEVYAA4ZU3.jpg",
+					"url": "https://t.co/gbRzsbauE2",
+					"display_url": "pic.twitter.com/gbRzsbauE2",
+					"expanded_url": "https://twitter.com/mhsphyllo/status/1093616335731347456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1073,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093616324813611000,
+					"id_str": "1093616324813611008",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1OQNEVYAA4ZU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1OQNEVYAA4ZU3.jpg",
+					"url": "https://t.co/gbRzsbauE2",
+					"display_url": "pic.twitter.com/gbRzsbauE2",
+					"expanded_url": "https://twitter.com/mhsphyllo/status/1093616335731347456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1073,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505885582,
+			"id_str": "505885582",
+			"name": "MUTE 🕷",
+			"screen_name": "mhsphyllo",
+			"location": "",
+			"description": "Engineer on duty 💻🔧     ||      Nyctophilia, Error 404: Brain Not Found",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400,
+			"friends_count": 161,
+			"listed_count": 1,
+			"created_at": "Mon Feb 27 13:59:21 +0000 2012",
+			"favourites_count": 324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F50A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084582704908128256/0YDsB_dw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084582704908128256/0YDsB_dw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505885582/1549904202",
+			"profile_link_color": "F00E0E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear #RUUPermusikan #ruumusik https://t.co/gbRzsbauE2"
+	},
+	{
+		"created_at": "Fri Feb 08 02:16:27 +0000 2019",
+		"id": 1093695022443053000,
+		"id_str": "1093695022443053057",
+		"full_text": "Kartun &amp; grafis #RUUPermusikan pt. 2 https://t.co/bGD0IEAtoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUUPermusikan",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093694897532526600,
+					"id_str": "1093694897532526592",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy2VtvQVYAAUB8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy2VtvQVYAAUB8J.jpg",
+					"url": "https://t.co/bGD0IEAtoE",
+					"display_url": "pic.twitter.com/bGD0IEAtoE",
+					"expanded_url": "https://twitter.com/putuebo/status/1093695022443053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093694897532526600,
+					"id_str": "1093694897532526592",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy2VtvQVYAAUB8J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy2VtvQVYAAUB8J.jpg",
+					"url": "https://t.co/bGD0IEAtoE",
+					"display_url": "pic.twitter.com/bGD0IEAtoE",
+					"expanded_url": "https://twitter.com/putuebo/status/1093695022443053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093694930625515500,
+					"id_str": "1093694930625515520",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy2VvqiUUAAWB8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy2VvqiUUAAWB8I.jpg",
+					"url": "https://t.co/bGD0IEAtoE",
+					"display_url": "pic.twitter.com/bGD0IEAtoE",
+					"expanded_url": "https://twitter.com/putuebo/status/1093695022443053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 539,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093694955489353700,
+					"id_str": "1093694955489353728",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy2VxHKUYAAjXjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy2VxHKUYAAjXjJ.jpg",
+					"url": "https://t.co/bGD0IEAtoE",
+					"display_url": "pic.twitter.com/bGD0IEAtoE",
+					"expanded_url": "https://twitter.com/putuebo/status/1093695022443053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1093665755231473700,
+		"in_reply_to_status_id_str": "1093665755231473664",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kartun &amp; grafis #RUUPermusikan pt. 2 https://t.co/bGD0IEAtoE"
+	},
+	{
+		"created_at": "Fri Feb 08 00:40:16 +0000 2019",
+		"id": 1093670816317825000,
+		"id_str": "1093670816317825024",
+		"full_text": "@delightindee Tiba2 saya ikutan gara2 didaftarin istri...",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "delightindee",
+					"name": "dee",
+					"id": 34955725,
+					"id_str": "34955725",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1093669442083381200,
+		"in_reply_to_status_id_str": "1093669442083381248",
+		"in_reply_to_user_id": 34955725,
+		"in_reply_to_user_id_str": "34955725",
+		"in_reply_to_screen_name": "delightindee",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@delightindee Tiba2 saya ikutan gara2 didaftarin istri..."
+	},
+	{
+		"created_at": "Fri Feb 08 00:33:48 +0000 2019",
+		"id": 1093669187904368600,
+		"id_str": "1093669187904368640",
+		"full_text": "Eh, udah dapat pesan 'berbagi berkah' yg lagi viral? Itu loh yg transfer berantai Rp 100rb lalu tunggu limpahan. Kalo saya dikirimi tiap hari di email dan wa. Ini nih kalo belum.. https://t.co/lIF5mpr5dc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lIF5mpr5dc",
+					"expanded_url": "https://www.evernote.com/shard/s12/sh/595cd4b2-c997-433a-be63-536df7aac9af/eb98c47250650461804f6ee22b42c029",
+					"display_url": "evernote.com/shard/s12/sh/5…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Eh, udah dapat pesan 'berbagi berkah' yg lagi viral? Itu loh yg transfer berantai Rp 100rb lalu tunggu limpahan. Kalo saya dikirimi tiap hari di email dan wa. Ini nih kalo belum.. https://t.co/lIF5mpr5dc"
+	},
+	{
+		"created_at": "Fri Feb 08 00:20:10 +0000 2019",
+		"id": 1093665755231473700,
+		"id_str": "1093665755231473664",
+		"full_text": "Kartun &amp; grafis #RUUPermusikan pt. 1 https://t.co/jlSyMlWs9R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RUUPermusikan",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093665361369518100,
+					"id_str": "1093665361369518080",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy162geUUAAjGLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy162geUUAAjGLZ.jpg",
+					"url": "https://t.co/jlSyMlWs9R",
+					"display_url": "pic.twitter.com/jlSyMlWs9R",
+					"expanded_url": "https://twitter.com/putuebo/status/1093665755231473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093665361369518100,
+					"id_str": "1093665361369518080",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy162geUUAAjGLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy162geUUAAjGLZ.jpg",
+					"url": "https://t.co/jlSyMlWs9R",
+					"display_url": "pic.twitter.com/jlSyMlWs9R",
+					"expanded_url": "https://twitter.com/putuebo/status/1093665755231473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093665428600016900,
+					"id_str": "1093665428600016896",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy166a7UUAAB0kW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy166a7UUAAB0kW.jpg",
+					"url": "https://t.co/jlSyMlWs9R",
+					"display_url": "pic.twitter.com/jlSyMlWs9R",
+					"expanded_url": "https://twitter.com/putuebo/status/1093665755231473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093665455380680700,
+					"id_str": "1093665455380680706",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy167-sU0AI1wSl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy167-sU0AI1wSl.jpg",
+					"url": "https://t.co/jlSyMlWs9R",
+					"display_url": "pic.twitter.com/jlSyMlWs9R",
+					"expanded_url": "https://twitter.com/putuebo/status/1093665755231473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kartun &amp; grafis #RUUPermusikan pt. 1 https://t.co/jlSyMlWs9R"
+	},
+	{
+		"created_at": "Thu Feb 07 15:03:47 +0000 2019",
+		"id": 1093525739398283300,
+		"id_str": "1093525739398283266",
+		"full_text": "@pandebaik @JRX_SID @SID_Official @gendovara Wkkk posting ingan ne (btw bukan gambar saya).... depang malu jrx nu ngikih ruu katro nto. Saya dukung...",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pandebaik",
+					"name": "PanDeBaik #BEJO#HOKI",
+					"id": 63144141,
+					"id_str": "63144141",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "JRX_SID",
+					"name": "JRX",
+					"id": 83506024,
+					"id_str": "83506024",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "SID_Official",
+					"name": "SID",
+					"id": 77950723,
+					"id_str": "77950723",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "gendovara",
+					"name": "Wayan GENDO Suardana",
+					"id": 174324581,
+					"id_str": "174324581",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1093518451363041300,
+		"in_reply_to_status_id_str": "1093518451363041281",
+		"in_reply_to_user_id": 63144141,
+		"in_reply_to_user_id_str": "63144141",
+		"in_reply_to_screen_name": "pandebaik",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@pandebaik @JRX_SID @SID_Official @gendovara Wkkk posting ingan ne (btw bukan gambar saya).... depang malu jrx nu ngikih ruu katro nto. Saya dukung..."
+	},
+	{
+		"created_at": "Thu Feb 07 14:55:43 +0000 2019",
+		"id": 1093523708906418200,
+		"id_str": "1093523708906418176",
+		"full_text": "Ada apk baru namanya 'panggilin'. Belum coba tapi tampak menjanjikan setelah ojol. Idenya minta bantuan apa saja sama org lain. misalnya translate, ngiklanin, nyuciin, megangin, jagain, ngajarin, nemenin dll https://t.co/TPddWqq1yz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TPddWqq1yz",
+					"expanded_url": "https://play.google.com/store/apps/details?id=com.panggilin.user",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ada apk baru namanya 'panggilin'. Belum coba tapi tampak menjanjikan setelah ojol. Idenya minta bantuan apa saja sama org lain. misalnya translate, ngiklanin, nyuciin, megangin, jagain, ngajarin, nemenin dll https://t.co/TPddWqq1yz"
+	},
+	{
+		"created_at": "Thu Feb 07 05:40:47 +0000 2019",
+		"id": 1093384056207601700,
+		"id_str": "1093384056207601664",
+		"full_text": "Anak STM merakit onderdil jadi motor utuh. Keren! https://t.co/fvsOJAgPTn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093383654070378500,
+					"id_str": "1093383654070378497",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093383654070378497/pu/img/cWsyJGFCGkwoQs1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093383654070378497/pu/img/cWsyJGFCGkwoQs1v.jpg",
+					"url": "https://t.co/fvsOJAgPTn",
+					"display_url": "pic.twitter.com/fvsOJAgPTn",
+					"expanded_url": "https://twitter.com/basibanget/status/1093384056207601664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093383654070378500,
+					"id_str": "1093383654070378497",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093383654070378497/pu/img/cWsyJGFCGkwoQs1v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093383654070378497/pu/img/cWsyJGFCGkwoQs1v.jpg",
+					"url": "https://t.co/fvsOJAgPTn",
+					"display_url": "pic.twitter.com/fvsOJAgPTn",
+					"expanded_url": "https://twitter.com/basibanget/status/1093384056207601664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 632,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							135,
+							158
+						],
+						"duration_millis": 51160,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093383654070378497/pu/vid/320x374/-Ly1kdlyOBaTmCMD.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093383654070378497/pu/vid/360x420/afjxo8dzY2yziDZG.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093383654070378497/pu/vid/540x632/4I-HFdbeZLLHAAUC.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1093383654070378497/pu/pl/LI4tQqSfNvN47Tqp.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242663,
+			"id_str": "242663",
+			"name": "𝕪𝕓𝕤 | 马可斯",
+			"screen_name": "basibanget",
+			"location": "Jakarta, Indonesia",
+			"description": "memang benar apa yang ditweet ybs",
+			"url": "https://t.co/ZoCdEocge4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZoCdEocge4",
+							"expanded_url": "https://instagram.com/ybs",
+							"display_url": "instagram.com/ybs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9649,
+			"friends_count": 624,
+			"listed_count": 359,
+			"created_at": "Mon Dec 25 13:59:58 +0000 2006",
+			"favourites_count": 3342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59109,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092791904071147520/c32dy82c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092791904071147520/c32dy82c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242663/1455605197",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17852,
+		"favorite_count": 10784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Anak STM merakit onderdil jadi motor utuh. Keren! https://t.co/fvsOJAgPTn"
+	},
+	{
+		"created_at": "Thu Feb 07 10:41:26 +0000 2019",
+		"id": 1093459717882400800,
+		"id_str": "1093459717882400768",
+		"full_text": "Kéné yén I Jerinx ngelah panak https://t.co/l10bGxytiI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093459714191458300,
+					"id_str": "1093459714191458304",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy_0RCVAAAobGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy_0RCVAAAobGy.jpg",
+					"url": "https://t.co/l10bGxytiI",
+					"display_url": "pic.twitter.com/l10bGxytiI",
+					"expanded_url": "https://twitter.com/putuebo/status/1093459717882400768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093459714191458300,
+					"id_str": "1093459714191458304",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy_0RCVAAAobGy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy_0RCVAAAobGy.jpg",
+					"url": "https://t.co/l10bGxytiI",
+					"display_url": "pic.twitter.com/l10bGxytiI",
+					"expanded_url": "https://twitter.com/putuebo/status/1093459717882400768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hu",
+		"text": "Kéné yén I Jerinx ngelah panak https://t.co/l10bGxytiI"
+	},
+	{
 		"created_at": "Thu Feb 07 03:01:09 +0000 2019",
 		"id": 1093343883172270100,
 		"id_str": "1093343883172270080",
