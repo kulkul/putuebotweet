@@ -1,6 +1,656 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 15:48:30 +0000 2019",
+		"id": 1097160868998144000,
+		"id_str": "1097160868998144002",
+		"full_text": "The making of a flower pool at Villa Cella Bella, Bali https://t.co/O2zjTGKo8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095704953061036000,
+					"id_str": "1095704953061036033",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095704953061036033/pu/img/WwbEFS12K4GH7raG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095704953061036033/pu/img/WwbEFS12K4GH7raG.jpg",
+					"url": "https://t.co/O2zjTGKo8L",
+					"display_url": "pic.twitter.com/O2zjTGKo8L",
+					"expanded_url": "https://twitter.com/earthvisuals/status/1095705067200626691/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1095705067200626700,
+					"source_status_id_str": "1095705067200626691",
+					"source_user_id": 1008021899891404800,
+					"source_user_id_str": "1008021899891404801"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095704953061036000,
+					"id_str": "1095704953061036033",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095704953061036033/pu/img/WwbEFS12K4GH7raG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095704953061036033/pu/img/WwbEFS12K4GH7raG.jpg",
+					"url": "https://t.co/O2zjTGKo8L",
+					"display_url": "pic.twitter.com/O2zjTGKo8L",
+					"expanded_url": "https://twitter.com/earthvisuals/status/1095705067200626691/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1095705067200626700,
+					"source_status_id_str": "1095705067200626691",
+					"source_user_id": 1008021899891404800,
+					"source_user_id_str": "1008021899891404801",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16634,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1095704953061036033/pu/vid/640x640/KH9RVYCea8nBEm5b.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1095704953061036033/pu/vid/320x320/rUo2LQsRN_ilpECH.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1095704953061036033/pu/vid/480x480/4XvEI36EV17hyvPa.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1095704953061036033/pu/pl/uIgzxIgwetQnnR75.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1008021899891404800,
+							"id_str": "1008021899891404801",
+							"name": "🌊",
+							"screen_name": "earthvisuals",
+							"location": "",
+							"description": "“𝐭𝐡𝐞 𝐞𝐚𝐫𝐭𝐡 𝐡𝐚𝐬 𝐦𝐮𝐬𝐢𝐜 𝐟𝐨𝐫 𝐭𝐡𝐨𝐬𝐞 𝐰𝐡𝐨 𝐥𝐢𝐬𝐭𝐞𝐧.”",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 129457,
+							"friends_count": 965,
+							"listed_count": 465,
+							"created_at": "Sat Jun 16 16:22:03 +0000 2018",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 117,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1061684870911549440/8tFFlKjK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061684870911549440/8tFFlKjK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1008021899891404801/1531703325",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994950431234080800,
+			"id_str": "994950431234080768",
+			"name": "Satisfying Videos",
+			"screen_name": "Theslimevids",
+			"location": "Follow for satisfying videos",
+			"description": "Posting daily satisfying videos.All right reserved to their respective owners.\nDm us for credit/removal.|parody|",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81724,
+			"friends_count": 19,
+			"listed_count": 224,
+			"created_at": "Fri May 11 14:40:42 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046081422224691201/4H2FTWgE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046081422224691201/4H2FTWgE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994950431234080768/1538240278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1353,
+		"favorite_count": 3910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The making of a flower pool at Villa Cella Bella, Bali https://t.co/O2zjTGKo8L"
+	},
+	{
+		"created_at": "Tue Feb 19 01:06:41 +0000 2019",
+		"id": 1097663730949677000,
+		"id_str": "1097663730949677056",
+		"full_text": "@depresionistaa @midiahn tin... tin... https://t.co/SnELIPi6E5",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "depresionistaa",
+					"name": "new year new sadness",
+					"id": 1095526050501554200,
+					"id_str": "1095526050501554176",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "midiahn",
+					"name": "TOYOTA",
+					"id": 67659106,
+					"id_str": "67659106",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097663599969849300,
+					"id_str": "1097663599969849344",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DzuvOn8UUAAmGTV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzuvOn8UUAAmGTV.jpg",
+					"url": "https://t.co/SnELIPi6E5",
+					"display_url": "pic.twitter.com/SnELIPi6E5",
+					"expanded_url": "https://twitter.com/putuebo/status/1097663730949677056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097663599969849300,
+					"id_str": "1097663599969849344",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DzuvOn8UUAAmGTV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzuvOn8UUAAmGTV.jpg",
+					"url": "https://t.co/SnELIPi6E5",
+					"display_url": "pic.twitter.com/SnELIPi6E5",
+					"expanded_url": "https://twitter.com/putuebo/status/1097663730949677056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1097492564570079200,
+		"in_reply_to_status_id_str": "1097492564570079232",
+		"in_reply_to_user_id": 1095526050501554200,
+		"in_reply_to_user_id_str": "1095526050501554176",
+		"in_reply_to_screen_name": "depresionistaa",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@depresionistaa @midiahn tin... tin... https://t.co/SnELIPi6E5"
+	},
+	{
+		"created_at": "Mon Feb 18 06:52:54 +0000 2019",
+		"id": 1097388468961927200,
+		"id_str": "1097388468961927169",
+		"full_text": "5 makhluk mitos dalam hidup ini: 1. Unicorn 2. ... https://t.co/OjUncJlMbd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097388461990899700,
+					"id_str": "1097388461990899712",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzq0_fGUcAAcSzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzq0_fGUcAAcSzV.jpg",
+					"url": "https://t.co/OjUncJlMbd",
+					"display_url": "pic.twitter.com/OjUncJlMbd",
+					"expanded_url": "https://twitter.com/putuebo/status/1097388468961927169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 622,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097388461990899700,
+					"id_str": "1097388461990899712",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzq0_fGUcAAcSzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzq0_fGUcAAcSzV.jpg",
+					"url": "https://t.co/OjUncJlMbd",
+					"display_url": "pic.twitter.com/OjUncJlMbd",
+					"expanded_url": "https://twitter.com/putuebo/status/1097388468961927169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 622,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "5 makhluk mitos dalam hidup ini: 1. Unicorn 2. ... https://t.co/OjUncJlMbd"
+	},
+	{
 		"created_at": "Sat Feb 16 08:43:38 +0000 2019",
 		"id": 1096691560656191500,
 		"id_str": "1096691560656191488",
