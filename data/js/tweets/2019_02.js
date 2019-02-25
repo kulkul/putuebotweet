@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 03:50:36 +0000 2019",
+		"id": 1099154532834017300,
+		"id_str": "1099154532834017281",
+		"full_text": "Siapa kitaaaaaaa?! INDONESIA! https://t.co/JaBwzD5FKp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099154378953388000,
+					"id_str": "1099154378953388032",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099154378953388032/pu/img/OjylNE8egBRZJ9-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099154378953388032/pu/img/OjylNE8egBRZJ9-M.jpg",
+					"url": "https://t.co/JaBwzD5FKp",
+					"display_url": "pic.twitter.com/JaBwzD5FKp",
+					"expanded_url": "https://twitter.com/CandraMalik/status/1099154532834017281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099154378953388000,
+					"id_str": "1099154378953388032",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099154378953388032/pu/img/OjylNE8egBRZJ9-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099154378953388032/pu/img/OjylNE8egBRZJ9-M.jpg",
+					"url": "https://t.co/JaBwzD5FKp",
+					"display_url": "pic.twitter.com/JaBwzD5FKp",
+					"expanded_url": "https://twitter.com/CandraMalik/status/1099154532834017281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							23
+						],
+						"duration_millis": 60007,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099154378953388032/pu/vid/640x368/HtVSGaGcYGnMVVkF.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1099154378953388032/pu/pl/cMKbUBP3BIRDpJs1.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099154378953388032/pu/vid/312x180/351-r2fyptepMgOy.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85677380,
+			"id_str": "85677380",
+			"name": "Candra Malik",
+			"screen_name": "CandraMalik",
+			"location": "Indonesia",
+			"description": "Kontak dan Informasi: 083820721977",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116110,
+			"friends_count": 640,
+			"listed_count": 360,
+			"created_at": "Tue Oct 27 22:17:54 +0000 2009",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931724061226311680/NSFKZ0AH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931724061226311680/NSFKZ0AH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85677380/1529480686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 922,
+		"favorite_count": 1283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Siapa kitaaaaaaa?! INDONESIA! https://t.co/JaBwzD5FKp"
+	},
+	{
+		"created_at": "Sun Feb 24 13:55:37 +0000 2019",
+		"id": 1099669177915236400,
+		"id_str": "1099669177915236352",
+		"full_text": "Menangkanlah hatiku... Bila tidak, maka tak ada lagi yang akan mencintaimu https://t.co/c28SjtK2hb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c28SjtK2hb",
+					"expanded_url": "https://youtu.be/gx2gboPY5Tw",
+					"display_url": "youtu.be/gx2gboPY5Tw",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1423,
+			"friends_count": 940,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8647,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Menangkanlah hatiku... Bila tidak, maka tak ada lagi yang akan mencintaimu https://t.co/c28SjtK2hb"
+	},
+	{
 		"created_at": "Fri Feb 22 10:09:13 +0000 2019",
 		"id": 1098887424996831200,
 		"id_str": "1098887424996831232",
