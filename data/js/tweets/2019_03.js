@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 08:18:45 +0000 2019",
+		"id": 1103476702305345500,
+		"id_str": "1104657830974373889",
+		"full_text": "Ajari anak kuncian Leg Lock ini agar menyulitkan penculik anak.\nBarangkali berguna🙏🙏🙏 https://t.co/eiKnBAfleO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103476563251621900,
+					"id_str": "1103476563251621889",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1103476563251621889/pu/img/ByZfgsBmhvaHPiTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1103476563251621889/pu/img/ByZfgsBmhvaHPiTu.jpg",
+					"url": "https://t.co/eiKnBAfleO",
+					"display_url": "pic.twitter.com/eiKnBAfleO",
+					"expanded_url": "https://twitter.com/Penol86/status/1103476702305345536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103476563251621900,
+					"id_str": "1103476563251621889",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1103476563251621889/pu/img/ByZfgsBmhvaHPiTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1103476563251621889/pu/img/ByZfgsBmhvaHPiTu.jpg",
+					"url": "https://t.co/eiKnBAfleO",
+					"display_url": "pic.twitter.com/eiKnBAfleO",
+					"expanded_url": "https://twitter.com/Penol86/status/1103476702305345536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							40
+						],
+						"duration_millis": 106167,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1103476563251621889/pu/pl/LICH3Nh5M5PL94el.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1103476563251621889/pu/vid/368x640/h9B5Uf1nnMWLcRs4.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1103476563251621889/pu/vid/320x556/ugtDBixpRwURRRkE.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141816646,
+			"id_str": "141816646",
+			"name": "Penol 86",
+			"screen_name": "Penol86",
+			"location": "Dimana-mana ku adaaaa...😁",
+			"description": "IG\nhttps://t.co/jNtzCKmeky…\nPh 081311311488 \nWA 085717990438",
+			"url": "https://t.co/ZA0882ThRS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZA0882ThRS",
+							"expanded_url": "http://bit.ly/bacanglena",
+							"display_url": "bit.ly/bacanglena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jNtzCKmeky",
+							"expanded_url": "http://instagram.com/bacang_special",
+							"display_url": "instagram.com/bacang_special",
+							"indices": [
+								3,
+								26
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3638,
+			"friends_count": 871,
+			"listed_count": 10,
+			"created_at": "Sun May 09 03:55:25 +0000 2010",
+			"favourites_count": 4547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31693,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996944335567372289/ZY_gdEwT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996944335567372289/ZY_gdEwT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141816646/1545278936",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "67af0508137cbb0d",
+			"url": "https://api.twitter.com/1.1/geo/id/67af0508137cbb0d.json",
+			"place_type": "city",
+			"name": "Gunung Putri",
+			"full_name": "Gunung Putri, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							106.869794,
+							-6.463678
+						],
+						[
+							106.982221,
+							-6.463678
+						],
+						[
+							106.982221,
+							-6.290966
+						],
+						[
+							106.869794,
+							-6.290966
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3610,
+		"favorite_count": 4433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ajari anak kuncian Leg Lock ini agar menyulitkan penculik anak.\nBarangkali berguna🙏🙏🙏 https://t.co/eiKnBAfleO"
+	},
+	{
 		"created_at": "Fri Mar 08 03:40:51 +0000 2019",
 		"id": 1103863121381253100,
 		"id_str": "1103863121381253120",
