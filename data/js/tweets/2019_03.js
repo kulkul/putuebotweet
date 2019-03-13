@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 04:02:36 +0000 2019",
+		"id": 1105318144468377600,
+		"id_str": "1105318144468377600",
+		"full_text": "Kartunis pro @pinsianArt hari ini nikah.. para bro kartunis rame2 bikinin karikatur buat beliau... Beberapa diantaranya... https://t.co/JbyozCzhee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pinsianArt",
+					"name": "Pinsiana",
+					"id": 819370860834193400,
+					"id_str": "819370860834193408",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105318109290721300,
+					"id_str": "1105318109290721280",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D1bg9tQUcAA018h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1bg9tQUcAA018h.jpg",
+					"url": "https://t.co/JbyozCzhee",
+					"display_url": "pic.twitter.com/JbyozCzhee",
+					"expanded_url": "https://twitter.com/putuebo/status/1105318144468377600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105318109290721300,
+					"id_str": "1105318109290721280",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D1bg9tQUcAA018h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1bg9tQUcAA018h.jpg",
+					"url": "https://t.co/JbyozCzhee",
+					"display_url": "pic.twitter.com/JbyozCzhee",
+					"expanded_url": "https://twitter.com/putuebo/status/1105318144468377600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 713,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105318118107168800,
+					"id_str": "1105318118107168769",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D1bg-OGUwAEDhp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1bg-OGUwAEDhp4.jpg",
+					"url": "https://t.co/JbyozCzhee",
+					"display_url": "pic.twitter.com/JbyozCzhee",
+					"expanded_url": "https://twitter.com/putuebo/status/1105318144468377600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 959,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105318128341311500,
+					"id_str": "1105318128341311488",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/D1bg-0OVYAA6n1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1bg-0OVYAA6n1B.jpg",
+					"url": "https://t.co/JbyozCzhee",
+					"display_url": "pic.twitter.com/JbyozCzhee",
+					"expanded_url": "https://twitter.com/putuebo/status/1105318144468377600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1425,
+			"friends_count": 939,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9d42f26482004",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9d42f26482004.json",
+			"place_type": "poi",
+			"name": "SPBU 54.801.41 Peguyangan (*my™)",
+			"full_name": "SPBU 54.801.41 Peguyangan (*my™)",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.22316098213196,
+							-8.617471080300671
+						],
+						[
+							115.22316098213196,
+							-8.617471080300671
+						],
+						[
+							115.22316098213196,
+							-8.617471080300671
+						],
+						[
+							115.22316098213196,
+							-8.617471080300671
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kartunis pro @pinsianArt hari ini nikah.. para bro kartunis rame2 bikinin karikatur buat beliau... Beberapa diantaranya... https://t.co/JbyozCzhee"
+	},
+	{
 		"created_at": "Sun Mar 10 08:18:45 +0000 2019",
 		"id": 1103476702305345500,
 		"id_str": "1104657830974373889",
