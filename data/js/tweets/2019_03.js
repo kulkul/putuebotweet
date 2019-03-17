@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 01:07:57 +0000 2019",
+		"id": 1107086133471510500,
+		"id_str": "1107086133471510528",
+		"full_text": "Segede kain drupadi\nSegede ikat kepala aji saka\nhttps://t.co/vk4NvfjjId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106947830520795100,
+					"id_str": "1106947830520795136",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1106947830520795136/pu/img/nXa5L8K20_fbAyyS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1106947830520795136/pu/img/nXa5L8K20_fbAyyS.jpg",
+					"url": "https://t.co/vk4NvfjjId",
+					"display_url": "pic.twitter.com/vk4NvfjjId",
+					"expanded_url": "https://twitter.com/sutan_bisma/status/1106948304229654528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1106948304229654500,
+					"source_status_id_str": "1106948304229654528",
+					"source_user_id": 2304166500,
+					"source_user_id_str": "2304166500"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106947830520795100,
+					"id_str": "1106947830520795136",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1106947830520795136/pu/img/nXa5L8K20_fbAyyS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1106947830520795136/pu/img/nXa5L8K20_fbAyyS.jpg",
+					"url": "https://t.co/vk4NvfjjId",
+					"display_url": "pic.twitter.com/vk4NvfjjId",
+					"expanded_url": "https://twitter.com/sutan_bisma/status/1106948304229654528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1106948304229654500,
+					"source_status_id_str": "1106948304229654528",
+					"source_user_id": 2304166500,
+					"source_user_id_str": "2304166500",
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 44925,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1106947830520795136/pu/pl/3tfVnUpOB-bztKO3.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1106947830520795136/pu/vid/326x180/ABYwEMaAOzwAMcMw.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1106947830520795136/pu/vid/640x352/SaZhEPxSgMaDWY_x.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2304166500,
+							"id_str": "2304166500",
+							"name": "🇮🇩🐸S.U.T.A.N🐸🇮🇩",
+							"screen_name": "sutan_bisma",
+							"location": "Indonesia",
+							"description": "Follow saya untuk ngobrol tentang spiritual hidup, PERSEBAYA dan Ac Milan",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 376,
+							"friends_count": 235,
+							"listed_count": 1,
+							"created_at": "Wed Jan 22 03:57:09 +0000 2014",
+							"favourites_count": 2542,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 4826,
+							"lang": "id",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1106904529100902400/aVKE1-aa_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106904529100902400/aVKE1-aa_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304166500/1546265066",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 942,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Segede kain drupadi\nSegede ikat kepala aji saka\nhttps://t.co/vk4NvfjjId"
+	},
+	{
+		"created_at": "Sun Mar 17 01:03:28 +0000 2019",
+		"id": 1107085004201324500,
+		"id_str": "1107085004201324545",
+		"full_text": "How many times must the cannon balls fly\nBefore they're forever banned?\nHow many ears must one man have\nBefore he can hear people cry?\nHow many deaths will it take till he knows\nThat too many people have died?\n~ Jawabannya ketiup angin - fufffuffff.... https://t.co/itJqHsmb42",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/itJqHsmb42",
+					"expanded_url": "https://www.youtube.com/watch?v=vWwgrjjIMXA",
+					"display_url": "youtube.com/watch?v=vWwgrj…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 942,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How many times must the cannon balls fly\nBefore they're forever banned?\nHow many ears must one man have\nBefore he can hear people cry?\nHow many deaths will it take till he knows\nThat too many people have died?\n~ Jawabannya ketiup angin - fufffuffff.... https://t.co/itJqHsmb42"
+	},
+	{
+		"created_at": "Sun Mar 17 00:45:45 +0000 2019",
+		"id": 1107080544968335400,
+		"id_str": "1107080544968335360",
+		"full_text": "@sutan_bisma @YRadianto @B1G_kaySae @Vivittts @SiNiel1 @Jeonum1203 WIIIIIIII.... spanduknya gede banget.. \nsegede kain drupadi.. \nsegede ikat kepala aji saka...\ngimana nyablonnya...",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sutan_bisma",
+					"name": "🇮🇩🐸S.U.T.A.N🐸🇮🇩",
+					"id": 2304166500,
+					"id_str": "2304166500",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "YRadianto",
+					"name": "Aki Tulalit",
+					"id": 2542665199,
+					"id_str": "2542665199",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "B1G_kaySae",
+					"name": "ҜΔΠG🏴CIRΣΠG#β1GҜ4Ψ#ΠҜRI#BAD_BOY 🇮🇩🇭🇰🇸🇬🇬🇧",
+					"id": 2783528108,
+					"id_str": "2783528108",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "Vivittts",
+					"name": "Vivit™",
+					"id": 984071521399332900,
+					"id_str": "984071521399332864",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "SiNiel1",
+					"name": "Si_Niel",
+					"id": 1030224674033000400,
+					"id_str": "1030224674033000448",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"screen_name": "Jeonum1203",
+					"name": "Jeonum Ning imnida",
+					"id": 765760543185600500,
+					"id_str": "765760543185600513",
+					"indices": [
+						55,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1106948304229654500,
+		"in_reply_to_status_id_str": "1106948304229654528",
+		"in_reply_to_user_id": 2304166500,
+		"in_reply_to_user_id_str": "2304166500",
+		"in_reply_to_screen_name": "sutan_bisma",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 942,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@sutan_bisma @YRadianto @B1G_kaySae @Vivittts @SiNiel1 @Jeonum1203 WIIIIIIII.... spanduknya gede banget.. \nsegede kain drupadi.. \nsegede ikat kepala aji saka...\ngimana nyablonnya..."
+	},
+	{
+		"created_at": "Sat Mar 16 03:50:46 +0000 2019",
+		"id": 1106764718625046500,
+		"id_str": "1106764718625046534",
+		"full_text": "@therewasfog @Pinterest Hi.. today they fix the problem. Try updating the app",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "therewasfog",
+					"name": "Conflicted",
+					"id": 799770927504511000,
+					"id_str": "799770927504510976",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Pinterest",
+					"name": "Pinterest",
+					"id": 106837463,
+					"id_str": "106837463",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1102415453585137700,
+		"in_reply_to_status_id_str": "1102415453585137664",
+		"in_reply_to_user_id": 799770927504511000,
+		"in_reply_to_user_id_str": "799770927504510976",
+		"in_reply_to_screen_name": "therewasfog",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 942,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 7932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8686,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "df7499d458ab98e0",
+			"url": "https://api.twitter.com/1.1/geo/id/df7499d458ab98e0.json",
+			"place_type": "city",
+			"name": "Abiansemal",
+			"full_name": "Abiansemal, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.191504,
+							-8.603301
+						],
+						[
+							115.249379,
+							-8.603301
+						],
+						[
+							115.249379,
+							-8.454484
+						],
+						[
+							115.191504,
+							-8.454484
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@therewasfog @Pinterest Hi.. today they fix the problem. Try updating the app"
+	},
+	{
 		"created_at": "Sat Mar 16 00:51:27 +0000 2019",
 		"id": 1106719593098207200,
 		"id_str": "1106719593098207232",
