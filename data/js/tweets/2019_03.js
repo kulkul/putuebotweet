@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 02:01:45 +0000 2019",
+		"id": 1107796457648619500,
+		"id_str": "1107824448982269952",
+		"full_text": "Alat bikin pesawat kertas otomatis https://t.co/BQ2okzlXUd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107796430498852900,
+					"id_str": "1107796430498852864",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107796430498852864/pu/img/1HeZN8E48mZH7sB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107796430498852864/pu/img/1HeZN8E48mZH7sB2.jpg",
+					"url": "https://t.co/BQ2okzlXUd",
+					"display_url": "pic.twitter.com/BQ2okzlXUd",
+					"expanded_url": "https://twitter.com/rasarab/status/1107796457648619520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107796430498852900,
+					"id_str": "1107796430498852864",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1107796430498852864/pu/img/1HeZN8E48mZH7sB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1107796430498852864/pu/img/1HeZN8E48mZH7sB2.jpg",
+					"url": "https://t.co/BQ2okzlXUd",
+					"display_url": "pic.twitter.com/BQ2okzlXUd",
+					"expanded_url": "https://twitter.com/rasarab/status/1107796457648619520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107796430498852864/pu/vid/640x360/yMOF95NJgVPa9Pku.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1107796430498852864/pu/vid/320x180/Pa0zM38iOft373Iu.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1107796430498852864/pu/pl/Ae8l9pluS_bp2oqf.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47548396,
+			"id_str": "47548396",
+			"name": "Omar Borkan Al Gala",
+			"screen_name": "rasarab",
+			"location": "50% Manual 50% Robot",
+			"description": "I'm Grey Hat SEO • ORM 🦉 - Internet Marketer 👽 Football, Data, Podcast, Fixed Gear, Techno Future 🤖 & Cryptocurrency Trading 📨 gmail@rasarab.com",
+			"url": "https://t.co/iXCPJ8znbX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iXCPJ8znbX",
+							"expanded_url": "https://ngonoo.com",
+							"display_url": "ngonoo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35618,
+			"friends_count": 6196,
+			"listed_count": 257,
+			"created_at": "Tue Jun 16 05:05:41 +0000 2009",
+			"favourites_count": 4979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 211419,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/489295166876815361/Ql7PQdLd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/489295166876815361/Ql7PQdLd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47548396/1474897049",
+			"profile_link_color": "FF0011",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Alat bikin pesawat kertas otomatis https://t.co/BQ2okzlXUd"
+	},
+	{
 		"created_at": "Mon Mar 18 12:07:30 +0000 2019",
 		"id": 1107614502533517300,
 		"id_str": "1107614502533517313",
