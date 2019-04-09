@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 09:21:47 +0000 2019",
+		"id": 1115182943717056500,
+		"id_str": "1115182943717056512",
+		"full_text": "Will you Quarry me? We'll both get +300 ROX for free when you use my link to download the app.\n@QuarryDapps\n#Quarry #Giveaway #Airdrops https://t.co/bNet9w8iM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Quarry",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "Giveaway",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "Airdrops",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QuarryDapps",
+					"name": "Quarry",
+					"id": 1005038183287943200,
+					"id_str": "1005038183287943169",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bNet9w8iM4",
+					"expanded_url": "https://quarryshare.page.link/GBPuLx414ymsvCQBA",
+					"display_url": "quarryshare.page.link/GBPuLx414ymsvC…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 946,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8739,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Will you Quarry me? We'll both get +300 ROX for free when you use my link to download the app.\n@QuarryDapps\n#Quarry #Giveaway #Airdrops https://t.co/bNet9w8iM4"
+	},
+	{
+		"created_at": "Mon Apr 08 04:40:53 +0000 2019",
+		"id": 1115109929092669400,
+		"id_str": "1115112252615483392",
+		"full_text": "Ada video keren dari @saykoji untuk pendidikan politik bagi anak-anak. Keren banget bro! 👍😎 https://t.co/CJsGsAyTpc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saykoji",
+					"name": "Tukang Rap",
+					"id": 21626792,
+					"id_str": "21626792",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115109503106551800,
+					"id_str": "1115109503106551809",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115109503106551809/pu/img/pm05Evrjo0X1EYQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115109503106551809/pu/img/pm05Evrjo0X1EYQl.jpg",
+					"url": "https://t.co/CJsGsAyTpc",
+					"display_url": "pic.twitter.com/CJsGsAyTpc",
+					"expanded_url": "https://twitter.com/TolakBigotRI/status/1115109929092669441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115109503106551800,
+					"id_str": "1115109503106551809",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115109503106551809/pu/img/pm05Evrjo0X1EYQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115109503106551809/pu/img/pm05Evrjo0X1EYQl.jpg",
+					"url": "https://t.co/CJsGsAyTpc",
+					"display_url": "pic.twitter.com/CJsGsAyTpc",
+					"expanded_url": "https://twitter.com/TolakBigotRI/status/1115109929092669441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139875,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115109503106551809/pu/vid/1280x720/qmenNhogIVqYgzIr.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115109503106551809/pu/vid/640x360/o7sduKiElmnAdSsP.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115109503106551809/pu/vid/320x180/RwFEUfYUNEHwdkLl.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1115109503106551809/pu/pl/t_wr45A9ZNhRd3pC.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908282425,
+			"id_str": "908282425",
+			"name": "#NO2ISIS",
+			"screen_name": "TolakBigotRI",
+			"location": "",
+			"description": "Akun resmi menolak bigot di Indonesia. Kami ada untuk Indonesia yang damai tanpa membedakan SARA #SaveIndonesia.\r#SavePancasila",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23958,
+			"friends_count": 996,
+			"listed_count": 83,
+			"created_at": "Sat Oct 27 14:56:28 +0000 2012",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 141888,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076803003456184320/ZFCPSZbC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076803003456184320/ZFCPSZbC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908282425/1351350491",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "in",
+		"text": "Ada video keren dari @saykoji untuk pendidikan politik bagi anak-anak. Keren banget bro! 👍😎 https://t.co/CJsGsAyTpc"
+	},
+	{
 		"created_at": "Sat Apr 06 12:06:09 +0000 2019",
 		"id": 1114499530370601000,
 		"id_str": "1114499530370600960",
