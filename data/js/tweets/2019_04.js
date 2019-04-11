@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 01:48:34 +0000 2019",
+		"id": 1115788414916251600,
+		"id_str": "1115793662737178624",
+		"full_text": "#RabuDepanJokowiMenang Bismillah.. segala kekuasaan hanya berasal dari ALLAH. Allah memuliakan kepada yang ingin ia muliakan dan menghinakan kepada yang ia kehendaki. Man Jadda WaJada. Rabu depan Jokowi Menang. https://t.co/AFNiSga9w7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RabuDepanJokowiMenang",
+					"indices": [
+						0,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115788408192815100,
+					"id_str": "1115788408192815104",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D3wTpULU0AAaYoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3wTpULU0AAaYoP.jpg",
+					"url": "https://t.co/AFNiSga9w7",
+					"display_url": "pic.twitter.com/AFNiSga9w7",
+					"expanded_url": "https://twitter.com/opiniminor/status/1115788414916251648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115788408192815100,
+					"id_str": "1115788408192815104",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D3wTpULU0AAaYoP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3wTpULU0AAaYoP.jpg",
+					"url": "https://t.co/AFNiSga9w7",
+					"display_url": "pic.twitter.com/AFNiSga9w7",
+					"expanded_url": "https://twitter.com/opiniminor/status/1115788414916251648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 593589965,
+			"id_str": "593589965",
+			"name": "Opini Minor",
+			"screen_name": "opiniminor",
+			"location": "3.225810, 98.95209",
+			"description": "membuka tabir keordebaruan",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67950,
+			"friends_count": 9972,
+			"listed_count": 45,
+			"created_at": "Tue May 29 10:43:12 +0000 2012",
+			"favourites_count": 695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1524,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075739839473971202/WPE0xVnJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075739839473971202/WPE0xVnJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/593589965/1545311475",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#RabuDepanJokowiMenang Bismillah.. segala kekuasaan hanya berasal dari ALLAH. Allah memuliakan kepada yang ingin ia muliakan dan menghinakan kepada yang ia kehendaki. Man Jadda WaJada. Rabu depan Jokowi Menang. https://t.co/AFNiSga9w7"
+	},
+	{
 		"created_at": "Mon Apr 08 09:21:47 +0000 2019",
 		"id": 1115182943717056500,
 		"id_str": "1115182943717056512",
