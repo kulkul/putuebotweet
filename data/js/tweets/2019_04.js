@@ -1,6 +1,994 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 21:28:45 +0000 2019",
+		"id": 1116785960333840400,
+		"id_str": "1116815441555378176",
+		"full_text": "The favorite cut in the teaser. #StarWarsIX #TheRiseofSkwywalker #StarWars https://t.co/MJvTJakr7F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StarWarsIX",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "TheRiseofSkwywalker",
+					"indices": [
+						44,
+						64
+					]
+				},
+				{
+					"text": "StarWars",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116785678233362400,
+					"id_str": "1116785678233362432",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3-eqElX4AAeC-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3-eqElX4AAeC-y.jpg",
+					"url": "https://t.co/MJvTJakr7F",
+					"display_url": "pic.twitter.com/MJvTJakr7F",
+					"expanded_url": "https://twitter.com/pinot/status/1116785960333840384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116785678233362400,
+					"id_str": "1116785678233362432",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D3-eqElX4AAeC-y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D3-eqElX4AAeC-y.jpg",
+					"url": "https://t.co/MJvTJakr7F",
+					"display_url": "pic.twitter.com/MJvTJakr7F",
+					"expanded_url": "https://twitter.com/pinot/status/1116785960333840384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D3-eqElX4AAeC-y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1116771813504225300,
+		"in_reply_to_status_id_str": "1116771813504225285",
+		"in_reply_to_user_id": 14335041,
+		"in_reply_to_user_id_str": "14335041",
+		"in_reply_to_screen_name": "pinot",
+		"user": {
+			"id": 14335041,
+			"id_str": "14335041",
+			"name": "Pinot W. Ichwandardi",
+			"screen_name": "pinot",
+			"location": "New York, NY",
+			"description": "Just a motion picture crafter in @Vaynermedia. Husband of the fairy, @ditut. Father of the elf, Arwen. Father the princess, Leia. And father of the one, Neo.",
+			"url": "https://t.co/tCQMjRuIL2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tCQMjRuIL2",
+							"expanded_url": "http://Instagram.com/pinot",
+							"display_url": "Instagram.com/pinot",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63603,
+			"friends_count": 773,
+			"listed_count": 617,
+			"created_at": "Tue Apr 08 19:06:39 +0000 2008",
+			"favourites_count": 9413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 142054,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F4F1DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/414856200425984000/v2KPY6Az_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/414856200425984000/v2KPY6Az_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14335041/1404500582",
+			"profile_link_color": "EA802E",
+			"profile_sidebar_border_color": "8B7E2D",
+			"profile_sidebar_fill_color": "D8CD88",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The favorite cut in the teaser. #StarWarsIX #TheRiseofSkwywalker #StarWars https://t.co/MJvTJakr7F"
+	},
+	{
+		"created_at": "Fri Apr 12 21:17:31 +0000 2019",
+		"id": 1116536685704040400,
+		"id_str": "1116812616448372737",
+		"full_text": "Cerita hidup saya ... https://t.co/Pz271nhlvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116536448012865500,
+					"id_str": "1116536448012865537",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116536448012865537/pu/img/6SFDa7KZta0oBeYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116536448012865537/pu/img/6SFDa7KZta0oBeYW.jpg",
+					"url": "https://t.co/Pz271nhlvj",
+					"display_url": "pic.twitter.com/Pz271nhlvj",
+					"expanded_url": "https://twitter.com/jokowi/status/1116536685704040448/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116536448012865500,
+					"id_str": "1116536448012865537",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116536448012865537/pu/img/6SFDa7KZta0oBeYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116536448012865537/pu/img/6SFDa7KZta0oBeYW.jpg",
+					"url": "https://t.co/Pz271nhlvj",
+					"display_url": "pic.twitter.com/Pz271nhlvj",
+					"expanded_url": "https://twitter.com/jokowi/status/1116536685704040448/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60119,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1116536448012865537/pu/pl/Tmmi9jovQzxWMsY9.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116536448012865537/pu/vid/640x360/Q53jcXQK9srMDm-i.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116536448012865537/pu/vid/320x180/GyN0EGUbGtv_8kh6.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116536448012865537/pu/vid/1280x720/FNfGpg6IeS0XNBjf.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366987179,
+			"id_str": "366987179",
+			"name": "Joko Widodo",
+			"screen_name": "jokowi",
+			"location": "Jakarta",
+			"description": "Akun Twitter resmi Presiden Republik Indonesia Joko Widodo 🇮🇩. \n#MenujuIndonesiaMaju",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11147328,
+			"friends_count": 60,
+			"listed_count": 3943,
+			"created_at": "Sat Sep 03 05:21:21 +0000 2011",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5B5C5A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953822043211886592/IUEJdPg9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953822043211886592/IUEJdPg9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366987179/1540015919",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8047,
+		"favorite_count": 23072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Cerita hidup saya ... https://t.co/Pz271nhlvj"
+	},
+	{
+		"created_at": "Fri Apr 12 21:02:26 +0000 2019",
+		"id": 1116808820397727700,
+		"id_str": "1116808820397727744",
+		"full_text": "Sukses, selamat dan hati-hati ya bang Tin.. Salam buat semua https://t.co/L615ZosV0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116808816895508500,
+					"id_str": "1116808816895508480",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-zs60UwAA0Kpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-zs60UwAA0Kpm.jpg",
+					"url": "https://t.co/L615ZosV0e",
+					"display_url": "pic.twitter.com/L615ZosV0e",
+					"expanded_url": "https://twitter.com/putuebo/status/1116808820397727744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 395,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 395,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116808816895508500,
+					"id_str": "1116808816895508480",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/D3-zs60UwAA0Kpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3-zs60UwAA0Kpm.jpg",
+					"url": "https://t.co/L615ZosV0e",
+					"display_url": "pic.twitter.com/L615ZosV0e",
+					"expanded_url": "https://twitter.com/putuebo/status/1116808820397727744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 395,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 395,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 395,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 946,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Sukses, selamat dan hati-hati ya bang Tin.. Salam buat semua https://t.co/L615ZosV0e"
+	},
+	{
+		"created_at": "Fri Apr 12 14:18:15 +0000 2019",
+		"id": 1116707101974229000,
+		"id_str": "1116707101974228994",
+		"full_text": "@rasarab Cara bikin arum manis pakai air raksa",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rasarab",
+					"name": "Omar Borkan Al Gala",
+					"id": 47548396,
+					"id_str": "47548396",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1116602915643281400,
+		"in_reply_to_status_id_str": "1116602915643281408",
+		"in_reply_to_user_id": 47548396,
+		"in_reply_to_user_id_str": "47548396",
+		"in_reply_to_screen_name": "rasarab",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 946,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@rasarab Cara bikin arum manis pakai air raksa"
+	},
+	{
+		"created_at": "Fri Apr 12 13:50:16 +0000 2019",
+		"id": 1116700061583302700,
+		"id_str": "1116700061583302656",
+		"full_text": "Burger King ngeluarin menu khusus vegan: Impossible Whooper - konon rasanya amat menyerupai daging. Bakal tersedia di Indonesiakah? kabari dong... @BurgerKing_ID https://t.co/iNsrfd8CqJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BurgerKing_ID",
+					"name": "BurgerKing Indonesia",
+					"id": 249577169,
+					"id_str": "249577169",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iNsrfd8CqJ",
+					"expanded_url": "https://www.voaindonesia.com/a/burger-tanpa-daging-semakin-populer/4860843.html",
+					"display_url": "voaindonesia.com/a/burger-tanpa…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 946,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Burger King ngeluarin menu khusus vegan: Impossible Whooper - konon rasanya amat menyerupai daging. Bakal tersedia di Indonesiakah? kabari dong... @BurgerKing_ID https://t.co/iNsrfd8CqJ"
+	},
+	{
+		"created_at": "Fri Apr 12 07:41:14 +0000 2019",
+		"id": 1116607191312523300,
+		"id_str": "1116607191312523276",
+		"full_text": "The best spoiler of the year: film Hellboy (2019) mengalami sensor sepanjang 30menit..  Jadi fix nunggu unduhan aja..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 946,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "The best spoiler of the year: film Hellboy (2019) mengalami sensor sepanjang 30menit..  Jadi fix nunggu unduhan aja.."
+	},
+	{
+		"created_at": "Fri Apr 12 03:11:01 +0000 2019",
+		"id": 1116539186826211300,
+		"id_str": "1116539186826211328",
+		"full_text": "Aliansi masyarakat yang punya tetangga berselera musik buruk siap coblos 01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1116523294297956400,
+		"in_reply_to_status_id_str": "1116523294297956352",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 946,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Aliansi masyarakat yang punya tetangga berselera musik buruk siap coblos 01"
+	},
+	{
 		"created_at": "Thu Apr 11 15:59:01 +0000 2019",
 		"id": 1116245325126070300,
 		"id_str": "1116370073461989377",
