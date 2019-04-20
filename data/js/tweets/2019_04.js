@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 18:58:33 +0000 2019",
+		"id": 1119095510457913300,
+		"id_str": "1119314360071966720",
+		"full_text": "Shit dah masuk fb.. bye teman2... aku sayang kalian semua.. https://t.co/GsZqzU8tNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119095495236866000,
+					"id_str": "1119095495236866049",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D4fTbHdVUAEwkfw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4fTbHdVUAEwkfw.jpg",
+					"url": "https://t.co/GsZqzU8tNO",
+					"display_url": "pic.twitter.com/GsZqzU8tNO",
+					"expanded_url": "https://twitter.com/JetVeetlev/status/1119095510457913345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 446,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 253,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 476,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119095495236866000,
+					"id_str": "1119095495236866049",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/D4fTbHdVUAEwkfw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4fTbHdVUAEwkfw.jpg",
+					"url": "https://t.co/GsZqzU8tNO",
+					"display_url": "pic.twitter.com/GsZqzU8tNO",
+					"expanded_url": "https://twitter.com/JetVeetlev/status/1119095510457913345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 446,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 253,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 476,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116738684,
+			"id_str": "116738684",
+			"name": "Jet Veetlev ig:@jetveetlev",
+			"screen_name": "JetVeetlev",
+			"location": "Jet@hitmansystem.com",
+			"description": "bio is under review for excessive usage of swearing words",
+			"url": "https://t.co/YW04fpUA1N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YW04fpUA1N",
+							"expanded_url": "http://www.kelascinta.com",
+							"display_url": "kelascinta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36122,
+			"friends_count": 3576,
+			"listed_count": 341,
+			"created_at": "Tue Feb 23 12:38:12 +0000 2010",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 190372,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078524159972368384/bCYQ3oZy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078524159972368384/bCYQ3oZy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116738684/1521710214",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 674,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Shit dah masuk fb.. bye teman2... aku sayang kalian semua.. https://t.co/GsZqzU8tNO"
+	},
+	{
+		"created_at": "Fri Apr 19 09:46:45 +0000 2019",
+		"id": 1119163143744135200,
+		"id_str": "1119175491649282048",
+		"full_text": "Kebakaran di bandara Ngurah Rai Bali @KompasTV @Metro_TV @tvOneNews https://t.co/1acKWnYSRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KompasTV",
+					"name": "KOMPAS TV",
+					"id": 71436318,
+					"id_str": "71436318",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"screen_name": "Metro_TV",
+					"name": "METRO TV",
+					"id": 57261519,
+					"id_str": "57261519",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"screen_name": "tvOneNews",
+					"name": "tvOneNews",
+					"id": 55507370,
+					"id_str": "55507370",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119163128619491300,
+					"id_str": "1119163128619491334",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gQ75cUYAYB829.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gQ75cUYAYB829.jpg",
+					"url": "https://t.co/1acKWnYSRJ",
+					"display_url": "pic.twitter.com/1acKWnYSRJ",
+					"expanded_url": "https://twitter.com/meistra/status/1119163143744135170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119163128619491300,
+					"id_str": "1119163128619491334",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gQ75cUYAYB829.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gQ75cUYAYB829.jpg",
+					"url": "https://t.co/1acKWnYSRJ",
+					"display_url": "pic.twitter.com/1acKWnYSRJ",
+					"expanded_url": "https://twitter.com/meistra/status/1119163143744135170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119163128615358500,
+					"id_str": "1119163128615358470",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gQ75bVUAY9wnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gQ75bVUAY9wnu.jpg",
+					"url": "https://t.co/1acKWnYSRJ",
+					"display_url": "pic.twitter.com/1acKWnYSRJ",
+					"expanded_url": "https://twitter.com/meistra/status/1119163143744135170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119163129273782300,
+					"id_str": "1119163129273782272",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gQ774UEAA9BJx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gQ774UEAA9BJx.jpg",
+					"url": "https://t.co/1acKWnYSRJ",
+					"display_url": "pic.twitter.com/1acKWnYSRJ",
+					"expanded_url": "https://twitter.com/meistra/status/1119163143744135170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119163129751986200,
+					"id_str": "1119163129751986176",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D4gQ79qU4AAw_4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4gQ79qU4AAw_4a.jpg",
+					"url": "https://t.co/1acKWnYSRJ",
+					"display_url": "pic.twitter.com/1acKWnYSRJ",
+					"expanded_url": "https://twitter.com/meistra/status/1119163143744135170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52668677,
+			"id_str": "52668677",
+			"name": "meistra budiasa",
+			"screen_name": "meistra",
+			"location": "Jakarta,Indonesia",
+			"description": "lecture",
+			"url": "https://t.co/fx4R0lnGta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fx4R0lnGta",
+							"expanded_url": "http://www.kompasiana.com/meistra",
+							"display_url": "kompasiana.com/meistra",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69,
+			"friends_count": 430,
+			"listed_count": 3,
+			"created_at": "Wed Jul 01 08:12:23 +0000 2009",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1921,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0AF7FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/542971791606419456/ySb3WrcX_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/542971791606419456/ySb3WrcX_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52668677/1375321726",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A63537",
+			"profile_sidebar_fill_color": "FFF200",
+			"profile_text_color": "E30000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kebakaran di bandara Ngurah Rai Bali @KompasTV @Metro_TV @tvOneNews https://t.co/1acKWnYSRJ"
+	},
+	{
+		"created_at": "Fri Apr 19 09:45:03 +0000 2019",
+		"id": 1119175067219312600,
+		"id_str": "1119175067219312640",
+		"full_text": "@YuanitaRamadhan Setuju.. Anak sd simbol kejujuran.  Aku tau nyontek, bolos, bohong dan ngrokok mulai smp",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YuanitaRamadhan",
+					"name": "Yuanita Ramadhani",
+					"id": 130843813,
+					"id_str": "130843813",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119155749454696400,
+		"in_reply_to_status_id_str": "1119155749454696448",
+		"in_reply_to_user_id": 130843813,
+		"in_reply_to_user_id_str": "130843813",
+		"in_reply_to_screen_name": "YuanitaRamadhan",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@YuanitaRamadhan Setuju.. Anak sd simbol kejujuran.  Aku tau nyontek, bolos, bohong dan ngrokok mulai smp"
+	},
+	{
 		"created_at": "Thu Apr 18 23:19:27 +0000 2019",
 		"id": 1119017628624801800,
 		"id_str": "1119017628624801792",
