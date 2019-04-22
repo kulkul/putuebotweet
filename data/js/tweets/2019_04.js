@@ -1,6 +1,1262 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 10:07:44 +0000 2019",
+		"id": 1119905549120725000,
+		"id_str": "1119905549120724992",
+		"full_text": "@basibanget @lelatune Aku pernah naksir anak smp.  .  . Pas aku smp",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "basibanget",
+					"name": "ybs | 马可斯",
+					"id": 242663,
+					"id_str": "242663",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "lelatune",
+					"name": "Zhr",
+					"id": 907914566478078000,
+					"id_str": "907914566478077952",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119864904377233400,
+		"in_reply_to_status_id_str": "1119864904377233408",
+		"in_reply_to_user_id": 242663,
+		"in_reply_to_user_id_str": "242663",
+		"in_reply_to_screen_name": "basibanget",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@basibanget @lelatune Aku pernah naksir anak smp.  .  . Pas aku smp"
+	},
+	{
+		"created_at": "Sun Apr 21 08:20:24 +0000 2019",
+		"id": 1119878536745984000,
+		"id_str": "1119878536745984000",
+		"full_text": "@mike_gregore @MurtadhaOne 45%, walau kalah tapi jumlahnya mengkhawatirkan. Ada sesuatu yg menyebabkan mereka tidak bisa melihat kebaikan seseorang. Semoga itu bukan jumlah yg menginginkan penyeragaman di negeri ini.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_gregore",
+					"name": "Mike Gregore",
+					"id": 809636735550300200,
+					"id_str": "809636735550300160",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MurtadhaOne",
+					"name": "Murtadha01",
+					"id": 363128593,
+					"id_str": "363128593",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119845430160814100,
+		"in_reply_to_status_id_str": "1119845430160814081",
+		"in_reply_to_user_id": 809636735550300200,
+		"in_reply_to_user_id_str": "809636735550300160",
+		"in_reply_to_screen_name": "mike_gregore",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@mike_gregore @MurtadhaOne 45%, walau kalah tapi jumlahnya mengkhawatirkan. Ada sesuatu yg menyebabkan mereka tidak bisa melihat kebaikan seseorang. Semoga itu bukan jumlah yg menginginkan penyeragaman di negeri ini."
+	},
+	{
+		"created_at": "Sun Apr 21 07:49:31 +0000 2019",
+		"id": 1119870768102330400,
+		"id_str": "1119870768102330376",
+		"full_text": "@AgungNovianti Selamat ya\n.. Itu buku bakal beredar di mana?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgungNovianti",
+					"name": "ॐ Agung Novianti",
+					"id": 230600328,
+					"id_str": "230600328",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119803653982867500,
+		"in_reply_to_status_id_str": "1119803653982867456",
+		"in_reply_to_user_id": 230600328,
+		"in_reply_to_user_id_str": "230600328",
+		"in_reply_to_screen_name": "AgungNovianti",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@AgungNovianti Selamat ya\n.. Itu buku bakal beredar di mana?"
+	},
+	{
+		"created_at": "Sun Apr 21 07:10:45 +0000 2019",
+		"id": 1119861010653782000,
+		"id_str": "1119861010653782016",
+		"full_text": "Nama negara ini paling sering salah nulis \"Philippine\".. Rancu sama istilah indonesianya..  Ketukar2 antara penulisan Ph,  F,  P, dobel P,  dobel L.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Nama negara ini paling sering salah nulis \"Philippine\".. Rancu sama istilah indonesianya..  Ketukar2 antara penulisan Ph,  F,  P, dobel P,  dobel L."
+	},
+	{
+		"created_at": "Sun Apr 21 07:04:46 +0000 2019",
+		"id": 1119859503711711200,
+		"id_str": "1119859503711711232",
+		"full_text": "Kata kunci: Donut Ice Cream Sandwich — cuma liat gambarnya aja berasa terapi healing buatku https://t.co/ttALqbgtS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119859383029002200,
+					"id_str": "1119859383029002241",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qKLPPU8AERSG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qKLPPU8AERSG4.jpg",
+					"url": "https://t.co/ttALqbgtS9",
+					"display_url": "pic.twitter.com/ttALqbgtS9",
+					"expanded_url": "https://twitter.com/putuebo/status/1119859503711711232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119859383029002200,
+					"id_str": "1119859383029002241",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qKLPPU8AERSG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qKLPPU8AERSG4.jpg",
+					"url": "https://t.co/ttALqbgtS9",
+					"display_url": "pic.twitter.com/ttALqbgtS9",
+					"expanded_url": "https://twitter.com/putuebo/status/1119859503711711232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119859411613126700,
+					"id_str": "1119859411613126661",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qKM5uUEAUhyM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qKM5uUEAUhyM4.jpg",
+					"url": "https://t.co/ttALqbgtS9",
+					"display_url": "pic.twitter.com/ttALqbgtS9",
+					"expanded_url": "https://twitter.com/putuebo/status/1119859503711711232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 920,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1119859439870206000,
+					"id_str": "1119859439870205952",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qKOi_U4AAFkVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4qKOi_U4AAFkVe.jpg",
+					"url": "https://t.co/ttALqbgtS9",
+					"display_url": "pic.twitter.com/ttALqbgtS9",
+					"expanded_url": "https://twitter.com/putuebo/status/1119859503711711232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kata kunci: Donut Ice Cream Sandwich — cuma liat gambarnya aja berasa terapi healing buatku https://t.co/ttALqbgtS9"
+	},
+	{
+		"created_at": "Sun Apr 21 01:49:10 +0000 2019",
+		"id": 1119563032584052700,
+		"id_str": "1119780081746866177",
+		"full_text": "@YRadianto @BadjaNuswantara @DjanChoek @kangmeirza https://t.co/gIi98hQ3g4",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YRadianto",
+					"name": "Aki Tulalit",
+					"id": 2542665199,
+					"id_str": "2542665199",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "BadjaNuswantara",
+					"name": "Indonesia Maju",
+					"id": 2541716540,
+					"id_str": "2541716540",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "DjanChoek",
+					"name": "Djan Choek Koen",
+					"id": 831639429743677400,
+					"id_str": "831639429743677440",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "kangmeirza",
+					"name": "#JokowiPresidenRI2019-2024",
+					"id": 72010193,
+					"id_str": "72010193",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119563016217882600,
+					"id_str": "1119563016217882625",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4l8oa1U8AEJDDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4l8oa1U8AEJDDU.jpg",
+					"url": "https://t.co/gIi98hQ3g4",
+					"display_url": "pic.twitter.com/gIi98hQ3g4",
+					"expanded_url": "https://twitter.com/KakBejo/status/1119563032584052736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119563016217882600,
+					"id_str": "1119563016217882625",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4l8oa1U8AEJDDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4l8oa1U8AEJDDU.jpg",
+					"url": "https://t.co/gIi98hQ3g4",
+					"display_url": "pic.twitter.com/gIi98hQ3g4",
+					"expanded_url": "https://twitter.com/KakBejo/status/1119563032584052736/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4l8oa1U8AEJDDU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1119515826887856100,
+		"in_reply_to_status_id_str": "1119515826887856130",
+		"in_reply_to_user_id": 2542665199,
+		"in_reply_to_user_id_str": "2542665199",
+		"in_reply_to_screen_name": "YRadianto",
+		"user": {
+			"id": 387621874,
+			"id_str": "387621874",
+			"name": "Dhe PURNAMA",
+			"screen_name": "KakBejo",
+			"location": "Jakarta Timur, DKI Jakarta",
+			"description": "#RakyatnyaJokowiAhok #TukangWarungToyibanPinggirKaliMalang #BukanKaderParteApapun  #CumaRelawanPilkadaDKI2012 #GaPernahFoto2dgnJKWdanAhok #ApalagiNyari2Proyek",
+			"url": "https://t.co/K00pYxcya5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K00pYxcya5",
+							"expanded_url": "http://didicake.com",
+							"display_url": "didicake.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1686,
+			"friends_count": 1091,
+			"listed_count": 13,
+			"created_at": "Sun Oct 09 11:30:08 +0000 2011",
+			"favourites_count": 7478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43030,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903763408264192000/43wHB1Qs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903763408264192000/43wHB1Qs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387621874/1349438752",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@YRadianto @BadjaNuswantara @DjanChoek @kangmeirza https://t.co/gIi98hQ3g4"
+	},
+	{
+		"created_at": "Sun Apr 21 01:23:39 +0000 2019",
+		"id": 1119613687013302300,
+		"id_str": "1119773661450227712",
+		"full_text": "Beginilah jadinya berurusan dengan tukang kayu... https://t.co/HKjPB8hfZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119613683112525800,
+					"id_str": "1119613683112525824",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mqtnuWwAAG4HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mqtnuWwAAG4HF.jpg",
+					"url": "https://t.co/HKjPB8hfZB",
+					"display_url": "pic.twitter.com/HKjPB8hfZB",
+					"expanded_url": "https://twitter.com/P3t3kLt/status/1119613687013302272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 712,
+							"h": 860,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119613683112525800,
+					"id_str": "1119613683112525824",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D4mqtnuWwAAG4HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4mqtnuWwAAG4HF.jpg",
+					"url": "https://t.co/HKjPB8hfZB",
+					"display_url": "pic.twitter.com/HKjPB8hfZB",
+					"expanded_url": "https://twitter.com/P3t3kLt/status/1119613687013302272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 712,
+							"h": 860,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41353144,
+			"id_str": "41353144",
+			"name": "Péték",
+			"screen_name": "P3t3kLt",
+			"location": "",
+			"description": "I believe in Yin & Yang... Everything about diversity & its evolution never ceases to amaze me... oh plus visual arts!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 1071,
+			"listed_count": 22,
+			"created_at": "Wed May 20 13:01:05 +0000 2009",
+			"favourites_count": 6525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20663,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101490632898428928/nBR4Z0SV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101490632898428928/nBR4Z0SV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41353144/1499312035",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 505,
+		"favorite_count": 453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Beginilah jadinya berurusan dengan tukang kayu... https://t.co/HKjPB8hfZB"
+	},
+	{
+		"created_at": "Sun Apr 21 01:22:40 +0000 2019",
+		"id": 1119427699670257700,
+		"id_str": "1119773411272581121",
+		"full_text": "Media asing mulai mengolok-olok Prabowo. Gua yg bukan pendukungnya aja malu berat! \n\nLoser Prabowo Claims Victory. \nhttps://t.co/YmDo1kbeGy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YmDo1kbeGy",
+					"expanded_url": "https://amp.theaustralian.com.au/nation/world/loser-prabowo-claims-victory-on-indonesia/news-story/aaf26f3b01632117d7f7b3f2f84ed0c5?__twitter_impression=true",
+					"display_url": "amp.theaustralian.com.au/nation/world/l…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217471678,
+			"id_str": "217471678",
+			"name": "Save Indonesia",
+			"screen_name": "SaveIDN",
+			"location": "Indonesia",
+			"description": "#SaveIndonesia #SaveRI #IndonesiaBebasKorupsi #DukungKPK #Pluralisme #Toleransi #AntiSARA - Embrace religious and cultural diversity",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8731,
+			"friends_count": 468,
+			"listed_count": 24,
+			"created_at": "Fri Nov 19 16:31:02 +0000 2010",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950049602018844672/vWpBU82F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950049602018844672/vWpBU82F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217471678/1458821166",
+			"profile_link_color": "993D00",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "878487",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Media asing mulai mengolok-olok Prabowo. Gua yg bukan pendukungnya aja malu berat! \n\nLoser Prabowo Claims Victory. \nhttps://t.co/YmDo1kbeGy"
+	},
+	{
+		"created_at": "Sun Apr 21 01:21:25 +0000 2019",
+		"id": 1119773098377535500,
+		"id_str": "1119773098377535488",
+		"full_text": "Pagi ini saya sarapan pakai makanan pokok orang nigeria: indomie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 949,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8804,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Pagi ini saya sarapan pakai makanan pokok orang nigeria: indomie"
+	},
+	{
 		"created_at": "Sun Apr 21 01:13:47 +0000 2019",
 		"id": 1119771177130397700,
 		"id_str": "1119771177130397696",
