@@ -1,6 +1,1295 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 00:12:23 +0000 2019",
+		"id": 1126278707541241900,
+		"id_str": "1126278707541241856",
+		"full_text": "Aku juga pernah ngalamin serupa gini... \nnasib tukang gambar... https://t.co/2Jd0pZwIye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Jd0pZwIye",
+					"expanded_url": "https://twitter.com/soniaanggi/status/1126093028236488706",
+					"display_url": "twitter.com/soniaanggi/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 955,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126093028236488700,
+		"quoted_status_id_str": "1126093028236488706",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Jd0pZwIye",
+			"expanded": "https://twitter.com/soniaanggi/status/1126093028236488706",
+			"display": "twitter.com/soniaanggi/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 08 11:54:34 +0000 2019",
+			"id": 1126093028236488700,
+			"id_str": "1126093028236488706",
+			"full_text": "KESEL BANGET ANJIIIR.\nmanaan abis itu gue yang diblok. bgst. :) https://t.co/P5XXYNUdpX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1126092989560905700,
+						"id_str": "1126092989560905728",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Cvm5LV4AAfw3P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Cvm5LV4AAfw3P.jpg",
+						"url": "https://t.co/P5XXYNUdpX",
+						"display_url": "pic.twitter.com/P5XXYNUdpX",
+						"expanded_url": "https://twitter.com/soniaanggi/status/1126093028236488706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 399,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 704,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1842,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126092989560905700,
+						"id_str": "1126092989560905728",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/D6Cvm5LV4AAfw3P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6Cvm5LV4AAfw3P.jpg",
+						"url": "https://t.co/P5XXYNUdpX",
+						"display_url": "pic.twitter.com/P5XXYNUdpX",
+						"expanded_url": "https://twitter.com/soniaanggi/status/1126093028236488706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 399,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 704,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1842,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73891227,
+				"id_str": "73891227",
+				"name": "Sonia Anggi",
+				"screen_name": "soniaanggi",
+				"location": "+62",
+				"description": "ilustrator gadungan | cupcakes maker | soniaanggi@gmail.com | @ZommonsGraph | https://t.co/UuATFRjfVT",
+				"url": "https://t.co/xk83OYOLzF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xk83OYOLzF",
+								"expanded_url": "http://soniaanggi.blogspot.com",
+								"display_url": "soniaanggi.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UuATFRjfVT",
+								"expanded_url": "http://soniaanggi.tumblr.com",
+								"display_url": "soniaanggi.tumblr.com",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13316,
+				"friends_count": 487,
+				"listed_count": 41,
+				"created_at": "Sun Sep 13 14:15:18 +0000 2009",
+				"favourites_count": 4346,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 71502,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921389085888995328/MaYAKnwn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921389085888995328/MaYAKnwn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73891227/1537879405",
+				"profile_link_color": "37A81B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "202121",
+				"profile_text_color": "CF1313",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5542,
+			"favorite_count": 3927,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Aku juga pernah ngalamin serupa gini... \nnasib tukang gambar... https://t.co/2Jd0pZwIye"
+	},
+	{
+		"created_at": "Thu May 09 00:01:40 +0000 2019",
+		"id": 1126276009794256900,
+		"id_str": "1126276009794256897",
+		"full_text": "Salah satu lagu sulit dinyanyikan yg kusebut2 sbg Revolusi no.8, karena no.9 milik The Beatles. Crushku masa  kecil #KateBush https://t.co/sKwjIK4zZ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KateBush",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126266536069554200,
+					"id_str": "1126266536069554176",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D6FTbwYU0AEQ1N_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6FTbwYU0AEQ1N_.jpg",
+					"url": "https://t.co/sKwjIK4zZ7",
+					"display_url": "pic.twitter.com/sKwjIK4zZ7",
+					"expanded_url": "https://twitter.com/putuebo/status/1126276009794256897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 338,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126266536069554200,
+					"id_str": "1126266536069554176",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D6FTbwYU0AEQ1N_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6FTbwYU0AEQ1N_.jpg",
+					"url": "https://t.co/sKwjIK4zZ7",
+					"display_url": "pic.twitter.com/sKwjIK4zZ7",
+					"expanded_url": "https://twitter.com/putuebo/status/1126276009794256897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 338,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 338,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 338,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							301,
+							240
+						],
+						"duration_millis": 114315,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1126266536069554176/vid/450x360/ipSiueA6_92BgzAp.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1126266536069554176/pl/e1km9O8KrnhST-In.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1126266536069554176/vid/602x480/Di7wCK8o0mtS4pst.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1126266536069554176/vid/338x270/NjnWtBTKjLDiGYO1.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " Kate Bush - Wuthering Heights",
+						"description": "Live in 1978",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/results?search_query=Kate+Bush+Wuthering+Heights"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 955,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Salah satu lagu sulit dinyanyikan yg kusebut2 sbg Revolusi no.8, karena no.9 milik The Beatles. Crushku masa  kecil #KateBush https://t.co/sKwjIK4zZ7"
+	},
+	{
+		"created_at": "Wed May 08 15:04:39 +0000 2019",
+		"id": 1126140863703158800,
+		"id_str": "1126140863703158784",
+		"full_text": "@baciritaID Waw bagus..😍😍 \nKupikir gitarisnya kidal.. Ternyata videonya di-mirror",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baciritaID",
+					"name": "Papa Online",
+					"id": 921087224,
+					"id_str": "921087224",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1125744594769940500,
+		"in_reply_to_status_id_str": "1125744594769940480",
+		"in_reply_to_user_id": 921087224,
+		"in_reply_to_user_id_str": "921087224",
+		"in_reply_to_screen_name": "baciritaID",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 955,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@baciritaID Waw bagus..😍😍 \nKupikir gitarisnya kidal.. Ternyata videonya di-mirror"
+	},
+	{
+		"created_at": "Wed May 08 14:05:35 +0000 2019",
+		"id": 1126126001505886200,
+		"id_str": "1126126001505886208",
+		"full_text": "Habis masa Avengers muncul kemudian ragam versi tim lanjutan.. diantaranya: Young Avengers, Avengers Now, Next Avengers, USAvengers, The Thunderbolts. Nggak terlalu ngikutin komik cuma berharap suatu saat mereka difilmkan juga https://t.co/SVOB2SeAvc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126125337555886100,
+					"id_str": "1126125337555886081",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D6DNBy2V4AE9MPe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6DNBy2V4AE9MPe.jpg",
+					"url": "https://t.co/SVOB2SeAvc",
+					"display_url": "pic.twitter.com/SVOB2SeAvc",
+					"expanded_url": "https://twitter.com/putuebo/status/1126126001505886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126125337555886100,
+					"id_str": "1126125337555886081",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D6DNBy2V4AE9MPe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6DNBy2V4AE9MPe.jpg",
+					"url": "https://t.co/SVOB2SeAvc",
+					"display_url": "pic.twitter.com/SVOB2SeAvc",
+					"expanded_url": "https://twitter.com/putuebo/status/1126126001505886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 414,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126125469470867500,
+					"id_str": "1126125469470867456",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D6DNJeRUwAAWZn2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6DNJeRUwAAWZn2.jpg",
+					"url": "https://t.co/SVOB2SeAvc",
+					"display_url": "pic.twitter.com/SVOB2SeAvc",
+					"expanded_url": "https://twitter.com/putuebo/status/1126126001505886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1138,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 538,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1138,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126125743052714000,
+					"id_str": "1126125743052713985",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D6DNZZcUcAETc0g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6DNZZcUcAETc0g.jpg",
+					"url": "https://t.co/SVOB2SeAvc",
+					"display_url": "pic.twitter.com/SVOB2SeAvc",
+					"expanded_url": "https://twitter.com/putuebo/status/1126126001505886208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1765,
+							"h": 1513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1029,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1428,
+			"friends_count": 955,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Habis masa Avengers muncul kemudian ragam versi tim lanjutan.. diantaranya: Young Avengers, Avengers Now, Next Avengers, USAvengers, The Thunderbolts. Nggak terlalu ngikutin komik cuma berharap suatu saat mereka difilmkan juga https://t.co/SVOB2SeAvc"
+	},
+	{
+		"created_at": "Wed May 08 12:59:17 +0000 2019",
+		"id": 1126016248226041900,
+		"id_str": "1126109315402616832",
+		"full_text": "2020 Bali Merdeka? https://t.co/xW7WXpTlh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126016224247173100,
+					"id_str": "1126016224247173120",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D6BpykGUUAA7dRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6BpykGUUAA7dRI.jpg",
+					"url": "https://t.co/xW7WXpTlh9",
+					"display_url": "pic.twitter.com/xW7WXpTlh9",
+					"expanded_url": "https://twitter.com/JRX_SID/status/1126016248226041861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1146,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126016224247173100,
+					"id_str": "1126016224247173120",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D6BpykGUUAA7dRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6BpykGUUAA7dRI.jpg",
+					"url": "https://t.co/xW7WXpTlh9",
+					"display_url": "pic.twitter.com/xW7WXpTlh9",
+					"expanded_url": "https://twitter.com/JRX_SID/status/1126016248226041861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1146,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1126016230953852900,
+					"id_str": "1126016230953852928",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Bpy9FUIAAjnk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Bpy9FUIAAjnk_.jpg",
+					"url": "https://t.co/xW7WXpTlh9",
+					"display_url": "pic.twitter.com/xW7WXpTlh9",
+					"expanded_url": "https://twitter.com/JRX_SID/status/1126016248226041861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1146,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83506024,
+			"id_str": "83506024",
+			"name": "JRX",
+			"screen_name": "JRX_SID",
+			"location": "Kuta Rock City",
+			"description": "🥁 @SID_official 🎤🎸 @DEVlLDICE. CEO of @Twice_Bali - @xRMBLx - @Rumble_Empire @HouseOfRumble - @TheRumbleShop @Rumble_Girl & @Bong_Hostel IG: JRXSID",
+			"url": "https://t.co/T0hviT6Pqp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T0hviT6Pqp",
+							"expanded_url": "http://www.facebook.com/JRXSID",
+							"display_url": "facebook.com/JRXSID",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368297,
+			"friends_count": 210,
+			"listed_count": 988,
+			"created_at": "Mon Oct 19 02:43:55 +0000 2009",
+			"favourites_count": 5531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54744,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086165601389694976/NKBUQ5ax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086165601389694976/NKBUQ5ax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83506024/1358403622",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "in",
+		"text": "2020 Bali Merdeka? https://t.co/xW7WXpTlh9"
+	},
+	{
+		"created_at": "Wed May 08 12:53:29 +0000 2019",
+		"id": 1125719696626470900,
+		"id_str": "1126107854555893761",
+		"full_text": "Deep https://t.co/NdSHV2qI2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125719683527667700,
+					"id_str": "1125719683527667712",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D59cFn1U8AA9LQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D59cFn1U8AA9LQh.jpg",
+					"url": "https://t.co/NdSHV2qI2d",
+					"display_url": "pic.twitter.com/NdSHV2qI2d",
+					"expanded_url": "https://twitter.com/TretanMuslim/status/1125719696626470913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 951,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125719683527667700,
+					"id_str": "1125719683527667712",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D59cFn1U8AA9LQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D59cFn1U8AA9LQh.jpg",
+					"url": "https://t.co/NdSHV2qI2d",
+					"display_url": "pic.twitter.com/NdSHV2qI2d",
+					"expanded_url": "https://twitter.com/TretanMuslim/status/1125719696626470913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 951,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125719689752039400,
+					"id_str": "1125719689752039425",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/D59cF_BVUAEdpXN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D59cF_BVUAEdpXN.jpg",
+					"url": "https://t.co/NdSHV2qI2d",
+					"display_url": "pic.twitter.com/NdSHV2qI2d",
+					"expanded_url": "https://twitter.com/TretanMuslim/status/1125719696626470913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 533359500,
+			"id_str": "533359500",
+			"name": "Pro Chef",
+			"screen_name": "TretanMuslim",
+			"location": "Tretan Live Everywhere",
+			"description": "Lulusan D3 Keperawatan. DOTA 2 Player | Wearing @oursinsclothes |",
+			"url": "https://t.co/94A0gfzFTg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/94A0gfzFTg",
+							"expanded_url": "http://bit.ly/KontenInspiratif",
+							"display_url": "bit.ly/KontenInspirat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143662,
+			"friends_count": 667,
+			"listed_count": 130,
+			"created_at": "Thu Mar 22 16:23:13 +0000 2012",
+			"favourites_count": 3693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF0A33",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114066274798059520/no7FCbC0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114066274798059520/no7FCbC0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/533359500/1454392669",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16180,
+		"favorite_count": 10673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deep https://t.co/NdSHV2qI2d"
+	},
+	{
 		"created_at": "Tue May 07 09:38:56 +0000 2019",
 		"id": 1125696509377433600,
 		"id_str": "1125696509377433600",
