@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 10:02:47 +0000 2019",
+		"id": 1127132766179455000,
+		"id_str": "1127152061831729152",
+		"full_text": "Dear Warga Bekasi yg menolak pembangunan Pura. \nSaya cuma mau bilang \n\n\"NASKLENG!!\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127126347497623600,
+		"in_reply_to_status_id_str": "1127126347497623552",
+		"in_reply_to_user_id": 1471555380,
+		"in_reply_to_user_id_str": "1471555380",
+		"in_reply_to_screen_name": "maelaniee",
+		"user": {
+			"id": 1471555380,
+			"id_str": "1471555380",
+			"name": "Mel",
+			"screen_name": "maelaniee",
+			"location": "Bali, Indonesia",
+			"description": "Isi Otak sama pentingnya dengan isi Sempak :)",
+			"url": "https://t.co/Q5prflL67I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5prflL67I",
+							"expanded_url": "http://instagram.com/melanisye",
+							"display_url": "instagram.com/melanisye",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Fri May 31 07:33:26 +0000 2013",
+			"favourites_count": 1367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125030987807649792/fi1PvHm5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125030987807649792/fi1PvHm5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471555380/1438579249",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Dear Warga Bekasi yg menolak pembangunan Pura. \nSaya cuma mau bilang \n\n\"NASKLENG!!\""
+	},
+	{
+		"created_at": "Sat May 11 09:59:01 +0000 2019",
+		"id": 1127126400542969900,
+		"id_str": "1127151114237820928",
+		"full_text": "an ojek for every need ❤️ https://t.co/NPZDuH5lf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127126380330668000,
+					"id_str": "1127126380330668032",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D6RbeJyU0AAiJDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6RbeJyU0AAiJDA.jpg",
+					"url": "https://t.co/NPZDuH5lf0",
+					"display_url": "pic.twitter.com/NPZDuH5lf0",
+					"expanded_url": "https://twitter.com/YoGojekYo/status/1127126400542969856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 631,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 631,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 631,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127126380330668000,
+					"id_str": "1127126380330668032",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D6RbeJyU0AAiJDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6RbeJyU0AAiJDA.jpg",
+					"url": "https://t.co/NPZDuH5lf0",
+					"display_url": "pic.twitter.com/NPZDuH5lf0",
+					"expanded_url": "https://twitter.com/YoGojekYo/status/1127126400542969856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 631,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 631,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 631,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127126384004829200,
+					"id_str": "1127126384004829184",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D6RbeXeUEAAZNJL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6RbeXeUEAAZNJL.jpg",
+					"url": "https://t.co/NPZDuH5lf0",
+					"display_url": "pic.twitter.com/NPZDuH5lf0",
+					"expanded_url": "https://twitter.com/YoGojekYo/status/1127126400542969856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 459,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 459,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127126386785701900,
+					"id_str": "1127126386785701888",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Rbeh1U0AAgDFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Rbeh1U0AAgDFv.jpg",
+					"url": "https://t.co/NPZDuH5lf0",
+					"display_url": "pic.twitter.com/NPZDuH5lf0",
+					"expanded_url": "https://twitter.com/YoGojekYo/status/1127126400542969856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 601,
+							"h": 830,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 601,
+							"h": 830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127126397745369100,
+					"id_str": "1127126397745369088",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/D6RbfKqUEAAMn6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6RbfKqUEAAMn6x.jpg",
+					"url": "https://t.co/NPZDuH5lf0",
+					"display_url": "pic.twitter.com/NPZDuH5lf0",
+					"expanded_url": "https://twitter.com/YoGojekYo/status/1127126400542969856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 518,
+							"h": 895,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 895,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 922411499653435400,
+			"id_str": "922411499653435399",
+			"name": "GojekMilenial",
+			"screen_name": "YoGojekYo",
+			"location": "Indonesia",
+			"description": "Orangnya penakut.....\nLewat Jalur Busway gak berani, Terobos lampu merah gak berani, apalagi lawan arus\n#BornToRide #DearCustomers #AntiOfikOfikClub #photophoto",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2355,
+			"friends_count": 115,
+			"listed_count": 3,
+			"created_at": "Mon Oct 23 10:36:53 +0000 2017",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16126,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122265421850136576/fVp-4sNO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122265421850136576/fVp-4sNO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/922411499653435399/1538633101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6925,
+		"favorite_count": 5250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "an ojek for every need ❤️ https://t.co/NPZDuH5lf0"
+	},
+	{
+		"created_at": "Sat May 11 03:44:35 +0000 2019",
+		"id": 1127056884148498400,
+		"id_str": "1127056884148498432",
+		"full_text": "@mdjananuraga Dia memang lagi ngerekam bukan nonton bokep. Coba amati pelan2 dg seksama. Coba bijaksana dlm bersosmed karena Menyebarkan fitnah dan hoax bukan cara kita...",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdjananuraga",
+					"name": "jana nuraga",
+					"id": 903944334,
+					"id_str": "903944334",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127006664295452700,
+		"in_reply_to_status_id_str": "1127006664295452674",
+		"in_reply_to_user_id": 903944334,
+		"in_reply_to_user_id_str": "903944334",
+		"in_reply_to_screen_name": "mdjananuraga",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@mdjananuraga Dia memang lagi ngerekam bukan nonton bokep. Coba amati pelan2 dg seksama. Coba bijaksana dlm bersosmed karena Menyebarkan fitnah dan hoax bukan cara kita..."
+	},
+	{
+		"created_at": "Sat May 11 03:33:58 +0000 2019",
+		"id": 1127054212171350000,
+		"id_str": "1127054212171350016",
+		"full_text": "@lesandra161 Ini saya tampilin gambar penjelas.. tidak ada onani yg tampak.. gambar yg zoom dan blur hanya menyebabkan imajinasi kita liar tapi sebenarnya jelas lagi ngerekam.  Fitnah dan Hoax bukan cara kita, jadi mohon segera dihapus sebelum tersebar dan tampak bodoh https://t.co/5mbmf4RyuE",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lesandra161",
+					"name": "sandra natalia",
+					"id": 853082621147885600,
+					"id_str": "853082621147885568",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127053395750047700,
+					"id_str": "1127053395750047744",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D6QZF5CUUAAs8Ho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6QZF5CUUAAs8Ho.jpg",
+					"url": "https://t.co/5mbmf4RyuE",
+					"display_url": "pic.twitter.com/5mbmf4RyuE",
+					"expanded_url": "https://twitter.com/putuebo/status/1127054212171350016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127053395750047700,
+					"id_str": "1127053395750047744",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D6QZF5CUUAAs8Ho.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6QZF5CUUAAs8Ho.jpg",
+					"url": "https://t.co/5mbmf4RyuE",
+					"display_url": "pic.twitter.com/5mbmf4RyuE",
+					"expanded_url": "https://twitter.com/putuebo/status/1127054212171350016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 697,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126678701989515300,
+		"in_reply_to_status_id_str": "1126678701989515267",
+		"in_reply_to_user_id": 853082621147885600,
+		"in_reply_to_user_id_str": "853082621147885568",
+		"in_reply_to_screen_name": "lesandra161",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@lesandra161 Ini saya tampilin gambar penjelas.. tidak ada onani yg tampak.. gambar yg zoom dan blur hanya menyebabkan imajinasi kita liar tapi sebenarnya jelas lagi ngerekam.  Fitnah dan Hoax bukan cara kita, jadi mohon segera dihapus sebelum tersebar dan tampak bodoh https://t.co/5mbmf4RyuE"
+	},
+	{
 		"created_at": "Fri May 10 15:55:32 +0000 2019",
 		"id": 1126878443759591400,
 		"id_str": "1126878443759591427",
