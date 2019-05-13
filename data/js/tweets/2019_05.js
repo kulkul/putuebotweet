@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 05:04:17 +0000 2019",
+		"id": 1127123317100429300,
+		"id_str": "1127439328898994177",
+		"full_text": "Niat hati ingin ambil angklung buat keliling bangunin sahur. Angklung nya malah main sendiri. 😨 https://t.co/UhcxorQKbP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127122250040205300,
+					"id_str": "1127122250040205319",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127122250040205319/pu/img/Nd-4BXGZDo1F4jvG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127122250040205319/pu/img/Nd-4BXGZDo1F4jvG.jpg",
+					"url": "https://t.co/UhcxorQKbP",
+					"display_url": "pic.twitter.com/UhcxorQKbP",
+					"expanded_url": "https://twitter.com/topha22/status/1127123317100429312/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127122250040205300,
+					"id_str": "1127122250040205319",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127122250040205319/pu/img/Nd-4BXGZDo1F4jvG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127122250040205319/pu/img/Nd-4BXGZDo1F4jvG.jpg",
+					"url": "https://t.co/UhcxorQKbP",
+					"display_url": "pic.twitter.com/UhcxorQKbP",
+					"expanded_url": "https://twitter.com/topha22/status/1127123317100429312/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 44899,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127122250040205319/pu/vid/352x640/H4yzpBMOYKYXccrd.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1127122250040205319/pu/pl/GVCKumGfpWWMEhP6.m3u8?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1127122250040205319/pu/vid/320x580/Swdmq53O4glGdJPS.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248511872,
+			"id_str": "248511872",
+			"name": "iskandar mustofa",
+			"screen_name": "topha22",
+			"location": "Yogyakarta",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329,
+			"friends_count": 227,
+			"listed_count": 0,
+			"created_at": "Mon Feb 07 04:38:11 +0000 2011",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/837591360832077824/Tb0nBK7u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/837591360832077824/Tb0nBK7u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248511872/1401780329",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31094,
+		"favorite_count": 20428,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Niat hati ingin ambil angklung buat keliling bangunin sahur. Angklung nya malah main sendiri. 😨 https://t.co/UhcxorQKbP"
+	},
+	{
 		"created_at": "Sat May 11 10:02:47 +0000 2019",
 		"id": 1127132766179455000,
 		"id_str": "1127152061831729152",
