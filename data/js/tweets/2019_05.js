@@ -1,6 +1,6593 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 13:27:19 +0000 2019",
+		"id": 1128653083922186200,
+		"id_str": "1128653083922186240",
+		"full_text": "@rizal_ermit @Beritasatu Sayang ga ada wanita yg menarik di kubu sono. Kalo ikut telanjang dadapun malah bikin eneg",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rizal_ermit",
+					"name": "R- MIT.",
+					"id": 548187790,
+					"id_str": "548187790",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Beritasatu",
+					"name": "BeritaSatu",
+					"id": 154102750,
+					"id_str": "154102750",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128647020971823100,
+		"in_reply_to_status_id_str": "1128647020971823104",
+		"in_reply_to_user_id": 548187790,
+		"in_reply_to_user_id_str": "548187790",
+		"in_reply_to_screen_name": "rizal_ermit",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@rizal_ermit @Beritasatu Sayang ga ada wanita yg menarik di kubu sono. Kalo ikut telanjang dadapun malah bikin eneg"
+	},
+	{
+		"created_at": "Wed May 15 12:59:59 +0000 2019",
+		"id": 1128646205494288400,
+		"id_str": "1128646205494288384",
+		"full_text": "@Tikayulie @Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Kusiapin ya. Di google books sih bukunya masih ada tapi tidak free (free 18 pages aja) khazanah negeriku mengenal 33 provinsi di Indonesia (tidak relevan karena sekarang 34).",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			305
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128643666916982800,
+		"in_reply_to_status_id_str": "1128643666916982786",
+		"in_reply_to_user_id": 2578489476,
+		"in_reply_to_user_id_str": "2578489476",
+		"in_reply_to_screen_name": "Tikayulie",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Tikayulie @Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Kusiapin ya. Di google books sih bukunya masih ada tapi tidak free (free 18 pages aja) khazanah negeriku mengenal 33 provinsi di Indonesia (tidak relevan karena sekarang 34)."
+	},
+	{
+		"created_at": "Wed May 15 12:53:39 +0000 2019",
+		"id": 1128644614607392800,
+		"id_str": "1128644614607392769",
+		"full_text": "@pasektohpati @Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Kars104 Oo pasti. Suksma dukungannya..",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128643836366819300,
+		"in_reply_to_status_id_str": "1128643836366819328",
+		"in_reply_to_user_id": 138002353,
+		"in_reply_to_user_id_str": "138002353",
+		"in_reply_to_screen_name": "pasektohpati",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@pasektohpati @Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Kars104 Oo pasti. Suksma dukungannya.."
+	},
+	{
+		"created_at": "Wed May 15 12:39:24 +0000 2019",
+		"id": 1128641024505466900,
+		"id_str": "1128641024505466881",
+		"full_text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Tugas berat mas. Tidak semudah melupakan gebetan masa lalu.\n\nSaya dan teman2 ada rencana membagikan satu buku lama kami ttg budaya nusantara secara online gratis, butuh sedikit pembaharuan dalam waktu dekat. semoga bermanfaat https://t.co/vdP94Dosjs",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			380
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vdP94Dosjs",
+					"expanded_url": "https://books.google.co.id/books/about/Khazanah_Negeriku_Mengenal_33_Provinsi_d.html?id=M5CCCgAAQBAJ&redir_esc=y",
+					"display_url": "books.google.co.id/books/about/Kh…",
+					"indices": [
+						357,
+						380
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128639275098984400,
+		"in_reply_to_status_id_str": "1128639275098984449",
+		"in_reply_to_user_id": 2883487254,
+		"in_reply_to_user_id_str": "2883487254",
+		"in_reply_to_screen_name": "Next_J2P",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Tugas berat mas. Tidak semudah melupakan gebetan masa lalu.\n\nSaya dan teman2 ada rencana membagikan satu buku lama kami ttg budaya nusantara secara online gratis, butuh sedikit pembaharuan dalam waktu dekat. semoga bermanfaat https://t.co/vdP94Dosjs"
+	},
+	{
+		"created_at": "Wed May 15 12:23:23 +0000 2019",
+		"id": 1128636994232377300,
+		"id_str": "1128636994232377344",
+		"full_text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Saya salut mas dan teman2... siapa tau saya bisa bantu. Mungkin bisa nyumbang dalam bentuk media propaganda atau ilustrasi.",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128635432114110500,
+		"in_reply_to_status_id_str": "1128635432114110464",
+		"in_reply_to_user_id": 2883487254,
+		"in_reply_to_user_id_str": "2883487254",
+		"in_reply_to_screen_name": "Next_J2P",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Saya salut mas dan teman2... siapa tau saya bisa bantu. Mungkin bisa nyumbang dalam bentuk media propaganda atau ilustrasi."
+	},
+	{
+		"created_at": "Wed May 15 12:13:30 +0000 2019",
+		"id": 1128634507723034600,
+		"id_str": "1128634507723034624",
+		"full_text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Saya amati dan pahami. Kondisi negara saat ini menyebabkan saya tidak bebas membahas. Bisa2 kena pasal penistaan. Gerakan kami selama ini hanya tersirat lewat kartun",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128631688169312300,
+		"in_reply_to_status_id_str": "1128631688169312256",
+		"in_reply_to_user_id": 2883487254,
+		"in_reply_to_user_id_str": "2883487254",
+		"in_reply_to_screen_name": "Next_J2P",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Saya amati dan pahami. Kondisi negara saat ini menyebabkan saya tidak bebas membahas. Bisa2 kena pasal penistaan. Gerakan kami selama ini hanya tersirat lewat kartun"
+	},
+	{
+		"created_at": "Wed May 15 11:54:21 +0000 2019",
+		"id": 1128629688589377500,
+		"id_str": "1128629688589377536",
+		"full_text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Saya setuju dg salah satu komen pd pos tsb: Keyakinan adalah hak. Intolerant yg Kita lawan",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128627440169832400,
+		"in_reply_to_status_id_str": "1128627440169832448",
+		"in_reply_to_user_id": 2883487254,
+		"in_reply_to_user_id_str": "2883487254",
+		"in_reply_to_screen_name": "Next_J2P",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Next_J2P @AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Saya setuju dg salah satu komen pd pos tsb: Keyakinan adalah hak. Intolerant yg Kita lawan"
+	},
+	{
+		"created_at": "Wed May 15 11:40:59 +0000 2019",
+		"id": 1128626326011695100,
+		"id_str": "1128626326011695104",
+		"full_text": "@AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Nggih niki patut bli. Tiyang setuju... saya juga bicara dalam koridor 'semangat berekspresi' jangan sampai menghakimi ekspresi selama tidak merugikan org lain.",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128624298912915500,
+		"in_reply_to_status_id_str": "1128624298912915458",
+		"in_reply_to_user_id": 816321120,
+		"in_reply_to_user_id_str": "816321120",
+		"in_reply_to_screen_name": "AntoniusMade",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Nggih niki patut bli. Tiyang setuju... saya juga bicara dalam koridor 'semangat berekspresi' jangan sampai menghakimi ekspresi selama tidak merugikan org lain."
+	},
+	{
+		"created_at": "Wed May 15 11:27:29 +0000 2019",
+		"id": 1128622929481089000,
+		"id_str": "1128622929481089024",
+		"full_text": "@AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Itu sikap bli, tiyang hargai. Topik ini sudah beres tadi sore. Kalau diskusi ini ingin dilanjutkan untuk menambah wawasan saya ladeni. Tapi kalo sekadar muasin ego dgn mencari2 kesalahan buat bilang saya 'belog\" &amp; 'ngeyel', saya layani diskusi verbal dunia nyata.",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			398
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntoniusMade",
+					"name": "I Made Antonius W",
+					"id": 816321120,
+					"id_str": "816321120",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128619260685590500,
+		"in_reply_to_status_id_str": "1128619260685590528",
+		"in_reply_to_user_id": 816321120,
+		"in_reply_to_user_id_str": "816321120",
+		"in_reply_to_screen_name": "AntoniusMade",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d88db2919bf03a65",
+			"url": "https://api.twitter.com/1.1/geo/id/d88db2919bf03a65.json",
+			"place_type": "city",
+			"name": "East Denpasar",
+			"full_name": "East Denpasar, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.2141769,
+							-8.6750868
+						],
+						[
+							115.274881,
+							-8.6750868
+						],
+						[
+							115.274881,
+							-8.591728
+						],
+						[
+							115.2141769,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@AntoniusMade @babakanpule @nithasist @Luh_Jin66an @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Itu sikap bli, tiyang hargai. Topik ini sudah beres tadi sore. Kalau diskusi ini ingin dilanjutkan untuk menambah wawasan saya ladeni. Tapi kalo sekadar muasin ego dgn mencari2 kesalahan buat bilang saya 'belog\" &amp; 'ngeyel', saya layani diskusi verbal dunia nyata."
+	},
+	{
+		"created_at": "Wed May 15 10:13:20 +0000 2019",
+		"id": 1128604266568896500,
+		"id_str": "1128604266568896512",
+		"full_text": "Jogging Track Anggabaya Denpasar.. https://t.co/D1MYoLMT4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128604245161234400,
+					"id_str": "1128604245161234432",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mblNTVUAAvCuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mblNTVUAAvCuL.jpg",
+					"url": "https://t.co/D1MYoLMT4g",
+					"display_url": "pic.twitter.com/D1MYoLMT4g",
+					"expanded_url": "https://twitter.com/putuebo/status/1128604266568896512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128604245161234400,
+					"id_str": "1128604245161234432",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/D6mblNTVUAAvCuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6mblNTVUAAvCuL.jpg",
+					"url": "https://t.co/D1MYoLMT4g",
+					"display_url": "pic.twitter.com/D1MYoLMT4g",
+					"expanded_url": "https://twitter.com/putuebo/status/1128604266568896512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9efcd37087001",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9efcd37087001.json",
+			"place_type": "poi",
+			"name": "Pasar Kerta Waringin Sari",
+			"full_name": "Pasar Kerta Waringin Sari",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.23308464138753,
+							-8.597537751704087
+						],
+						[
+							115.23308464138753,
+							-8.597537751704087
+						],
+						[
+							115.23308464138753,
+							-8.597537751704087
+						],
+						[
+							115.23308464138753,
+							-8.597537751704087
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Jogging Track Anggabaya Denpasar.. https://t.co/D1MYoLMT4g"
+	},
+	{
+		"created_at": "Wed May 15 09:35:43 +0000 2019",
+		"id": 1128594799173312500,
+		"id_str": "1128594799173312512",
+		"full_text": "Melawan bigot pake metode bigot.. saya ngga ikut-ikutan dah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Melawan bigot pake metode bigot.. saya ngga ikut-ikutan dah"
+	},
+	{
+		"created_at": "Wed May 15 07:35:32 +0000 2019",
+		"id": 1128564555364175900,
+		"id_str": "1128564555364175874",
+		"full_text": "@wakilgubernurKW Dang..  sekalian pasang foto artis kpop. Terbukti foto bisa mengalihkan org2 yg tak punya pilihan jadi nyoblos",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakilgubernurKW",
+					"name": "#JokowiTakutFPI👎",
+					"id": 2917057741,
+					"id_str": "2917057741",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128560940494909400,
+		"in_reply_to_status_id_str": "1128560940494909440",
+		"in_reply_to_user_id": 2917057741,
+		"in_reply_to_user_id_str": "2917057741",
+		"in_reply_to_screen_name": "wakilgubernurKW",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@wakilgubernurKW Dang..  sekalian pasang foto artis kpop. Terbukti foto bisa mengalihkan org2 yg tak punya pilihan jadi nyoblos"
+	},
+	{
+		"created_at": "Wed May 15 07:24:03 +0000 2019",
+		"id": 1128561665195143200,
+		"id_str": "1128561665195143168",
+		"full_text": "@Next_J2P @babakanpule @Luh_Jin66an @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Terimakasih 😊",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128555864556691500,
+		"in_reply_to_status_id_str": "1128555864556691456",
+		"in_reply_to_user_id": 2883487254,
+		"in_reply_to_user_id_str": "2883487254",
+		"in_reply_to_screen_name": "Next_J2P",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Next_J2P @babakanpule @Luh_Jin66an @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @pasektohpati @Kars104 Terimakasih 😊"
+	},
+	{
+		"created_at": "Wed May 15 07:23:01 +0000 2019",
+		"id": 1128561404770783200,
+		"id_str": "1128561404770783232",
+		"full_text": "@Luh_Jin66an Wkwkw ada gambar eroticnya 😊. Thanks ya.. beliau sudah ku follow",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128559642538270700,
+		"in_reply_to_status_id_str": "1128559642538270720",
+		"in_reply_to_user_id": 901409624540061700,
+		"in_reply_to_user_id_str": "901409624540061696",
+		"in_reply_to_screen_name": "Luh_Jin66an",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Luh_Jin66an Wkwkw ada gambar eroticnya 😊. Thanks ya.. beliau sudah ku follow"
+	},
+	{
+		"created_at": "Wed May 15 07:11:30 +0000 2019",
+		"id": 1128558508780150800,
+		"id_str": "1128558508780150784",
+		"full_text": "@Luh_Jin66an Cool.. kakaknya ada karya kartun humor?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128555374343180300,
+		"in_reply_to_status_id_str": "1128555374343180289",
+		"in_reply_to_user_id": 901409624540061700,
+		"in_reply_to_user_id_str": "901409624540061696",
+		"in_reply_to_screen_name": "Luh_Jin66an",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Luh_Jin66an Cool.. kakaknya ada karya kartun humor?"
+	},
+	{
+		"created_at": "Wed May 15 07:04:59 +0000 2019",
+		"id": 1128556866919776300,
+		"id_str": "1128556866919776256",
+		"full_text": "@Luh_Jin66an @babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 O lebih ke karikatur ya. Diskusi ginian di jalur terpisah saja supaya tidak rame rame he he. Topiknya sudah beda...",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128555374343180300,
+		"in_reply_to_status_id_str": "1128555374343180289",
+		"in_reply_to_user_id": 901409624540061700,
+		"in_reply_to_user_id_str": "901409624540061696",
+		"in_reply_to_screen_name": "Luh_Jin66an",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Luh_Jin66an @babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 O lebih ke karikatur ya. Diskusi ginian di jalur terpisah saja supaya tidak rame rame he he. Topiknya sudah beda..."
+	},
+	{
+		"created_at": "Wed May 15 06:56:54 +0000 2019",
+		"id": 1128554833680560100,
+		"id_str": "1128554833680560128",
+		"full_text": "@Tikayulie @babakanpule @Luh_Jin66an @nithasist @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 \"Makanya jangan disebut sebagai budaya bali\"",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128554520626192400,
+		"in_reply_to_status_id_str": "1128554520626192385",
+		"in_reply_to_user_id": 2578489476,
+		"in_reply_to_user_id_str": "2578489476",
+		"in_reply_to_screen_name": "Tikayulie",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Tikayulie @babakanpule @Luh_Jin66an @nithasist @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 \"Makanya jangan disebut sebagai budaya bali\""
+	},
+	{
+		"created_at": "Wed May 15 06:55:50 +0000 2019",
+		"id": 1128554565673017300,
+		"id_str": "1128554565673017344",
+		"full_text": "@Tikayulie @nithasist @babakanpule @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Baiklah",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128551031577530400,
+		"in_reply_to_status_id_str": "1128551031577530369",
+		"in_reply_to_user_id": 2578489476,
+		"in_reply_to_user_id_str": "2578489476",
+		"in_reply_to_screen_name": "Tikayulie",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Tikayulie @nithasist @babakanpule @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Baiklah"
+	},
+	{
+		"created_at": "Wed May 15 06:53:33 +0000 2019",
+		"id": 1128553991963418600,
+		"id_str": "1128553991963418625",
+		"full_text": "@babakanpule @Luh_Jin66an @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Ya saya salah. Ampura",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128553875437379600,
+		"in_reply_to_status_id_str": "1128553875437379584",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @Luh_Jin66an @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Ya saya salah. Ampura"
+	},
+	{
+		"created_at": "Wed May 15 06:51:56 +0000 2019",
+		"id": 1128553585141092400,
+		"id_str": "1128553585141092353",
+		"full_text": "@babakanpule @Luh_Jin66an @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Saya tidak maksud demikian. Corat coret kelulusan itu ekspresi. Saya membandingkan dg: seni di bali juga awalnya ekspresi. Mengkotak kotakan seni kan bahasan filsafat. Kita punya keterbatasan kosa bahasa di sini. Ampura. Lanjutkan diskusi di dunia nyata saja jika minat",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			386
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128551794521460700,
+		"in_reply_to_status_id_str": "1128551794521460736",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @Luh_Jin66an @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Saya tidak maksud demikian. Corat coret kelulusan itu ekspresi. Saya membandingkan dg: seni di bali juga awalnya ekspresi. Mengkotak kotakan seni kan bahasan filsafat. Kita punya keterbatasan kosa bahasa di sini. Ampura. Lanjutkan diskusi di dunia nyata saja jika minat"
+	},
+	{
+		"created_at": "Wed May 15 06:45:45 +0000 2019",
+		"id": 1128552029276663800,
+		"id_str": "1128552029276663808",
+		"full_text": "@Luh_Jin66an @babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Kalau ada contoh karya kakaknya bilangin ya. Siapa tahu cocok.. bbrapa kali kita bikin pameran. Juga ada ruang untuk pemula.",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128550588449378300,
+		"in_reply_to_status_id_str": "1128550588449378306",
+		"in_reply_to_user_id": 901409624540061700,
+		"in_reply_to_user_id_str": "901409624540061696",
+		"in_reply_to_screen_name": "Luh_Jin66an",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Luh_Jin66an @babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Next_J2P @pasektohpati @Kars104 Kalau ada contoh karya kakaknya bilangin ya. Siapa tahu cocok.. bbrapa kali kita bikin pameran. Juga ada ruang untuk pemula."
+	},
+	{
+		"created_at": "Wed May 15 06:41:37 +0000 2019",
+		"id": 1128550985826103300,
+		"id_str": "1128550985826103297",
+		"full_text": "@nithasist @Tikayulie @babakanpule @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Komennya perlu saya hapus?",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128550205421379600,
+		"in_reply_to_status_id_str": "1128550205421379585",
+		"in_reply_to_user_id": 564544250,
+		"in_reply_to_user_id_str": "564544250",
+		"in_reply_to_screen_name": "nithasist",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @Tikayulie @babakanpule @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Komennya perlu saya hapus?"
+	},
+	{
+		"created_at": "Wed May 15 06:39:28 +0000 2019",
+		"id": 1128550445033517000,
+		"id_str": "1128550445033517056",
+		"full_text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Maaf saya undur dari diskusi. Saya terima diri saya ngeyel dan sombong. Semoga bisa saya pakai buat bercermin.  Om shanti shanti shanti. Namaste.",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128548669882490900,
+		"in_reply_to_status_id_str": "1128548669882490880",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Maaf saya undur dari diskusi. Saya terima diri saya ngeyel dan sombong. Semoga bisa saya pakai buat bercermin.  Om shanti shanti shanti. Namaste."
+	},
+	{
+		"created_at": "Wed May 15 06:36:48 +0000 2019",
+		"id": 1128549775677186000,
+		"id_str": "1128549775677186048",
+		"full_text": "@nithasist @babakanpule @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Lah diskusi normal dibilang unjuk kesombongan. Ya udah... ta kira anda suka diskusi. Saya mohon maaf .. saya mundur. Semoga semua berbahagia...",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128548461530341400,
+		"in_reply_to_status_id_str": "1128548461530341376",
+		"in_reply_to_user_id": 564544250,
+		"in_reply_to_user_id_str": "564544250",
+		"in_reply_to_screen_name": "nithasist",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @babakanpule @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Lah diskusi normal dibilang unjuk kesombongan. Ya udah... ta kira anda suka diskusi. Saya mohon maaf .. saya mundur. Semoga semua berbahagia..."
+	},
+	{
+		"created_at": "Wed May 15 06:34:31 +0000 2019",
+		"id": 1128549198800904200,
+		"id_str": "1128549198800904193",
+		"full_text": "@nithasist @Tikayulie @babakanpule @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Oh maaf @Tikayulie. Saya tidak tahu. Saya orang Bali. Profil saya jelas dan bisa dilacak.",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128546921767886800,
+		"in_reply_to_status_id_str": "1128546921767886848",
+		"in_reply_to_user_id": 564544250,
+		"in_reply_to_user_id_str": "564544250",
+		"in_reply_to_screen_name": "nithasist",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @Tikayulie @babakanpule @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Oh maaf @Tikayulie. Saya tidak tahu. Saya orang Bali. Profil saya jelas dan bisa dilacak."
+	},
+	{
+		"created_at": "Wed May 15 06:30:06 +0000 2019",
+		"id": 1128548087142568000,
+		"id_str": "1128548087142567936",
+		"full_text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Melukis bukan budaya bali? Saya juga seniman bali.. saya kartunis. Kalau suka diskusi tentang seni ayuk ketemuan... profil saya jelas bisa di search di website",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128545780128571400,
+		"in_reply_to_status_id_str": "1128545780128571392",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Melukis bukan budaya bali? Saya juga seniman bali.. saya kartunis. Kalau suka diskusi tentang seni ayuk ketemuan... profil saya jelas bisa di search di website"
+	},
+	{
+		"created_at": "Wed May 15 06:26:38 +0000 2019",
+		"id": 1128547214857359400,
+		"id_str": "1128547214857359360",
+		"full_text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Saya nggak emosi. Cuma antusias tumben komen saya banyak yg nanggapi gara2 bikin komen yg kacau. Teruslah kalian berjuang.. cuma mainnya dipercantik dikit.",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128544387460264000,
+		"in_reply_to_status_id_str": "1128544387460263936",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Saya nggak emosi. Cuma antusias tumben komen saya banyak yg nanggapi gara2 bikin komen yg kacau. Teruslah kalian berjuang.. cuma mainnya dipercantik dikit."
+	},
+	{
+		"created_at": "Wed May 15 06:22:55 +0000 2019",
+		"id": 1128546279976345600,
+		"id_str": "1128546279976345600",
+		"full_text": "@Tikayulie @babakanpule @nithasist @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Oo itu karena tanggapan saya yg dianggap nge.. gas. Ya udah ta pelanin sekarang. Udah makan siang belum?",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128545503329697800,
+		"in_reply_to_status_id_str": "1128545503329697793",
+		"in_reply_to_user_id": 2578489476,
+		"in_reply_to_user_id_str": "2578489476",
+		"in_reply_to_screen_name": "Tikayulie",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Tikayulie @babakanpule @nithasist @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Oo itu karena tanggapan saya yg dianggap nge.. gas. Ya udah ta pelanin sekarang. Udah makan siang belum?"
+	},
+	{
+		"created_at": "Wed May 15 06:18:23 +0000 2019",
+		"id": 1128545139356360700,
+		"id_str": "1128545139356360704",
+		"full_text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Ada ribuan bentuk seni di Bali karena ekpresi rasa syukur .. bergerak tanpa intimidasi.. bentuk abstrak corat coret yg susah dipahami juga ada",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128543781366579200,
+		"in_reply_to_status_id_str": "1128543781366579201",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Ada ribuan bentuk seni di Bali karena ekpresi rasa syukur .. bergerak tanpa intimidasi.. bentuk abstrak corat coret yg susah dipahami juga ada"
+	},
+	{
+		"created_at": "Wed May 15 06:14:16 +0000 2019",
+		"id": 1128544102453104600,
+		"id_str": "1128544102453104640",
+		"full_text": "@nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 @babakanpule Berarti saya yang salah gitu? Ya udah...",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128542733746856000,
+		"in_reply_to_status_id_str": "1128542733746855936",
+		"in_reply_to_user_id": 564544250,
+		"in_reply_to_user_id_str": "564544250",
+		"in_reply_to_screen_name": "nithasist",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 @babakanpule Berarti saya yang salah gitu? Ya udah..."
+	},
+	{
+		"created_at": "Wed May 15 06:12:59 +0000 2019",
+		"id": 1128543781366579200,
+		"id_str": "1128543781366579201",
+		"full_text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Sayangnya saya org yg mendukung aksi corat coret ini.. ini ungkapan rasa. Budayaku mendukung ekspresi",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128541881816703000,
+		"in_reply_to_status_id_str": "1128541881816702976",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Sayangnya saya org yg mendukung aksi corat coret ini.. ini ungkapan rasa. Budayaku mendukung ekspresi"
+	},
+	{
+		"created_at": "Wed May 15 06:05:50 +0000 2019",
+		"id": 1128541983935361000,
+		"id_str": "1128541983935361024",
+		"full_text": "@nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 @babakanpule Merenung bukan habbit saya. Ini sama saja seperti istriku ngomong \"terserah\" kalau aku nanya sesuatu. Aku malah disuruh menebak-nebak.",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128541129526263800,
+		"in_reply_to_status_id_str": "1128541129526263808",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 @babakanpule Merenung bukan habbit saya. Ini sama saja seperti istriku ngomong \"terserah\" kalau aku nanya sesuatu. Aku malah disuruh menebak-nebak."
+	},
+	{
+		"created_at": "Wed May 15 06:02:27 +0000 2019",
+		"id": 1128541129526263800,
+		"id_str": "1128541129526263808",
+		"full_text": "@nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 @babakanpule Diskusi yg menyikapi budaya nusantara yg mulai digerus semena2 budaya bigot saya dukung makanya saya follow anda. Tapi apa kaitannya sama budaya corat-coret kelulusan? Itu kan bentuk selebrasi.. saya nanya ya. Tanggapannya harus berbentuk jawaban bukan sindiran",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			378
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128538962903986200,
+		"in_reply_to_status_id_str": "1128538962903986176",
+		"in_reply_to_user_id": 564544250,
+		"in_reply_to_user_id_str": "564544250",
+		"in_reply_to_screen_name": "nithasist",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 @babakanpule Diskusi yg menyikapi budaya nusantara yg mulai digerus semena2 budaya bigot saya dukung makanya saya follow anda. Tapi apa kaitannya sama budaya corat-coret kelulusan? Itu kan bentuk selebrasi.. saya nanya ya. Tanggapannya harus berbentuk jawaban bukan sindiran"
+	},
+	{
+		"created_at": "Wed May 15 05:49:52 +0000 2019",
+		"id": 1128537964399607800,
+		"id_str": "1128537964399607810",
+		"full_text": "@nithasist @babakanpule @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Bagian mana yg gagal? Kalau saya berhasil dapat hadiah?",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128537148917829600,
+		"in_reply_to_status_id_str": "1128537148917829634",
+		"in_reply_to_user_id": 564544250,
+		"in_reply_to_user_id_str": "564544250",
+		"in_reply_to_screen_name": "nithasist",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@nithasist @babakanpule @Tikayulie @Historisism @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Bagian mana yg gagal? Kalau saya berhasil dapat hadiah?"
+	},
+	{
+		"created_at": "Wed May 15 05:41:37 +0000 2019",
+		"id": 1128535886906265600,
+		"id_str": "1128535886906265600",
+		"full_text": "@babakanpule @Tikayulie @Historisism @nithasist @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Saya santai. Ada yg posting.. saya komen. Ga suka sama komennya ya tinggal bilang.. bisa saya hapus. Ngga nyambung ya udah diketawain.",
+		"truncated": false,
+		"display_text_range": [
+			117,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "babakanpule",
+					"name": "ᬜᬫᬩᬮᬶ᭟",
+					"id": 1102518754242510800,
+					"id_str": "1102518754242510848",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Tikayulie",
+					"name": "sweet_joellie 😍😍",
+					"id": 2578489476,
+					"id_str": "2578489476",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Historisism",
+					"name": "Misty",
+					"id": 904283298918162400,
+					"id_str": "904283298918162436",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "nithasist",
+					"name": "ꦤꦶꦠ",
+					"id": 564544250,
+					"id_str": "564544250",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "daunsirih5",
+					"name": "moonraker",
+					"id": 1087323461733646300,
+					"id_str": "1087323461733646336",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "Jelantik5",
+					"name": "Agung",
+					"id": 2358808668,
+					"id_str": "2358808668",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "Luh_Jin66an",
+					"name": "L u h",
+					"id": 901409624540061700,
+					"id_str": "901409624540061696",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "Next_J2P",
+					"name": "Br@volima Arie",
+					"id": 2883487254,
+					"id_str": "2883487254",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "pasektohpati",
+					"name": "ᬧᬲᬾᬓ᭄ᬢᭀᬄᬧᬢᬶ",
+					"id": 138002353,
+					"id_str": "138002353",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Kars104",
+					"name": "George Van Mars",
+					"id": 848566404,
+					"id_str": "848566404",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1128535211459747800,
+		"in_reply_to_status_id_str": "1128535211459747845",
+		"in_reply_to_user_id": 1102518754242510800,
+		"in_reply_to_user_id_str": "1102518754242510848",
+		"in_reply_to_screen_name": "babakanpule",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 958,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 8979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@babakanpule @Tikayulie @Historisism @nithasist @daunsirih5 @Jelantik5 @Luh_Jin66an @Next_J2P @pasektohpati @Kars104 Saya santai. Ada yg posting.. saya komen. Ga suka sama komennya ya tinggal bilang.. bisa saya hapus. Ngga nyambung ya udah diketawain."
+	},
+	{
 		"created_at": "Tue May 14 07:48:16 +0000 2019",
 		"id": 1128205372743770100,
 		"id_str": "1128205372743770112",
