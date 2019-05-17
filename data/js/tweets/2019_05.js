@@ -1,6 +1,1485 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 15:06:52 +0000 2019",
+		"id": 1129040524583854100,
+		"id_str": "1129040524583854080",
+		"full_text": "@SukmaHapsari @jen_l4u @BaleBengong Padahal sudah ada kresek ramah lingkungan berbahan baku singkong viral temuan nak Bali, kenapa tidak segera difungsikan ya...",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SukmaHapsari",
+					"name": "Sukma Hapsari",
+					"id": 54397215,
+					"id_str": "54397215",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jen_l4u",
+					"name": "TeamNEMO",
+					"id": 1256405851,
+					"id_str": "1256405851",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "BaleBengong",
+					"name": "BaleBengong",
+					"id": 59300777,
+					"id_str": "59300777",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127151766976380900,
+		"in_reply_to_status_id_str": "1127151766976380929",
+		"in_reply_to_user_id": 54397215,
+		"in_reply_to_user_id_str": "54397215",
+		"in_reply_to_screen_name": "SukmaHapsari",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@SukmaHapsari @jen_l4u @BaleBengong Padahal sudah ada kresek ramah lingkungan berbahan baku singkong viral temuan nak Bali, kenapa tidak segera difungsikan ya..."
+	},
+	{
+		"created_at": "Thu May 16 14:44:30 +0000 2019",
+		"id": 1127195473918349300,
+		"id_str": "1129034895953727490",
+		"full_text": "@BaleBengong Inilah demokrasi berisik, siapa yg paling berisik itu yg dituruti. Negara kalah dgn preman 😂",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BaleBengong",
+					"name": "BaleBengong",
+					"id": 59300777,
+					"id_str": "59300777",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1127120569726455800,
+		"in_reply_to_status_id_str": "1127120569726455808",
+		"in_reply_to_user_id": 59300777,
+		"in_reply_to_user_id_str": "59300777",
+		"in_reply_to_screen_name": "BaleBengong",
+		"user": {
+			"id": 67333131,
+			"id_str": "67333131",
+			"name": "yogaiswara sibang",
+			"screen_name": "yogasibank",
+			"location": "Denpasar",
+			"description": "Pembaca Linimasa",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 292,
+			"listed_count": 2,
+			"created_at": "Thu Aug 20 14:49:43 +0000 2009",
+			"favourites_count": 792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809715324660518912/5DvehmMr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809715324660518912/5DvehmMr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/67333131/1349065502",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "@BaleBengong Inilah demokrasi berisik, siapa yg paling berisik itu yg dituruti. Negara kalah dgn preman 😂"
+	},
+	{
+		"created_at": "Thu May 16 14:20:13 +0000 2019",
+		"id": 1128998146703470600,
+		"id_str": "1129028785880281094",
+		"full_text": "Aaarkkhh..!!! aku pengen ke toko ini..!\n“It’s been a hard day’s night...!!” 💕💕 https://t.co/D52B45cz6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128998113530617900,
+					"id_str": "1128998113530617856",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128998113530617856/pu/img/5FA74pvJITC_w1li.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128998113530617856/pu/img/5FA74pvJITC_w1li.jpg",
+					"url": "https://t.co/D52B45cz6W",
+					"display_url": "pic.twitter.com/D52B45cz6W",
+					"expanded_url": "https://twitter.com/motulz/status/1128998146703470592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128998113530617900,
+					"id_str": "1128998113530617856",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128998113530617856/pu/img/5FA74pvJITC_w1li.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128998113530617856/pu/img/5FA74pvJITC_w1li.jpg",
+					"url": "https://t.co/D52B45cz6W",
+					"display_url": "pic.twitter.com/D52B45cz6W",
+					"expanded_url": "https://twitter.com/motulz/status/1128998146703470592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 6292,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1128998113530617856/pu/vid/320x400/ZxiWeBxE2vYusp4L.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1128998113530617856/pu/pl/GyF54hJkMkz3-6ri.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61517440,
+			"id_str": "61517440",
+			"name": "IG : @motulz_geospotter",
+			"screen_name": "motulz",
+			"location": "Jakarta",
+			"description": "Penikmat Kreativitas | Pelaku Kreatif | #Traveler | #Sketcher | #Blogger | inovasi, teknologi, desain | socmed videographer | https://t.co/zbOrcQ3VKd",
+			"url": "https://t.co/jFXA0NSoBI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jFXA0NSoBI",
+							"expanded_url": "http://www.instagram.com/motulz_geospotter/",
+							"display_url": "instagram.com/motulz_geospot…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zbOrcQ3VKd",
+							"expanded_url": "http://Geospotter.org",
+							"display_url": "Geospotter.org",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47897,
+			"friends_count": 1982,
+			"listed_count": 267,
+			"created_at": "Thu Jul 30 15:37:29 +0000 2009",
+			"favourites_count": 2550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 177533,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995458564054433792/ERsP4jLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995458564054433792/ERsP4jLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61517440/1543504492",
+			"profile_link_color": "003366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 792,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aaarkkhh..!!! aku pengen ke toko ini..!\n“It’s been a hard day’s night...!!” 💕💕 https://t.co/D52B45cz6W"
+	},
+	{
+		"created_at": "Thu May 16 11:38:33 +0000 2019",
+		"id": 1128503048697860100,
+		"id_str": "1128988102289002499",
+		"full_text": "https://t.co/gqkq8WGykb\n\ndrpd menonaktifkan taxi online, adenan pak gubernur mlajah mengelola sampah bali.\njeg araauhhhhhh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gqkq8WGykb",
+					"expanded_url": "https://www.liputan6.com/lifestyle/read/3901947/cerita-akhir-pekan-6-negara-dengan-pengelolaan-sampah-terbaik-apakah-ada-indonesia",
+					"display_url": "liputan6.com/lifestyle/read…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 383131220,
+			"id_str": "383131220",
+			"name": "Ervan Kristiadi",
+			"screen_name": "ervan_kristiadi",
+			"location": "Bali",
+			"description": "30 6 94",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 248,
+			"listed_count": 0,
+			"created_at": "Sat Oct 01 09:52:45 +0000 2011",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097640592635420672/Y9pynQYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097640592635420672/Y9pynQYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/383131220/1546406008",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "https://t.co/gqkq8WGykb\n\ndrpd menonaktifkan taxi online, adenan pak gubernur mlajah mengelola sampah bali.\njeg araauhhhhhh"
+	},
+	{
+		"created_at": "Thu May 16 11:38:03 +0000 2019",
+		"id": 1127819745624035300,
+		"id_str": "1128987974887067648",
+		"full_text": "Menurut Suata, Gubernur Bali Wayan Koster tidak mempunyai wewenang untuk menutup taksi online di Bali. https://t.co/Dy8VIVVfu8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dy8VIVVfu8",
+					"expanded_url": "https://radarbali.jawapos.com/read/2019/05/13/136844/ngebet-stop-taksi-online-ptob-koster-tak-punya-wewenang-menutup",
+					"display_url": "radarbali.jawapos.com/read/2019/05/1…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727460983694716900,
+			"id_str": "727460983694716928",
+			"name": "Radar Bali",
+			"screen_name": "JP_RadarBali",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496,
+			"friends_count": 118,
+			"listed_count": 4,
+			"created_at": "Tue May 03 11:33:08 +0000 2016",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39463,
+			"lang": "id",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084736058024112128/F3LtWYMP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084736058024112128/F3LtWYMP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727460983694716928/1547456292",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Menurut Suata, Gubernur Bali Wayan Koster tidak mempunyai wewenang untuk menutup taksi online di Bali. https://t.co/Dy8VIVVfu8"
+	},
+	{
+		"created_at": "Thu May 16 11:36:26 +0000 2019",
+		"id": 1127159362693111800,
+		"id_str": "1128987567028703233",
+		"full_text": "@BaleBengong Gubernur Bali hanya mendengar dari satu sisi saja (pelaku transportasi non online), coba dengar juga dari pelaku dan pelanggan transportasi online. Menutup bukanlah solusi",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BaleBengong",
+					"name": "BaleBengong",
+					"id": 59300777,
+					"id_str": "59300777",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1127120569726455800,
+		"in_reply_to_status_id_str": "1127120569726455808",
+		"in_reply_to_user_id": 59300777,
+		"in_reply_to_user_id_str": "59300777",
+		"in_reply_to_screen_name": "BaleBengong",
+		"user": {
+			"id": 98336695,
+			"id_str": "98336695",
+			"name": "I Gede Arya Wisnu",
+			"screen_name": "aryawiznu",
+			"location": "Bali, Indonesia",
+			"description": "I'm tweet about my life , my activities , my hobbies or maybe I'm tweet about U : )",
+			"url": "https://t.co/VvtY0P5NJm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VvtY0P5NJm",
+							"expanded_url": "https://youtu.be/QKwkE2IsOQU",
+							"display_url": "youtu.be/QKwkE2IsOQU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 332,
+			"listed_count": 1,
+			"created_at": "Mon Dec 21 09:39:48 +0000 2009",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091902481800388608/JfZX--3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091902481800388608/JfZX--3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98336695/1549164857",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "@BaleBengong Gubernur Bali hanya mendengar dari satu sisi saja (pelaku transportasi non online), coba dengar juga dari pelaku dan pelanggan transportasi online. Menutup bukanlah solusi"
+	},
+	{
+		"created_at": "Thu May 16 11:35:34 +0000 2019",
+		"id": 1128987351118598100,
+		"id_str": "1128987351118598144",
+		"full_text": "Ayo dukung bersama - Tolak Penutupan Taksi Online di Bali - Tandatangani Petisi! https://t.co/OIqNXAZN0y via @ChangeOrg_ID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChangeOrg_ID",
+					"name": "Change.org Indonesia",
+					"id": 563483976,
+					"id_str": "563483976",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OIqNXAZN0y",
+					"expanded_url": "http://chng.it/FwpGb58g",
+					"display_url": "chng.it/FwpGb58g",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ayo dukung bersama - Tolak Penutupan Taksi Online di Bali - Tandatangani Petisi! https://t.co/OIqNXAZN0y via @ChangeOrg_ID"
+	},
+	{
+		"created_at": "Thu May 16 11:29:53 +0000 2019",
+		"id": 1128985921590685700,
+		"id_str": "1128985921590685696",
+		"full_text": "Tolak Rencana Gubernur Bali Tutup Taksi Online - Tandatangani Petisi! https://t.co/jpRCgPUSri via @ChangeOrg_ID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChangeOrg_ID",
+					"name": "Change.org Indonesia",
+					"id": 563483976,
+					"id_str": "563483976",
+					"indices": [
+						98,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jpRCgPUSri",
+					"expanded_url": "http://chng.it/9nBN5J67",
+					"display_url": "chng.it/9nBN5J67",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Tolak Rencana Gubernur Bali Tutup Taksi Online - Tandatangani Petisi! https://t.co/jpRCgPUSri via @ChangeOrg_ID"
+	},
+	{
+		"created_at": "Thu May 16 11:25:37 +0000 2019",
+		"id": 1127120569726455800,
+		"id_str": "1128984846624317440",
+		"full_text": "Gubernur Bali wacanakan tutup jasa transportasi online di Bali. Itu sih...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59300777,
+			"id_str": "59300777",
+			"name": "BaleBengong",
+			"screen_name": "BaleBengong",
+			"location": "Bali",
+			"description": "Portal jurnalisme warga tentang Bali sejak 26 Juni 2007 | Tempat warga berbagi informasi & berdiskusi apa saja | #ngortwit | Silakan mention untuk berkabar.",
+			"url": "https://t.co/dtVD1dIkjx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dtVD1dIkjx",
+							"expanded_url": "http://www.BaleBengong.id",
+							"display_url": "BaleBengong.id",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100267,
+			"friends_count": 793,
+			"listed_count": 179,
+			"created_at": "Thu Jul 23 00:16:01 +0000 2009",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78487,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F3F1E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/910484369126461441/pO8VlZ6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/910484369126461441/pO8VlZ6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59300777/1549265917",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Gubernur Bali wacanakan tutup jasa transportasi online di Bali. Itu sih..."
+	},
+	{
+		"created_at": "Thu May 16 11:23:44 +0000 2019",
+		"id": 1128984370360905700,
+		"id_str": "1128984370360905729",
+		"full_text": "Cing! https://t.co/oecg9azgJ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128984353810157600,
+					"id_str": "1128984353810157568",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D6r1ScXUEAAQFuA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6r1ScXUEAAQFuA.jpg",
+					"url": "https://t.co/oecg9azgJ0",
+					"display_url": "pic.twitter.com/oecg9azgJ0",
+					"expanded_url": "https://twitter.com/putuebo/status/1128984370360905729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 879,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128984353810157600,
+					"id_str": "1128984353810157568",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/D6r1ScXUEAAQFuA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6r1ScXUEAAQFuA.jpg",
+					"url": "https://t.co/oecg9azgJ0",
+					"display_url": "pic.twitter.com/oecg9azgJ0",
+					"expanded_url": "https://twitter.com/putuebo/status/1128984370360905729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 879,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9ef9695c81002",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9ef9695c81002.json",
+			"place_type": "poi",
+			"name": "Babi Guling Syobak Singaraja",
+			"full_name": "Babi Guling Syobak Singaraja",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.21722874006771,
+							-8.650621150621859
+						],
+						[
+							115.21722874006771,
+							-8.650621150621859
+						],
+						[
+							115.21722874006771,
+							-8.650621150621859
+						],
+						[
+							115.21722874006771,
+							-8.650621150621859
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Cing! https://t.co/oecg9azgJ0"
+	},
+	{
+		"created_at": "Thu May 16 11:20:12 +0000 2019",
+		"id": 1128983483039092700,
+		"id_str": "1128983483039092736",
+		"full_text": "Taksi online mau ditutup. Hebat bener gubernur daerahku ini.. siapa sih yg milih? Sekalian kembali ke jaman dokar pak. | Asal jangan ownani ikut dilarang",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Taksi online mau ditutup. Hebat bener gubernur daerahku ini.. siapa sih yg milih? Sekalian kembali ke jaman dokar pak. | Asal jangan ownani ikut dilarang"
+	},
+	{
 		"created_at": "Wed May 15 13:27:19 +0000 2019",
 		"id": 1128653083922186200,
 		"id_str": "1128653083922186240",
