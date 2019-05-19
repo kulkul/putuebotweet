@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 14:02:37 +0000 2019",
+		"id": 1129739732936790000,
+		"id_str": "1129749130862059524",
+		"full_text": "@nyopus Buat Bu Mekar, guru Bahasa Inggris waktu SMA, sebenernya saya waktu itu juga denger bunyi gamelan kok, gak cuma Ibu yg denger. Maafin udah bikin Ibu ketakutan sampe nyelesein pelajaran 1 jam lebih cepat 🙇‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nyopus",
+					"name": "Nyoa 🍒",
+					"id": 783731270169747500,
+					"id_str": "783731270169747458",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129614492881436700,
+		"in_reply_to_status_id_str": "1129614492881436672",
+		"in_reply_to_user_id": 783731270169747500,
+		"in_reply_to_user_id_str": "783731270169747458",
+		"in_reply_to_screen_name": "nyopus",
+		"user": {
+			"id": 99301180,
+			"id_str": "99301180",
+			"name": "O Z Z I E",
+			"screen_name": "dfauzie",
+			"location": "Pernah di Giussepe Meazza. 😂",
+			"description": "sepakbola, musik, dan game",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339,
+			"friends_count": 354,
+			"listed_count": 6,
+			"created_at": "Fri Dec 25 15:02:37 +0000 2009",
+			"favourites_count": 575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055326734692675584/GzEDSXpt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055326734692675584/GzEDSXpt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99301180/1529722701",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "@nyopus Buat Bu Mekar, guru Bahasa Inggris waktu SMA, sebenernya saya waktu itu juga denger bunyi gamelan kok, gak cuma Ibu yg denger. Maafin udah bikin Ibu ketakutan sampe nyelesein pelajaran 1 jam lebih cepat 🙇‍♂️"
+	},
+	{
+		"created_at": "Sat May 18 13:41:52 +0000 2019",
+		"id": 1129743908290912300,
+		"id_str": "1129743908290912258",
+		"full_text": "@budi1439h @Dahnilanzar @HumasPolri https://t.co/Vnjop7Y3n1",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "budi1439h",
+					"name": "#01 #RepoeblikTjebong ‏‎‎‎‎جو كو واي",
+					"id": 1604295606,
+					"id_str": "1604295606",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Dahnilanzar",
+					"name": "Dahnil A Simanjuntak",
+					"id": 194987317,
+					"id_str": "194987317",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "HumasPolri",
+					"name": "Divisi Humas Polri",
+					"id": 200013915,
+					"id_str": "200013915",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129743896622370800,
+					"id_str": "1129743896622370817",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D62oFp1XkAEEsdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62oFp1XkAEEsdU.jpg",
+					"url": "https://t.co/Vnjop7Y3n1",
+					"display_url": "pic.twitter.com/Vnjop7Y3n1",
+					"expanded_url": "https://twitter.com/putuebo/status/1129743908290912258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129743896622370800,
+					"id_str": "1129743896622370817",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D62oFp1XkAEEsdU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62oFp1XkAEEsdU.jpg",
+					"url": "https://t.co/Vnjop7Y3n1",
+					"display_url": "pic.twitter.com/Vnjop7Y3n1",
+					"expanded_url": "https://twitter.com/putuebo/status/1129743908290912258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1129532803014582300,
+		"in_reply_to_status_id_str": "1129532803014582272",
+		"in_reply_to_user_id": 1604295606,
+		"in_reply_to_user_id_str": "1604295606",
+		"in_reply_to_screen_name": "budi1439h",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1429,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@budi1439h @Dahnilanzar @HumasPolri https://t.co/Vnjop7Y3n1"
+	},
+	{
 		"created_at": "Sat May 18 01:12:00 +0000 2019",
 		"id": 1129555198148374500,
 		"id_str": "1129555198148374528",
