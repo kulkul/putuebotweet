@@ -1,10 +1,223 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 14:32:55 +0000 2019",
+		"id": 1130119144295190500,
+		"id_str": "1130119144295190528",
+		"full_text": "Gara-gara nonton video ini, jadi nggak enak hati kalau makan ayam https://t.co/vWxPJTk9UG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130117627873878000,
+					"id_str": "1130117627873878022",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D678qUqUEAA7bGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D678qUqUEAA7bGW.jpg",
+					"url": "https://t.co/vWxPJTk9UG",
+					"display_url": "pic.twitter.com/vWxPJTk9UG",
+					"expanded_url": "https://twitter.com/putuebo/status/1130119144295190528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130117627873878000,
+					"id_str": "1130117627873878022",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D678qUqUEAA7bGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D678qUqUEAA7bGW.jpg",
+					"url": "https://t.co/vWxPJTk9UG",
+					"display_url": "pic.twitter.com/vWxPJTk9UG",
+					"expanded_url": "https://twitter.com/putuebo/status/1130119144295190528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60625,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130117627873878022/vid/640x360/EnhrNBMNkOpQgEuV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1130117627873878022/pl/PcU0_5wg-ZuOoOBs.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130117627873878022/vid/1280x720/cwZEgYHIAcvDVOWQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130117627873878022/vid/320x180/OUUEzZNhtTr88MXk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Chicken Playing Piano",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://www.youtube.com/watch?v=BY_83Lq9yJ8"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 960,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Gara-gara nonton video ini, jadi nggak enak hati kalau makan ayam https://t.co/vWxPJTk9UG"
+	},
+	{
 		"created_at": "Sat May 18 14:02:37 +0000 2019",
 		"id": 1129739732936790000,
 		"id_str": "1129749130862059524",
-		"full_text": "@nyopus Buat Bu Mekar, guru Bahasa Inggris waktu SMA, sebenernya saya waktu itu juga denger bunyi gamelan kok, gak cuma Ibu yg denger. Maafin udah bikin Ibu ketakutan sampe nyelesein pelajaran 1 jam lebih cepat 🙇‍♂️",
+		"full_text": "@nyopus Buat Bu Mekar, guru Bahasa Inggris waktu SMA, sebenernya saya waktu itu juga denger bunyi gamelan kok, gak cuma Ibu yg denger. Maafin udah bikin Ibu ketakutan sampe nyelesein pelajaran 1 jam lebih cepat 🙇♂️",
 		"truncated": false,
 		"display_text_range": [
 			8,
@@ -91,7 +304,7 @@ Grailbird.data.tweets_2019_05 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "in",
-		"text": "@nyopus Buat Bu Mekar, guru Bahasa Inggris waktu SMA, sebenernya saya waktu itu juga denger bunyi gamelan kok, gak cuma Ibu yg denger. Maafin udah bikin Ibu ketakutan sampe nyelesein pelajaran 1 jam lebih cepat 🙇‍♂️"
+		"text": "@nyopus Buat Bu Mekar, guru Bahasa Inggris waktu SMA, sebenernya saya waktu itu juga denger bunyi gamelan kok, gak cuma Ibu yg denger. Maafin udah bikin Ibu ketakutan sampe nyelesein pelajaran 1 jam lebih cepat 🙇♂️"
 	},
 	{
 		"created_at": "Sat May 18 13:41:52 +0000 2019",
@@ -109,7 +322,7 @@ Grailbird.data.tweets_2019_05 =
 			"user_mentions": [
 				{
 					"screen_name": "budi1439h",
-					"name": "#01 #RepoeblikTjebong ‏‎‎‎‎جو كو واي",
+					"name": "#01 #RepoeblikTjebong جو كو واي",
 					"id": 1604295606,
 					"id_str": "1604295606",
 					"indices": [
