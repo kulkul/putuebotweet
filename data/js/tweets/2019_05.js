@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 00:38:06 +0000 2019",
+		"id": 1131358609663676400,
+		"id_str": "1131358609663676416",
+		"full_text": "Gesture AR the sekuni dan si Bad Ape 'oh no oh no' - mirip ya - barukusadari",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 959,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Gesture AR the sekuni dan si Bad Ape 'oh no oh no' - mirip ya - barukusadari"
+	},
+	{
+		"created_at": "Wed May 22 07:59:35 +0000 2019",
+		"id": 1131043075474710500,
+		"id_str": "1131107323877814272",
+		"full_text": "Lain kali kalo ada Pilpres gak usah dikasih dia, Ribet! #KPU #TangkapPRABOWO https://t.co/QH0UmM0HP3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPU",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "TangkapPRABOWO",
+					"indices": [
+						61,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131043067715186700,
+					"id_str": "1131043067715186689",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D7JFrXTU8AEmYDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7JFrXTU8AEmYDk.jpg",
+					"url": "https://t.co/QH0UmM0HP3",
+					"display_url": "pic.twitter.com/QH0UmM0HP3",
+					"expanded_url": "https://twitter.com/pinsianArt/status/1131043075474710528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 702,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131043067715186700,
+					"id_str": "1131043067715186689",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/D7JFrXTU8AEmYDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7JFrXTU8AEmYDk.jpg",
+					"url": "https://t.co/QH0UmM0HP3",
+					"display_url": "pic.twitter.com/QH0UmM0HP3",
+					"expanded_url": "https://twitter.com/pinsianArt/status/1131043075474710528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 702,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819370860834193400,
+			"id_str": "819370860834193408",
+			"name": "Pinsiana",
+			"screen_name": "pinsianArt",
+			"location": "Denpasar, Bali",
+			"description": "cartoonist , caricaturist, fun art, fun runner Bali.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 134,
+			"listed_count": 0,
+			"created_at": "Thu Jan 12 02:30:11 +0000 2017",
+			"favourites_count": 8298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079967141686693888/y-X67Fox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079967141686693888/y-X67Fox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819370860834193408/1484190043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 735,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Lain kali kalo ada Pilpres gak usah dikasih dia, Ribet! #KPU #TangkapPRABOWO https://t.co/QH0UmM0HP3"
+	},
+	{
 		"created_at": "Tue May 21 23:25:43 +0000 2019",
 		"id": 1130978002668408800,
 		"id_str": "1130978002668408832",
