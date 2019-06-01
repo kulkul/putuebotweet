@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 17:05:13 +0000 2019",
+		"id": 1134506127251533800,
+		"id_str": "1134506127251533824",
+		"full_text": "Jangan mabok saat perjalanan  menyusuri infrastruktur perekonomian - Selamat mudik teman https://t.co/sxubRYtzzd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134506119823482900,
+					"id_str": "1134506119823482880",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D76TThuV4AArPTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76TThuV4AArPTK.jpg",
+					"url": "https://t.co/sxubRYtzzd",
+					"display_url": "pic.twitter.com/sxubRYtzzd",
+					"expanded_url": "https://twitter.com/putuebo/status/1134506127251533824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 716,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134506119823482900,
+					"id_str": "1134506119823482880",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D76TThuV4AArPTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D76TThuV4AArPTK.jpg",
+					"url": "https://t.co/sxubRYtzzd",
+					"display_url": "pic.twitter.com/sxubRYtzzd",
+					"expanded_url": "https://twitter.com/putuebo/status/1134506127251533824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 716,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 962,
+			"listed_count": 16,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Jangan mabok saat perjalanan  menyusuri infrastruktur perekonomian - Selamat mudik teman https://t.co/sxubRYtzzd"
+	},
+	{
+		"created_at": "Fri May 31 16:09:51 +0000 2019",
+		"id": 1134338721208082400,
+		"id_str": "1134492194646024192",
+		"full_text": "World’s most successful forensic artist. https://t.co/so2IvB9EgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130491199146475500,
+					"id_str": "1130491199146475520",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BP9neUIAAiQ_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7BP9neUIAAiQ_j.jpg",
+					"url": "https://t.co/so2IvB9EgJ",
+					"display_url": "pic.twitter.com/so2IvB9EgJ",
+					"expanded_url": "https://twitter.com/60SecDocs/status/1134338721208082437/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130491199146475500,
+					"id_str": "1130491199146475520",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BP9neUIAAiQ_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7BP9neUIAAiQ_j.jpg",
+					"url": "https://t.co/so2IvB9EgJ",
+					"display_url": "pic.twitter.com/so2IvB9EgJ",
+					"expanded_url": "https://twitter.com/60SecDocs/status/1134338721208082437/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 65148,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130491199146475520/vid/480x480/e-aPrm_PdNM_80Kr.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130491199146475520/vid/720x720/4yvgRFal4ZajgM99.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130491199146475520/vid/320x320/_n8agDOFIvslNkEN.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1130491199146475520/pl/-OJ8MMse4oPCl0h6.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Police Sketch Artist // 60 Second Docs",
+						"description": "Her sketches have put 1,000s in jail.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703027303488450600,
+			"id_str": "703027303488450561",
+			"name": "60 Second Docs",
+			"screen_name": "60SecDocs",
+			"location": "",
+			"description": "A new look into the unique characters, expressions, and practices that make up the World | Webby Award - Best Documentary Series",
+			"url": "https://t.co/zqdxRcnUvC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zqdxRcnUvC",
+							"expanded_url": "http://bit.ly/60SDWealth",
+							"display_url": "bit.ly/60SDWealth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39098,
+			"friends_count": 1363,
+			"listed_count": 244,
+			"created_at": "Fri Feb 26 01:22:25 +0000 2016",
+			"favourites_count": 12768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039979964018372608/tK-12_3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039979964018372608/tK-12_3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703027303488450561/1558051368",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "World’s most successful forensic artist. https://t.co/so2IvB9EgJ"
+	},
+	{
+		"created_at": "Fri May 31 16:07:14 +0000 2019",
+		"id": 1134491534672326700,
+		"id_str": "1134491534672326658",
+		"full_text": "Waw... Ada browser TOR di dalam browser BRAVE. https://t.co/iUcCf9MsPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111335328462200800,
+					"id_str": "1111335328462200832",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D2xBl9dU4AA2N8m.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2xBl9dU4AA2N8m.png",
+					"url": "https://t.co/iUcCf9MsPQ",
+					"display_url": "pic.twitter.com/iUcCf9MsPQ",
+					"expanded_url": "https://twitter.com/sam_feldman_/status/1111335696747229184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 752,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1111335696747229200,
+					"source_status_id_str": "1111335696747229184",
+					"source_user_id": 191718288,
+					"source_user_id_str": "191718288"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111335328462200800,
+					"id_str": "1111335328462200832",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/D2xBl9dU4AA2N8m.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2xBl9dU4AA2N8m.png",
+					"url": "https://t.co/iUcCf9MsPQ",
+					"display_url": "pic.twitter.com/iUcCf9MsPQ",
+					"expanded_url": "https://twitter.com/sam_feldman_/status/1111335696747229184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 752,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1111335696747229200,
+					"source_status_id_str": "1111335696747229184",
+					"source_user_id": 191718288,
+					"source_user_id_str": "191718288"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 962,
+			"listed_count": 16,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Waw... Ada browser TOR di dalam browser BRAVE. https://t.co/iUcCf9MsPQ"
+	},
+	{
+		"created_at": "Fri May 31 15:31:21 +0000 2019",
+		"id": 1134482505329856500,
+		"id_str": "1134482505329856512",
+		"full_text": "Keren. Lagu lama yg terkinikan: The Beatles Cover: OB-LA-DI, OB-LA-DA by Gabriela Bee of Eh Bee Family https://t.co/FGe7HoH81Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FGe7HoH81Q",
+					"expanded_url": "https://www.youtube.com/watch?v=vPukHebsQeQhttps://www.youtube.com/watch?v=vPukHebsQeQ",
+					"display_url": "youtube.com/watch?v=vPukHe…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 962,
+			"listed_count": 16,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Keren. Lagu lama yg terkinikan: The Beatles Cover: OB-LA-DI, OB-LA-DA by Gabriela Bee of Eh Bee Family https://t.co/FGe7HoH81Q"
+	},
+	{
 		"created_at": "Thu May 30 17:29:39 +0000 2019",
 		"id": 1134149889183473700,
 		"id_str": "1134149889183473665",
