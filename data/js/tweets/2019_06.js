@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 13:30:43 +0000 2019",
+		"id": 1136941468331913200,
+		"id_str": "1136988859739230209",
+		"full_text": "Sering lihat Pak Jokowi pakai batik motif parang di berbagai acara, tapi disini beliau tidak memakainya.\n\nDalam tradisi kraton, batik motif parang hanya boleh dipakai oleh raja/para sentana di dlm kompleks keraton.\n\nKesimpulannya, Pak Jokowi tahu adab meski menjabat sbg presiden. https://t.co/A6rttCSbaG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A6rttCSbaG",
+					"expanded_url": "https://twitter.com/jokowi/status/1136918430919958528",
+					"display_url": "twitter.com/jokowi/status/…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236344157,
+			"id_str": "236344157",
+			"name": "Bima W.",
+			"screen_name": "bimaofficial",
+			"location": "Van Solo Begin The Victory",
+			"description": "Nyemplung jadi kurator musiyum | Winayang Asta Ambuka Jagad",
+			"url": "https://t.co/5lmwyZzgCf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5lmwyZzgCf",
+							"expanded_url": "https://bimawdtg.wordpress.com/",
+							"display_url": "bimawdtg.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 1113,
+			"listed_count": 0,
+			"created_at": "Mon Jan 10 11:08:55 +0000 2011",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E5B61",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136953071768989696/xfD4lpa8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136953071768989696/xfD4lpa8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236344157/1537868967",
+			"profile_link_color": "28EBB4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E62747",
+			"profile_text_color": "5C4EBA",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136918430919958500,
+		"quoted_status_id_str": "1136918430919958528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A6rttCSbaG",
+			"expanded": "https://twitter.com/jokowi/status/1136918430919958528",
+			"display": "twitter.com/jokowi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 07 08:50:51 +0000 2019",
+			"id": 1136918430919958500,
+			"id_str": "1136918430919958528",
+			"full_text": "Bersilaturahmi ke keluarga Keraton Ngayogyakarta Hadiningrat pada hari ketiga Lebaran di Yogyakarta, hari ini. \n\nTerima kasih atas sambutan hangat Sri Sultan Hamengkubuwono X dan keluarga besar keraton. https://t.co/zGShMR0JTC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1136918419272429600,
+						"id_str": "1136918419272429570",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/D8clR1dU8AInf5n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8clR1dU8AInf5n.jpg",
+						"url": "https://t.co/zGShMR0JTC",
+						"display_url": "pic.twitter.com/zGShMR0JTC",
+						"expanded_url": "https://twitter.com/jokowi/status/1136918430919958528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 686,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 686,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1136918419272429600,
+						"id_str": "1136918419272429570",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/D8clR1dU8AInf5n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8clR1dU8AInf5n.jpg",
+						"url": "https://t.co/zGShMR0JTC",
+						"display_url": "pic.twitter.com/zGShMR0JTC",
+						"expanded_url": "https://twitter.com/jokowi/status/1136918430919958528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 686,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 686,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 366987179,
+				"id_str": "366987179",
+				"name": "Joko Widodo",
+				"screen_name": "jokowi",
+				"location": "Jakarta",
+				"description": "Akun Twitter resmi Presiden Republik Indonesia Joko Widodo 🇮🇩. \n#MenujuIndonesiaMaju",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11546709,
+				"friends_count": 60,
+				"listed_count": 3935,
+				"created_at": "Sat Sep 03 05:21:21 +0000 2011",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5B5C5A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953822043211886592/IUEJdPg9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953822043211886592/IUEJdPg9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/366987179/1540015919",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3548,
+			"favorite_count": 19083,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 173,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Sering lihat Pak Jokowi pakai batik motif parang di berbagai acara, tapi disini beliau tidak memakainya.\n\nDalam tradisi kraton, batik motif parang hanya boleh dipakai oleh raja/para sentana di dlm kompleks keraton.\n\nKesimpulannya, Pak Jokowi tahu adab meski menjabat sbg presiden. https://t.co/A6rttCSbaG"
+	},
+	{
+		"created_at": "Fri Jun 07 13:24:12 +0000 2019",
+		"id": 1136605997060034600,
+		"id_str": "1136987223314690049",
+		"full_text": "The most dangerous iceberg for our planet 🌏 https://t.co/iSccGbVHjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1136605986914021400,
+					"id_str": "1136605986914021377",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YJH4OXsAERO5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8YJH4OXsAERO5D.jpg",
+					"url": "https://t.co/iSccGbVHjs",
+					"display_url": "pic.twitter.com/iSccGbVHjs",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1136605997060034561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136605986914021400,
+					"id_str": "1136605986914021377",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YJH4OXsAERO5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8YJH4OXsAERO5D.jpg",
+					"url": "https://t.co/iSccGbVHjs",
+					"display_url": "pic.twitter.com/iSccGbVHjs",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1136605997060034561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 934281246435405800,
+			"id_str": "934281246435405824",
+			"name": "Physics & Astronomy Zone",
+			"screen_name": "ZonePhysics",
+			"location": "Earth",
+			"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+			"url": "https://t.co/l9rEF8Zaer",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l9rEF8Zaer",
+							"expanded_url": "https://www.facebook.com/physicsastronomyzone/",
+							"display_url": "facebook.com/physicsastrono…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381297,
+			"friends_count": 23415,
+			"listed_count": 1697,
+			"created_at": "Sat Nov 25 04:43:02 +0000 2017",
+			"favourites_count": 3872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/934281246435405824/1511586771",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10704,
+		"favorite_count": 16497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The most dangerous iceberg for our planet 🌏 https://t.co/iSccGbVHjs"
+	},
+	{
+		"created_at": "Fri Jun 07 13:16:36 +0000 2019",
+		"id": 1136985307776073700,
+		"id_str": "1136985307776073728",
+		"full_text": "Instrumental paling populer di kalangan remaja kota Denpasar era 90an https://t.co/io9CvmkT7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/io9CvmkT7t",
+					"expanded_url": "https://youtu.be/ZiA1XBXAE6U",
+					"display_url": "youtu.be/ZiA1XBXAE6U",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1434,
+			"friends_count": 964,
+			"listed_count": 16,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Instrumental paling populer di kalangan remaja kota Denpasar era 90an https://t.co/io9CvmkT7t"
+	},
+	{
 		"created_at": "Mon Jun 03 20:42:04 +0000 2019",
 		"id": 1135234512600748000,
 		"id_str": "1135647863591952384",
