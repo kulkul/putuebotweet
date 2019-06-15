@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 08:25:56 +0000 2019",
+		"id": 1139194824068755500,
+		"id_str": "1139448877306662912",
+		"full_text": "Bahagianyaa bangsamu gaes!\n😆😆😆😆😆😆😆 https://t.co/7308L9Kar2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139194763184263200,
+					"id_str": "1139194763184263168",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139194763184263168/pu/img/7zccjFx_fhOdBcLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139194763184263168/pu/img/7zccjFx_fhOdBcLH.jpg",
+					"url": "https://t.co/7308L9Kar2",
+					"display_url": "pic.twitter.com/7308L9Kar2",
+					"expanded_url": "https://twitter.com/motulz/status/1139194824068755456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139194763184263200,
+					"id_str": "1139194763184263168",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1139194763184263168/pu/img/7zccjFx_fhOdBcLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1139194763184263168/pu/img/7zccjFx_fhOdBcLH.jpg",
+					"url": "https://t.co/7308L9Kar2",
+					"display_url": "pic.twitter.com/7308L9Kar2",
+					"expanded_url": "https://twitter.com/motulz/status/1139194824068755456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15024,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139194763184263168/pu/vid/320x568/L73fG_Mpg9D-Tp1C.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1139194763184263168/pu/pl/s2GH0w7DcylZ982m.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139194763184263168/pu/vid/576x1024/RmZKDFhGnqbusob6.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1139194763184263168/pu/vid/360x640/iBev5iZX6MPcwIvc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61517440,
+			"id_str": "61517440",
+			"name": "IG : @motulz_geospotter",
+			"screen_name": "motulz",
+			"location": "Jakarta",
+			"description": "Penikmat Kreativitas | Pelaku Kreatif | #Traveler | #Sketcher | #Blogger | inovasi, teknologi, desain | socmed videographer | https://t.co/zbOrcQ3VKd",
+			"url": "https://t.co/jFXA0NSoBI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jFXA0NSoBI",
+							"expanded_url": "http://www.instagram.com/motulz_geospotter/",
+							"display_url": "instagram.com/motulz_geospot…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zbOrcQ3VKd",
+							"expanded_url": "http://Geospotter.org",
+							"display_url": "Geospotter.org",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49001,
+			"friends_count": 2003,
+			"listed_count": 271,
+			"created_at": "Thu Jul 30 15:37:29 +0000 2009",
+			"favourites_count": 2874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 179187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995458564054433792/ERsP4jLE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995458564054433792/ERsP4jLE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61517440/1543504492",
+			"profile_link_color": "003366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20507,
+		"favorite_count": 14155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Bahagianyaa bangsamu gaes!\n😆😆😆😆😆😆😆 https://t.co/7308L9Kar2"
+	},
+	{
 		"created_at": "Thu Jun 13 03:03:39 +0000 2019",
 		"id": 1139005382741831700,
 		"id_str": "1139005382741831682",
