@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 00:40:23 +0000 2019",
+		"id": 1140781267157282800,
+		"id_str": "1140781267157282816",
+		"full_text": "@YRadianto @badonci @pujangga1123 @herikus70 @J_Aryoko @HermantoBenkz @arifin_baen @HD52766966 @heniunique @BadjaNuswantara @rinichan02 @01_commando @Suaracebong @playground78910 @01_TheWinner_ @WR_4AG226 @APLpangeran00 @BocoroRoman Bapak itu ini orangnya... https://t.co/Hmo1egKFUb",
+		"truncated": false,
+		"display_text_range": [
+			233,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YRadianto",
+					"name": "Aki Tulalit",
+					"id": 2542665199,
+					"id_str": "2542665199",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "badonci",
+					"name": "Habib Lembut 💖",
+					"id": 818424071440347100,
+					"id_str": "818424071440347139",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "pujangga1123",
+					"name": "PUJANGGA🐸🇲🇨",
+					"id": 957136247360602100,
+					"id_str": "957136247360602113",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "herikus70",
+					"name": "BaDja Is The Best👍",
+					"id": 739963690510737400,
+					"id_str": "739963690510737408",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "J_Aryoko",
+					"name": "Aryoko",
+					"id": 239712409,
+					"id_str": "239712409",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "HermantoBenkz",
+					"name": "Benkzj0L",
+					"id": 1083577223645282300,
+					"id_str": "1083577223645282304",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "arifin_baen",
+					"name": "Arifin",
+					"id": 1111175605637140500,
+					"id_str": "1111175605637140480",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "HD52766966",
+					"name": "HIDUP DAMAI",
+					"id": 1001428572198682600,
+					"id_str": "1001428572198682624",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"screen_name": "heniunique",
+					"name": "Heni Unique",
+					"id": 1107620514,
+					"id_str": "1107620514",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "BadjaNuswantara",
+					"name": "Indonesia Hebat",
+					"id": 2541716540,
+					"id_str": "2541716540",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"screen_name": "rinichan02",
+					"name": "R I a n I",
+					"id": 2787147841,
+					"id_str": "2787147841",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"screen_name": "01_commando",
+					"name": "WTD_01",
+					"id": 706494835851526100,
+					"id_str": "706494835851526144",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"screen_name": "Suaracebong",
+					"name": "Neputik123",
+					"id": 954537112086372400,
+					"id_str": "954537112086372352",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"screen_name": "playground78910",
+					"name": "😍 baby alien 💜",
+					"id": 1120354080465903600,
+					"id_str": "1120354080465903617",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"screen_name": "01_TheWinner_",
+					"name": "🎹🇮🇩TH3_WINN3R_01🇮🇩🎹",
+					"id": 915546720401891300,
+					"id_str": "915546720401891328",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"screen_name": "WR_4AG226",
+					"name": "PUTRI CEBONG",
+					"id": 799023207294505000,
+					"id_str": "799023207294504960",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"screen_name": "APLpangeran00",
+					"name": "Gema Nawacita",
+					"id": 816800390343602200,
+					"id_str": "816800390343602177",
+					"indices": [
+						205,
+						219
+					]
+				},
+				{
+					"screen_name": "BocoroRoman",
+					"name": "ROMANS",
+					"id": 915408699610431500,
+					"id_str": "915408699610431489",
+					"indices": [
+						220,
+						232
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140781264644890600,
+					"id_str": "1140781264644890625",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D9TehB2UYAEtCQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9TehB2UYAEtCQ7.jpg",
+					"url": "https://t.co/Hmo1egKFUb",
+					"display_url": "pic.twitter.com/Hmo1egKFUb",
+					"expanded_url": "https://twitter.com/putuebo/status/1140781267157282816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 719,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140781264644890600,
+					"id_str": "1140781264644890625",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D9TehB2UYAEtCQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9TehB2UYAEtCQ7.jpg",
+					"url": "https://t.co/Hmo1egKFUb",
+					"display_url": "pic.twitter.com/Hmo1egKFUb",
+					"expanded_url": "https://twitter.com/putuebo/status/1140781267157282816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 719,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1140253554776535000,
+		"in_reply_to_status_id_str": "1140253554776535045",
+		"in_reply_to_user_id": 2542665199,
+		"in_reply_to_user_id_str": "2542665199",
+		"in_reply_to_screen_name": "YRadianto",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 974,
+			"listed_count": 16,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@YRadianto @badonci @pujangga1123 @herikus70 @J_Aryoko @HermantoBenkz @arifin_baen @HD52766966 @heniunique @BadjaNuswantara @rinichan02 @01_commando @Suaracebong @playground78910 @01_TheWinner_ @WR_4AG226 @APLpangeran00 @BocoroRoman Bapak itu ini orangnya... https://t.co/Hmo1egKFUb"
+	},
+	{
+		"created_at": "Mon Jun 17 10:15:16 +0000 2019",
+		"id": 1140417996013203500,
+		"id_str": "1140563552547139585",
+		"full_text": "@ustadtengkuzul 🤭 https://t.co/Xy335lCBh4",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ustadtengkuzul",
+					"name": "tengkuzulkarnain",
+					"id": 843793805010645000,
+					"id_str": "843793805010644992",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140417987914022900,
+					"id_str": "1140417987914022912",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D9OUHikUwAAAxZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9OUHikUwAAAxZt.jpg",
+					"url": "https://t.co/Xy335lCBh4",
+					"display_url": "pic.twitter.com/Xy335lCBh4",
+					"expanded_url": "https://twitter.com/TurnipDedi/status/1140417996013203456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 705,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 705,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140417987914022900,
+					"id_str": "1140417987914022912",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D9OUHikUwAAAxZt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9OUHikUwAAAxZt.jpg",
+					"url": "https://t.co/Xy335lCBh4",
+					"display_url": "pic.twitter.com/Xy335lCBh4",
+					"expanded_url": "https://twitter.com/TurnipDedi/status/1140417996013203456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 705,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 705,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1140410409020612600,
+		"in_reply_to_status_id_str": "1140410409020612608",
+		"in_reply_to_user_id": 843793805010645000,
+		"in_reply_to_user_id_str": "843793805010644992",
+		"in_reply_to_screen_name": "ustadtengkuzul",
+		"user": {
+			"id": 2352398952,
+			"id_str": "2352398952",
+			"name": "Dedianto",
+			"screen_name": "TurnipDedi",
+			"location": "Tangerang Selatan",
+			"description": "Human Resources Enthusiast",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1462,
+			"friends_count": 1760,
+			"listed_count": 2,
+			"created_at": "Wed Feb 19 23:44:59 +0000 2014",
+			"favourites_count": 16737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134837466370719744/O42fupG1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134837466370719744/O42fupG1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2352398952/1559231590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ustadtengkuzul 🤭 https://t.co/Xy335lCBh4"
+	},
+	{
 		"created_at": "Sun Jun 16 11:26:29 +0000 2019",
 		"id": 1140219088561532900,
 		"id_str": "1140219088561532929",
