@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 11:38:01 +0000 2019",
+		"id": 1142033928015904800,
+		"id_str": "1142033928015904768",
+		"full_text": "Komik Strip Sidang MK. Source: https://t.co/cG85t9wRXP https://t.co/vXxk2QxOJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cG85t9wRXP",
+					"expanded_url": "https://www.suara.com/news/2019/06/21/064500/viral-kumpulan-komik-strip-seputar-sidang-mk-yang-bikin-ngakak",
+					"display_url": "suara.com/news/2019/06/2…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142033891135389700,
+					"id_str": "1142033891135389696",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lRxfKVAAALvIM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lRxfKVAAALvIM.jpg",
+					"url": "https://t.co/vXxk2QxOJZ",
+					"display_url": "pic.twitter.com/vXxk2QxOJZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1142033928015904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142033891135389700,
+					"id_str": "1142033891135389696",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lRxfKVAAALvIM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lRxfKVAAALvIM.jpg",
+					"url": "https://t.co/vXxk2QxOJZ",
+					"display_url": "pic.twitter.com/vXxk2QxOJZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1142033928015904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142033900539007000,
+					"id_str": "1142033900539006981",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lRyCMU0AULz6D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lRyCMU0AULz6D.jpg",
+					"url": "https://t.co/vXxk2QxOJZ",
+					"display_url": "pic.twitter.com/vXxk2QxOJZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1142033928015904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142033912094265300,
+					"id_str": "1142033912094265344",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lRytPUEAAT2FI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lRytPUEAAT2FI.jpg",
+					"url": "https://t.co/vXxk2QxOJZ",
+					"display_url": "pic.twitter.com/vXxk2QxOJZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1142033928015904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142033920361291800,
+					"id_str": "1142033920361291776",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lRzMCU4AA1nRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lRzMCU4AA1nRz.jpg",
+					"url": "https://t.co/vXxk2QxOJZ",
+					"display_url": "pic.twitter.com/vXxk2QxOJZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1142033928015904768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 713,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 713,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1445,
+			"friends_count": 974,
+			"listed_count": 16,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Komik Strip Sidang MK. Source: https://t.co/cG85t9wRXP https://t.co/vXxk2QxOJZ"
+	},
+	{
 		"created_at": "Thu Jun 20 05:21:48 +0000 2019",
 		"id": 1141576866043531300,
 		"id_str": "1141576866043531264",
