@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 05:40:26 +0000 2019",
+		"id": 1144480655817887700,
+		"id_str": "1144480655817887745",
+		"full_text": "Segera hadir... the first Seamen's Club di Indonesia... @ Port of Benoa https://t.co/KZMyAoTZlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144480593696084000,
+					"id_str": "1144480593696083973",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144480593696083973/pu/img/X9owiEnjB-VKNn7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144480593696083973/pu/img/X9owiEnjB-VKNn7E.jpg",
+					"url": "https://t.co/KZMyAoTZlY",
+					"display_url": "pic.twitter.com/KZMyAoTZlY",
+					"expanded_url": "https://twitter.com/putuebo/status/1144480655817887745/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144480593696084000,
+					"id_str": "1144480593696083973",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144480593696083973/pu/img/X9owiEnjB-VKNn7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144480593696083973/pu/img/X9owiEnjB-VKNn7E.jpg",
+					"url": "https://t.co/KZMyAoTZlY",
+					"display_url": "pic.twitter.com/KZMyAoTZlY",
+					"expanded_url": "https://twitter.com/putuebo/status/1144480655817887745/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 15376,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144480593696083973/pu/vid/480x360/XC56C8WzziQG1nno.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144480593696083973/pu/vid/360x270/_HpaXo4SayPlbNI8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1144480593696083973/pu/pl/psn70cnGgmzlskdn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144480593696083973/pu/vid/640x480/_i4ED5CdaK3Leksd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1444,
+			"friends_count": 975,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 9978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9dc4984882004",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9dc4984882004.json",
+			"place_type": "poi",
+			"name": "Pelabuhan Benoa (Port Of Benoa)",
+			"full_name": "Pelabuhan Benoa (Port Of Benoa)",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.2120351791382,
+							-8.743299971063706
+						],
+						[
+							115.2120351791382,
+							-8.743299971063706
+						],
+						[
+							115.2120351791382,
+							-8.743299971063706
+						],
+						[
+							115.2120351791382,
+							-8.743299971063706
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Segera hadir... the first Seamen's Club di Indonesia... @ Port of Benoa https://t.co/KZMyAoTZlY"
+	},
+	{
 		"created_at": "Sat Jun 22 18:23:01 +0000 2019",
 		"id": 1142498238404026400,
 		"id_str": "1142498238404026368",
