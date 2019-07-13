@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 04:23:27 +0000 2019",
+		"id": 1149208968461312000,
+		"id_str": "1149534714077696002",
+		"full_text": "Memang benar banyak ikan di lautan. Tapi mungkin kamu itu sapi. https://t.co/DtqzVRrfXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149208963948273700,
+					"id_str": "1149208963948273664",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LPdsTU4AAhIgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LPdsTU4AAhIgq.jpg",
+					"url": "https://t.co/DtqzVRrfXV",
+					"display_url": "pic.twitter.com/DtqzVRrfXV",
+					"expanded_url": "https://twitter.com/BNGPY/status/1149208968461312000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149208963948273700,
+					"id_str": "1149208963948273664",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/D_LPdsTU4AAhIgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_LPdsTU4AAhIgq.jpg",
+					"url": "https://t.co/DtqzVRrfXV",
+					"display_url": "pic.twitter.com/DtqzVRrfXV",
+					"expanded_url": "https://twitter.com/BNGPY/status/1149208968461312000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 468,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99705510,
+			"id_str": "99705510",
+			"name": "Pay",
+			"screen_name": "BNGPY",
+			"location": "Indonesia",
+			"description": "Trying to love myself, it was one hand clapping. So dark, but surely not from DC Universe. Tweeting dark jokes mostly.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25640,
+			"friends_count": 461,
+			"listed_count": 82,
+			"created_at": "Sun Dec 27 13:12:33 +0000 2009",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 191313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147524776350457856/zERDOJGf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147524776350457856/zERDOJGf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99705510/1546731622",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 881,
+		"favorite_count": 679,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Memang benar banyak ikan di lautan. Tapi mungkin kamu itu sapi. https://t.co/DtqzVRrfXV"
+	},
+	{
 		"created_at": "Thu Jul 11 16:05:56 +0000 2019",
 		"id": 1149349108886327300,
 		"id_str": "1149349108886327296",
