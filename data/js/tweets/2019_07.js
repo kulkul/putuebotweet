@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 13:20:44 +0000 2019",
+		"id": 1150728970947747800,
+		"id_str": "1150757087611215872",
+		"full_text": "Aku sistem zonasi paham. Yg bikin Aku gak paham ini anak nilainya bgs dan jarak dekat kenapa gak di terima krn kalah umur ??? @Kemdikbud_RI bukankah setiap anak berhak sama mendapatkan pendidikan ??? Apalagi dia anak tdk mampu. Tdk adakah pengecualian di kasus ini ?? https://t.co/8W1th5NAfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kemdikbud_RI",
+					"name": "Kemendikbud",
+					"id": 631701837,
+					"id_str": "631701837",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150728905151713300,
+					"id_str": "1150728905151713281",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150728905151713281/pu/img/qMsvPnpk8Y4Vdcsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150728905151713281/pu/img/qMsvPnpk8Y4Vdcsm.jpg",
+					"url": "https://t.co/8W1th5NAfp",
+					"display_url": "pic.twitter.com/8W1th5NAfp",
+					"expanded_url": "https://twitter.com/GuritnaPramana/status/1150728970947747840/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150728905151713300,
+					"id_str": "1150728905151713281",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150728905151713281/pu/img/qMsvPnpk8Y4Vdcsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150728905151713281/pu/img/qMsvPnpk8Y4Vdcsm.jpg",
+					"url": "https://t.co/8W1th5NAfp",
+					"display_url": "pic.twitter.com/8W1th5NAfp",
+					"expanded_url": "https://twitter.com/GuritnaPramana/status/1150728970947747840/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 54379,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1150728905151713281/pu/pl/eTvnL5pFc2UhiWAO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150728905151713281/pu/vid/320x320/XWWDh4aPzPEL2SqD.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1150728905151713281/pu/vid/480x480/TC7Z8tOOdsaFDEs1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762029856,
+			"id_str": "762029856",
+			"name": "ghp",
+			"screen_name": "GuritnaPramana",
+			"location": "",
+			"description": "Wherefore the brightness of the day denies us to behold them. Gak nrimo twitwar, ogah ribet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4859,
+			"friends_count": 958,
+			"listed_count": 5,
+			"created_at": "Thu Aug 16 18:06:19 +0000 2012",
+			"favourites_count": 41408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121013246931144709/VBHIo8Z5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121013246931144709/VBHIo8Z5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762029856/1556107467",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 649,
+		"favorite_count": 508,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Aku sistem zonasi paham. Yg bikin Aku gak paham ini anak nilainya bgs dan jarak dekat kenapa gak di terima krn kalah umur ??? @Kemdikbud_RI bukankah setiap anak berhak sama mendapatkan pendidikan ??? Apalagi dia anak tdk mampu. Tdk adakah pengecualian di kasus ini ?? https://t.co/8W1th5NAfp"
+	},
+	{
 		"created_at": "Sun Jul 14 03:49:37 +0000 2019",
 		"id": 1150250975921233900,
 		"id_str": "1150250975921233921",
