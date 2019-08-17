@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 16 10:39:35 +0000 2019",
+		"id": 1029550632250748900,
+		"id_str": "1162312944740233217",
+		"full_text": "56 years ago Wednesday, 15 August John Paul and George invited me to become part of the Beatles it was a great day for me peace and love. 😎✌️🌟💖🤓😏🤨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27758112,
+			"id_str": "27758112",
+			"name": "#RingoStarr",
+			"screen_name": "ringostarrmusic",
+			"location": "",
+			"description": "",
+			"url": "http://t.co/VmZH8fzM9f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VmZH8fzM9f",
+							"expanded_url": "http://www.ringostarr.com",
+							"display_url": "ringostarr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1922103,
+			"friends_count": 12,
+			"listed_count": 3676,
+			"created_at": "Mon Mar 30 23:19:13 +0000 2009",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/699305511280246786/xBwg5q55_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/699305511280246786/xBwg5q55_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27758112/1455562671",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43701,
+		"favorite_count": 241408,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "56 years ago Wednesday, 15 August John Paul and George invited me to become part of the Beatles it was a great day for me peace and love. 😎✌️🌟💖🤓😏🤨"
+	},
+	{
 		"created_at": "Sun Aug 04 14:30:23 +0000 2019",
 		"id": 1158022373037101000,
 		"id_str": "1158022373037101056",
