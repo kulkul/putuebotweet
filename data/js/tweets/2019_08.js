@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 01:38:26 +0000 2019",
+		"id": 1165075863689318400,
+		"id_str": "1165075863689318400",
+		"full_text": "@ari_wirajaya @WagimanDeep @WR_4AG226 @KetutTore @radenano @permadiaktivis https://t.co/MMcPfFdKsG",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ari_wirajaya",
+					"name": "Madé Ari",
+					"id": 790016124700155900,
+					"id_str": "790016124700155904",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "WagimanDeep",
+					"name": "Wagiman Deep (Habeib Selow)",
+					"id": 1141783903465701400,
+					"id_str": "1141783903465701376",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "WR_4AG226",
+					"name": "PUTRI CEBONG",
+					"id": 799023207294505000,
+					"id_str": "799023207294504960",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "KetutTore",
+					"name": "Tore ketut",
+					"id": 826756189,
+					"id_str": "826756189",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "radenano",
+					"name": "Arya Sena",
+					"id": 1735562568,
+					"id_str": "1735562568",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "permadiaktivis",
+					"name": "Permadi Arya",
+					"id": 813490681519829000,
+					"id_str": "813490681519828997",
+					"indices": [
+						59,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165075856059818000,
+					"id_str": "1165075856059817985",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ECsuUXjUYAE3XMr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECsuUXjUYAE3XMr.jpg",
+					"url": "https://t.co/MMcPfFdKsG",
+					"display_url": "pic.twitter.com/MMcPfFdKsG",
+					"expanded_url": "https://twitter.com/putuebo/status/1165075863689318400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165075856059818000,
+					"id_str": "1165075856059817985",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/ECsuUXjUYAE3XMr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECsuUXjUYAE3XMr.jpg",
+					"url": "https://t.co/MMcPfFdKsG",
+					"display_url": "pic.twitter.com/MMcPfFdKsG",
+					"expanded_url": "https://twitter.com/putuebo/status/1165075863689318400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1164540408119980000,
+		"in_reply_to_status_id_str": "1164540408119980032",
+		"in_reply_to_user_id": 790016124700155900,
+		"in_reply_to_user_id_str": "790016124700155904",
+		"in_reply_to_screen_name": "ari_wirajaya",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 971,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ari_wirajaya @WagimanDeep @WR_4AG226 @KetutTore @radenano @permadiaktivis https://t.co/MMcPfFdKsG"
+	},
+	{
 		"created_at": "Thu Aug 22 00:26:21 +0000 2019",
 		"id": 1164332946892787700,
 		"id_str": "1164332946892787712",
