@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 10:37:01 +0000 2019",
+		"id": 1166627580369412000,
+		"id_str": "1168835280658300928",
+		"full_text": "How to think when you draw by The Ethering Brothers https://t.co/6hCySl1UYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166627536345936000,
+					"id_str": "1166627536345935876",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166627536345935876/pu/img/wRTEh4atUAi7t7ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166627536345935876/pu/img/wRTEh4atUAi7t7ul.jpg",
+					"url": "https://t.co/6hCySl1UYy",
+					"display_url": "pic.twitter.com/6hCySl1UYy",
+					"expanded_url": "https://twitter.com/graphic_rec/status/1166627580369412096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166627536345936000,
+					"id_str": "1166627536345935876",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166627536345935876/pu/img/wRTEh4atUAi7t7ul.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166627536345935876/pu/img/wRTEh4atUAi7t7ul.jpg",
+					"url": "https://t.co/6hCySl1UYy",
+					"display_url": "pic.twitter.com/6hCySl1UYy",
+					"expanded_url": "https://twitter.com/graphic_rec/status/1166627580369412096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12631,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1166627536345935876/pu/vid/320x320/CEJ1zR0Ryn4dciSA.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1166627536345935876/pu/vid/720x720/4lR06dVQOxxVYh__.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1166627536345935876/pu/pl/kyhEHI-HxcBXYdkQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1166627536345935876/pu/vid/480x480/EhftjdD1ODOWSv3U.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3629201601,
+			"id_str": "3629201601",
+			"name": "Birgit Smit",
+			"screen_name": "graphic_rec",
+			"location": "Uithoorn, Nederland",
+			"description": "Clarity.\nToday’s world is asking for less instead of more | \n\nLive graphic recording & visual sensemaking, Functional Drawing workshops & Videoscribing.",
+			"url": "https://t.co/0Q1AAlGARR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Q1AAlGARR",
+							"expanded_url": "http://www.birgitsmit.com",
+							"display_url": "birgitsmit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 455,
+			"listed_count": 39,
+			"created_at": "Sat Sep 12 08:17:50 +0000 2015",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/642613357883715584/w857eF59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/642613357883715584/w857eF59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3629201601/1506336187",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to think when you draw by The Ethering Brothers https://t.co/6hCySl1UYy"
+	},
+	{
 		"created_at": "Mon Sep 02 22:48:58 +0000 2019",
 		"id": 1168657095207444500,
 		"id_str": "1168657095207444480",
