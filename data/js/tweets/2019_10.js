@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 05:26:34 +0000 2019",
+		"id": 1189413262405722000,
+		"id_str": "1189413262405722112",
+		"full_text": "@meow_leader @Dennysiregar7 @DKIJakarta @aniesbaswedan Enak aja.. Selama ini kami mampu beli sendiri kok - ttd anak jalanan https://t.co/EAhatNej2g",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meow_leader",
+					"name": "Meow Garonx",
+					"id": 59450032,
+					"id_str": "59450032",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Dennysiregar7",
+					"name": "Denny siregar",
+					"id": 4780649298,
+					"id_str": "4780649298",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "DKIJakarta",
+					"name": "Pemprov DKI Jakarta",
+					"id": 166014938,
+					"id_str": "166014938",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "aniesbaswedan",
+					"name": "Anies Baswedan",
+					"id": 110312278,
+					"id_str": "110312278",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189413259549364200,
+					"id_str": "1189413259549364224",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EIGlDsqUUAAMLxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIGlDsqUUAAMLxz.jpg",
+					"url": "https://t.co/EAhatNej2g",
+					"display_url": "pic.twitter.com/EAhatNej2g",
+					"expanded_url": "https://twitter.com/putuebo/status/1189413262405722112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 534,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 534,
+							"h": 712,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189413259549364200,
+					"id_str": "1189413259549364224",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EIGlDsqUUAAMLxz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIGlDsqUUAAMLxz.jpg",
+					"url": "https://t.co/EAhatNej2g",
+					"display_url": "pic.twitter.com/EAhatNej2g",
+					"expanded_url": "https://twitter.com/putuebo/status/1189413262405722112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 534,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 534,
+							"h": 712,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1189200892043464700,
+		"in_reply_to_status_id_str": "1189200892043464704",
+		"in_reply_to_user_id": 59450032,
+		"in_reply_to_user_id_str": "59450032",
+		"in_reply_to_screen_name": "meow_leader",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1440,
+			"friends_count": 964,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@meow_leader @Dennysiregar7 @DKIJakarta @aniesbaswedan Enak aja.. Selama ini kami mampu beli sendiri kok - ttd anak jalanan https://t.co/EAhatNej2g"
+	},
+	{
 		"created_at": "Mon Oct 28 05:06:50 +0000 2019",
 		"id": 1188683520199151600,
 		"id_str": "1188683520199151616",
