@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 11:59:15 +0000 2019",
+		"id": 1196003512615764000,
+		"id_str": "1196035065043546113",
+		"full_text": "https://t.co/wvUit2ru3M\n\nPresiden Joko Widodo (Jokowi) mengunggah komik yang dinamainya #JokoMic. Komik edisi ini membahas soal keberanian dalam berubah menjadi lebih baik.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JokoMic",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvUit2ru3M",
+					"expanded_url": "https://news.detik.com/berita/d-4787827/jokowi-posting-jokomic-berani-mencoba-berani-berubah",
+					"display_url": "news.detik.com/berita/d-47878…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788757130350297100,
+			"id_str": "788757130350297089",
+			"name": "#NKRI",
+			"screen_name": "p_politik",
+			"location": "NKRI Bhinneka Tunggal Ika",
+			"description": "#Hatersblock #JokowiPresidenku",
+			"url": "https://t.co/7IDoW8iFLm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7IDoW8iFLm",
+							"expanded_url": "https://twitter.com",
+							"display_url": "twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28280,
+			"friends_count": 4781,
+			"listed_count": 12,
+			"created_at": "Wed Oct 19 15:02:09 +0000 2016",
+			"favourites_count": 41366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188283889107664896/MwWj3uQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188283889107664896/MwWj3uQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788757130350297089/1566961549",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "https://t.co/wvUit2ru3M\n\nPresiden Joko Widodo (Jokowi) mengunggah komik yang dinamainya #JokoMic. Komik edisi ini membahas soal keberanian dalam berubah menjadi lebih baik."
+	},
+	{
 		"created_at": "Sat Nov 16 04:32:45 +0000 2019",
 		"id": 1195007889372569600,
 		"id_str": "1195560311492763649",
