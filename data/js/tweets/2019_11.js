@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 04:01:50 +0000 2019",
+		"id": 1196588410359517200,
+		"id_str": "1196639696140374016",
+		"full_text": "Kalau kamu masih sulit membedakan \"di\" dipisah atau digabung, mungkin cara ini bisa membantu.\n\n🙏 https://t.co/W27K8yroNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196587717645099000,
+					"id_str": "1196587717645099008",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EJsiMHzU4AAyurl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJsiMHzU4AAyurl.jpg",
+					"url": "https://t.co/W27K8yroNh",
+					"display_url": "pic.twitter.com/W27K8yroNh",
+					"expanded_url": "https://twitter.com/idwiki/status/1196588410359517184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 891,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1521,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196587717645099000,
+					"id_str": "1196587717645099008",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EJsiMHzU4AAyurl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJsiMHzU4AAyurl.jpg",
+					"url": "https://t.co/W27K8yroNh",
+					"display_url": "pic.twitter.com/W27K8yroNh",
+					"expanded_url": "https://twitter.com/idwiki/status/1196588410359517184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 891,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1521,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113669443,
+			"id_str": "113669443",
+			"name": "Wikipedia bahasa Indonesia",
+			"screen_name": "idwiki",
+			"location": "Seluruh dunia",
+			"description": "Akun Twitter resmi Wikipedia bahasa Indonesia. Kontak: info-id@wikimedia.org, press-id@wikimedia.org. | Indonesian Wikipedia official Twitter account.",
+			"url": "https://t.co/bZ4zD6kRj7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bZ4zD6kRj7",
+							"expanded_url": "https://id.wikipedia.org",
+							"display_url": "id.wikipedia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128484,
+			"friends_count": 472,
+			"listed_count": 172,
+			"created_at": "Fri Feb 12 16:19:37 +0000 2010",
+			"favourites_count": 677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882177323914543104/NysA35sg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882177323914543104/NysA35sg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113669443/1566288976",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4535,
+		"favorite_count": 8660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kalau kamu masih sulit membedakan \"di\" dipisah atau digabung, mungkin cara ini bisa membantu.\n\n🙏 https://t.co/W27K8yroNh"
+	},
+	{
 		"created_at": "Sun Nov 17 11:59:15 +0000 2019",
 		"id": 1196003512615764000,
 		"id_str": "1196035065043546113",
