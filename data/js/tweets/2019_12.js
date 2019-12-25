@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 12:27:23 +0000 2019",
+		"id": 1209030671517110300,
+		"id_str": "1209450497649737734",
+		"full_text": "https://t.co/GhnVeeSLbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GhnVeeSLbM",
+					"expanded_url": "https://id.m.wikihow.com/Menjadi-Bintang-Film-Porno",
+					"display_url": "id.m.wikihow.com/Menjadi-Bintan…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064538704,
+			"id_str": "1064538704",
+			"name": "chak",
+			"screen_name": "squodvivi",
+			"location": "Bali, Indonesia",
+			"description": "bucin spombob",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8534,
+			"friends_count": 7570,
+			"listed_count": 3,
+			"created_at": "Sun Jan 06 02:16:03 +0000 2013",
+			"favourites_count": 1284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207646583010934785/U8EbkfRL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207646583010934785/U8EbkfRL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064538704/1576056862",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2960,
+		"favorite_count": 4171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GhnVeeSLbM"
+	},
+	{
 		"created_at": "Mon Dec 23 08:08:30 +0000 2019",
 		"id": 1209022958015926300,
 		"id_str": "1209022958015926273",
