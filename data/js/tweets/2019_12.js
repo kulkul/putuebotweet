@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 07:04:16 +0000 2019",
+		"id": 1209313841525510100,
+		"id_str": "1209731569885167616",
+		"full_text": "“Listen, it happens to all of us. Next time, just save your work as you go. CTRL + S is your best friend.” https://t.co/o2o9EBc0nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208829013134921700,
+					"id_str": "1208829013134921734",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208829013134921734/pu/img/oBh8jfZIdeHJ1dgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208829013134921734/pu/img/oBh8jfZIdeHJ1dgM.jpg",
+					"url": "https://t.co/o2o9EBc0nx",
+					"display_url": "pic.twitter.com/o2o9EBc0nx",
+					"expanded_url": "https://twitter.com/sadiealeewhite/status/1208829232555741184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1208829232555741200,
+					"source_status_id_str": "1208829232555741184",
+					"source_user_id": 1057017146247655400,
+					"source_user_id_str": "1057017146247655425",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208829013134921700,
+					"id_str": "1208829013134921734",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1208829013134921734/pu/img/oBh8jfZIdeHJ1dgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1208829013134921734/pu/img/oBh8jfZIdeHJ1dgM.jpg",
+					"url": "https://t.co/o2o9EBc0nx",
+					"display_url": "pic.twitter.com/o2o9EBc0nx",
+					"expanded_url": "https://twitter.com/sadiealeewhite/status/1208829232555741184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 1232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1208829232555741200,
+					"source_status_id_str": "1208829232555741184",
+					"source_user_id": 1057017146247655400,
+					"source_user_id_str": "1057017146247655425",
+					"video_info": {
+						"aspect_ratio": [
+							155,
+							308
+						],
+						"duration_millis": 5505,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208829013134921734/pu/vid/360x714/K9r1K8R9c2ZuvabN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1208829013134921734/pu/pl/xqLeZSHRa1P2F9aZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208829013134921734/pu/vid/620x1232/uR2wJgD3tQw0kovn.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1208829013134921734/pu/vid/320x634/CT4yGHh-wuWnxuJo.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1057017146247655400,
+							"id_str": "1057017146247655425",
+							"name": "sadie black",
+							"screen_name": "sadiealeewhite",
+							"location": "land of delusion",
+							"description": "i like deep convos & hippie music, snap & insta: @sadiealeewhite",
+							"url": "https://t.co/7ncRL5CW5z",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/7ncRL5CW5z",
+											"expanded_url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg?si=RisfxpINS-KZJu_mY7KQXQ",
+											"display_url": "open.spotify.com/artist/0n94vC3…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1535,
+							"friends_count": 968,
+							"listed_count": 1,
+							"created_at": "Mon Oct 29 21:11:40 +0000 2018",
+							"favourites_count": 15791,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 7773,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1177739555417579521/cob9NUoq_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177739555417579521/cob9NUoq_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057017146247655425/1572396009",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186289751428599800,
+			"id_str": "1186289751428599809",
+			"name": "ExcelHumor",
+			"screen_name": "ExcelHumor",
+			"location": "",
+			"description": "Excel Humor 🤓",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7412,
+			"friends_count": 198,
+			"listed_count": 12,
+			"created_at": "Mon Oct 21 14:35:48 +0000 2019",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186291449383571458/KDYJL_g8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186291449383571458/KDYJL_g8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186289751428599809/1571668916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 690,
+		"favorite_count": 1226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Listen, it happens to all of us. Next time, just save your work as you go. CTRL + S is your best friend.” https://t.co/o2o9EBc0nx"
+	},
+	{
+		"created_at": "Wed Dec 25 06:35:18 +0000 2019",
+		"id": 1209724281086562300,
+		"id_str": "1209724281086562305",
+		"full_text": "@mbohsopo_ @setangarislucu Dikiranya candi atau monumen",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mbohsopo_",
+					"name": "•",
+					"id": 1028174744,
+					"id_str": "1028174744",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "setangarislucu",
+					"name": "Setan",
+					"id": 1092474576062173200,
+					"id_str": "1092474576062173186",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1209681930691715000,
+		"in_reply_to_status_id_str": "1209681930691715074",
+		"in_reply_to_user_id": 1028174744,
+		"in_reply_to_user_id_str": "1028174744",
+		"in_reply_to_screen_name": "mbohsopo_",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1940,
+			"friends_count": 1488,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@mbohsopo_ @setangarislucu Dikiranya candi atau monumen"
+	},
+	{
+		"created_at": "Wed Dec 25 06:33:35 +0000 2019",
+		"id": 1209660165877723100,
+		"id_str": "1209723849643720704",
+		"full_text": "@jokowi Dear Mr @jokowi 😊 https://t.co/zyX3jvqjWv",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jokowi",
+					"name": "Joko Widodo",
+					"id": 366987179,
+					"id_str": "366987179",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "jokowi",
+					"name": "Joko Widodo",
+					"id": 366987179,
+					"id_str": "366987179",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209660157644296200,
+					"id_str": "1209660157644296192",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EMmTgRtU0AAcqLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMmTgRtU0AAcqLz.jpg",
+					"url": "https://t.co/zyX3jvqjWv",
+					"display_url": "pic.twitter.com/zyX3jvqjWv",
+					"expanded_url": "https://twitter.com/P3nj3l4j4h_id/status/1209660165877723136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 714,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 714,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209660157644296200,
+					"id_str": "1209660157644296192",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EMmTgRtU0AAcqLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMmTgRtU0AAcqLz.jpg",
+					"url": "https://t.co/zyX3jvqjWv",
+					"display_url": "pic.twitter.com/zyX3jvqjWv",
+					"expanded_url": "https://twitter.com/P3nj3l4j4h_id/status/1209660165877723136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 714,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 714,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1209640016214818800,
+		"in_reply_to_status_id_str": "1209640016214818816",
+		"in_reply_to_user_id": 366987179,
+		"in_reply_to_user_id_str": "366987179",
+		"in_reply_to_screen_name": "jokowi",
+		"user": {
+			"id": 727998262137905200,
+			"id_str": "727998262137905152",
+			"name": "Presiden Runner Up. 2",
+			"screen_name": "P3nj3l4j4h_id",
+			"location": "Angola",
+			"description": "Akun ke 2 dari @P3nj3l4j4h #Tidak meladeni twitwor, berada antara Bumi Bunder dan Bumi Datar. #NKRIHargaMati #MarriedToISW❤&🇲🇨",
+			"url": "https://t.co/94mzmj7ZEH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/94mzmj7ZEH",
+							"expanded_url": "https://www.instagram.com/p3nj3l4j4h_id/",
+							"display_url": "instagram.com/p3nj3l4j4h_id/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9571,
+			"friends_count": 1744,
+			"listed_count": 5,
+			"created_at": "Wed May 04 23:08:06 +0000 2016",
+			"favourites_count": 6372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208078604757688320/GQcnOv5a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208078604757688320/GQcnOv5a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727998262137905152/1574702941",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jokowi Dear Mr @jokowi 😊 https://t.co/zyX3jvqjWv"
+	},
+	{
+		"created_at": "Wed Dec 25 06:10:06 +0000 2019",
+		"id": 1209717937042407400,
+		"id_str": "1209717937042407430",
+		"full_text": "@Julie_Pandika Aku perawan lagi .. Lewat jalan oprasi... Perlahan tapi pasti.. Mengikuti alun melody",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Julie_Pandika",
+					"name": "Julie▪️",
+					"id": 1187011404034764800,
+					"id_str": "1187011404034764801",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1209666954224472000,
+		"in_reply_to_status_id_str": "1209666954224472064",
+		"in_reply_to_user_id": 1187011404034764800,
+		"in_reply_to_user_id_str": "1187011404034764801",
+		"in_reply_to_screen_name": "Julie_Pandika",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1940,
+			"friends_count": 1488,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Julie_Pandika Aku perawan lagi .. Lewat jalan oprasi... Perlahan tapi pasti.. Mengikuti alun melody"
+	},
+	{
 		"created_at": "Tue Dec 24 12:27:23 +0000 2019",
 		"id": 1209030671517110300,
 		"id_str": "1209450497649737734",
