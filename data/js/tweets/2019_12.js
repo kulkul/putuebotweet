@@ -1,6 +1,5127 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 18:20:05 +0000 2019",
+		"id": 1211351194964086800,
+		"id_str": "1211351194964086785",
+		"full_text": "@sjahnanda @potretlawas Salus Populi Suprema Lex, Sepertinya semboyan yg jamak terpampang pd lambang2 kota di eropa, negara bagian dan kampus di AS: kira2 berarti \"kesejahteraan rakyat harus menjadi hukum yg tertinggi\" \nhttps://t.co/ZRBxPQx2rZ",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sjahnanda",
+					"name": "Nanda Pramana",
+					"id": 46651250,
+					"id_str": "46651250",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "potretlawas",
+					"name": "Potret Lawas",
+					"id": 828754122115395600,
+					"id_str": "828754122115395584",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZRBxPQx2rZ",
+					"expanded_url": "https://en.m.wikipedia.org/wiki/Salus_populi_suprema_lex_esto",
+					"display_url": "en.m.wikipedia.org/wiki/Salus_pop…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1211241040901881900,
+		"in_reply_to_status_id_str": "1211241040901881857",
+		"in_reply_to_user_id": 46651250,
+		"in_reply_to_user_id_str": "46651250",
+		"in_reply_to_screen_name": "sjahnanda",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 1527,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@sjahnanda @potretlawas Salus Populi Suprema Lex, Sepertinya semboyan yg jamak terpampang pd lambang2 kota di eropa, negara bagian dan kampus di AS: kira2 berarti \"kesejahteraan rakyat harus menjadi hukum yg tertinggi\" \nhttps://t.co/ZRBxPQx2rZ"
+	},
+	{
+		"created_at": "Sun Dec 29 02:17:47 +0000 2019",
+		"id": 1211109024139079700,
+		"id_str": "1211109024139079681",
+		"full_text": "@tandanVradio @WagimanDeep @aniesbaswedan @ridwankamil @OdedMD @4Y4NKZ @RizmaWidiono @WR_4AG226 @elHurryKoRn Luar biasa... Salut buat bapak hebat ini",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tandanVradio",
+					"name": "Am Tanjung🇮🇩",
+					"id": 3062959122,
+					"id_str": "3062959122",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "WagimanDeep",
+					"name": "Wagiman Deep (Habeib Selow)",
+					"id": 1141783903465701400,
+					"id_str": "1141783903465701376",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "aniesbaswedan",
+					"name": "Anies Baswedan",
+					"id": 110312278,
+					"id_str": "110312278",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "ridwankamil",
+					"name": "ridwan kamil",
+					"id": 80323736,
+					"id_str": "80323736",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "OdedMD",
+					"name": "Oded Muhamad Danial",
+					"id": 1319572040,
+					"id_str": "1319572040",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "4Y4NKZ",
+					"name": "CASAVA",
+					"id": 43667155,
+					"id_str": "43667155",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"screen_name": "RizmaWidiono",
+					"name": "Rizma Widiono",
+					"id": 746241503714934800,
+					"id_str": "746241503714934784",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "WR_4AG226",
+					"name": "PUTRI CEBONG",
+					"id": 799023207294505000,
+					"id_str": "799023207294504960",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "elHurryKoRn",
+					"name": "el Pop'KoЯn",
+					"id": 592670569,
+					"id_str": "592670569",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1210957690832216000,
+		"in_reply_to_status_id_str": "1210957690832216065",
+		"in_reply_to_user_id": 3062959122,
+		"in_reply_to_user_id_str": "3062959122",
+		"in_reply_to_screen_name": "tandanVradio",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 1527,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@tandanVradio @WagimanDeep @aniesbaswedan @ridwankamil @OdedMD @4Y4NKZ @RizmaWidiono @WR_4AG226 @elHurryKoRn Luar biasa... Salut buat bapak hebat ini"
+	},
+	{
+		"created_at": "Sun Dec 29 02:14:53 +0000 2019",
+		"id": 1211108295550763000,
+		"id_str": "1211108295550763009",
+		"full_text": "Ikonik new wave lapanpuluan... Buat generasi lepek bisakah mengenali wajah-wajah dlm gambar? Saya cuma mampu  jawab 11. Kunci jawaban di situsnya @rudolfdethu\n\nhttps://t.co/LR2gz6fPou https://t.co/Nc8YrAsfsn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rudolfdethu",
+					"name": "Rudolf Dethu",
+					"id": 58075420,
+					"id_str": "58075420",
+					"indices": [
+						146,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LR2gz6fPou",
+					"expanded_url": "https://www.rudolfdethu.com/new-wave-whos-who/",
+					"display_url": "rudolfdethu.com/new-wave-whos-…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1211108273094459400,
+					"id_str": "1211108273094459394",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EM64jsJVAAIy-zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM64jsJVAAIy-zE.jpg",
+					"url": "https://t.co/Nc8YrAsfsn",
+					"display_url": "pic.twitter.com/Nc8YrAsfsn",
+					"expanded_url": "https://twitter.com/putuebo/status/1211108295550763009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 25,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 19,
+									"y": 217,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 78,
+									"y": 470,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 411,
+									"y": 221,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 313,
+									"y": 283,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 249,
+									"y": 283,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 415,
+									"y": 360,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 308,
+									"y": 34,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 345,
+									"y": 125,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 340,
+									"y": 215,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 554,
+									"y": 224,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 460,
+									"y": 275,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 13,
+									"y": 348,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 205,
+									"y": 348,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 425,
+									"y": 467,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 146,
+									"y": 588,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 569,
+									"y": 596,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 47,
+									"y": 25,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 379,
+									"y": 23,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 229,
+									"y": 24,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 98,
+									"y": 28,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 171,
+									"y": 29,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 623,
+									"y": 83,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 81,
+									"y": 88,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 135,
+									"y": 86,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 270,
+									"y": 88,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 410,
+									"y": 88,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 489,
+									"y": 91,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 446,
+									"y": 153,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 625,
+									"y": 223,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 105,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 527,
+									"y": 287,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 248,
+									"y": 408,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 355,
+									"y": 467,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 280,
+									"y": 468,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 18,
+									"y": 474,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 214,
+									"y": 474,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 566,
+									"y": 475,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 525,
+									"y": 534,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 362,
+									"y": 603,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 272,
+									"y": 609,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 334,
+									"y": 88,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 581,
+									"y": 283,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 622,
+									"y": 342,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 559,
+									"y": 358,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 105,
+									"y": 411,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 520,
+									"y": 408,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 323,
+									"y": 418,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 455,
+									"y": 417,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 78,
+									"y": 596,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 199,
+									"y": 595,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 416,
+									"y": 603,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 595,
+									"y": 22,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 446,
+									"y": 26,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 564,
+									"y": 86,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 197,
+									"y": 85,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 13,
+									"y": 90,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 98,
+									"y": 150,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 171,
+									"y": 152,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 236,
+									"y": 154,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 312,
+									"y": 159,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 377,
+									"y": 159,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 35,
+									"y": 161,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 525,
+									"y": 161,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 70,
+									"y": 215,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 138,
+									"y": 219,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 380,
+									"y": 275,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 345,
+									"y": 347,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 147,
+									"y": 348,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 482,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 174,
+									"y": 402,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 120,
+									"y": 530,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 449,
+									"y": 532,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 603,
+									"y": 532,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 175,
+									"y": 537,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 276,
+									"y": 214,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 491,
+									"y": 214,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 278,
+									"y": 329,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 579,
+									"y": 406,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 39,
+									"y": 408,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 137,
+									"y": 470,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 383,
+									"y": 525,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 318,
+									"y": 527,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 481,
+									"y": 598,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 3,
+									"y": 193,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 236,
+									"y": 527,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 43,
+									"y": 475,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 49,
+									"y": 159,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 159,
+									"y": 348,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 41,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 31,
+									"y": 346,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 125,
+									"y": 748,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 653,
+									"y": 351,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 498,
+									"y": 451,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 451,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 660,
+									"y": 573,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 490,
+									"y": 54,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 548,
+									"y": 200,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 540,
+									"y": 342,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 880,
+									"y": 356,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 731,
+									"y": 437,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 22,
+									"y": 554,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 326,
+									"y": 553,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 676,
+									"y": 743,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 233,
+									"y": 934,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 904,
+									"y": 947,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 75,
+									"y": 40,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 602,
+									"y": 37,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 365,
+									"y": 39,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 45,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 273,
+									"y": 47,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 990,
+									"y": 132,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 130,
+									"y": 141,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 215,
+									"y": 137,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 430,
+									"y": 140,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 652,
+									"y": 141,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 777,
+									"y": 146,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 709,
+									"y": 244,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 994,
+									"y": 355,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 168,
+									"y": 450,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 838,
+									"y": 456,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 395,
+									"y": 649,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 565,
+									"y": 743,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 445,
+									"y": 744,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 30,
+									"y": 754,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 754,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 899,
+									"y": 755,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 835,
+									"y": 849,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 575,
+									"y": 959,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 433,
+									"y": 968,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 531,
+									"y": 140,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 924,
+									"y": 451,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 988,
+									"y": 544,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 888,
+									"y": 569,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 168,
+									"y": 653,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 826,
+									"y": 648,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 513,
+									"y": 665,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 723,
+									"y": 663,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 124,
+									"y": 947,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 317,
+									"y": 946,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 661,
+									"y": 958,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 946,
+									"y": 36,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 709,
+									"y": 42,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 897,
+									"y": 138,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 313,
+									"y": 135,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 21,
+									"y": 143,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 239,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 272,
+									"y": 242,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 246,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 496,
+									"y": 254,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 600,
+									"y": 253,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 56,
+									"y": 257,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 834,
+									"y": 257,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 112,
+									"y": 342,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 220,
+									"y": 349,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 605,
+									"y": 438,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 548,
+									"y": 552,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 234,
+									"y": 553,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 766,
+									"y": 553,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 639,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 191,
+									"y": 842,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 714,
+									"y": 845,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 958,
+									"y": 845,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 279,
+									"y": 854,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 439,
+									"y": 340,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 780,
+									"y": 341,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 442,
+									"y": 523,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 921,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 63,
+									"y": 649,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 219,
+									"y": 748,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 609,
+									"y": 834,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 506,
+									"y": 837,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 764,
+									"y": 951,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 6,
+									"y": 307,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 375,
+									"y": 837,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 69,
+									"y": 755,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 79,
+									"y": 254,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 254,
+									"y": 553,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 41,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 31,
+									"y": 346,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 125,
+									"y": 748,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 653,
+									"y": 351,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 498,
+									"y": 451,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 451,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 660,
+									"y": 573,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 490,
+									"y": 54,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 548,
+									"y": 200,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 540,
+									"y": 342,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 880,
+									"y": 356,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 731,
+									"y": 437,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 22,
+									"y": 554,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 326,
+									"y": 553,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 676,
+									"y": 743,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 233,
+									"y": 934,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 904,
+									"y": 947,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 75,
+									"y": 40,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 602,
+									"y": 37,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 365,
+									"y": 39,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 45,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 273,
+									"y": 47,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 990,
+									"y": 132,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 130,
+									"y": 141,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 215,
+									"y": 137,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 430,
+									"y": 140,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 652,
+									"y": 141,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 777,
+									"y": 146,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 709,
+									"y": 244,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 994,
+									"y": 355,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 168,
+									"y": 450,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 838,
+									"y": 456,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 395,
+									"y": 649,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 565,
+									"y": 743,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 445,
+									"y": 744,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 30,
+									"y": 754,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 754,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 899,
+									"y": 755,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 835,
+									"y": 849,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 575,
+									"y": 959,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 433,
+									"y": 968,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 531,
+									"y": 140,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 924,
+									"y": 451,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 988,
+									"y": 544,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 888,
+									"y": 569,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 168,
+									"y": 653,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 826,
+									"y": 648,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 513,
+									"y": 665,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 723,
+									"y": 663,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 124,
+									"y": 947,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 317,
+									"y": 946,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 661,
+									"y": 958,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 946,
+									"y": 36,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 709,
+									"y": 42,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 897,
+									"y": 138,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 313,
+									"y": 135,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 21,
+									"y": 143,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 239,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 272,
+									"y": 242,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 246,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 496,
+									"y": 254,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 600,
+									"y": 253,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 56,
+									"y": 257,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 834,
+									"y": 257,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 112,
+									"y": 342,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 220,
+									"y": 349,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 605,
+									"y": 438,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 548,
+									"y": 552,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 234,
+									"y": 553,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 766,
+									"y": 553,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 639,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 191,
+									"y": 842,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 714,
+									"y": 845,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 958,
+									"y": 845,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 279,
+									"y": 854,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 439,
+									"y": 340,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 780,
+									"y": 341,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 442,
+									"y": 523,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 921,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 63,
+									"y": 649,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 219,
+									"y": 748,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 609,
+									"y": 834,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 506,
+									"y": 837,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 764,
+									"y": 951,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 6,
+									"y": 307,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 375,
+									"y": 837,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 69,
+									"y": 755,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 79,
+									"y": 254,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 254,
+									"y": 553,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 41,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 31,
+									"y": 346,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 125,
+									"y": 748,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 653,
+									"y": 351,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 498,
+									"y": 451,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 451,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 660,
+									"y": 573,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 490,
+									"y": 54,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 548,
+									"y": 200,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 540,
+									"y": 342,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 880,
+									"y": 356,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 731,
+									"y": 437,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 22,
+									"y": 554,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 326,
+									"y": 553,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 676,
+									"y": 743,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 233,
+									"y": 934,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 904,
+									"y": 947,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 75,
+									"y": 40,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 602,
+									"y": 37,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 365,
+									"y": 39,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 45,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 273,
+									"y": 47,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 990,
+									"y": 132,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 130,
+									"y": 141,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 215,
+									"y": 137,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 430,
+									"y": 140,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 652,
+									"y": 141,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 777,
+									"y": 146,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 709,
+									"y": 244,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 994,
+									"y": 355,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 168,
+									"y": 450,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 838,
+									"y": 456,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 395,
+									"y": 649,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 565,
+									"y": 743,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 445,
+									"y": 744,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 30,
+									"y": 754,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 754,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 899,
+									"y": 755,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 835,
+									"y": 849,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 575,
+									"y": 959,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 433,
+									"y": 968,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 531,
+									"y": 140,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 924,
+									"y": 451,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 988,
+									"y": 544,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 888,
+									"y": 569,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 168,
+									"y": 653,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 826,
+									"y": 648,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 513,
+									"y": 665,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 723,
+									"y": 663,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 124,
+									"y": 947,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 317,
+									"y": 946,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 661,
+									"y": 958,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 946,
+									"y": 36,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 709,
+									"y": 42,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 897,
+									"y": 138,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 313,
+									"y": 135,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 21,
+									"y": 143,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 239,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 272,
+									"y": 242,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 246,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 496,
+									"y": 254,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 600,
+									"y": 253,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 56,
+									"y": 257,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 834,
+									"y": 257,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 112,
+									"y": 342,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 220,
+									"y": 349,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 605,
+									"y": 438,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 548,
+									"y": 552,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 234,
+									"y": 553,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 766,
+									"y": 553,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 639,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 191,
+									"y": 842,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 714,
+									"y": 845,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 958,
+									"y": 845,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 279,
+									"y": 854,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 439,
+									"y": 340,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 780,
+									"y": 341,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 442,
+									"y": 523,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 921,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 63,
+									"y": 649,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 219,
+									"y": 748,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 609,
+									"y": 834,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 506,
+									"y": 837,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 764,
+									"y": 951,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 6,
+									"y": 307,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 375,
+									"y": 837,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 69,
+									"y": 755,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 79,
+									"y": 254,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 254,
+									"y": 553,
+									"h": 238,
+									"w": 238
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211108273094459400,
+					"id_str": "1211108273094459394",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EM64jsJVAAIy-zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM64jsJVAAIy-zE.jpg",
+					"url": "https://t.co/Nc8YrAsfsn",
+					"display_url": "pic.twitter.com/Nc8YrAsfsn",
+					"expanded_url": "https://twitter.com/putuebo/status/1211108295550763009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 25,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 19,
+									"y": 217,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 78,
+									"y": 470,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 411,
+									"y": 221,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 313,
+									"y": 283,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 249,
+									"y": 283,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 415,
+									"y": 360,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 308,
+									"y": 34,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 345,
+									"y": 125,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 340,
+									"y": 215,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 554,
+									"y": 224,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 460,
+									"y": 275,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 13,
+									"y": 348,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 205,
+									"y": 348,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 425,
+									"y": 467,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 146,
+									"y": 588,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 569,
+									"y": 596,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 47,
+									"y": 25,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 379,
+									"y": 23,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 229,
+									"y": 24,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 98,
+									"y": 28,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 171,
+									"y": 29,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 623,
+									"y": 83,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 81,
+									"y": 88,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 135,
+									"y": 86,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 270,
+									"y": 88,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 410,
+									"y": 88,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 489,
+									"y": 91,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 446,
+									"y": 153,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 625,
+									"y": 223,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 105,
+									"y": 283,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 527,
+									"y": 287,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 248,
+									"y": 408,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 355,
+									"y": 467,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 280,
+									"y": 468,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 18,
+									"y": 474,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 214,
+									"y": 474,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 566,
+									"y": 475,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 525,
+									"y": 534,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 362,
+									"y": 603,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 272,
+									"y": 609,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 334,
+									"y": 88,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 581,
+									"y": 283,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 622,
+									"y": 342,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 559,
+									"y": 358,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 105,
+									"y": 411,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 520,
+									"y": 408,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 323,
+									"y": 418,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 455,
+									"y": 417,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 78,
+									"y": 596,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 199,
+									"y": 595,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 416,
+									"y": 603,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 595,
+									"y": 22,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 446,
+									"y": 26,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 564,
+									"y": 86,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 197,
+									"y": 85,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 13,
+									"y": 90,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 98,
+									"y": 150,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 171,
+									"y": 152,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 236,
+									"y": 154,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 312,
+									"y": 159,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 377,
+									"y": 159,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 35,
+									"y": 161,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 525,
+									"y": 161,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 70,
+									"y": 215,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 138,
+									"y": 219,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 380,
+									"y": 275,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 345,
+									"y": 347,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 147,
+									"y": 348,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 482,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 174,
+									"y": 402,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 120,
+									"y": 530,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 449,
+									"y": 532,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 603,
+									"y": 532,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 175,
+									"y": 537,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 276,
+									"y": 214,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 491,
+									"y": 214,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 278,
+									"y": 329,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 579,
+									"y": 406,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 39,
+									"y": 408,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 137,
+									"y": 470,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 383,
+									"y": 525,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 318,
+									"y": 527,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 481,
+									"y": 598,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 3,
+									"y": 193,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 236,
+									"y": 527,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 43,
+									"y": 475,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 49,
+									"y": 159,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 159,
+									"y": 348,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 41,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 31,
+									"y": 346,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 125,
+									"y": 748,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 653,
+									"y": 351,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 498,
+									"y": 451,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 451,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 660,
+									"y": 573,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 490,
+									"y": 54,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 548,
+									"y": 200,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 540,
+									"y": 342,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 880,
+									"y": 356,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 731,
+									"y": 437,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 22,
+									"y": 554,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 326,
+									"y": 553,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 676,
+									"y": 743,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 233,
+									"y": 934,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 904,
+									"y": 947,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 75,
+									"y": 40,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 602,
+									"y": 37,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 365,
+									"y": 39,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 45,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 273,
+									"y": 47,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 990,
+									"y": 132,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 130,
+									"y": 141,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 215,
+									"y": 137,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 430,
+									"y": 140,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 652,
+									"y": 141,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 777,
+									"y": 146,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 709,
+									"y": 244,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 994,
+									"y": 355,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 168,
+									"y": 450,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 838,
+									"y": 456,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 395,
+									"y": 649,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 565,
+									"y": 743,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 445,
+									"y": 744,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 30,
+									"y": 754,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 754,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 899,
+									"y": 755,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 835,
+									"y": 849,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 575,
+									"y": 959,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 433,
+									"y": 968,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 531,
+									"y": 140,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 924,
+									"y": 451,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 988,
+									"y": 544,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 888,
+									"y": 569,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 168,
+									"y": 653,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 826,
+									"y": 648,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 513,
+									"y": 665,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 723,
+									"y": 663,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 124,
+									"y": 947,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 317,
+									"y": 946,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 661,
+									"y": 958,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 946,
+									"y": 36,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 709,
+									"y": 42,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 897,
+									"y": 138,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 313,
+									"y": 135,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 21,
+									"y": 143,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 239,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 272,
+									"y": 242,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 246,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 496,
+									"y": 254,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 600,
+									"y": 253,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 56,
+									"y": 257,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 834,
+									"y": 257,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 112,
+									"y": 342,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 220,
+									"y": 349,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 605,
+									"y": 438,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 548,
+									"y": 552,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 234,
+									"y": 553,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 766,
+									"y": 553,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 639,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 191,
+									"y": 842,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 714,
+									"y": 845,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 958,
+									"y": 845,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 279,
+									"y": 854,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 439,
+									"y": 340,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 780,
+									"y": 341,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 442,
+									"y": 523,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 921,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 63,
+									"y": 649,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 219,
+									"y": 748,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 609,
+									"y": 834,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 506,
+									"y": 837,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 764,
+									"y": 951,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 6,
+									"y": 307,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 375,
+									"y": 837,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 69,
+									"y": 755,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 79,
+									"y": 254,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 254,
+									"y": 553,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 41,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 31,
+									"y": 346,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 125,
+									"y": 748,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 653,
+									"y": 351,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 498,
+									"y": 451,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 451,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 660,
+									"y": 573,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 490,
+									"y": 54,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 548,
+									"y": 200,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 540,
+									"y": 342,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 880,
+									"y": 356,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 731,
+									"y": 437,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 22,
+									"y": 554,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 326,
+									"y": 553,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 676,
+									"y": 743,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 233,
+									"y": 934,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 904,
+									"y": 947,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 75,
+									"y": 40,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 602,
+									"y": 37,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 365,
+									"y": 39,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 45,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 273,
+									"y": 47,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 990,
+									"y": 132,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 130,
+									"y": 141,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 215,
+									"y": 137,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 430,
+									"y": 140,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 652,
+									"y": 141,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 777,
+									"y": 146,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 709,
+									"y": 244,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 994,
+									"y": 355,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 168,
+									"y": 450,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 838,
+									"y": 456,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 395,
+									"y": 649,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 565,
+									"y": 743,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 445,
+									"y": 744,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 30,
+									"y": 754,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 754,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 899,
+									"y": 755,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 835,
+									"y": 849,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 575,
+									"y": 959,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 433,
+									"y": 968,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 531,
+									"y": 140,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 924,
+									"y": 451,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 988,
+									"y": 544,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 888,
+									"y": 569,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 168,
+									"y": 653,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 826,
+									"y": 648,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 513,
+									"y": 665,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 723,
+									"y": 663,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 124,
+									"y": 947,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 317,
+									"y": 946,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 661,
+									"y": 958,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 946,
+									"y": 36,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 709,
+									"y": 42,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 897,
+									"y": 138,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 313,
+									"y": 135,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 21,
+									"y": 143,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 239,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 272,
+									"y": 242,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 246,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 496,
+									"y": 254,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 600,
+									"y": 253,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 56,
+									"y": 257,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 834,
+									"y": 257,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 112,
+									"y": 342,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 220,
+									"y": 349,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 605,
+									"y": 438,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 548,
+									"y": 552,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 234,
+									"y": 553,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 766,
+									"y": 553,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 639,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 191,
+									"y": 842,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 714,
+									"y": 845,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 958,
+									"y": 845,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 279,
+									"y": 854,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 439,
+									"y": 340,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 780,
+									"y": 341,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 442,
+									"y": 523,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 921,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 63,
+									"y": 649,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 219,
+									"y": 748,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 609,
+									"y": 834,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 506,
+									"y": 837,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 764,
+									"y": 951,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 6,
+									"y": 307,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 375,
+									"y": 837,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 69,
+									"y": 755,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 79,
+									"y": 254,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 254,
+									"y": 553,
+									"h": 238,
+									"w": 238
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 41,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 31,
+									"y": 346,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 125,
+									"y": 748,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 653,
+									"y": 351,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 498,
+									"y": 451,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 451,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 660,
+									"y": 573,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 490,
+									"y": 54,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 548,
+									"y": 200,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 540,
+									"y": 342,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 880,
+									"y": 356,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 731,
+									"y": 437,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 22,
+									"y": 554,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 326,
+									"y": 553,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 676,
+									"y": 743,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 233,
+									"y": 934,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 904,
+									"y": 947,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 75,
+									"y": 40,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 602,
+									"y": 37,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 365,
+									"y": 39,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 45,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 273,
+									"y": 47,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 990,
+									"y": 132,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 130,
+									"y": 141,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 215,
+									"y": 137,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 430,
+									"y": 140,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 652,
+									"y": 141,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 777,
+									"y": 146,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 709,
+									"y": 244,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 994,
+									"y": 355,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 168,
+									"y": 450,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 838,
+									"y": 456,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 395,
+									"y": 649,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 565,
+									"y": 743,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 445,
+									"y": 744,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 30,
+									"y": 754,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 340,
+									"y": 754,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 899,
+									"y": 755,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 835,
+									"y": 849,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 575,
+									"y": 959,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 433,
+									"y": 968,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 531,
+									"y": 140,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 924,
+									"y": 451,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 988,
+									"y": 544,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 888,
+									"y": 569,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 168,
+									"y": 653,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 826,
+									"y": 648,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 513,
+									"y": 665,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 723,
+									"y": 663,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 124,
+									"y": 947,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 317,
+									"y": 946,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 661,
+									"y": 958,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 946,
+									"y": 36,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 709,
+									"y": 42,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 897,
+									"y": 138,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 313,
+									"y": 135,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 21,
+									"y": 143,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 157,
+									"y": 239,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 272,
+									"y": 242,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 375,
+									"y": 246,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 496,
+									"y": 254,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 600,
+									"y": 253,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 56,
+									"y": 257,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 834,
+									"y": 257,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 112,
+									"y": 342,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 220,
+									"y": 349,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 605,
+									"y": 438,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 548,
+									"y": 552,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 234,
+									"y": 553,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 766,
+									"y": 553,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 639,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 191,
+									"y": 842,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 714,
+									"y": 845,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 958,
+									"y": 845,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 279,
+									"y": 854,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 439,
+									"y": 340,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 780,
+									"y": 341,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 442,
+									"y": 523,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 921,
+									"y": 646,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 63,
+									"y": 649,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 219,
+									"y": 748,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 609,
+									"y": 834,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 506,
+									"y": 837,
+									"h": 83,
+									"w": 83
+								},
+								{
+									"x": 764,
+									"y": 951,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 6,
+									"y": 307,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 375,
+									"y": 837,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 69,
+									"y": 755,
+									"h": 175,
+									"w": 175
+								},
+								{
+									"x": 79,
+									"y": 254,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 254,
+									"y": 553,
+									"h": 238,
+									"w": 238
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 1527,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ikonik new wave lapanpuluan... Buat generasi lepek bisakah mengenali wajah-wajah dlm gambar? Saya cuma mampu  jawab 11. Kunci jawaban di situsnya @rudolfdethu\n\nhttps://t.co/LR2gz6fPou https://t.co/Nc8YrAsfsn"
+	},
+	{
+		"created_at": "Sun Dec 29 01:56:34 +0000 2019",
+		"id": 1211103685566066700,
+		"id_str": "1211103685566066689",
+		"full_text": "@hati2dimedsos Saya biasanya keluar dari kedua lubang.. Ngga kuat sedot balik.. Jilatin aja",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hati2dimedsos",
+					"name": "IG: @hatihatidimedsos",
+					"id": 911412894419451900,
+					"id_str": "911412894419451904",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1211099299766923300,
+		"in_reply_to_status_id_str": "1211099299766923264",
+		"in_reply_to_user_id": 911412894419451900,
+		"in_reply_to_user_id_str": "911412894419451904",
+		"in_reply_to_screen_name": "hati2dimedsos",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 1527,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@hati2dimedsos Saya biasanya keluar dari kedua lubang.. Ngga kuat sedot balik.. Jilatin aja"
+	},
+	{
+		"created_at": "Sun Dec 29 01:42:55 +0000 2019",
+		"id": 1211100250171048000,
+		"id_str": "1211100250171047938",
+		"full_text": "Kalau sore ini anda lagi berada di  seputaran Legian Kuta Bali.. Mampir ke BeachWalk, saya dan teman2 akan membawakan tribute to Level42. https://t.co/SLhtilAwlZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1211100210388070400,
+					"id_str": "1211100210388070400",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EM6xOYOU8AA9pQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EM6xOYOU8AA9pQS.jpg",
+					"url": "https://t.co/SLhtilAwlZ",
+					"display_url": "pic.twitter.com/SLhtilAwlZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1211100250171047938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211100210388070400,
+					"id_str": "1211100210388070400",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EM6xOYOU8AA9pQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EM6xOYOU8AA9pQS.jpg",
+					"url": "https://t.co/SLhtilAwlZ",
+					"display_url": "pic.twitter.com/SLhtilAwlZ",
+					"expanded_url": "https://twitter.com/putuebo/status/1211100250171047938/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EM6xOYOU8AA9pQS.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 1527,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 10947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kalau sore ini anda lagi berada di  seputaran Legian Kuta Bali.. Mampir ke BeachWalk, saya dan teman2 akan membawakan tribute to Level42. https://t.co/SLhtilAwlZ"
+	},
+	{
 		"created_at": "Sat Dec 28 10:37:21 +0000 2019",
 		"id": 1210872356391899100,
 		"id_str": "1210872356391899136",
