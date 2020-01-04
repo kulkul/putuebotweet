@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 03 17:18:54 +0000 2020",
+		"id": 1213147737891295200,
+		"id_str": "1213147737891295232",
+		"full_text": "@shiva_nataraja3 @jusufreis @GlHindu https://t.co/3EBMAeQ0yF",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shiva_nataraja3",
+					"name": "Ronggowarsito",
+					"id": 240506658,
+					"id_str": "240506658",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "jusufreis",
+					"name": "Jack Birdy",
+					"id": 1147734859655237600,
+					"id_str": "1147734859655237632",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "GlHindu",
+					"name": "HinduGL",
+					"id": 1122473264217854000,
+					"id_str": "1122473264217853953",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3EBMAeQ0yF",
+					"expanded_url": "https://twitter.com/kurawa/status/1207491226066288641?s=19",
+					"display_url": "twitter.com/kurawa/status/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1213095706010902500,
+		"in_reply_to_status_id_str": "1213095706010902529",
+		"in_reply_to_user_id": 240506658,
+		"in_reply_to_user_id_str": "240506658",
+		"in_reply_to_screen_name": "shiva_nataraja3",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 1529,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207491226066288600,
+		"quoted_status_id_str": "1207491226066288641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3EBMAeQ0yF",
+			"expanded": "https://twitter.com/kurawa/status/1207491226066288641?s=19",
+			"display": "twitter.com/kurawa/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 19 02:41:57 +0000 2019",
+			"id": 1207491226066288600,
+			"id_str": "1207491226066288641",
+			"full_text": "Ahok naik menjadi DKI-1 semua program masih on the track, jokowi berbagi tugas dengan ahok. \nJokowi fokus di infrastruktur pengurangan kemacetan (MRT, LRT hingga jalan tol baru)\nAhok fokus di penanggulangan banjirnya (jumlah titik banjir berkurang drastis)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1207490428708122600,
+			"in_reply_to_status_id_str": "1207490428708122625",
+			"in_reply_to_user_id": 46651600,
+			"in_reply_to_user_id_str": "46651600",
+			"in_reply_to_screen_name": "kurawa",
+			"user": {
+				"id": 46651600,
+				"id_str": "46651600",
+				"name": "Rudi Valinka",
+				"screen_name": "kurawa",
+				"location": "ig. @tetapKurawa ",
+				"description": "Bahkan Pandawa pun lebih Kurawa.... #ForensicAuditor #SokGanteng #Sinetwit, #AManCalledAhok Movie",
+				"url": "https://t.co/AdNsLpTriv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AdNsLpTriv",
+								"expanded_url": "http://www.kurawabook.com",
+								"display_url": "kurawabook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 329796,
+				"friends_count": 1984,
+				"listed_count": 752,
+				"created_at": "Fri Jun 12 13:34:07 +0000 2009",
+				"favourites_count": 436,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103631849266405378/huJ3yLOx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103631849266405378/huJ3yLOx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46651600/1393296628",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 247,
+			"favorite_count": 669,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@shiva_nataraja3 @jusufreis @GlHindu https://t.co/3EBMAeQ0yF"
+	},
+	{
+		"created_at": "Fri Jan 03 17:03:14 +0000 2020",
+		"id": 1213143794901639200,
+		"id_str": "1213143794901639168",
+		"full_text": "Pintu teater 62 teh dibuka... https://t.co/zQNY7EfNMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213143688315932700,
+					"id_str": "1213143688315932672",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213143688315932672/pu/img/UTQiX4qvVU6-shN2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213143688315932672/pu/img/UTQiX4qvVU6-shN2.jpg",
+					"url": "https://t.co/zQNY7EfNMM",
+					"display_url": "pic.twitter.com/zQNY7EfNMM",
+					"expanded_url": "https://twitter.com/putuebo/status/1213143794901639168/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213143688315932700,
+					"id_str": "1213143688315932672",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213143688315932672/pu/img/UTQiX4qvVU6-shN2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213143688315932672/pu/img/UTQiX4qvVU6-shN2.jpg",
+					"url": "https://t.co/zQNY7EfNMM",
+					"display_url": "pic.twitter.com/zQNY7EfNMM",
+					"expanded_url": "https://twitter.com/putuebo/status/1213143794901639168/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12433,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213143688315932672/pu/vid/320x320/WgOj2PmSg8qKZDpd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1213143688315932672/pu/pl/gnLz7lcY_C0yn57H.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213143688315932672/pu/vid/640x640/wp_-dq5zUVjFf388.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213143688315932672/pu/vid/480x480/9Lj2A6dzAqHaRnd9.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 1529,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Pintu teater 62 teh dibuka... https://t.co/zQNY7EfNMM"
+	},
+	{
+		"created_at": "Fri Jan 03 11:48:17 +0000 2020",
+		"id": 1213064536535683000,
+		"id_str": "1213064536535683073",
+		"full_text": "@i_noside @permadiaktivis @aagym @basuki_btp @aniesbaswedan Dia lagi megang wafer ya?",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "i_noside",
+					"name": "InorNoside",
+					"id": 1001577610147545100,
+					"id_str": "1001577610147545088",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "permadiaktivis",
+					"name": "Permadi Arya",
+					"id": 813490681519829000,
+					"id_str": "813490681519828997",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "aagym",
+					"name": "Abdullah Gymnastiar",
+					"id": 155183099,
+					"id_str": "155183099",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"screen_name": "basuki_btp",
+					"name": "Basuki T Purnama",
+					"id": 115286138,
+					"id_str": "115286138",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"screen_name": "aniesbaswedan",
+					"name": "Anies Baswedan",
+					"id": 110312278,
+					"id_str": "110312278",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1213062884747440000,
+		"in_reply_to_status_id_str": "1213062884747440134",
+		"in_reply_to_user_id": 1001577610147545100,
+		"in_reply_to_user_id_str": "1001577610147545088",
+		"in_reply_to_screen_name": "i_noside",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 1529,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@i_noside @permadiaktivis @aagym @basuki_btp @aniesbaswedan Dia lagi megang wafer ya?"
+	},
+	{
 		"created_at": "Thu Jan 02 22:33:59 +0000 2020",
 		"id": 1212864642466373600,
 		"id_str": "1212864642466373633",
