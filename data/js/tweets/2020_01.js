@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 15:21:47 +0000 2020",
+		"id": 1215317767248863200,
+		"id_str": "1216017368599543809",
+		"full_text": "Milky Way stabilized shows the Earth is spinning through space.\n\nCredit: Eric Brummel https://t.co/SW3r7APrAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215317710495719400,
+					"id_str": "1215317710495719429",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215317710495719429/pu/img/nMoEvr6FKYtdSeQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215317710495719429/pu/img/nMoEvr6FKYtdSeQb.jpg",
+					"url": "https://t.co/SW3r7APrAK",
+					"display_url": "pic.twitter.com/SW3r7APrAK",
+					"expanded_url": "https://twitter.com/UniverCurious/status/1215317767248863232/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215317710495719400,
+					"id_str": "1215317710495719429",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215317710495719429/pu/img/nMoEvr6FKYtdSeQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215317710495719429/pu/img/nMoEvr6FKYtdSeQb.jpg",
+					"url": "https://t.co/SW3r7APrAK",
+					"display_url": "pic.twitter.com/SW3r7APrAK",
+					"expanded_url": "https://twitter.com/UniverCurious/status/1215317767248863232/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25025,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1215317710495719429/pu/pl/NqMhg6YQ6wacmOfH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215317710495719429/pu/vid/320x320/34PnO6qqoxk34Rzs.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215317710495719429/pu/vid/720x720/fCSycFViFp6Xt00Y.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1215317710495719429/pu/vid/480x480/ysnSQLTZZ7HuSF9A.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 892826509622353900,
+			"id_str": "892826509622353920",
+			"name": "Universal Curiosity",
+			"screen_name": "UniverCurious",
+			"location": "",
+			"description": "Science | Space Exploration | Engineering\n\ninfo@proandromeda.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147383,
+			"friends_count": 7,
+			"listed_count": 676,
+			"created_at": "Wed Aug 02 19:16:42 +0000 2017",
+			"favourites_count": 1035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200517928686407680/5FXDclvD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200517928686407680/5FXDclvD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/892826509622353920/1575990724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3812,
+		"favorite_count": 10864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Milky Way stabilized shows the Earth is spinning through space.\n\nCredit: Eric Brummel https://t.co/SW3r7APrAK"
+	},
+	{
+		"created_at": "Sat Jan 11 15:20:51 +0000 2020",
+		"id": 1216017133835915300,
+		"id_str": "1216017133835915265",
+		"full_text": "Pengen denger bantahan kaum bumi datar menanggapi video ini https://t.co/6znc8XZLxU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6znc8XZLxU",
+					"expanded_url": "https://twitter.com/atulkasbekar/status/1215128694584270849",
+					"display_url": "twitter.com/atulkasbekar/s…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2086,
+			"friends_count": 1653,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215128694584270800,
+		"quoted_status_id_str": "1215128694584270849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6znc8XZLxU",
+			"expanded": "https://twitter.com/atulkasbekar/status/1215128694584270849",
+			"display": "twitter.com/atulkasbekar/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 04:30:31 +0000 2020",
+			"id": 1215128694584270800,
+			"id_str": "1215128694584270849",
+			"full_text": "An astrophotographer has clicked an exceptional video, wherein we can feel the rotation of the earth\n\nUsing a tracking mount, aligned with North Star, he kept clicking images every 12 seconds for the next 3 hours. \nThe camera is looking at the same portion of the Milky Way\n\nFab! https://t.co/5yAuc9VqZd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215128591484248000,
+						"id_str": "1215128591484248064",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215128591484248064/pu/img/keoPubywGA37MOL8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215128591484248064/pu/img/keoPubywGA37MOL8.jpg",
+						"url": "https://t.co/5yAuc9VqZd",
+						"display_url": "pic.twitter.com/5yAuc9VqZd",
+						"expanded_url": "https://twitter.com/atulkasbekar/status/1215128694584270849/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 416,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215128591484248000,
+						"id_str": "1215128591484248064",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1215128591484248064/pu/img/keoPubywGA37MOL8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1215128591484248064/pu/img/keoPubywGA37MOL8.jpg",
+						"url": "https://t.co/5yAuc9VqZd",
+						"display_url": "pic.twitter.com/5yAuc9VqZd",
+						"expanded_url": "https://twitter.com/atulkasbekar/status/1215128694584270849/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 416,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 416,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 416,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								20,
+								13
+							],
+							"duration_millis": 55156,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215128591484248064/pu/vid/414x270/O5peaTolTX0Xr4Gk.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1215128591484248064/pu/vid/640x416/iBxXlPWlm17uEWSB.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1215128591484248064/pu/pl/zUjo5J-4wYF2v_D7.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53355887,
+				"id_str": "53355887",
+				"name": "atul kasbekar",
+				"screen_name": "atulkasbekar",
+				"location": "ÜT: 18.986431,72.823769",
+				"description": "Photographer, Producer #Neerja #TumhariSulu, #CheatIndia head of Bling! Lifetime fan of the Arsenal FC, the LA Lakers... and all things Team India",
+				"url": "https://t.co/7vGhbDsasJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7vGhbDsasJ",
+								"expanded_url": "http://www.blingglobal.com",
+								"display_url": "blingglobal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 954075,
+				"friends_count": 354,
+				"listed_count": 1394,
+				"created_at": "Fri Jul 03 10:58:29 +0000 2009",
+				"favourites_count": 6051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37483,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1157383172436430849/pE8z0HR3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157383172436430849/pE8z0HR3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53355887/1548217227",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66729,
+			"favorite_count": 161787,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Pengen denger bantahan kaum bumi datar menanggapi video ini https://t.co/6znc8XZLxU"
+	},
+	{
 		"created_at": "Fri Jan 10 18:42:09 +0000 2020",
 		"id": 1215705401678631000,
 		"id_str": "1215705401678630912",
