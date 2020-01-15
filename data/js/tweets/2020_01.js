@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 07:02:51 +0000 2020",
+		"id": 1216917510869504000,
+		"id_str": "1216978970811367424",
+		"full_text": "No promot akun cinta nkri cinta pancasila insyaalloh di amalkan dlm keseharian \n\nLestari alamku lestari desaku di mna tuhan ku menitipkan aku \nKami kan bernyayi hibur lara hati nyanyikan bait padamu negri \n🎶🎶🎶🎶🎶 https://t.co/Q4kgglJICt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216917495325442000,
+					"id_str": "1216917495325442048",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EONcA7XUwAAhPsQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EONcA7XUwAAhPsQ.jpg",
+					"url": "https://t.co/Q4kgglJICt",
+					"display_url": "pic.twitter.com/Q4kgglJICt",
+					"expanded_url": "https://twitter.com/PrmudyHaq1/status/1216917510869504006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216917495325442000,
+					"id_str": "1216917495325442048",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EONcA7XUwAAhPsQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EONcA7XUwAAhPsQ.jpg",
+					"url": "https://t.co/Q4kgglJICt",
+					"display_url": "pic.twitter.com/Q4kgglJICt",
+					"expanded_url": "https://twitter.com/PrmudyHaq1/status/1216917510869504006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198520446519369700,
+			"id_str": "1198520446519369728",
+			"name": "Pr@mudy@.Haq",
+			"screen_name": "PrmudyHaq1",
+			"location": "",
+			"description": "narimo ing pandum",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 855,
+			"listed_count": 0,
+			"created_at": "Sun Nov 24 08:35:33 +0000 2019",
+			"favourites_count": 6701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216985198874656768/XJmGy-fy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216985198874656768/XJmGy-fy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198520446519369728/1575345743",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "No promot akun cinta nkri cinta pancasila insyaalloh di amalkan dlm keseharian \n\nLestari alamku lestari desaku di mna tuhan ku menitipkan aku \nKami kan bernyayi hibur lara hati nyanyikan bait padamu negri \n🎶🎶🎶🎶🎶 https://t.co/Q4kgglJICt"
+	},
+	{
 		"created_at": "Tue Jan 14 01:00:00 +0000 2020",
 		"id": 1216887657277452300,
 		"id_str": "1216887657277452288",
