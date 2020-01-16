@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 00:39:54 +0000 2020",
+		"id": 1217607372664754200,
+		"id_str": "1217607372664754176",
+		"full_text": "@IbuNe_neng @ugisugiharto Betul...  Istri itu kodratnya bukan masuk ke dapur.  Tapi dimasukkan ke tanah...  Eh",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IbuNe_neng",
+					"name": "Bunga 🇮🇩",
+					"id": 1853878100,
+					"id_str": "1853878100",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ugisugiharto",
+					"name": "engkongsuroboyo",
+					"id": 47478154,
+					"id_str": "47478154",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1217456210128949200,
+		"in_reply_to_status_id_str": "1217456210128949249",
+		"in_reply_to_user_id": 1853878100,
+		"in_reply_to_user_id_str": "1853878100",
+		"in_reply_to_screen_name": "IbuNe_neng",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 1690,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@IbuNe_neng @ugisugiharto Betul...  Istri itu kodratnya bukan masuk ke dapur.  Tapi dimasukkan ke tanah...  Eh"
+	},
+	{
+		"created_at": "Thu Jan 16 00:30:24 +0000 2020",
+		"id": 1216925309699678200,
+		"id_str": "1217604982515519488",
+		"full_text": "Anjr, kok gua mo nangis😭. https://t.co/HMXkcItdmr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216925247112245200,
+					"id_str": "1216925247112245248",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216925247112245248/pu/img/HLO-zJua5MuV1biX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216925247112245248/pu/img/HLO-zJua5MuV1biX.jpg",
+					"url": "https://t.co/HMXkcItdmr",
+					"display_url": "pic.twitter.com/HMXkcItdmr",
+					"expanded_url": "https://twitter.com/krisjhonn/status/1216925309699678208/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216925247112245200,
+					"id_str": "1216925247112245248",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216925247112245248/pu/img/HLO-zJua5MuV1biX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216925247112245248/pu/img/HLO-zJua5MuV1biX.jpg",
+					"url": "https://t.co/HMXkcItdmr",
+					"display_url": "pic.twitter.com/HMXkcItdmr",
+					"expanded_url": "https://twitter.com/krisjhonn/status/1216925309699678208/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							133
+						],
+						"duration_millis": 131467,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1216925247112245248/pu/pl/48269yk_BwOhXM5a.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216925247112245248/pu/vid/400x266/U686MUezr0dXX-Si.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2158071654,
+			"id_str": "2158071654",
+			"name": "Telisna",
+			"screen_name": "krisjhonn",
+			"location": "Kota Bengkulu, Bengkulu",
+			"description": "ARACHNOPHOBIA.\nSkripsi Skripsi Skripsi",
+			"url": "https://t.co/4lWhRTMenR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4lWhRTMenR",
+							"expanded_url": "https://www.youtube.com/channel/UCP7C5wtt7-YUbQZsZ7C5DAA",
+							"display_url": "youtube.com/channel/UCP7C5…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3881,
+			"friends_count": 3862,
+			"listed_count": 1,
+			"created_at": "Sun Oct 27 04:31:53 +0000 2013",
+			"favourites_count": 3779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215857575842811904/ZAHPMPhA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215857575842811904/ZAHPMPhA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2158071654/1574950669",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12181,
+		"favorite_count": 19111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Anjr, kok gua mo nangis😭. https://t.co/HMXkcItdmr"
+	},
+	{
+		"created_at": "Wed Jan 15 09:35:08 +0000 2020",
+		"id": 1217379681680289800,
+		"id_str": "1217379681680289792",
+		"full_text": "Layak share.... Sebuah renungan https://t.co/AnT5yxVz9y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AnT5yxVz9y",
+					"expanded_url": "https://twitter.com/meyysi/status/1217316454229401600",
+					"display_url": "twitter.com/meyysi/status/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 1690,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217316454229401600,
+		"quoted_status_id_str": "1217316454229401600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AnT5yxVz9y",
+			"expanded": "https://twitter.com/meyysi/status/1217316454229401600",
+			"display": "twitter.com/meyysi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 15 05:23:53 +0000 2020",
+			"id": 1217316454229401600,
+			"id_str": "1217316454229401600",
+			"full_text": "Bismillah\n\nSeorang sahabat yang tinggal di Australia bercerita tentang pengalamannya, \n\"Suatu sore, sesudah menikmati secangkir capucino di Gloria Jeans Café yang capucino-nya paling enak (menurut saya), kami mampir ke toko roti. Membeli sebatang roti kismis dan minta kepada https://t.co/IoF7rRVADr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217316445790453800,
+						"id_str": "1217316445790453760",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EOTG25qUwAA3BEn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOTG25qUwAA3BEn.jpg",
+						"url": "https://t.co/IoF7rRVADr",
+						"display_url": "pic.twitter.com/IoF7rRVADr",
+						"expanded_url": "https://twitter.com/meyysi/status/1217316454229401600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217316445790453800,
+						"id_str": "1217316445790453760",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EOTG25qUwAA3BEn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOTG25qUwAA3BEn.jpg",
+						"url": "https://t.co/IoF7rRVADr",
+						"display_url": "pic.twitter.com/IoF7rRVADr",
+						"expanded_url": "https://twitter.com/meyysi/status/1217316454229401600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 583304802,
+				"id_str": "583304802",
+				"name": "armey",
+				"screen_name": "meyysi",
+				"location": "Ungaran, Indonesia",
+				"description": "Nahdliyin | Apapun yang terjadi di hidupmu\nBiarkan dan bahagialah dengan caramu| Belajar sabar 🙄\n #sepatumatahari #sandalmatahari  #rotiphoenix",
+				"url": "https://t.co/JTNlO0KJgc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JTNlO0KJgc",
+								"expanded_url": "https://youtu.be/ESeDUgEg7JI",
+								"display_url": "youtu.be/ESeDUgEg7JI",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2855,
+				"friends_count": 1976,
+				"listed_count": 3,
+				"created_at": "Thu May 17 22:34:29 +0000 2012",
+				"favourites_count": 40310,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35445,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1215152144677949441/z7f0YGr-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215152144677949441/z7f0YGr-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/583304802/1577422251",
+				"profile_link_color": "660F6B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Layak share.... Sebuah renungan https://t.co/AnT5yxVz9y"
+	},
+	{
 		"created_at": "Tue Jan 14 07:02:51 +0000 2020",
 		"id": 1216917510869504000,
 		"id_str": "1216978970811367424",
