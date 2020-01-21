@@ -1,6 +1,1145 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 16:15:02 +0000 2020",
+		"id": 1219292258429632500,
+		"id_str": "1219292258429632512",
+		"full_text": "@dedyhyoga @elHurryKoRn @Yanto78537100 https://t.co/lvLxZSXPsF",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dedyhyoga",
+					"name": "HDedyH",
+					"id": 940083981579456500,
+					"id_str": "940083981579456512",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "elHurryKoRn",
+					"name": "el Pop'KoЯn",
+					"id": 592670569,
+					"id_str": "592670569",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "Yanto78537100",
+					"name": "Den Mas Puji.",
+					"id": 884048621880004600,
+					"id_str": "884048621880004608",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lvLxZSXPsF",
+					"expanded_url": "https://twitter.com/ChrisAgungP/status/1219267398919954433?s=19",
+					"display_url": "twitter.com/ChrisAgungP/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219286205625327600,
+		"in_reply_to_status_id_str": "1219286205625327616",
+		"in_reply_to_user_id": 940083981579456500,
+		"in_reply_to_user_id_str": "940083981579456512",
+		"in_reply_to_screen_name": "dedyhyoga",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 1710,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1219267398919954400,
+		"quoted_status_id_str": "1219267398919954433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lvLxZSXPsF",
+			"expanded": "https://twitter.com/ChrisAgungP/status/1219267398919954433?s=19",
+			"display": "twitter.com/ChrisAgungP/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 20 14:36:15 +0000 2020",
+			"id": 1219267398919954400,
+			"id_str": "1219267398919954433",
+			"full_text": "@elHurryKoRn Bukan Lukman mantan Menag, tp @LuqmanBeeNKRI anggota DPR RI",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elHurryKoRn",
+						"name": "el Pop'KoЯn",
+						"id": 592670569,
+						"id_str": "592670569",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "LuqmanBeeNKRI",
+						"name": "Luqman Hakim",
+						"id": 1185472145800872000,
+						"id_str": "1185472145800871936",
+						"indices": [
+							43,
+							57
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1219237531352354800,
+			"in_reply_to_status_id_str": "1219237531352354816",
+			"in_reply_to_user_id": 592670569,
+			"in_reply_to_user_id_str": "592670569",
+			"in_reply_to_screen_name": "elHurryKoRn",
+			"user": {
+				"id": 222717114,
+				"id_str": "222717114",
+				"name": "ChrisA",
+				"screen_name": "ChrisAgungP",
+				"location": "Yogyakarta Indonesia",
+				"description": "The balancer |\nInterested in Public policy | Islam Yes Khilafah No! | Follback!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121,
+				"friends_count": 870,
+				"listed_count": 0,
+				"created_at": "Sat Dec 04 06:47:50 +0000 2010",
+				"favourites_count": 10112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/478158449201541121/IxFFxcOj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/478158449201541121/IxFFxcOj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/222717114/1467801004",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "in"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@dedyhyoga @elHurryKoRn @Yanto78537100 https://t.co/lvLxZSXPsF"
+	},
+	{
+		"created_at": "Mon Jan 20 16:09:08 +0000 2020",
+		"id": 1219194399512334300,
+		"id_str": "1219290772924588032",
+		"full_text": "Ada beberapa komen atau pertanyaan seputar #programfolback yang digagas Mas @TheArieAir dan dilambungkan team #IndoPromoter .\nSaya coba jawab dan jelaskan dari sudut pandang saya. \n\nJadi gini..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "programfolback",
+					"indices": [
+						43,
+						58
+					]
+				},
+				{
+					"text": "IndoPromoter",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheArieAir",
+					"name": "Arie Dirgantara",
+					"id": 164604281,
+					"id_str": "164604281",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 373284090,
+			"id_str": "373284090",
+			"name": "Shanti Setiawati",
+			"screen_name": "ShantiSetiawati",
+			"location": "ÜT: -6.2073177,106.9909837",
+			"description": "Ayo bicara bahasa Indonesia !!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2153,
+			"friends_count": 2296,
+			"listed_count": 0,
+			"created_at": "Wed Sep 14 09:34:18 +0000 2011",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5F1698",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216656364790894593/5tR-xDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216656364790894593/5tR-xDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/373284090/1496329115",
+			"profile_link_color": "8D1E9D",
+			"profile_sidebar_border_color": "C8B2A3",
+			"profile_sidebar_fill_color": "C471A3",
+			"profile_text_color": "AC47A0",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Ada beberapa komen atau pertanyaan seputar #programfolback yang digagas Mas @TheArieAir dan dilambungkan team #IndoPromoter .\nSaya coba jawab dan jelaskan dari sudut pandang saya. \n\nJadi gini.."
+	},
+	{
+		"created_at": "Mon Jan 20 16:06:04 +0000 2020",
+		"id": 1219290002409967600,
+		"id_str": "1219290002409967616",
+		"full_text": "@bayuayd @mamaciaaa @habibthink @ustadtengkuzul https://t.co/hr1CreV9oW",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bayuayd",
+					"name": "bayu ayd",
+					"id": 207821097,
+					"id_str": "207821097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "mamaciaaa",
+					"name": "☯️ Bittersweet",
+					"id": 203461546,
+					"id_str": "203461546",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "habibthink",
+					"name": "Habib Think",
+					"id": 333923119,
+					"id_str": "333923119",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "ustadtengkuzul",
+					"name": "tengkuzulkarnain",
+					"id": 843793805010645000,
+					"id_str": "843793805010644992",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219289992263950300,
+					"id_str": "1219289992263950337",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOvJybMU4AEMt44.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOvJybMU4AEMt44.jpg",
+					"url": "https://t.co/hr1CreV9oW",
+					"display_url": "pic.twitter.com/hr1CreV9oW",
+					"expanded_url": "https://twitter.com/putuebo/status/1219290002409967616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219289992263950300,
+					"id_str": "1219289992263950337",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOvJybMU4AEMt44.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOvJybMU4AEMt44.jpg",
+					"url": "https://t.co/hr1CreV9oW",
+					"display_url": "pic.twitter.com/hr1CreV9oW",
+					"expanded_url": "https://twitter.com/putuebo/status/1219290002409967616/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EOvJybMU4AEMt44.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1214798137174290400,
+		"in_reply_to_status_id_str": "1214798137174290432",
+		"in_reply_to_user_id": 207821097,
+		"in_reply_to_user_id_str": "207821097",
+		"in_reply_to_screen_name": "bayuayd",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 1710,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@bayuayd @mamaciaaa @habibthink @ustadtengkuzul https://t.co/hr1CreV9oW"
+	},
+	{
+		"created_at": "Mon Jan 20 14:20:25 +0000 2020",
+		"id": 1219263415211839500,
+		"id_str": "1219263415211839492",
+		"full_text": "@GusDark4 Seleg gati ... Markotop!!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GusDark4",
+					"name": "Gus Dark",
+					"id": 1197023131669418000,
+					"id_str": "1197023131669417986",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219260539404083200,
+		"in_reply_to_status_id_str": "1219260539404083200",
+		"in_reply_to_user_id": 1197023131669418000,
+		"in_reply_to_user_id_str": "1197023131669417986",
+		"in_reply_to_screen_name": "GusDark4",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 1710,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@GusDark4 Seleg gati ... Markotop!!"
+	},
+	{
+		"created_at": "Mon Jan 20 14:17:52 +0000 2020",
+		"id": 1219262771562311700,
+		"id_str": "1219262771562311680",
+		"full_text": "Sekarang follow topic di twitter bisa diatur sesuai keinginan... Untung gak ada agama dan bokep, 2 topik yg mungkin tak nyambung tapi selalu saling kait https://t.co/EzQFotp8hh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219262761240158200,
+					"id_str": "1219262761240158208",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EOuxBXuU4AAow3-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOuxBXuU4AAow3-.jpg",
+					"url": "https://t.co/EzQFotp8hh",
+					"display_url": "pic.twitter.com/EzQFotp8hh",
+					"expanded_url": "https://twitter.com/putuebo/status/1219262771562311680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 875,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 875,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219262761240158200,
+					"id_str": "1219262761240158208",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EOuxBXuU4AAow3-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOuxBXuU4AAow3-.jpg",
+					"url": "https://t.co/EzQFotp8hh",
+					"display_url": "pic.twitter.com/EzQFotp8hh",
+					"expanded_url": "https://twitter.com/putuebo/status/1219262771562311680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 718,
+							"h": 875,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 875,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 1710,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Sekarang follow topic di twitter bisa diatur sesuai keinginan... Untung gak ada agama dan bokep, 2 topik yg mungkin tak nyambung tapi selalu saling kait https://t.co/EzQFotp8hh"
+	},
+	{
+		"created_at": "Mon Jan 20 14:01:12 +0000 2020",
+		"id": 1219246425394962400,
+		"id_str": "1219258580034977792",
+		"full_text": "@jek___ kamu #janganlupamakan ya, biar nanti kuat buat ngangkat derajat keluarga.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "janganlupamakan",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jek___",
+					"name": "jek",
+					"id": 385996689,
+					"id_str": "385996689",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219245210464444400,
+		"in_reply_to_status_id_str": "1219245210464444417",
+		"in_reply_to_user_id": 385996689,
+		"in_reply_to_user_id_str": "385996689",
+		"in_reply_to_screen_name": "jek___",
+		"user": {
+			"id": 994765989144289300,
+			"id_str": "994765989144289280",
+			"name": "Fathawy",
+			"screen_name": "haloplisi",
+			"location": "🇵🇹",
+			"description": "Ninnuninuninu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2913,
+			"friends_count": 439,
+			"listed_count": 0,
+			"created_at": "Fri May 11 02:27:48 +0000 2018",
+			"favourites_count": 7974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215270659082706945/K1vRh8YU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215270659082706945/K1vRh8YU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994765989144289280/1577697409",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "@jek___ kamu #janganlupamakan ya, biar nanti kuat buat ngangkat derajat keluarga."
+	},
+	{
 		"created_at": "Sun Jan 19 10:05:04 +0000 2020",
 		"id": 1218836766288830500,
 		"id_str": "1218836766288830464",
