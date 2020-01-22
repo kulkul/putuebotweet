@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 18:19:27 +0000 2020",
+		"id": 1219638228409626600,
+		"id_str": "1219685956518739968",
+		"full_text": "Every hero needs a hug! #NationalHugDay https://t.co/7ASFzTj5Aw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalHugDay",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219638106057576400,
+					"id_str": "1219638106057576451",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1219638106057576451/img/MXE9Ll-GynXTVNLe.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219638106057576451/img/MXE9Ll-GynXTVNLe.jpg",
+					"url": "https://t.co/7ASFzTj5Aw",
+					"display_url": "pic.twitter.com/7ASFzTj5Aw",
+					"expanded_url": "https://twitter.com/MarvelUK/status/1219638228409626627/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219638106057576400,
+					"id_str": "1219638106057576451",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1219638106057576451/img/MXE9Ll-GynXTVNLe.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219638106057576451/img/MXE9Ll-GynXTVNLe.jpg",
+					"url": "https://t.co/7ASFzTj5Aw",
+					"display_url": "pic.twitter.com/7ASFzTj5Aw",
+					"expanded_url": "https://twitter.com/MarvelUK/status/1219638228409626627/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24358,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219638106057576451/vid/480x480/g7-cOIdOC-r4GpTk.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219638106057576451/vid/320x320/lcLsg7EZl3v6r4B5.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219638106057576451/vid/720x720/x1T7EKgE33wT-nEr.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1219638106057576451/pl/k5WKoU6VlhXx0Cwe.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 546109609,
+			"id_str": "546109609",
+			"name": "Marvel UK & Ireland",
+			"screen_name": "MarvelUK",
+			"location": "London",
+			"description": "Official UK & Ireland Marvel Entertainment Twitter account.",
+			"url": "https://t.co/blcKcxryLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/blcKcxryLb",
+							"expanded_url": "http://marvel.com/",
+							"display_url": "marvel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417894,
+			"friends_count": 285,
+			"listed_count": 1316,
+			"created_at": "Thu Apr 05 16:39:30 +0000 2012",
+			"favourites_count": 1851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000609001348/ed2217c8f6aa1fb13b8b0bf630cd4ceb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609001348/ed2217c8f6aa1fb13b8b0bf630cd4ceb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/546109609/1567440243",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 880,
+		"favorite_count": 3538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every hero needs a hug! #NationalHugDay https://t.co/7ASFzTj5Aw"
+	},
+	{
+		"created_at": "Tue Jan 21 05:25:57 +0000 2020",
+		"id": 1219464777803546600,
+		"id_str": "1219491299423748096",
+		"full_text": "Setiap ibu itu perjuanganya luar biasa, dari bisa melawan rasa takut pra kelahiran, menahan rasa sakit pasca kelahiran, mengusahakan asi eksklusif buat anak2, setelah melahirkan harus rela berkorban jam tidur dan beradaptasi.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1219464012179488800,
+		"in_reply_to_status_id_str": "1219464012179488769",
+		"in_reply_to_user_id": 397854369,
+		"in_reply_to_user_id_str": "397854369",
+		"in_reply_to_screen_name": "HildaYunike",
+		"user": {
+			"id": 397854369,
+			"id_str": "397854369",
+			"name": "Hilda Yunike",
+			"screen_name": "HildaYunike",
+			"location": "Indonesia",
+			"description": "Just an ordinary girl with a big dream",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 272,
+			"listed_count": 0,
+			"created_at": "Tue Oct 25 07:36:40 +0000 2011",
+			"favourites_count": 164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1E98D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044248553797775360/okqnxWTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044248553797775360/okqnxWTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397854369/1488764968",
+			"profile_link_color": "E01033",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Setiap ibu itu perjuanganya luar biasa, dari bisa melawan rasa takut pra kelahiran, menahan rasa sakit pasca kelahiran, mengusahakan asi eksklusif buat anak2, setelah melahirkan harus rela berkorban jam tidur dan beradaptasi."
+	},
+	{
 		"created_at": "Mon Jan 20 16:15:02 +0000 2020",
 		"id": 1219292258429632500,
 		"id_str": "1219292258429632512",
