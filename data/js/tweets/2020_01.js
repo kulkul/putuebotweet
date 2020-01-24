@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 17:09:54 +0000 2020",
+		"id": 1220393229075415000,
+		"id_str": "1220393229075415040",
+		"full_text": "Menarik... Serba 25, angka keberuntunganku 🤔😊 https://t.co/rPbu7mFfNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220393215662022700,
+					"id_str": "1220393215662022658",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-1KenU4AIYItc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-1KenU4AIYItc.jpg",
+					"url": "https://t.co/rPbu7mFfNo",
+					"display_url": "pic.twitter.com/rPbu7mFfNo",
+					"expanded_url": "https://twitter.com/putuebo/status/1220393229075415040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 527,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 146,
+									"y": 661,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 527,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 146,
+									"y": 661,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 527,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 146,
+									"y": 661,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 2,
+									"y": 335,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 92,
+									"y": 420,
+									"h": 92,
+									"w": 92
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220393215662022700,
+					"id_str": "1220393215662022658",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-1KenU4AIYItc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-1KenU4AIYItc.jpg",
+					"url": "https://t.co/rPbu7mFfNo",
+					"display_url": "pic.twitter.com/rPbu7mFfNo",
+					"expanded_url": "https://twitter.com/putuebo/status/1220393229075415040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 527,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 146,
+									"y": 661,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 527,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 146,
+									"y": 661,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 527,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 146,
+									"y": 661,
+									"h": 146,
+									"w": 146
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 2,
+									"y": 335,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 92,
+									"y": 420,
+									"h": 92,
+									"w": 92
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2130,
+			"friends_count": 1715,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Menarik... Serba 25, angka keberuntunganku 🤔😊 https://t.co/rPbu7mFfNo"
+	},
+	{
 		"created_at": "Wed Jan 22 18:32:06 +0000 2020",
 		"id": 1219907590630662100,
 		"id_str": "1220051527164784640",
