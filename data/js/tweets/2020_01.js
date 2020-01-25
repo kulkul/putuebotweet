@@ -1,6 +1,1251 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 18:07:35 +0000 2020",
+		"id": 1220668805824884700,
+		"id_str": "1220770133993385984",
+		"full_text": "Positive masculinity 💪https://t.co/K1EcuVOdIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220651052200087600,
+					"id_str": "1220651052200087552",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1220651052200087552/pu/img/6vdpBFvTXTqglOO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1220651052200087552/pu/img/6vdpBFvTXTqglOO-.jpg",
+					"url": "https://t.co/K1EcuVOdIq",
+					"display_url": "pic.twitter.com/K1EcuVOdIq",
+					"expanded_url": "https://twitter.com/SourcedShared/status/1220651096747708417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1220651096747708400,
+					"source_status_id_str": "1220651096747708417",
+					"source_user_id": 1186294517424705500,
+					"source_user_id_str": "1186294517424705547",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220651052200087600,
+					"id_str": "1220651052200087552",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1220651052200087552/pu/img/6vdpBFvTXTqglOO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1220651052200087552/pu/img/6vdpBFvTXTqglOO-.jpg",
+					"url": "https://t.co/K1EcuVOdIq",
+					"display_url": "pic.twitter.com/K1EcuVOdIq",
+					"expanded_url": "https://twitter.com/SourcedShared/status/1220651096747708417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1220651096747708400,
+					"source_status_id_str": "1220651096747708417",
+					"source_user_id": 1186294517424705500,
+					"source_user_id_str": "1186294517424705547",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 18433,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1220651052200087552/pu/vid/320x400/msAKwebbwgwgq10G.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1220651052200087552/pu/pl/mEz8a8TDHO3Yt3lo.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1220651052200087552/pu/vid/384x480/VXrQ5K78FLG6lLdW.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1186294517424705500,
+							"id_str": "1186294517424705547",
+							"name": "ً",
+							"screen_name": "SourcedShared",
+							"location": "",
+							"description": "Fan/Parody Account. I Own No Media DM for Credits or Removals",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8443,
+							"friends_count": 0,
+							"listed_count": 69,
+							"created_at": "Mon Oct 21 14:53:57 +0000 2019",
+							"favourites_count": 3,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 621,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1186294912188407808/VMpUs6mF_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186294912188407808/VMpUs6mF_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186294517424705547/1575976366",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139951615857823700,
+			"id_str": "1139951615857823746",
+			"name": "CucumberTonic🥑",
+			"screen_name": "CucumberTonic",
+			"location": "Teddington, England",
+			"description": "Follow Me For 👉Daily Videos, Laughs, Smiles & Positivity 💫 I Own No Media DM for Credits/Removals. ☄️Commentary Account☄️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39850,
+			"friends_count": 40,
+			"listed_count": 188,
+			"created_at": "Sat Jun 15 17:43:39 +0000 2019",
+			"favourites_count": 16875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199109040787337216/djt_hRLp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199109040787337216/djt_hRLp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139951615857823746/1575642503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 1398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Positive masculinity 💪https://t.co/K1EcuVOdIq"
+	},
+	{
+		"created_at": "Fri Jan 24 18:02:03 +0000 2020",
+		"id": 1220768740226191400,
+		"id_str": "1220768740226191360",
+		"full_text": "@hamka_sutra @TheArieAir @wisanggeni_084 @Bangzul__88 @jo_dohmu @kantayu @tejo52844165 @ariefcahjateng @anamalmunadi @TukangUlo @agnov121 @Mbd50271 @jatmiko_jatman @teliaz223 @justiciabelen @_Bulan_Separuh @ZNasution15 @yudie_st @JokSusi2019 Terimakasih om @hamka_sutra, Jemaah #Programfolbek #programfolback Liburan #1 sampai #9 sudah di-done semua. Siap menanti dan follow rombongan liburan berikut..",
+		"truncated": false,
+		"display_text_range": [
+			242,
+			402
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Programfolbek",
+					"indices": [
+						278,
+						292
+					]
+				},
+				{
+					"text": "programfolback",
+					"indices": [
+						293,
+						308
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamka_sutra",
+					"name": "A N G K A",
+					"id": 252603335,
+					"id_str": "252603335",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TheArieAir",
+					"name": "Arie Dirgantara",
+					"id": 164604281,
+					"id_str": "164604281",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "wisanggeni_084",
+					"name": "WISANGGENI",
+					"id": 112953652,
+					"id_str": "112953652",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "Bangzul__88",
+					"name": "Zulkarnaini",
+					"id": 1198362933178196000,
+					"id_str": "1198362933178195968",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "jo_dohmu",
+					"name": "bhinnekaTunggalIka",
+					"id": 1187539880055718000,
+					"id_str": "1187539880055717888",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "kantayu",
+					"name": "KANTAYU",
+					"id": 3233128724,
+					"id_str": "3233128724",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"screen_name": "tejo52844165",
+					"name": "tejo",
+					"id": 1003882487020339200,
+					"id_str": "1003882487020339200",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "ariefcahjateng",
+					"name": "Arief",
+					"id": 919899084290326500,
+					"id_str": "919899084290326529",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "anamalmunadi",
+					"name": "AX1 ❤️#NKRI 🇲🇨",
+					"id": 2333233987,
+					"id_str": "2333233987",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"screen_name": "TukangUlo",
+					"name": "🇮🇩🔰El-Shabazz🔰🇮🇩",
+					"id": 1025694969401503700,
+					"id_str": "1025694969401503744",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "agnov121",
+					"name": "JangkrekkoenRek",
+					"id": 1103583706755686400,
+					"id_str": "1103583706755686400",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"screen_name": "Mbd50271",
+					"name": "NusantaraKu",
+					"id": 1127975013275979800,
+					"id_str": "1127975013275979778",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"screen_name": "jatmiko_jatman",
+					"name": "jatmiko jatman",
+					"id": 1098970412757602300,
+					"id_str": "1098970412757602304",
+					"indices": [
+						148,
+						163
+					]
+				},
+				{
+					"screen_name": "teliaz223",
+					"name": "Live_By_Grace_Only",
+					"id": 33147322,
+					"id_str": "33147322",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "justiciabelen",
+					"name": "Justiciabelen",
+					"id": 1001611698111893500,
+					"id_str": "1001611698111893504",
+					"indices": [
+						175,
+						189
+					]
+				},
+				{
+					"screen_name": "_Bulan_Separuh",
+					"name": "🌺",
+					"id": 1172676209995657200,
+					"id_str": "1172676209995657216",
+					"indices": [
+						190,
+						205
+					]
+				},
+				{
+					"screen_name": "ZNasution15",
+					"name": "Zulfikar Nasution",
+					"id": 4147015940,
+					"id_str": "4147015940",
+					"indices": [
+						206,
+						218
+					]
+				},
+				{
+					"screen_name": "yudie_st",
+					"name": "Yudiest",
+					"id": 1560124956,
+					"id_str": "1560124956",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"screen_name": "JokSusi2019",
+					"name": "Allah evolusikan tubuh Nya jd Alam semesta&Manusia",
+					"id": 1349434237,
+					"id_str": "1349434237",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"screen_name": "hamka_sutra",
+					"name": "A N G K A",
+					"id": 252603335,
+					"id_str": "252603335",
+					"indices": [
+						257,
+						269
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1220744077420818400,
+		"in_reply_to_status_id_str": "1220744077420818432",
+		"in_reply_to_user_id": 252603335,
+		"in_reply_to_user_id_str": "252603335",
+		"in_reply_to_screen_name": "hamka_sutra",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2225,
+			"friends_count": 1892,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@hamka_sutra @TheArieAir @wisanggeni_084 @Bangzul__88 @jo_dohmu @kantayu @tejo52844165 @ariefcahjateng @anamalmunadi @TukangUlo @agnov121 @Mbd50271 @jatmiko_jatman @teliaz223 @justiciabelen @_Bulan_Separuh @ZNasution15 @yudie_st @JokSusi2019 Terimakasih om @hamka_sutra, Jemaah #Programfolbek #programfolback Liburan #1 sampai #9 sudah di-done semua. Siap menanti dan follow rombongan liburan berikut.."
+	},
+	{
+		"created_at": "Fri Jan 24 17:53:46 +0000 2020",
+		"id": 1220766656382685200,
+		"id_str": "1220766656382685184",
+		"full_text": "@hamka_sutra @TheArieAir @wisanggeni_084 @jo_dohmu @4Y4NKZ @Zainuddinovic @UstadGugel @daus_alfath @ESitohag @Djoni_Macs @nkriharga_mati @MaswibA @Salauh @roedyh72 @yana_udiyatna @rsdnetid @intanmellanie @ElysiaJuventina @AriefAnarya @DavidMozes6 Ada akun yg digembok 👉 @Salauh",
+		"truncated": false,
+		"display_text_range": [
+			247,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamka_sutra",
+					"name": "A N G K A",
+					"id": 252603335,
+					"id_str": "252603335",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TheArieAir",
+					"name": "Arie Dirgantara",
+					"id": 164604281,
+					"id_str": "164604281",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "wisanggeni_084",
+					"name": "WISANGGENI",
+					"id": 112953652,
+					"id_str": "112953652",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "jo_dohmu",
+					"name": "bhinnekaTunggalIka",
+					"id": 1187539880055718000,
+					"id_str": "1187539880055717888",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"screen_name": "4Y4NKZ",
+					"name": "ℂ𝔸𝕊𝔸𝕍𝔸",
+					"id": 43667155,
+					"id_str": "43667155",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"screen_name": "Zainuddinovic",
+					"name": "🇲🇨𝐀𝐤𝐡𝐦𝐚𝐝 𝐙𝐚𝐢𝐧𝐮𝐝𝐝𝐢𝐧🇮🇩",
+					"id": 547268357,
+					"id_str": "547268357",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "UstadGugel",
+					"name": "Ustad GUGEL",
+					"id": 752837623,
+					"id_str": "752837623",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "daus_alfath",
+					"name": "Faisal LH",
+					"id": 1112001739325005800,
+					"id_str": "1112001739325005824",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"screen_name": "ESitohag",
+					"name": "Esrom Sitohang",
+					"id": 1183359982072254500,
+					"id_str": "1183359982072254465",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "Djoni_Macs",
+					"name": "Dirk",
+					"id": 2995331047,
+					"id_str": "2995331047",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"screen_name": "nkriharga_mati",
+					"name": "NKRI HARGA MATI",
+					"id": 1205062900466905000,
+					"id_str": "1205062900466905089",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"screen_name": "MaswibA",
+					"name": "MasWib_Alek",
+					"id": 1057284654795939800,
+					"id_str": "1057284654795939843",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"screen_name": "Salauh",
+					"name": "Rashid khan",
+					"id": 172562676,
+					"id_str": "172562676",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"screen_name": "roedyh72",
+					"name": "Rudi Yusuf Hutasuhut",
+					"id": 141241258,
+					"id_str": "141241258",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"screen_name": "yana_udiyatna",
+					"name": "Yana Udiyatna",
+					"id": 774053433645080600,
+					"id_str": "774053433645080576",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"screen_name": "rsdnetid",
+					"name": "RSD Net Id",
+					"id": 771222990054838300,
+					"id_str": "771222990054838272",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"screen_name": "intanmellanie",
+					"name": "intanmellanie",
+					"id": 1209035661447053300,
+					"id_str": "1209035661447053313",
+					"indices": [
+						189,
+						203
+					]
+				},
+				{
+					"screen_name": "ElysiaJuventina",
+					"name": "Elysia",
+					"id": 1150393027795402800,
+					"id_str": "1150393027795402752",
+					"indices": [
+						204,
+						220
+					]
+				},
+				{
+					"screen_name": "AriefAnarya",
+					"name": "anarya",
+					"id": 1447944139,
+					"id_str": "1447944139",
+					"indices": [
+						221,
+						233
+					]
+				},
+				{
+					"screen_name": "DavidMozes6",
+					"name": "David Mozes",
+					"id": 1152937348344119300,
+					"id_str": "1152937348344119301",
+					"indices": [
+						234,
+						246
+					]
+				},
+				{
+					"screen_name": "Salauh",
+					"name": "Rashid khan",
+					"id": 172562676,
+					"id_str": "172562676",
+					"indices": [
+						270,
+						277
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1220714102835671000,
+		"in_reply_to_status_id_str": "1220714102835671040",
+		"in_reply_to_user_id": 252603335,
+		"in_reply_to_user_id_str": "252603335",
+		"in_reply_to_screen_name": "hamka_sutra",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2225,
+			"friends_count": 1892,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@hamka_sutra @TheArieAir @wisanggeni_084 @jo_dohmu @4Y4NKZ @Zainuddinovic @UstadGugel @daus_alfath @ESitohag @Djoni_Macs @nkriharga_mati @MaswibA @Salauh @roedyh72 @yana_udiyatna @rsdnetid @intanmellanie @ElysiaJuventina @AriefAnarya @DavidMozes6 Ada akun yg digembok 👉 @Salauh"
+	},
+	{
+		"created_at": "Fri Jan 24 04:07:38 +0000 2020",
+		"id": 1220324917792526300,
+		"id_str": "1220558755030433792",
+		"full_text": "JANGAN BANYAK BERDOA |\n.\n.\n\"Le..Tuhanmu tdk akan marah jk kau meminta padaNYA, tp sering2xlah MENYAPANYA drpd kau sering meminta, krn temanmu, akan lebih suka kau menyapanya drpd kau sering meminta, walaupun Tuhan, tdk sama &amp; sebanding dgn temanmu\", ujar bapakku 30 th yg lalu.\n. https://t.co/oLlKYOjprv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220324909961711600,
+					"id_str": "1220324909961711622",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EO93CkDUEAYq_A4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO93CkDUEAYq_A4.jpg",
+					"url": "https://t.co/oLlKYOjprv",
+					"display_url": "pic.twitter.com/oLlKYOjprv",
+					"expanded_url": "https://twitter.com/AnakKolong_/status/1220324917792526342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220324909961711600,
+					"id_str": "1220324909961711622",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EO93CkDUEAYq_A4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO93CkDUEAYq_A4.jpg",
+					"url": "https://t.co/oLlKYOjprv",
+					"display_url": "pic.twitter.com/oLlKYOjprv",
+					"expanded_url": "https://twitter.com/AnakKolong_/status/1220324917792526342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 533,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338314080,
+			"id_str": "338314080",
+			"name": "Anak Kolong™|",
+			"screen_name": "AnakKolong_",
+			"location": "34° 55′ 44″ S ,138° 36\" E",
+			"description": "Ag. P | I'm not right wing, I'm human wing | \nThe air is the only place free from prejudice | Humanity above Religion",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20591,
+			"friends_count": 1981,
+			"listed_count": 13,
+			"created_at": "Tue Jul 19 11:51:21 +0000 2011",
+			"favourites_count": 149364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 149347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216686359202521088/ZF3Jg9wN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216686359202521088/ZF3Jg9wN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/338314080/1579586466",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 281,
+		"favorite_count": 785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "JANGAN BANYAK BERDOA |\n.\n.\n\"Le..Tuhanmu tdk akan marah jk kau meminta padaNYA, tp sering2xlah MENYAPANYA drpd kau sering meminta, krn temanmu, akan lebih suka kau menyapanya drpd kau sering meminta, walaupun Tuhan, tdk sama &amp; sebanding dgn temanmu\", ujar bapakku 30 th yg lalu.\n. https://t.co/oLlKYOjprv"
+	},
+	{
+		"created_at": "Fri Jan 24 04:03:27 +0000 2020",
+		"id": 1220557699487658000,
+		"id_str": "1220557699487657985",
+		"full_text": "@hamka_sutra @TheArieAir Yuk LIBURAN BARENG",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamka_sutra",
+					"name": "A N G K A",
+					"id": 252603335,
+					"id_str": "252603335",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TheArieAir",
+					"name": "Arie Dirgantara",
+					"id": 164604281,
+					"id_str": "164604281",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1220316708486799400,
+		"in_reply_to_status_id_str": "1220316708486799360",
+		"in_reply_to_user_id": 252603335,
+		"in_reply_to_user_id_str": "252603335",
+		"in_reply_to_screen_name": "hamka_sutra",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2225,
+			"friends_count": 1892,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@hamka_sutra @TheArieAir Yuk LIBURAN BARENG"
+	},
+	{
 		"created_at": "Thu Jan 23 17:09:54 +0000 2020",
 		"id": 1220393229075415000,
 		"id_str": "1220393229075415040",
