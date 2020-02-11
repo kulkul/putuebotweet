@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 07:37:19 +0000 2020",
+		"id": 1226772116629946400,
+		"id_str": "1226772116629946368",
+		"full_text": "@cripsyfriedtofu @JodyJmp @ardijvns @hanmufi @kbenaranHakiki @NagarjunaFluent @mhelmyahya @Julieette99 @bebastapisofun @imanlagi Yang suka nulis 'disini' kan orang Indonesia sendiri.. orang jepang justru lebih tahu aturan bahasa Indonesia",
+		"truncated": false,
+		"display_text_range": [
+			129,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cripsyfriedtofu",
+					"name": "A+ blood type",
+					"id": 1461172867,
+					"id_str": "1461172867",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "JodyJmp",
+					"name": "Joy",
+					"id": 401996860,
+					"id_str": "401996860",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "ardijvns",
+					"name": "Ardi",
+					"id": 759237161954803700,
+					"id_str": "759237161954803714",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "hanmufi",
+					"name": "Han",
+					"id": 1028538753915056100,
+					"id_str": "1028538753915056128",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "kbenaranHakiki",
+					"name": "Mind Over Matter",
+					"id": 133277792,
+					"id_str": "133277792",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "NagarjunaFluent",
+					"name": "Nagarjuna Muhammad",
+					"id": 89225253,
+					"id_str": "89225253",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"screen_name": "mhelmyahya",
+					"name": "اي لوف يو",
+					"id": 1076842798077435900,
+					"id_str": "1076842798077435904",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"screen_name": "Julieette99",
+					"name": "Juliette",
+					"id": 995744559463256000,
+					"id_str": "995744559463256064",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"screen_name": "bebastapisofun",
+					"name": "Ibya Isnan",
+					"id": 254485121,
+					"id_str": "254485121",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"screen_name": "imanlagi",
+					"name": "Iman Sjafei",
+					"id": 56391072,
+					"id_str": "56391072",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1226185494456758300,
+		"in_reply_to_status_id_str": "1226185494456758272",
+		"in_reply_to_user_id": 1461172867,
+		"in_reply_to_user_id_str": "1461172867",
+		"in_reply_to_screen_name": "cripsyfriedtofu",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2394,
+			"friends_count": 2053,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@cripsyfriedtofu @JodyJmp @ardijvns @hanmufi @kbenaranHakiki @NagarjunaFluent @mhelmyahya @Julieette99 @bebastapisofun @imanlagi Yang suka nulis 'disini' kan orang Indonesia sendiri.. orang jepang justru lebih tahu aturan bahasa Indonesia"
+	},
+	{
 		"created_at": "Sun Feb 09 14:49:01 +0000 2020",
 		"id": 1226518368728957000,
 		"id_str": "1226518368728956929",
