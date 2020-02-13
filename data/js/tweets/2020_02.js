@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 16:00:47 +0000 2020",
+		"id": 1227623593443356700,
+		"id_str": "1227623593443356674",
+		"full_text": "@PREKSU con los terroristas! \nhttps://t.co/vQNThXMLEi",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PREKSU",
+					"name": "CONDRO",
+					"id": 252796544,
+					"id_str": "252796544",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226263851525648400,
+					"id_str": "1226263851525648384",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226263851525648384/pu/img/VEpPYjowHHJlvlSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226263851525648384/pu/img/VEpPYjowHHJlvlSN.jpg",
+					"url": "https://t.co/vQNThXMLEi",
+					"display_url": "pic.twitter.com/vQNThXMLEi",
+					"expanded_url": "https://twitter.com/tubaraonet2011/status/1226263916147335168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1226263916147335200,
+					"source_status_id_str": "1226263916147335168",
+					"source_user_id": 350078810,
+					"source_user_id_str": "350078810"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226263851525648400,
+					"id_str": "1226263851525648384",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226263851525648384/pu/img/VEpPYjowHHJlvlSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226263851525648384/pu/img/VEpPYjowHHJlvlSN.jpg",
+					"url": "https://t.co/vQNThXMLEi",
+					"display_url": "pic.twitter.com/vQNThXMLEi",
+					"expanded_url": "https://twitter.com/tubaraonet2011/status/1226263916147335168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1226263916147335200,
+					"source_status_id_str": "1226263916147335168",
+					"source_user_id": 350078810,
+					"source_user_id_str": "350078810",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28867,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226263851525648384/pu/vid/640x360/moFUJZM7xp4d2omG.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226263851525648384/pu/vid/480x270/OiAIBsaP1FYZXWF9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1226263851525648384/pu/pl/EA5M05eC-ippJ4Fm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1226263851525648384/pu/vid/1280x720/cXMpbFyLeMSnfQOU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 350078810,
+							"id_str": "350078810",
+							"name": "TUBARAO-Net",
+							"screen_name": "tubaraonet2011",
+							"location": "São Paulo - Capital",
+							"description": "Conhecimento Adquirido é Conhecimento Compartilhado ... A Internet deve ser Livre para Todos ... Com Liberdade de Expressão ... EH NOIS GALERA ... ;-)",
+							"url": "https://t.co/M16uHSL8ca",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/M16uHSL8ca",
+											"expanded_url": "https://www.instagram.com/tubaraonet/",
+											"display_url": "instagram.com/tubaraonet/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 92,
+							"friends_count": 1,
+							"listed_count": 0,
+							"created_at": "Sun Aug 07 05:06:44 +0000 2011",
+							"favourites_count": 7,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 21,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1226241622515560449/__gRhzEz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226241622515560449/__gRhzEz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/350078810/1472720722",
+							"profile_link_color": "00BFFF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "FFFFFF",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1227394424436510700,
+		"in_reply_to_status_id_str": "1227394424436510720",
+		"in_reply_to_user_id": 252796544,
+		"in_reply_to_user_id_str": "252796544",
+		"in_reply_to_screen_name": "PREKSU",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2396,
+			"friends_count": 2057,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "@PREKSU con los terroristas! \nhttps://t.co/vQNThXMLEi"
+	},
+	{
+		"created_at": "Wed Feb 12 15:12:27 +0000 2020",
+		"id": 1227611430557380600,
+		"id_str": "1227611430557380610",
+		"full_text": "@NotesofMila Sayaaaa *unjuk jari",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotesofMila",
+					"name": "Mila 🇮🇩",
+					"id": 1095888147022438400,
+					"id_str": "1095888147022438400",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1227375955120754700,
+		"in_reply_to_status_id_str": "1227375955120754688",
+		"in_reply_to_user_id": 1095888147022438400,
+		"in_reply_to_user_id_str": "1095888147022438400",
+		"in_reply_to_screen_name": "NotesofMila",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2396,
+			"friends_count": 2057,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@NotesofMila Sayaaaa *unjuk jari"
+	},
+	{
+		"created_at": "Wed Feb 12 09:11:11 +0000 2020",
+		"id": 1227520514979070000,
+		"id_str": "1227520514979069952",
+		"full_text": "@Jagadhitaputra1 @AbdMuin87293941 @GlHindu ... (lanjutan) tidak ada kebenaran yang kedua.\n\nHanya ada satu kebenaran dituju, cara manusia berbeda-beda.",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jagadhitaputra1",
+					"name": "Jagadhitaputra",
+					"id": 1023827648856776700,
+					"id_str": "1023827648856776704",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AbdMuin87293941",
+					"name": "Abd_Muin",
+					"id": 1115865191940612100,
+					"id_str": "1115865191940612097",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "GlHindu",
+					"name": "HinduGL",
+					"id": 1122473264217854000,
+					"id_str": "1122473264217853953",
+					"indices": [
+						34,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1227470535992500200,
+		"in_reply_to_status_id_str": "1227470535992500224",
+		"in_reply_to_user_id": 1023827648856776700,
+		"in_reply_to_user_id_str": "1023827648856776704",
+		"in_reply_to_screen_name": "Jagadhitaputra1",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2396,
+			"friends_count": 2057,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Jagadhitaputra1 @AbdMuin87293941 @GlHindu ... (lanjutan) tidak ada kebenaran yang kedua.\n\nHanya ada satu kebenaran dituju, cara manusia berbeda-beda."
+	},
+	{
 		"created_at": "Tue Feb 11 15:51:27 +0000 2020",
 		"id": 1227258854880112600,
 		"id_str": "1227258854880112641",
