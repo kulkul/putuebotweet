@@ -1,6 +1,1585 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 16 00:09:09 +0000 2020",
+		"id": 1228833660402458600,
+		"id_str": "1228833660402458624",
+		"full_text": "@BambangYoga6 Di Bali, keong sawah jadi masakan tradisional khas yg merambah restoran2.. dalam bhs Bali namanya: kakul. Ada banyak ragam cara masaknya: sate kakul, sayur kakul, kakul suna cekuh dll",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BambangYoga6",
+					"name": "Paimin van Tepus",
+					"id": 978111385849577500,
+					"id_str": "978111385849577474",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1228822424138834000,
+		"in_reply_to_status_id_str": "1228822424138833920",
+		"in_reply_to_user_id": 978111385849577500,
+		"in_reply_to_user_id_str": "978111385849577474",
+		"in_reply_to_screen_name": "BambangYoga6",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@BambangYoga6 Di Bali, keong sawah jadi masakan tradisional khas yg merambah restoran2.. dalam bhs Bali namanya: kakul. Ada banyak ragam cara masaknya: sate kakul, sayur kakul, kakul suna cekuh dll"
+	},
+	{
+		"created_at": "Sat Feb 15 23:50:47 +0000 2020",
+		"id": 1228829037897777200,
+		"id_str": "1228829037897777152",
+		"full_text": "Yang penting bekerja dengan hati, nanti bercinta akan datang mengikuti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Yang penting bekerja dengan hati, nanti bercinta akan datang mengikuti"
+	},
+	{
+		"created_at": "Sat Feb 15 23:47:49 +0000 2020",
+		"id": 1228828290720264200,
+		"id_str": "1228828290720264192",
+		"full_text": "@GlHindu Ah, jangan satir gitu min",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GlHindu",
+					"name": "HinduGL",
+					"id": 1122473264217854000,
+					"id_str": "1122473264217853953",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1228824103517245400,
+		"in_reply_to_status_id_str": "1228824103517245440",
+		"in_reply_to_user_id": 1122473264217854000,
+		"in_reply_to_user_id_str": "1122473264217853953",
+		"in_reply_to_screen_name": "GlHindu",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@GlHindu Ah, jangan satir gitu min"
+	},
+	{
+		"created_at": "Sat Feb 15 23:38:15 +0000 2020",
+		"id": 1228825882086654000,
+		"id_str": "1228825882086653952",
+		"full_text": "@GusDark4 Pengetahuan anda sungguh luas 😆",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GusDark4",
+					"name": "Gus Dark",
+					"id": 1197023131669418000,
+					"id_str": "1197023131669417986",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1228546186014912500,
+		"in_reply_to_status_id_str": "1228546186014912512",
+		"in_reply_to_user_id": 1197023131669418000,
+		"in_reply_to_user_id_str": "1197023131669417986",
+		"in_reply_to_screen_name": "GusDark4",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@GusDark4 Pengetahuan anda sungguh luas 😆"
+	},
+	{
+		"created_at": "Sat Feb 15 05:48:38 +0000 2020",
+		"id": 1228556706537336800,
+		"id_str": "1228556706537336832",
+		"full_text": "@zee_tambunan Lacak di internet nama produknya: United Indecent Pleasures Chocolate - Mesti impor, sepertinya nggak dijual di Indonesia",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zee_tambunan",
+					"name": "乙乇乇 ツ",
+					"id": 98080870,
+					"id_str": "98080870",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228547507975622700,
+		"in_reply_to_status_id_str": "1228547507975622656",
+		"in_reply_to_user_id": 98080870,
+		"in_reply_to_user_id_str": "98080870",
+		"in_reply_to_screen_name": "zee_tambunan",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@zee_tambunan Lacak di internet nama produknya: United Indecent Pleasures Chocolate - Mesti impor, sepertinya nggak dijual di Indonesia"
+	},
+	{
+		"created_at": "Sat Feb 15 05:33:56 +0000 2020",
+		"id": 1228553005139558400,
+		"id_str": "1228553005139558400",
+		"full_text": "@ireneswasuryani @Lundaye1 @TheArieAir @ChantiqueTiyara @wisanggeni_084 @sipenakecil @AnalisaAkang @Elza_Aliva @silentreadeer @YuanitaRamadhan Thanks Mba @ireneswasuryani n @Lundaye1 :D",
+		"truncated": false,
+		"display_text_range": [
+			143,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ireneswasuryani",
+					"name": "irene swa suryani",
+					"id": 2394470995,
+					"id_str": "2394470995",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Lundaye1",
+					"name": "👣DayLundaye👣",
+					"id": 1196457282428518400,
+					"id_str": "1196457282428518400",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "TheArieAir",
+					"name": "Arie Dirgantara",
+					"id": 164604281,
+					"id_str": "164604281",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "ChantiqueTiyara",
+					"name": "Tiyara #programfolback 🇮🇩",
+					"id": 1220229594508230700,
+					"id_str": "1220229594508230656",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "wisanggeni_084",
+					"name": "WISANGGENI",
+					"id": 112953652,
+					"id_str": "112953652",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "sipenakecil",
+					"name": "Pⓔɴᴀ Kⓔᴄɪʟ",
+					"id": 61728941,
+					"id_str": "61728941",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "AnalisaAkang",
+					"name": "Analisa Akang",
+					"id": 1193091715881521200,
+					"id_str": "1193091715881521153",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"screen_name": "Elza_Aliva",
+					"name": "El Zatria",
+					"id": 1124517245722349600,
+					"id_str": "1124517245722349568",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"screen_name": "silentreadeer",
+					"name": "Evan Bastian",
+					"id": 3172958879,
+					"id_str": "3172958879",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"screen_name": "YuanitaRamadhan",
+					"name": "Yuanita Ramadhani",
+					"id": 130843813,
+					"id_str": "130843813",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"screen_name": "ireneswasuryani",
+					"name": "irene swa suryani",
+					"id": 2394470995,
+					"id_str": "2394470995",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"screen_name": "Lundaye1",
+					"name": "👣DayLundaye👣",
+					"id": 1196457282428518400,
+					"id_str": "1196457282428518400",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228529889139015700,
+		"in_reply_to_status_id_str": "1228529889139015680",
+		"in_reply_to_user_id": 2394470995,
+		"in_reply_to_user_id_str": "2394470995",
+		"in_reply_to_screen_name": "ireneswasuryani",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ireneswasuryani @Lundaye1 @TheArieAir @ChantiqueTiyara @wisanggeni_084 @sipenakecil @AnalisaAkang @Elza_Aliva @silentreadeer @YuanitaRamadhan Thanks Mba @ireneswasuryani n @Lundaye1 :D"
+	},
+	{
+		"created_at": "Sat Feb 15 02:35:19 +0000 2020",
+		"id": 1228508054204739600,
+		"id_str": "1228508054204739585",
+		"full_text": "@GusDark4 Dulu om saya punya tamanbaca... ada 212 bersanding lengkap dg kho ping hoo dan nick carter 😁, sayang gak terjaga baik.. pada ngilang",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GusDark4",
+					"name": "Gus Dark",
+					"id": 1197023131669418000,
+					"id_str": "1197023131669417986",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228507203163676700,
+		"in_reply_to_status_id_str": "1228507203163676672",
+		"in_reply_to_user_id": 1197023131669418000,
+		"in_reply_to_user_id_str": "1197023131669417986",
+		"in_reply_to_screen_name": "GusDark4",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@GusDark4 Dulu om saya punya tamanbaca... ada 212 bersanding lengkap dg kho ping hoo dan nick carter 😁, sayang gak terjaga baik.. pada ngilang"
+	},
+	{
+		"created_at": "Sat Feb 15 02:26:40 +0000 2020",
+		"id": 1228505877293850600,
+		"id_str": "1228505877293850629",
+		"full_text": "This is Cameltoe broh!.. segala search-engine di dunia, dari altavista sampai twitter telah menyesatkan saya ke penampakan yg tak dinyana 😁 https://t.co/avnSfgjBPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228505867919614000,
+					"id_str": "1228505867919613954",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EQyHk_XU4AISlB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQyHk_XU4AISlB-.jpg",
+					"url": "https://t.co/avnSfgjBPD",
+					"display_url": "pic.twitter.com/avnSfgjBPD",
+					"expanded_url": "https://twitter.com/putuebo/status/1228505877293850629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228505867919614000,
+					"id_str": "1228505867919613954",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EQyHk_XU4AISlB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQyHk_XU4AISlB-.jpg",
+					"url": "https://t.co/avnSfgjBPD",
+					"display_url": "pic.twitter.com/avnSfgjBPD",
+					"expanded_url": "https://twitter.com/putuebo/status/1228505877293850629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "This is Cameltoe broh!.. segala search-engine di dunia, dari altavista sampai twitter telah menyesatkan saya ke penampakan yg tak dinyana 😁 https://t.co/avnSfgjBPD"
+	},
+	{
+		"created_at": "Sat Feb 15 02:23:45 +0000 2020",
+		"id": 1228505143328428000,
+		"id_str": "1228505143328428032",
+		"full_text": "@mamiagarislucu @QalbuBahasa @mohmahfudmd @spiderr__matrix @AnakKolong___ @AnakLolina @juni_irene @Black_lleviant @klelur028 Bantuan Pangan Non Tunai 😄",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mamiagarislucu",
+					"name": "mamia",
+					"id": 2370540182,
+					"id_str": "2370540182",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "QalbuBahasa",
+					"name": "❤hanum❤",
+					"id": 1227573267461853200,
+					"id_str": "1227573267461853184",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "mohmahfudmd",
+					"name": "Mahfud MD",
+					"id": 282006208,
+					"id_str": "282006208",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "spiderr__matrix",
+					"name": "b🔰m",
+					"id": 1125295680963006500,
+					"id_str": "1125295680963006464",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "AnakKolong___",
+					"name": "Anak Kolong™",
+					"id": 1152151683746582500,
+					"id_str": "1152151683746582528",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "AnakLolina",
+					"name": "August",
+					"id": 1404729888,
+					"id_str": "1404729888",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "juni_irene",
+					"name": "🇮🇩👸Princess Irene 🇨🇳🇧🇬",
+					"id": 864141367831797800,
+					"id_str": "864141367831797760",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"screen_name": "Black_lleviant",
+					"name": "Black ID™",
+					"id": 1030431347880251400,
+					"id_str": "1030431347880251392",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"screen_name": "klelur028",
+					"name": "Klelur",
+					"id": 1034505191008006100,
+					"id_str": "1034505191008006145",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228504309660172300,
+		"in_reply_to_status_id_str": "1228504309660172291",
+		"in_reply_to_user_id": 2370540182,
+		"in_reply_to_user_id_str": "2370540182",
+		"in_reply_to_screen_name": "mamiagarislucu",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@mamiagarislucu @QalbuBahasa @mohmahfudmd @spiderr__matrix @AnakKolong___ @AnakLolina @juni_irene @Black_lleviant @klelur028 Bantuan Pangan Non Tunai 😄"
+	},
+	{
+		"created_at": "Sat Feb 15 02:15:24 +0000 2020",
+		"id": 1228503041340366800,
+		"id_str": "1228503041340366848",
+		"full_text": "@mamiagarislucu @QalbuBahasa @mohmahfudmd @spiderr__matrix @AnakKolong___ @AnakLolina @juni_irene @Black_lleviant @klelur028 Bukan ttg strukturnya. Lagi hangat kontroversi terima atau tolak eks WNI pro ISIS dari luar negeri, sementara organisasi ISIS cabang Indonesia eksis? Walaupun statusnya eks, bagaimana dg pahamnya? Apalagi seorg eks pemimpin.",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			349
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mamiagarislucu",
+					"name": "mamia",
+					"id": 2370540182,
+					"id_str": "2370540182",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "QalbuBahasa",
+					"name": "❤hanum❤",
+					"id": 1227573267461853200,
+					"id_str": "1227573267461853184",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "mohmahfudmd",
+					"name": "Mahfud MD",
+					"id": 282006208,
+					"id_str": "282006208",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "spiderr__matrix",
+					"name": "b🔰m",
+					"id": 1125295680963006500,
+					"id_str": "1125295680963006464",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "AnakKolong___",
+					"name": "Anak Kolong™",
+					"id": 1152151683746582500,
+					"id_str": "1152151683746582528",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "AnakLolina",
+					"name": "August",
+					"id": 1404729888,
+					"id_str": "1404729888",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "juni_irene",
+					"name": "🇮🇩👸Princess Irene 🇨🇳🇧🇬",
+					"id": 864141367831797800,
+					"id_str": "864141367831797760",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"screen_name": "Black_lleviant",
+					"name": "Black ID™",
+					"id": 1030431347880251400,
+					"id_str": "1030431347880251392",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"screen_name": "klelur028",
+					"name": "Klelur",
+					"id": 1034505191008006100,
+					"id_str": "1034505191008006145",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228499570826416000,
+		"in_reply_to_status_id_str": "1228499570826416128",
+		"in_reply_to_user_id": 2370540182,
+		"in_reply_to_user_id_str": "2370540182",
+		"in_reply_to_screen_name": "mamiagarislucu",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@mamiagarislucu @QalbuBahasa @mohmahfudmd @spiderr__matrix @AnakKolong___ @AnakLolina @juni_irene @Black_lleviant @klelur028 Bukan ttg strukturnya. Lagi hangat kontroversi terima atau tolak eks WNI pro ISIS dari luar negeri, sementara organisasi ISIS cabang Indonesia eksis? Walaupun statusnya eks, bagaimana dg pahamnya? Apalagi seorg eks pemimpin."
+	},
+	{
+		"created_at": "Sat Feb 15 01:43:06 +0000 2020",
+		"id": 1228255093947949000,
+		"id_str": "1228494912158437377",
+		"full_text": "Imagine having to do a hill start in traffic 🤯 https://t.co/jCwboXxGkZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228255057763872800,
+					"id_str": "1228255057763872768",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228255057763872768/pu/img/j8tRLRUvgiZxuMuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228255057763872768/pu/img/j8tRLRUvgiZxuMuj.jpg",
+					"url": "https://t.co/jCwboXxGkZ",
+					"display_url": "pic.twitter.com/jCwboXxGkZ",
+					"expanded_url": "https://twitter.com/CucumberTonic/status/1228255093947949056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228255057763872800,
+					"id_str": "1228255057763872768",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228255057763872768/pu/img/j8tRLRUvgiZxuMuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228255057763872768/pu/img/j8tRLRUvgiZxuMuj.jpg",
+					"url": "https://t.co/jCwboXxGkZ",
+					"display_url": "pic.twitter.com/jCwboXxGkZ",
+					"expanded_url": "https://twitter.com/CucumberTonic/status/1228255093947949056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 884,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							221,
+							320
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228255057763872768/pu/vid/320x462/mK1ZFAY-UmThxuaH.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228255057763872768/pu/vid/720x1042/xybzzgbSzJ66Gznk.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228255057763872768/pu/pl/aAXxsCL4EPFsmyZl.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228255057763872768/pu/vid/360x520/UuSvdOm4mHFhUZhU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139951615857823700,
+			"id_str": "1139951615857823746",
+			"name": "CucumberTonic🥑",
+			"screen_name": "CucumberTonic",
+			"location": "Teddington, England",
+			"description": "Follow Me For 👉Daily Videos, Laughs, Smiles & Positivity 💫 I Own No Media DM for Credits/Removals. ☄️Commentary Account☄️ Owner: @SpicyWengz Consultancy ⭐️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45392,
+			"friends_count": 35,
+			"listed_count": 212,
+			"created_at": "Sat Jun 15 17:43:39 +0000 2019",
+			"favourites_count": 16993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199109040787337216/djt_hRLp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199109040787337216/djt_hRLp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139951615857823746/1575642503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Imagine having to do a hill start in traffic 🤯 https://t.co/jCwboXxGkZ"
+	},
+	{
 		"created_at": "Sat Feb 15 01:07:58 +0000 2020",
 		"id": 1228486071702323200,
 		"id_str": "1228486071702323202",
