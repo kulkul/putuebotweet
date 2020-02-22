@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 15:55:09 +0000 2020",
+		"id": 1230880744186118100,
+		"id_str": "1230883666588397569",
+		"full_text": "Ngelawang mrupakan tradisi dlm rngkaian Hari Suci Galungan &amp; Kuningan!\n→Ngelawang brsal dr  kata lawang (pintu) yang berarti pmentasan yg  dilkukan dr pintu ke pintu / rmh ke rmh maupun dr desa ke desa dgn menggunakan barong bangkung (barong brupa sosok babi)\n#BudayaNusantara https://t.co/H09Qd1sbft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BudayaNusantara",
+					"indices": [
+						264,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230880640779735000,
+					"id_str": "1230880640779735042",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230880640779735042/pu/img/uCFojKztBSALCBbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230880640779735042/pu/img/uCFojKztBSALCBbd.jpg",
+					"url": "https://t.co/H09Qd1sbft",
+					"display_url": "pic.twitter.com/H09Qd1sbft",
+					"expanded_url": "https://twitter.com/dewakarbinawa/status/1230880744186118144/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230880640779735000,
+					"id_str": "1230880640779735042",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230880640779735042/pu/img/uCFojKztBSALCBbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230880640779735042/pu/img/uCFojKztBSALCBbd.jpg",
+					"url": "https://t.co/H09Qd1sbft",
+					"display_url": "pic.twitter.com/H09Qd1sbft",
+					"expanded_url": "https://twitter.com/dewakarbinawa/status/1230880744186118144/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19067,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230880640779735042/pu/vid/480x270/F9Y9MqHX5pmHRUG1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230880640779735042/pu/pl/o1QrlxOPTxQNNq5K.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3157688234,
+			"id_str": "3157688234",
+			"name": "Catat@n Realita🇮🇩 !!",
+			"screen_name": "dewakarbinawa",
+			"location": "Indonesia",
+			"description": "Berada di antara yang Waras !←\n((No DM))",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4221,
+			"friends_count": 4824,
+			"listed_count": 1,
+			"created_at": "Wed Apr 15 14:41:23 +0000 2015",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229749669976129539/hhVoj2ea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229749669976129539/hhVoj2ea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3157688234/1582213830",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ngelawang mrupakan tradisi dlm rngkaian Hari Suci Galungan &amp; Kuningan!\n→Ngelawang brsal dr  kata lawang (pintu) yang berarti pmentasan yg  dilkukan dr pintu ke pintu / rmh ke rmh maupun dr desa ke desa dgn menggunakan barong bangkung (barong brupa sosok babi)\n#BudayaNusantara https://t.co/H09Qd1sbft"
+	},
+	{
+		"created_at": "Fri Feb 21 15:48:17 +0000 2020",
+		"id": 1230881939487256600,
+		"id_str": "1230881939487256580",
+		"full_text": "Bagian yg paling ditunggu bocah cabul era lapanpuluan dari sebuah seri anime di tv nasional, judulnya niru nama band populer di Indonesia https://t.co/TtGA7X2KBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230881755856605200,
+					"id_str": "1230881755856605191",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERT4b3pXkAc-UAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERT4b3pXkAc-UAF.jpg",
+					"url": "https://t.co/TtGA7X2KBq",
+					"display_url": "pic.twitter.com/TtGA7X2KBq",
+					"expanded_url": "https://twitter.com/putuebo/status/1230881939487256580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 520,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230881755856605200,
+					"id_str": "1230881755856605191",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERT4b3pXkAc-UAF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERT4b3pXkAc-UAF.jpg",
+					"url": "https://t.co/TtGA7X2KBq",
+					"display_url": "pic.twitter.com/TtGA7X2KBq",
+					"expanded_url": "https://twitter.com/putuebo/status/1230881939487256580/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 520,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 390,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERT4b3pXkAc-UAF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2448,
+			"friends_count": 2114,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Bagian yg paling ditunggu bocah cabul era lapanpuluan dari sebuah seri anime di tv nasional, judulnya niru nama band populer di Indonesia https://t.co/TtGA7X2KBq"
+	},
+	{
 		"created_at": "Wed Feb 19 03:26:41 +0000 2020",
 		"id": 1229970534852632600,
 		"id_str": "1229970534852632576",
@@ -430,7 +807,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Wed Feb 19 03:09:58 +0000 2020",
 		"id": 1229966327240151000,
 		"id_str": "1229966327240151041",
-		"full_text": "@murryas ᬲᬸᬓ᭄ᬲᭂᬫ ᬫᬯᬮᬶ‌‌ ᬲᬫᭂᬢᭀᬦ᭄‌",
+		"full_text": "@murryas ᬲᬸᬓ᭄ᬲᭂᬫ ᬫᬯᬮᬶ ᬲᬫᭂᬢᭀᬦ᭄",
 		"truncated": false,
 		"display_text_range": [
 			9,
@@ -530,7 +907,7 @@ Grailbird.data.tweets_2020_02 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@murryas ᬲᬸᬓ᭄ᬲᭂᬫ ᬫᬯᬮᬶ‌‌ ᬲᬫᭂᬢᭀᬦ᭄‌"
+		"text": "@murryas ᬲᬸᬓ᭄ᬲᭂᬫ ᬫᬯᬮᬶ ᬲᬫᭂᬢᭀᬦ᭄"
 	},
 	{
 		"created_at": "Tue Feb 18 12:03:19 +0000 2020",
