@@ -1,6 +1,1665 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 21:51:51 +0000 2020",
+		"id": 1231429846061871000,
+		"id_str": "1231698209153671171",
+		"full_text": "@MustEkeph @Teh__L Gubernur https://t.co/uaPbBB7yTQ",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MustEkeph",
+					"name": "MasEkeph",
+					"id": 70080366,
+					"id_str": "70080366",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Teh__L",
+					"name": "Teh L",
+					"id": 984496808826060800,
+					"id_str": "984496808826060800",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231429842974969900,
+					"id_str": "1231429842974969857",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ERbq6vRWkAE7LsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERbq6vRWkAE7LsW.jpg",
+					"url": "https://t.co/uaPbBB7yTQ",
+					"display_url": "pic.twitter.com/uaPbBB7yTQ",
+					"expanded_url": "https://twitter.com/all_catel/status/1231429846061871104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 226,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231429842974969900,
+					"id_str": "1231429842974969857",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/ERbq6vRWkAE7LsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERbq6vRWkAE7LsW.jpg",
+					"url": "https://t.co/uaPbBB7yTQ",
+					"display_url": "pic.twitter.com/uaPbBB7yTQ",
+					"expanded_url": "https://twitter.com/all_catel/status/1231429846061871104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 226,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1231425023530827800,
+		"in_reply_to_status_id_str": "1231425023530827776",
+		"in_reply_to_user_id": 70080366,
+		"in_reply_to_user_id_str": "70080366",
+		"in_reply_to_screen_name": "MustEkeph",
+		"user": {
+			"id": 3231496926,
+			"id_str": "3231496926",
+			"name": "DONGOS",
+			"screen_name": "all_catel",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 981,
+			"listed_count": 0,
+			"created_at": "Sun May 31 10:27:06 +0000 2015",
+			"favourites_count": 7388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193720822621360128/X5PnoJs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193720822621360128/X5PnoJs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3231496926/1566819999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "in",
+		"text": "@MustEkeph @Teh__L Gubernur https://t.co/uaPbBB7yTQ"
+	},
+	{
+		"created_at": "Sun Feb 23 21:47:57 +0000 2020",
+		"id": 1231694773871710200,
+		"id_str": "1231697229443981312",
+		"full_text": "Cintai Keragaman Budaya INDONESIA\n\n                ~   🇮🇩   💟   🇮🇩   ~\n\n               #BudayaNusantara https://t.co/enpaifjag9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BudayaNusantara",
+					"indices": [
+						87,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231694726547431400,
+					"id_str": "1231694726547431424",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1231694726547431424/pu/img/Gu-ODriwexor3kPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1231694726547431424/pu/img/Gu-ODriwexor3kPQ.jpg",
+					"url": "https://t.co/enpaifjag9",
+					"display_url": "pic.twitter.com/enpaifjag9",
+					"expanded_url": "https://twitter.com/budiyono97/status/1231694773871710208/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231694726547431400,
+					"id_str": "1231694726547431424",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1231694726547431424/pu/img/Gu-ODriwexor3kPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1231694726547431424/pu/img/Gu-ODriwexor3kPQ.jpg",
+					"url": "https://t.co/enpaifjag9",
+					"display_url": "pic.twitter.com/enpaifjag9",
+					"expanded_url": "https://twitter.com/budiyono97/status/1231694773871710208/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 50000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1231694726547431424/pu/vid/320x320/CByK6jxcGrC9YdzJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1231694726547431424/pu/pl/FUwg5mjDXO80XsGp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1231694726547431424/pu/vid/480x480/rViaWE-Uy9JtJSdU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2815241396,
+			"id_str": "2815241396",
+			"name": "𝔸𝕓𝕓𝕪 𝔹𝕦𝕕𝕚𝕪𝕠𝕟𝕠",
+			"screen_name": "budiyono97",
+			"location": "",
+			"description": "Sampaikanlah Kebenaran Walaupun Itu Lucu.\n\n#NetizenForNegeri 🇲🇨 NKRI HARGA MATI 💟 #Nahdliyin #Muhibbin #Milanisti #LaskarBerbagiKasih",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5625,
+			"friends_count": 5400,
+			"listed_count": 0,
+			"created_at": "Wed Sep 17 16:46:49 +0000 2014",
+			"favourites_count": 42269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219660474137989120/m1-GY61e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219660474137989120/m1-GY61e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2815241396/1582458944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Cintai Keragaman Budaya INDONESIA\n\n                ~   🇮🇩   💟   🇮🇩   ~\n\n               #BudayaNusantara https://t.co/enpaifjag9"
+	},
+	{
+		"created_at": "Sun Feb 23 18:38:02 +0000 2020",
+		"id": 1231649433797791700,
+		"id_str": "1231649433797791744",
+		"full_text": "Tiap keping bunga salju adalah unik. Seperti namamu.. Temukan bentuk bunga salju berdasarkan namamu di sini: https://t.co/lowpkzH1VB https://t.co/0WICmUeYrs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lowpkzH1VB",
+					"expanded_url": "http://www.ideasfactory.co.uk/snowflake/app.html",
+					"display_url": "ideasfactory.co.uk/snowflake/app.…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1231642928365346800,
+					"id_str": "1231642928365346816",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ERest8NWoAAHPrd.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERest8NWoAAHPrd.png",
+					"url": "https://t.co/0WICmUeYrs",
+					"display_url": "pic.twitter.com/0WICmUeYrs",
+					"expanded_url": "https://twitter.com/putuebo/status/1231649433797791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231642928365346800,
+					"id_str": "1231642928365346816",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/ERest8NWoAAHPrd.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERest8NWoAAHPrd.png",
+					"url": "https://t.co/0WICmUeYrs",
+					"display_url": "pic.twitter.com/0WICmUeYrs",
+					"expanded_url": "https://twitter.com/putuebo/status/1231649433797791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1231649310099550200,
+					"id_str": "1231649310099550215",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EReyhaBWsAcTdr8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EReyhaBWsAcTdr8.jpg",
+					"url": "https://t.co/0WICmUeYrs",
+					"display_url": "pic.twitter.com/0WICmUeYrs",
+					"expanded_url": "https://twitter.com/putuebo/status/1231649433797791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 348,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 348,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Tiap keping bunga salju adalah unik. Seperti namamu.. Temukan bentuk bunga salju berdasarkan namamu di sini: https://t.co/lowpkzH1VB https://t.co/0WICmUeYrs"
+	},
+	{
+		"created_at": "Sun Feb 23 14:56:19 +0000 2020",
+		"id": 1231593637441503200,
+		"id_str": "1231593637441503232",
+		"full_text": "@Agamajinasi Pasti kegagalan misinya karena konpirasi elit global",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Agamajinasi",
+					"name": "agama.jinasi",
+					"id": 712739119,
+					"id_str": "712739119",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1231592173319184400,
+		"in_reply_to_status_id_str": "1231592173319184385",
+		"in_reply_to_user_id": 712739119,
+		"in_reply_to_user_id_str": "712739119",
+		"in_reply_to_screen_name": "Agamajinasi",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@Agamajinasi Pasti kegagalan misinya karena konpirasi elit global"
+	},
+	{
+		"created_at": "Sun Feb 23 07:46:23 +0000 2020",
+		"id": 1231485441989173200,
+		"id_str": "1231485441989173250",
+		"full_text": "@GusDark4 @cinema21 Mestine.. sebentar lagi. Di berita2 kan dijanjiin akan tayang awal 2020. Sampe batas bulan mana ya terhitung awal tahun? \nhttps://t.co/W2GNed4Rly",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GusDark4",
+					"name": "Gus Dark",
+					"id": 1197023131669418000,
+					"id_str": "1197023131669417986",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "cinema21",
+					"name": "Cinema XXI",
+					"id": 18211861,
+					"id_str": "18211861",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W2GNed4Rly",
+					"expanded_url": "https://youtu.be/MZk3CIU1Jro",
+					"display_url": "youtu.be/MZk3CIU1Jro",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1231482996756103200,
+		"in_reply_to_status_id_str": "1231482996756103168",
+		"in_reply_to_user_id": 1197023131669418000,
+		"in_reply_to_user_id_str": "1197023131669417986",
+		"in_reply_to_screen_name": "GusDark4",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@GusDark4 @cinema21 Mestine.. sebentar lagi. Di berita2 kan dijanjiin akan tayang awal 2020. Sampe batas bulan mana ya terhitung awal tahun? \nhttps://t.co/W2GNed4Rly"
+	},
+	{
+		"created_at": "Sun Feb 23 07:24:40 +0000 2020",
+		"id": 1231479974772654000,
+		"id_str": "1231479974772654080",
+		"full_text": "Top komedian Bali punya film: #clekontongmas The Movie https://t.co/G4t6SUQj86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clekontongmas",
+					"indices": [
+						30,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231479963355758600,
+					"id_str": "1231479963355758592",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/ERcYgIPUwAAPN5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERcYgIPUwAAPN5K.jpg",
+					"url": "https://t.co/G4t6SUQj86",
+					"display_url": "pic.twitter.com/G4t6SUQj86",
+					"expanded_url": "https://twitter.com/putuebo/status/1231479974772654080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231479963355758600,
+					"id_str": "1231479963355758592",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/ERcYgIPUwAAPN5K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERcYgIPUwAAPN5K.jpg",
+					"url": "https://t.co/G4t6SUQj86",
+					"display_url": "pic.twitter.com/G4t6SUQj86",
+					"expanded_url": "https://twitter.com/putuebo/status/1231479974772654080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 2115,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Top komedian Bali punya film: #clekontongmas The Movie https://t.co/G4t6SUQj86"
+	},
+	{
+		"created_at": "Sun Feb 23 06:20:21 +0000 2020",
+		"id": 1231433788862816300,
+		"id_str": "1231463789184180228",
+		"full_text": "@evisuryanti10 @felixaaf1 @SnolinkW @ronindrawan @CANDAdanBISNIS @RizkiR4madani @MOMDian2 @TukangMu @SetiaAdy_p @2024GanjarRisma @JohnIrwan4 @jubrik844 @positive_values @Dickusnadi1 @MaryanaNunung @kasrulsani9 @wantahgdn @Edward_1smail @LiaIsti1 @Recoignitionwal @periani @eddies_song @wartawankoboi13 @CumiCue @AdigunaAtmaja @Iqbalkuntoro1 @RazkaFaiz @MukhtarLuthfi12 @Zulfika35354359 @babegalak1 @Jokoumb64504158 @dian_ibunda @SultanAnjar @GendengHrs @demartinnie @gimbal_keren @ANDRE_OCTA_ @AnkyOsama @Mulia07094480 @MukhtarLuthfi11 @New_BUFFETT @Arieamy3 @TheEndTri1 @jokowi @basuki_btp @aniesbaswedan @KPAI_official Gue jadi takut berenang\n#PecatSittiHikmawatty\n#PecatSittiHikmawatty https://t.co/qI4jWjAqak",
+		"truncated": false,
+		"display_text_range": [
+			621,
+			688
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PecatSittiHikmawatty",
+					"indices": [
+						645,
+						666
+					]
+				},
+				{
+					"text": "PecatSittiHikmawatty",
+					"indices": [
+						667,
+						688
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evisuryanti10",
+					"name": "Evi Suryanti 🤘🇮🇩",
+					"id": 1127279353320984600,
+					"id_str": "1127279353320984577",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "felixaaf1",
+					"name": "Brayat Jogja",
+					"id": 869284500,
+					"id_str": "869284500",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "SnolinkW",
+					"name": "Snolink Warno",
+					"id": 1045678206265610200,
+					"id_str": "1045678206265610241",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "ronindrawan",
+					"name": "ronindrawan",
+					"id": 98345997,
+					"id_str": "98345997",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "CANDAdanBISNIS",
+					"name": "Allah evolusikan tubuhNya jd Alam Nb ISA & Manusia",
+					"id": 1349434237,
+					"id_str": "1349434237",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "RizkiR4madani",
+					"name": "Adhi Ramadani",
+					"id": 1140084771453714400,
+					"id_str": "1140084771453714432",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "MOMDian2",
+					"name": "Bunda dian",
+					"id": 1219844876654633000,
+					"id_str": "1219844876654632961",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"screen_name": "TukangMu",
+					"name": "Tukang Mu",
+					"id": 526953767,
+					"id_str": "526953767",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "SetiaAdy_p",
+					"name": "suara akar rumput..",
+					"id": 901882270369275900,
+					"id_str": "901882270369275904",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"screen_name": "2024GanjarRisma",
+					"name": "2024GANJAR_RISMA. akun cadangan @CANDAdanBISNIS.",
+					"id": 1215666613313163300,
+					"id_str": "1215666613313163270",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"screen_name": "JohnIrwan4",
+					"name": "John Irwan",
+					"id": 1196609747132153900,
+					"id_str": "1196609747132153856",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"screen_name": "jubrik844",
+					"name": "bocah_ndeso ndeso_banget",
+					"id": 988140135332986900,
+					"id_str": "988140135332986880",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"screen_name": "positive_values",
+					"name": "Patriot NKRI",
+					"id": 1181601973096743000,
+					"id_str": "1181601973096742912",
+					"indices": [
+						152,
+						168
+					]
+				},
+				{
+					"screen_name": "Dickusnadi1",
+					"name": "Dicky",
+					"id": 1137990655660023800,
+					"id_str": "1137990655660023809",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "MaryanaNunung",
+					"name": "Nunung Maryana",
+					"id": 840927057974460400,
+					"id_str": "840927057974460416",
+					"indices": [
+						182,
+						196
+					]
+				},
+				{
+					"screen_name": "kasrulsani9",
+					"name": "Kasrulsani9@gmail.com",
+					"id": 1160092356877512700,
+					"id_str": "1160092356877512711",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"screen_name": "wantahgdn",
+					"name": "Wanta",
+					"id": 2431310970,
+					"id_str": "2431310970",
+					"indices": [
+						210,
+						220
+					]
+				},
+				{
+					"screen_name": "Edward_1smail",
+					"name": "edward 🌚",
+					"id": 1132583206794907600,
+					"id_str": "1132583206794907648",
+					"indices": [
+						221,
+						235
+					]
+				},
+				{
+					"screen_name": "LiaIsti1",
+					"name": "Lia isti 🙏",
+					"id": 1214319872357875700,
+					"id_str": "1214319872357875712",
+					"indices": [
+						236,
+						245
+					]
+				},
+				{
+					"screen_name": "Recoignitionwal",
+					"name": "SELAIN TERBODOH JUGA PEMBOHONG",
+					"id": 832976691689459700,
+					"id_str": "832976691689459713",
+					"indices": [
+						246,
+						262
+					]
+				},
+				{
+					"screen_name": "periani",
+					"name": "alegra_onni",
+					"id": 87415223,
+					"id_str": "87415223",
+					"indices": [
+						263,
+						271
+					]
+				},
+				{
+					"screen_name": "eddies_song",
+					"name": "Hasian 👁 👣",
+					"id": 243149131,
+					"id_str": "243149131",
+					"indices": [
+						272,
+						284
+					]
+				},
+				{
+					"screen_name": "wartawankoboi13",
+					"name": "Wartawan Koboi",
+					"id": 2282262097,
+					"id_str": "2282262097",
+					"indices": [
+						285,
+						301
+					]
+				},
+				{
+					"screen_name": "CumiCue",
+					"name": "Pieter Formula EE. 💯 🇮🇩",
+					"id": 1104534234,
+					"id_str": "1104534234",
+					"indices": [
+						302,
+						310
+					]
+				},
+				{
+					"screen_name": "AdigunaAtmaja",
+					"name": "Hengky Adiguna Atmaja",
+					"id": 1193715380826472400,
+					"id_str": "1193715380826472448",
+					"indices": [
+						311,
+						325
+					]
+				},
+				{
+					"screen_name": "Iqbalkuntoro1",
+					"name": "kottaro minami",
+					"id": 1174876481924632600,
+					"id_str": "1174876481924632576",
+					"indices": [
+						326,
+						340
+					]
+				},
+				{
+					"screen_name": "RazkaFaiz",
+					"name": "Razka",
+					"id": 974818325577457700,
+					"id_str": "974818325577457664",
+					"indices": [
+						341,
+						351
+					]
+				},
+				{
+					"screen_name": "MukhtarLuthfi12",
+					"name": "Mukhtar Luthfi",
+					"id": 1221287550146375700,
+					"id_str": "1221287550146375682",
+					"indices": [
+						352,
+						368
+					]
+				},
+				{
+					"screen_name": "Zulfika35354359",
+					"name": "#segoro kidul🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩",
+					"id": 1183661029227544600,
+					"id_str": "1183661029227544576",
+					"indices": [
+						369,
+						385
+					]
+				},
+				{
+					"screen_name": "babegalak1",
+					"name": "Ngomong Doang",
+					"id": 1201648186529439700,
+					"id_str": "1201648186529439744",
+					"indices": [
+						386,
+						397
+					]
+				},
+				{
+					"screen_name": "Jokoumb64504158",
+					"name": "🇲🇨Resi SETO🇲🇨",
+					"id": 1189386665204125700,
+					"id_str": "1189386665204125698",
+					"indices": [
+						398,
+						414
+					]
+				},
+				{
+					"screen_name": "dian_ibunda",
+					"name": "IBUNDA DIAN",
+					"id": 1195749935603310600,
+					"id_str": "1195749935603310592",
+					"indices": [
+						415,
+						427
+					]
+				},
+				{
+					"screen_name": "SultanAnjar",
+					"name": "Sultan Anjar Notonogoro",
+					"id": 1152956772535001000,
+					"id_str": "1152956772535001088",
+					"indices": [
+						428,
+						440
+					]
+				},
+				{
+					"screen_name": "GendengHrs",
+					"name": "HRSGendeng",
+					"id": 1217668922423427000,
+					"id_str": "1217668922423427072",
+					"indices": [
+						441,
+						452
+					]
+				},
+				{
+					"screen_name": "demartinnie",
+					"name": "Catatan Si Boy",
+					"id": 536016423,
+					"id_str": "536016423",
+					"indices": [
+						453,
+						465
+					]
+				},
+				{
+					"screen_name": "gimbal_keren",
+					"name": "Gimbal Keren",
+					"id": 1193115430996467700,
+					"id_str": "1193115430996467712",
+					"indices": [
+						466,
+						479
+					]
+				},
+				{
+					"screen_name": "ANDRE_OCTA_",
+					"name": "ANDREAS OCTAPUTRA JOEDA",
+					"id": 610427848,
+					"id_str": "610427848",
+					"indices": [
+						480,
+						492
+					]
+				},
+				{
+					"screen_name": "AnkyOsama",
+					"name": "Raja Napogos",
+					"id": 1193583365653319700,
+					"id_str": "1193583365653319680",
+					"indices": [
+						493,
+						503
+					]
+				},
+				{
+					"screen_name": "Mulia07094480",
+					"name": "Mulia wijaya 599@gmail.com",
+					"id": 889499871010406400,
+					"id_str": "889499871010406400",
+					"indices": [
+						504,
+						518
+					]
+				},
+				{
+					"screen_name": "MukhtarLuthfi11",
+					"name": "Mukhtar Luthfi",
+					"id": 1217589394586005500,
+					"id_str": "1217589394586005505",
+					"indices": [
+						519,
+						535
+					]
+				},
+				{
+					"screen_name": "New_BUFFETT",
+					"name": "La Paloma",
+					"id": 271790635,
+					"id_str": "271790635",
+					"indices": [
+						536,
+						548
+					]
+				},
+				{
+					"screen_name": "Arieamy3",
+					"name": "Arieamy",
+					"id": 1127483443913171000,
+					"id_str": "1127483443913170944",
+					"indices": [
+						549,
+						558
+					]
+				},
+				{
+					"screen_name": "TheEndTri1",
+					"name": "TheEndTri",
+					"id": 1217367007428898800,
+					"id_str": "1217367007428898817",
+					"indices": [
+						559,
+						570
+					]
+				},
+				{
+					"screen_name": "jokowi",
+					"name": "Joko Widodo",
+					"id": 366987179,
+					"id_str": "366987179",
+					"indices": [
+						571,
+						578
+					]
+				},
+				{
+					"screen_name": "basuki_btp",
+					"name": "Basuki T Purnama",
+					"id": 115286138,
+					"id_str": "115286138",
+					"indices": [
+						579,
+						590
+					]
+				},
+				{
+					"screen_name": "aniesbaswedan",
+					"name": "Anies Baswedan",
+					"id": 110312278,
+					"id_str": "110312278",
+					"indices": [
+						591,
+						605
+					]
+				},
+				{
+					"screen_name": "KPAI_official",
+					"name": "KPAI",
+					"id": 956078972906778600,
+					"id_str": "956078972906778625",
+					"indices": [
+						606,
+						620
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231433770906947600,
+					"id_str": "1231433770906947584",
+					"indices": [
+						689,
+						712
+					],
+					"media_url": "http://pbs.twimg.com/media/ERbufX9UEAAVAc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERbufX9UEAAVAc-.jpg",
+					"url": "https://t.co/qI4jWjAqak",
+					"display_url": "pic.twitter.com/qI4jWjAqak",
+					"expanded_url": "https://twitter.com/Edward07011971/status/1231433788862816256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231433770906947600,
+					"id_str": "1231433770906947584",
+					"indices": [
+						689,
+						712
+					],
+					"media_url": "http://pbs.twimg.com/media/ERbufX9UEAAVAc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERbufX9UEAAVAc-.jpg",
+					"url": "https://t.co/qI4jWjAqak",
+					"display_url": "pic.twitter.com/qI4jWjAqak",
+					"expanded_url": "https://twitter.com/Edward07011971/status/1231433788862816256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1117,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1231433281498824700,
+		"in_reply_to_status_id_str": "1231433281498824705",
+		"in_reply_to_user_id": 1127279353320984600,
+		"in_reply_to_user_id_str": "1127279353320984577",
+		"in_reply_to_screen_name": "evisuryanti10",
+		"user": {
+			"id": 1231201898717298700,
+			"id_str": "1231201898717298688",
+			"name": "Edo",
+			"screen_name": "Edward07011971",
+			"location": "",
+			"description": "serasan sekate\n\n#NetizenProNKRI 🇮🇩🇮🇩",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374,
+			"friends_count": 361,
+			"listed_count": 0,
+			"created_at": "Sat Feb 22 12:59:58 +0000 2020",
+			"favourites_count": 375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231234870128496640/He0QSPah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231234870128496640/He0QSPah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1231201898717298688/1582384243",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@evisuryanti10 @felixaaf1 @SnolinkW @ronindrawan @CANDAdanBISNIS @RizkiR4madani @MOMDian2 @TukangMu @SetiaAdy_p @2024GanjarRisma @JohnIrwan4 @jubrik844 @positive_values @Dickusnadi1 @MaryanaNunung @kasrulsani9 @wantahgdn @Edward_1smail @LiaIsti1 @Recoignitionwal @periani @eddies_song @wartawankoboi13 @CumiCue @AdigunaAtmaja @Iqbalkuntoro1 @RazkaFaiz @MukhtarLuthfi12 @Zulfika35354359 @babegalak1 @Jokoumb64504158 @dian_ibunda @SultanAnjar @GendengHrs @demartinnie @gimbal_keren @ANDRE_OCTA_ @AnkyOsama @Mulia07094480 @MukhtarLuthfi11 @New_BUFFETT @Arieamy3 @TheEndTri1 @jokowi @basuki_btp @aniesbaswedan @KPAI_official Gue jadi takut berenang\n#PecatSittiHikmawatty\n#PecatSittiHikmawatty https://t.co/qI4jWjAqak"
+	},
+	{
 		"created_at": "Sat Feb 22 22:06:22 +0000 2020",
 		"id": 1231339472597418000,
 		"id_str": "1231339472597417987",
