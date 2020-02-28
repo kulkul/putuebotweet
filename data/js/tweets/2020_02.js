@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 17:46:49 +0000 2020",
+		"id": 1233086093702004700,
+		"id_str": "1233086093702004736",
+		"full_text": "Adapula viral belalang serbu china berupa video... kepsyennya bilang terjadi di China tapi bahasanya Arab. Bisa jadi saya salah, mengingat... Arabic language is a must at Chinese schools https://t.co/YBjelKXIIf https://t.co/BO2aYcsEdB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YBjelKXIIf",
+					"expanded_url": "http://www.seekteachers.com/blog/arabic-language-is-a-must-at-chinese-schools/",
+					"display_url": "seekteachers.com/blog/arabic-la…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1233085837342101500,
+					"id_str": "1233085837342101509",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1233085837342101509/pu/img/Mx62E9RXRKWS18Xq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1233085837342101509/pu/img/Mx62E9RXRKWS18Xq.jpg",
+					"url": "https://t.co/BO2aYcsEdB",
+					"display_url": "pic.twitter.com/BO2aYcsEdB",
+					"expanded_url": "https://twitter.com/putuebo/status/1233086093702004736/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233085837342101500,
+					"id_str": "1233085837342101509",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1233085837342101509/pu/img/Mx62E9RXRKWS18Xq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1233085837342101509/pu/img/Mx62E9RXRKWS18Xq.jpg",
+					"url": "https://t.co/BO2aYcsEdB",
+					"display_url": "pic.twitter.com/BO2aYcsEdB",
+					"expanded_url": "https://twitter.com/putuebo/status/1233086093702004736/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 44321,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1233085837342101509/pu/pl/aNVLea9FVTDUyapK.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1233085837342101509/pu/vid/320x580/WZ4LRAWwe2_PTzEW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1233085837342101509/pu/vid/352x640/jLLQlTggWVYz4ZFj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1233083005805027300,
+		"in_reply_to_status_id_str": "1233083005805027328",
+		"in_reply_to_user_id": 14065297,
+		"in_reply_to_user_id_str": "14065297",
+		"in_reply_to_screen_name": "putuebo",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2448,
+			"friends_count": 2113,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Adapula viral belalang serbu china berupa video... kepsyennya bilang terjadi di China tapi bahasanya Arab. Bisa jadi saya salah, mengingat... Arabic language is a must at Chinese schools https://t.co/YBjelKXIIf https://t.co/BO2aYcsEdB"
+	},
+	{
+		"created_at": "Thu Feb 27 17:34:32 +0000 2020",
+		"id": 1233083005805027300,
+		"id_str": "1233083005805027328",
+		"full_text": "Berita serbuan belalang ke China membuat gembira para kadrun. Dikait2kan sama azab.. bahkan @tribunnews andil mengabarkan.. padahal kan... FALSE: 'Grasshopper invasion' reaches China https://t.co/eY3NL5J0PX via @rapplerdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tribunnews",
+					"name": "TRIBUNnews.com",
+					"id": 124171593,
+					"id_str": "124171593",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"screen_name": "rapplerdotcom",
+					"name": "Rappler",
+					"id": 330826792,
+					"id_str": "330826792",
+					"indices": [
+						211,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eY3NL5J0PX",
+					"expanded_url": "http://www.rappler.com/newsbreak/fact-check/252848-grasshopper-invasion-reaches-china",
+					"display_url": "rappler.com/newsbreak/fact…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2448,
+			"friends_count": 2113,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Berita serbuan belalang ke China membuat gembira para kadrun. Dikait2kan sama azab.. bahkan @tribunnews andil mengabarkan.. padahal kan... FALSE: 'Grasshopper invasion' reaches China https://t.co/eY3NL5J0PX via @rapplerdotcom"
+	},
+	{
 		"created_at": "Wed Feb 26 05:22:01 +0000 2020",
 		"id": 1232536272175894500,
 		"id_str": "1232536272175894528",
