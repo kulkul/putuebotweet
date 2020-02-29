@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 28 23:21:58 +0000 2020",
+		"id": 1233532828815544300,
+		"id_str": "1233532828815544320",
+		"full_text": "@suadma_udil @WR_4AG226 Dia pikir org2 india, telenovela dan spongebob adalah warga Indonesia karena di Tv mereka pandai berbahasa Indonesia",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suadma_udil",
+					"name": "udil suadma",
+					"id": 3758433014,
+					"id_str": "3758433014",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "WR_4AG226",
+					"name": "PUTRI CEBONG",
+					"id": 799023207294505000,
+					"id_str": "799023207294504960",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1233529464010621000,
+		"in_reply_to_status_id_str": "1233529464010620928",
+		"in_reply_to_user_id": 3758433014,
+		"in_reply_to_user_id_str": "3758433014",
+		"in_reply_to_screen_name": "suadma_udil",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2447,
+			"friends_count": 2112,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@suadma_udil @WR_4AG226 Dia pikir org2 india, telenovela dan spongebob adalah warga Indonesia karena di Tv mereka pandai berbahasa Indonesia"
+	},
+	{
+		"created_at": "Fri Feb 28 23:13:05 +0000 2020",
+		"id": 1233503376098328600,
+		"id_str": "1233530593046122496",
+		"full_text": "We have a #Moonlet A \"Temporarily Captured Object\" about the size of a car has been orbiting #Earth for three years, but #astronomers only recently made the #discovery. #Science #Astronomy 🌕https://t.co/g1Snp933R4 via @USATODAY @CONTEMPRA_INN🌹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Moonlet",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "Earth",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "astronomers",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "discovery",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "Science",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "Astronomy",
+					"indices": [
+						178,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USATODAY",
+					"name": "USA TODAY",
+					"id": 15754281,
+					"id_str": "15754281",
+					"indices": [
+						218,
+						227
+					]
+				},
+				{
+					"screen_name": "CONTEMPRA_INN",
+					"name": "ContempraINN🌹",
+					"id": 1180181301095215000,
+					"id_str": "1180181301095215104",
+					"indices": [
+						228,
+						242
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233417146014879700,
+					"id_str": "1233417146014879747",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ER37jlPXYAATiKk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER37jlPXYAATiKk.jpg",
+					"url": "https://t.co/g1Snp933R4",
+					"display_url": "pic.twitter.com/g1Snp933R4",
+					"expanded_url": "https://twitter.com/USATODAY/status/1233501880019369984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1233501880019370000,
+					"source_status_id_str": "1233501880019369984",
+					"source_user_id": 15754281,
+					"source_user_id_str": "15754281"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233417146014879700,
+					"id_str": "1233417146014879747",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ER37jlPXYAATiKk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ER37jlPXYAATiKk.jpg",
+					"url": "https://t.co/g1Snp933R4",
+					"display_url": "pic.twitter.com/g1Snp933R4",
+					"expanded_url": "https://twitter.com/USATODAY/status/1233501880019369984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1233501880019370000,
+					"source_status_id_str": "1233501880019369984",
+					"source_user_id": 15754281,
+					"source_user_id_str": "15754281",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33200,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233417146014879747/vid/320x320/zadJG_sjqbsNm_it.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1233417146014879747/pl/o6HBZvneEMQooNCw.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233417146014879747/vid/720x720/s2L1p7OQOpkF14tI.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233417146014879747/vid/480x480/pgljEGufmJu61t5i.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "'Mini-moon' spotted orbiting Earth",
+						"description": "A \"Temporarily Captured Object\" about the size of a car has been orbiting Earth for three years, but astronomers only recently made the discovery.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.usatoday.com/story/news/nation/2020/02/27/astronomers-discover-asteroid-mini-moon-orbiting-earth/4890107002/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 15754281,
+							"id_str": "15754281",
+							"name": "USA TODAY",
+							"screen_name": "USATODAY",
+							"location": "USA TODAY HQ, McLean, Va.",
+							"description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+							"url": "http://t.co/7xDl0vVHSt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/7xDl0vVHSt",
+											"expanded_url": "http://www.usatoday.com",
+											"display_url": "usatoday.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3992951,
+							"friends_count": 622,
+							"listed_count": 34204,
+							"created_at": "Wed Aug 06 19:55:31 +0000 2008",
+							"favourites_count": 2285,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 311249,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0092D0",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1509370165",
+							"profile_link_color": "0000FF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180181301095215000,
+			"id_str": "1180181301095215104",
+			"name": "ContempraINN🌹",
+			"screen_name": "CONTEMPRA_INN",
+			"location": "⚜️New Orleans-Kenner⚜️",
+			"description": "FUN JOY INFO NATURE SCIENCE TRAVEL😊 🛎NEW ORLEANS KENNER MSY BEST HOTEL VALUE in NOLA 💯FB BookDirect🔜https://t.co/UiJeZKqxha 🌹2820 Williams (504)468-7700",
+			"url": "https://t.co/uGqM6EQC4Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uGqM6EQC4Y",
+							"expanded_url": "http://www.ContempraINN.com",
+							"display_url": "ContempraINN.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UiJeZKqxha",
+							"expanded_url": "http://Bit.ly/ContempraInn",
+							"display_url": "Bit.ly/ContempraInn",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4132,
+			"friends_count": 4797,
+			"listed_count": 18,
+			"created_at": "Fri Oct 04 18:03:10 +0000 2019",
+			"favourites_count": 28860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229461442287591428/aRV30sax_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229461442287591428/aRV30sax_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180181301095215104/1570233496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e40c26888000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e40c26888000.json",
+			"place_type": "poi",
+			"name": "Contempra Inn",
+			"full_name": "Contempra Inn",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-90.2395169209179,
+							30.008285491215968
+						],
+						[
+							-90.2395169209179,
+							30.008285491215968
+						],
+						[
+							-90.2395169209179,
+							30.008285491215968
+						],
+						[
+							-90.2395169209179,
+							30.008285491215968
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a #Moonlet A \"Temporarily Captured Object\" about the size of a car has been orbiting #Earth for three years, but #astronomers only recently made the #discovery. #Science #Astronomy 🌕https://t.co/g1Snp933R4 via @USATODAY @CONTEMPRA_INN🌹"
+	},
+	{
 		"created_at": "Thu Feb 27 17:46:49 +0000 2020",
 		"id": 1233086093702004700,
 		"id_str": "1233086093702004736",
