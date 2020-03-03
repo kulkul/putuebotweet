@@ -1,6 +1,1012 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 00:48:37 +0000 2020",
+		"id": 1234641794563895300,
+		"id_str": "1234641794563895296",
+		"full_text": "@sftypgrl Pake yg data recovery aja... ternyata bisa nyelametin gambar juga",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sftypgrl",
+					"name": "helii🐾",
+					"id": 1169187398959321000,
+					"id_str": "1169187398959321093",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1234519088732328000,
+		"in_reply_to_status_id_str": "1234519088732327936",
+		"in_reply_to_user_id": 1169187398959321000,
+		"in_reply_to_user_id_str": "1169187398959321093",
+		"in_reply_to_screen_name": "sftypgrl",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 2111,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@sftypgrl Pake yg data recovery aja... ternyata bisa nyelametin gambar juga"
+	},
+	{
+		"created_at": "Mon Mar 02 16:37:06 +0000 2020",
+		"id": 1234518101145702400,
+		"id_str": "1234518101145702401",
+		"full_text": "@sftypgrl Serius.. kemaren saya berhasil.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sftypgrl",
+					"name": "helii🐾",
+					"id": 1169187398959321000,
+					"id_str": "1169187398959321093",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1234514411391348700,
+		"in_reply_to_status_id_str": "1234514411391348736",
+		"in_reply_to_user_id": 1169187398959321000,
+		"in_reply_to_user_id_str": "1169187398959321093",
+		"in_reply_to_screen_name": "sftypgrl",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 2111,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@sftypgrl Serius.. kemaren saya berhasil."
+	},
+	{
+		"created_at": "Mon Mar 02 16:28:17 +0000 2020",
+		"id": 1231867529980629000,
+		"id_str": "1234515885597118466",
+		"full_text": "Ternyata benar berenang bisa hamil 😭 \n\n📹 grup WA https://t.co/nny2UuEkKL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231867479451848700,
+					"id_str": "1231867479451848705",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1231867479451848705/pu/img/egx9Wwlcw7BYhquQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1231867479451848705/pu/img/egx9Wwlcw7BYhquQ.jpg",
+					"url": "https://t.co/nny2UuEkKL",
+					"display_url": "pic.twitter.com/nny2UuEkKL",
+					"expanded_url": "https://twitter.com/dewahoya/status/1231867529980628992/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231867479451848700,
+					"id_str": "1231867479451848705",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1231867479451848705/pu/img/egx9Wwlcw7BYhquQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1231867479451848705/pu/img/egx9Wwlcw7BYhquQ.jpg",
+					"url": "https://t.co/nny2UuEkKL",
+					"display_url": "pic.twitter.com/nny2UuEkKL",
+					"expanded_url": "https://twitter.com/dewahoya/status/1231867529980628992/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 40566,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1231867479451848705/pu/vid/480x480/FZ_3Hy_V8R2_Zxby.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1231867479451848705/pu/vid/320x320/fkuCToqD9fRClZEo.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1231867479451848705/pu/pl/PbYo12nYHcHVQ4IV.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184778091,
+			"id_str": "184778091",
+			"name": "Hoya",
+			"screen_name": "dewahoya",
+			"location": "Kota Surabaya, Jawa Timur",
+			"description": "“bukan jarak yang bikin kita jauh, tapi sikap kamu ke dia”|                                         Business: hoyadewa@gmail.com",
+			"url": "https://t.co/Ry9OHYOISv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ry9OHYOISv",
+							"expanded_url": "http://Instagram.com/dewahoya",
+							"display_url": "Instagram.com/dewahoya",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119880,
+			"friends_count": 658,
+			"listed_count": 192,
+			"created_at": "Mon Aug 30 13:26:36 +0000 2010",
+			"favourites_count": 1551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 108002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213395651511218178/mAMe86w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213395651511218178/mAMe86w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184778091/1574502646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1119,
+		"favorite_count": 1180,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ternyata benar berenang bisa hamil 😭 \n\n📹 grup WA https://t.co/nny2UuEkKL"
+	},
+	{
+		"created_at": "Mon Mar 02 16:26:42 +0000 2020",
+		"id": 1234515485267550200,
+		"id_str": "1234515485267550209",
+		"full_text": "Ya ampun... pantesan murah https://t.co/00AOdoiWJm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/00AOdoiWJm",
+					"expanded_url": "https://twitter.com/faithsilmii/status/1233282234171322368",
+					"display_url": "twitter.com/faithsilmii/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 2111,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1233282234171322400,
+		"quoted_status_id_str": "1233282234171322368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/00AOdoiWJm",
+			"expanded": "https://twitter.com/faithsilmii/status/1233282234171322368",
+			"display": "twitter.com/faithsilmii/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 28 06:46:12 +0000 2020",
+			"id": 1233282234171322400,
+			"id_str": "1233282234171322368",
+			"full_text": "Aice, es krim murah yang sering kita makan, ternyata diproduksi dengan mengorbankan hak-hak dasar manusia.\n\nIbu-ibu hamil dipaksa bekerja tanpa cuti hingga keguguran. Potongan gaji bagi yg tidak bisa mencapai target tak manusiawi. Jari yg terpotong tanpa tggung jawab perusahaan. https://t.co/Az2ItFZMWB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1233282229054263300,
+						"id_str": "1233282229054263297",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/ER1_pzKU0AEYS0G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ER1_pzKU0AEYS0G.jpg",
+						"url": "https://t.co/Az2ItFZMWB",
+						"display_url": "pic.twitter.com/Az2ItFZMWB",
+						"expanded_url": "https://twitter.com/faithsilmii/status/1233282234171322368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1233282229054263300,
+						"id_str": "1233282229054263297",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/ER1_pzKU0AEYS0G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ER1_pzKU0AEYS0G.jpg",
+						"url": "https://t.co/Az2ItFZMWB",
+						"display_url": "pic.twitter.com/Az2ItFZMWB",
+						"expanded_url": "https://twitter.com/faithsilmii/status/1233282234171322368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3193955646,
+				"id_str": "3193955646",
+				"name": "Faith Silmi",
+				"screen_name": "faithsilmii",
+				"location": "",
+				"description": "Jangankan Pintar, Bodoh Saja Tidak |\nRausyan Fikr |\nBedebah yang Menyenangkan~ |\nTitik Temu @bemuns",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1510,
+				"friends_count": 510,
+				"listed_count": 1,
+				"created_at": "Wed May 13 06:52:19 +0000 2015",
+				"favourites_count": 110,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197547367630823424/OzbLSJZx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197547367630823424/OzbLSJZx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3193955646/1431500815",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 242,
+			"favorite_count": 291,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ya ampun... pantesan murah https://t.co/00AOdoiWJm"
+	},
+	{
+		"created_at": "Mon Mar 02 16:19:24 +0000 2020",
+		"id": 1234513646245621800,
+		"id_str": "1234513646245621765",
+		"full_text": "@sftypgrl Buat balikin gambar kehapus\nhttps://t.co/fv3oJJEeYp\nBuat balikin video kehapus https://t.co/lLGyAwtQqt",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sftypgrl",
+					"name": "helii🐾",
+					"id": 1169187398959321000,
+					"id_str": "1169187398959321093",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fv3oJJEeYp",
+					"expanded_url": "https://play.google.com/store/apps/details?id=com.greatstuffapps.digdeep",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/lLGyAwtQqt",
+					"expanded_url": "https://play.google.com/store/apps/details?id=com.deleted.video.recovery.recover.deleted.video.files",
+					"display_url": "play.google.com/store/apps/det…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1234511844137586700,
+		"in_reply_to_status_id_str": "1234511844137586688",
+		"in_reply_to_user_id": 1169187398959321000,
+		"in_reply_to_user_id_str": "1169187398959321093",
+		"in_reply_to_screen_name": "sftypgrl",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 2111,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@sftypgrl Buat balikin gambar kehapus\nhttps://t.co/fv3oJJEeYp\nBuat balikin video kehapus https://t.co/lLGyAwtQqt"
+	},
+	{
+		"created_at": "Mon Mar 02 10:46:18 +0000 2020",
+		"id": 1234429821695905800,
+		"id_str": "1234429821695905794",
+		"full_text": "@FerryawanRusli @Takviri Langsung di-ilustrasikan... https://t.co/0dYBuZNI78",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FerryawanRusli",
+					"name": "Ferry@wan Rusli",
+					"id": 798362005723676700,
+					"id_str": "798362005723676672",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Takviri",
+					"name": "Takviri #CabutSKB2Menteri",
+					"id": 2547595849,
+					"id_str": "2547595849",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234429809142444000,
+					"id_str": "1234429809142444033",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ESGTXwIWsAEhWHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESGTXwIWsAEhWHz.jpg",
+					"url": "https://t.co/0dYBuZNI78",
+					"display_url": "pic.twitter.com/0dYBuZNI78",
+					"expanded_url": "https://twitter.com/putuebo/status/1234429821695905794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1483,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234429809142444000,
+					"id_str": "1234429809142444033",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ESGTXwIWsAEhWHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESGTXwIWsAEhWHz.jpg",
+					"url": "https://t.co/0dYBuZNI78",
+					"display_url": "pic.twitter.com/0dYBuZNI78",
+					"expanded_url": "https://twitter.com/putuebo/status/1234429821695905794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1483,
+							"h": 741,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1234301860778934300,
+		"in_reply_to_status_id_str": "1234301860778934272",
+		"in_reply_to_user_id": 798362005723676700,
+		"in_reply_to_user_id_str": "798362005723676672",
+		"in_reply_to_screen_name": "FerryawanRusli",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 2111,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@FerryawanRusli @Takviri Langsung di-ilustrasikan... https://t.co/0dYBuZNI78"
+	},
+	{
 		"created_at": "Sun Mar 01 23:50:00 +0000 2020",
 		"id": 1234264659378745300,
 		"id_str": "1234264659378745349",
