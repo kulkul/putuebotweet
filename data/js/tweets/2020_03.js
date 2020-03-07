@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 11:42:16 +0000 2020",
+		"id": 1235893456494407700,
+		"id_str": "1235893456494407680",
+		"full_text": "@WagimanDeep__ @andrajoleno Nggak bener ini.. lain kali ketemu telor dielus aja.. tuh baru namanya win-win solution",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WagimanDeep__",
+					"name": "WagimanDeep (Habeib Selow)",
+					"id": 26279886,
+					"id_str": "26279886",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "andrajoleno",
+					"name": "ANDRAJOLENO",
+					"id": 1062148535729061900,
+					"id_str": "1062148535729061888",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1235866319125274600,
+		"in_reply_to_status_id_str": "1235866319125274625",
+		"in_reply_to_user_id": 26279886,
+		"in_reply_to_user_id_str": "26279886",
+		"in_reply_to_screen_name": "WagimanDeep__",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2447,
+			"friends_count": 2109,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@WagimanDeep__ @andrajoleno Nggak bener ini.. lain kali ketemu telor dielus aja.. tuh baru namanya win-win solution"
+	},
+	{
+		"created_at": "Fri Mar 06 11:31:28 +0000 2020",
+		"id": 1235890737188720600,
+		"id_str": "1235890737188720641",
+		"full_text": "Kenapa anime bikin gambar makanan selalu menggoda... (a compilation) https://t.co/Za1PXV63og",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235890103009947600,
+					"id_str": "1235890103009947651",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235890103009947651/pu/img/k_gSeI2S3MqXyBu5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235890103009947651/pu/img/k_gSeI2S3MqXyBu5.jpg",
+					"url": "https://t.co/Za1PXV63og",
+					"display_url": "pic.twitter.com/Za1PXV63og",
+					"expanded_url": "https://twitter.com/putuebo/status/1235890737188720641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235890103009947600,
+					"id_str": "1235890103009947651",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235890103009947651/pu/img/k_gSeI2S3MqXyBu5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235890103009947651/pu/img/k_gSeI2S3MqXyBu5.jpg",
+					"url": "https://t.co/Za1PXV63og",
+					"display_url": "pic.twitter.com/Za1PXV63og",
+					"expanded_url": "https://twitter.com/putuebo/status/1235890737188720641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							103
+						],
+						"duration_millis": 140013,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235890103009947651/pu/vid/720x412/ouNYCNacqlamjPWv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235890103009947651/pu/pl/vHtNYOPnaddvGamq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235890103009947651/pu/vid/470x270/nVJiTML5Q8P4nHaJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2447,
+			"friends_count": 2109,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kenapa anime bikin gambar makanan selalu menggoda... (a compilation) https://t.co/Za1PXV63og"
+	},
+	{
 		"created_at": "Thu Mar 05 23:46:11 +0000 2020",
 		"id": 1235713247623254000,
 		"id_str": "1235713247623254021",
