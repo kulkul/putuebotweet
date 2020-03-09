@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 08 17:20:22 +0000 2020",
+		"id": 1236686348905406500,
+		"id_str": "1236703317348061184",
+		"full_text": "my heart aches hearing the news from different timezone.\n\nakhirnya Ayah \"terbang\" paling jauh sekarang. peluk dari jauh, Yah. terima kasih buat semua pelajaran dan ilmunya.\n\namor ring açintya. https://t.co/I7sigIehI3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7sigIehI3",
+					"expanded_url": "https://twitter.com/putuebo/status/1236675998973751296",
+					"display_url": "twitter.com/putuebo/status…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 346032982,
+			"id_str": "346032982",
+			"name": "kesayangan kamu™",
+			"screen_name": "pitoist",
+			"location": "",
+			"description": "Devil's little sister.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1969,
+			"friends_count": 173,
+			"listed_count": 37,
+			"created_at": "Sun Jul 31 16:19:21 +0000 2011",
+			"favourites_count": 574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956881692467195904/nxPWIYiO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956881692467195904/nxPWIYiO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/346032982/1567423531",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "2FC2EF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236675998973751300,
+		"quoted_status_id_str": "1236675998973751296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I7sigIehI3",
+			"expanded": "https://twitter.com/putuebo/status/1236675998973751296",
+			"display": "twitter.com/putuebo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 08 15:31:49 +0000 2020",
+			"id": 1236675998973751300,
+			"id_str": "1236675998973751296",
+			"full_text": "Dunia kreatif Bali &amp; Indonesia berduka..\n\nTelah berpulang seorg sahabat Arief Budiman/Ayip Matamera @ayipbali malam ini.\n\nSemoga diterima disisiNya dan diberi kekuatan bagi keluarga yg ditinggalkan.\n\n(Foto diambil dari situsnya @rudolfdethu) https://t.co/AHNuL9MCCv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ayipbali",
+						"name": "ayip",
+						"id": 10387602,
+						"id_str": "10387602",
+						"indices": [
+							104,
+							113
+						]
+					},
+					{
+						"screen_name": "rudolfdethu",
+						"name": "Rudolf Dethu",
+						"id": 58075420,
+						"id_str": "58075420",
+						"indices": [
+							232,
+							244
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236675994871685000,
+						"id_str": "1236675994871685120",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/ESmOQ-CUYAAVXNB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESmOQ-CUYAAVXNB.jpg",
+						"url": "https://t.co/AHNuL9MCCv",
+						"display_url": "pic.twitter.com/AHNuL9MCCv",
+						"expanded_url": "https://twitter.com/putuebo/status/1236675998973751296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 350,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 350,
+								"h": 481,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 350,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236675994871685000,
+						"id_str": "1236675994871685120",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/ESmOQ-CUYAAVXNB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESmOQ-CUYAAVXNB.jpg",
+						"url": "https://t.co/AHNuL9MCCv",
+						"display_url": "pic.twitter.com/AHNuL9MCCv",
+						"expanded_url": "https://twitter.com/putuebo/status/1236675998973751296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 350,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 350,
+								"h": 481,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 350,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14065297,
+				"id_str": "14065297",
+				"name": "Putu Ebo",
+				"screen_name": "putuebo",
+				"location": "Bali",
+				"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+				"url": "http://t.co/bHuYxX1W2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bHuYxX1W2B",
+								"expanded_url": "http://putuebo.com",
+								"display_url": "putuebo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2450,
+				"friends_count": 2107,
+				"listed_count": 15,
+				"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+				"favourites_count": 11701,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9517,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F8FF13",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+				"profile_link_color": "A60A0A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DE5E11",
+				"profile_text_color": "FFD583",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "my heart aches hearing the news from different timezone.\n\nakhirnya Ayah \"terbang\" paling jauh sekarang. peluk dari jauh, Yah. terima kasih buat semua pelajaran dan ilmunya.\n\namor ring açintya. https://t.co/I7sigIehI3"
+	},
+	{
 		"created_at": "Fri Mar 06 11:42:16 +0000 2020",
 		"id": 1235893456494407700,
 		"id_str": "1235893456494407680",
