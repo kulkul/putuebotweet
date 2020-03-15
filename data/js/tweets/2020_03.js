@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 18:13:10 +0000 2020",
+		"id": 1238890930796548000,
+		"id_str": "1238890930796548096",
+		"full_text": "@aqua220426 @Bocah__koplak @Spider__id @V_Stone_Kardol @coffeeandme_ @FloraSafira @Black_lleviant @seleb_berita @klelur028 @fithrasdiana_ @kenhans03 @PJustitia7 @vincent_ves @Joker__Gantenk Eue https://t.co/r4qUQaJdBa",
+		"truncated": false,
+		"display_text_range": [
+			190,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aqua220426",
+					"name": "Dr. Lucks.. ✍🏻",
+					"id": 1047434268916428800,
+					"id_str": "1047434268916428800",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Bocah__koplak",
+					"name": "Muslimah ganteng🤣🤣🤣",
+					"id": 1084315822464462800,
+					"id_str": "1084315822464462854",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "Spider__id",
+					"name": "bim🔱NKRI",
+					"id": 1125295680963006500,
+					"id_str": "1125295680963006464",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "V_Stone_Kardol",
+					"name": "Kardol Lu",
+					"id": 770614660059979800,
+					"id_str": "770614660059979776",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "coffeeandme_",
+					"name": "Coffee Addict®",
+					"id": 2924132005,
+					"id_str": "2924132005",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"screen_name": "FloraSafira",
+					"name": "Safira_Floran",
+					"id": 1186531317539717000,
+					"id_str": "1186531317539717120",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"screen_name": "Black_lleviant",
+					"name": "Black ID™",
+					"id": 1030431347880251400,
+					"id_str": "1030431347880251392",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "seleb_berita",
+					"name": "ßåñg kðþï",
+					"id": 930221061773213700,
+					"id_str": "930221061773213696",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "klelur028",
+					"name": "Klelur",
+					"id": 1034505191008006100,
+					"id_str": "1034505191008006145",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"screen_name": "fithrasdiana_",
+					"name": "Diana ||",
+					"id": 1216235240399597600,
+					"id_str": "1216235240399597568",
+					"indices": [
+						123,
+						137
+					]
+				},
+				{
+					"screen_name": "kenhans03",
+					"name": "Ken Hans",
+					"id": 3270403033,
+					"id_str": "3270403033",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"screen_name": "PJustitia7",
+					"name": "⭐Pro-Justitia⭐",
+					"id": 1208407821206855700,
+					"id_str": "1208407821206855683",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"screen_name": "vincent_ves",
+					"name": "..ves_🏁",
+					"id": 1184747844164440000,
+					"id_str": "1184747844164440064",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"screen_name": "Joker__Gantenk",
+					"name": "💥 JOKER 💥",
+					"id": 1221270977796923400,
+					"id_str": "1221270977796923397",
+					"indices": [
+						174,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r4qUQaJdBa",
+					"expanded_url": "http://shorturl.at/ePZ18",
+					"display_url": "shorturl.at/ePZ18",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1238845172391133200,
+		"in_reply_to_status_id_str": "1238845172391133187",
+		"in_reply_to_user_id": 1047434268916428800,
+		"in_reply_to_user_id_str": "1047434268916428800",
+		"in_reply_to_screen_name": "aqua220426",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2442,
+			"friends_count": 2105,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@aqua220426 @Bocah__koplak @Spider__id @V_Stone_Kardol @coffeeandme_ @FloraSafira @Black_lleviant @seleb_berita @klelur028 @fithrasdiana_ @kenhans03 @PJustitia7 @vincent_ves @Joker__Gantenk Eue https://t.co/r4qUQaJdBa"
+	},
+	{
 		"created_at": "Thu Mar 12 12:36:04 +0000 2020",
 		"id": 1238081323958337500,
 		"id_str": "1238081323958337540",
