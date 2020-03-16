@@ -1,6 +1,782 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 18:08:51 +0000 2020",
+		"id": 1239252234065424400,
+		"id_str": "1239252234065424386",
+		"full_text": "Baru saja, telinga kiri berdenging, jam 1.55. Apa artinya? Langsung kucari tahu pake primbon online.. nemu 4 sumber isinya beda- beda shh.. Akhirnya kupercaya pd ulasan ini aja: https://t.co/fkPwuEk4ts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkPwuEk4ts",
+					"expanded_url": "https://www.sehatq.com/artikel/arti-telinga-berdenging-sebelah-kiri-mitos-atau-fakta",
+					"display_url": "sehatq.com/artikel/arti-t…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2441,
+			"friends_count": 2110,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Baru saja, telinga kiri berdenging, jam 1.55. Apa artinya? Langsung kucari tahu pake primbon online.. nemu 4 sumber isinya beda- beda shh.. Akhirnya kupercaya pd ulasan ini aja: https://t.co/fkPwuEk4ts"
+	},
+	{
+		"created_at": "Sun Mar 15 15:58:04 +0000 2020",
+		"id": 1239219322859303000,
+		"id_str": "1239219322859302917",
+		"full_text": "The Beatles di dimensi aternatif https://t.co/4w9wTXHOAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4w9wTXHOAl",
+					"expanded_url": "https://youtu.be/hxQg_z7ThBs",
+					"display_url": "youtu.be/hxQg_z7ThBs",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2441,
+			"friends_count": 2110,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "The Beatles di dimensi aternatif https://t.co/4w9wTXHOAl"
+	},
+	{
+		"created_at": "Sun Mar 15 14:01:09 +0000 2020",
+		"id": 1237749201913643000,
+		"id_str": "1239189897073709056",
+		"full_text": "Humanity wins again! 💪🏽 \nPlease watch the people’s reaction after an accident.❤️👏🏽🤝 #KindnessMatters #helpinghand #YCBU  https://t.co/5x5iABfZvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KindnessMatters",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "helpinghand",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "YCBU",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237313529302089700,
+					"id_str": "1237313529302089729",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237313529302089729/pu/img/Cp1bwomEEjtPijh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237313529302089729/pu/img/Cp1bwomEEjtPijh9.jpg",
+					"url": "https://t.co/5x5iABfZvh",
+					"display_url": "pic.twitter.com/5x5iABfZvh",
+					"expanded_url": "https://twitter.com/XHIndonesia/status/1237313633572528128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1237313633572528000,
+					"source_status_id_str": "1237313633572528128",
+					"source_user_id": 3271146871,
+					"source_user_id_str": "3271146871"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237313529302089700,
+					"id_str": "1237313529302089729",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237313529302089729/pu/img/Cp1bwomEEjtPijh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237313529302089729/pu/img/Cp1bwomEEjtPijh9.jpg",
+					"url": "https://t.co/5x5iABfZvh",
+					"display_url": "pic.twitter.com/5x5iABfZvh",
+					"expanded_url": "https://twitter.com/XHIndonesia/status/1237313633572528128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1237313633572528000,
+					"source_status_id_str": "1237313633572528128",
+					"source_user_id": 3271146871,
+					"source_user_id_str": "3271146871",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 64067,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1237313529302089729/pu/pl/DUUyfkW96WXbzvsc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237313529302089729/pu/vid/360x640/H4wvbTT6PYep0jQH.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237313529302089729/pu/vid/320x568/kkHR-fYDIbvL8e_Z.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3271146871,
+							"id_str": "3271146871",
+							"name": "Xinhua Indonesia",
+							"screen_name": "XHIndonesia",
+							"location": "Jakarta Capital Region",
+							"description": "Berwawasan Tiongkok, Berpandangan Global. Kantor Berita Xinhua adalah destinasi pertama untuk informasi terbaru Tiongkok dan dunia. Email:xinhuajkt@gmail.com",
+							"url": "https://t.co/8d55PxQOMQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/8d55PxQOMQ",
+											"expanded_url": "http://www.facebook.com/xinhuanewsindonesia",
+											"display_url": "facebook.com/xinhuanewsindo…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 66084,
+							"friends_count": 0,
+							"listed_count": 48,
+							"created_at": "Tue Jul 07 15:36:59 +0000 2015",
+							"favourites_count": 12,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 70867,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/670108472625729537/QJzQUNgl_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/670108472625729537/QJzQUNgl_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3271146871/1520331294",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 287885385,
+			"id_str": "287885385",
+			"name": "Kia Zolgharnain⭐️⭐️⭐️",
+			"screen_name": "Kiaz19",
+			"location": "cleveland, OH",
+			"description": "Peaceful warrior, devoted hubby/Dad & a ⚽️ guy 4 life.💕🙏🏼 #God #Jesus #ProLife #Coach  #Ketosis “Views R mine” #ManUnited, #EDM #YCBU #WWG1WGA❤️🦁🐸🍿",
+			"url": "https://t.co/jf3AcuGCn9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jf3AcuGCn9",
+							"expanded_url": "http://instagram.com/Kiaz19YCBU",
+							"display_url": "instagram.com/Kiaz19YCBU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16763,
+			"friends_count": 16616,
+			"listed_count": 69,
+			"created_at": "Mon Apr 25 21:26:14 +0000 2011",
+			"favourites_count": 44419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/973379334898634752/6IVl7NrZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/973379334898634752/6IVl7NrZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/287885385/1374311143",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 1017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Humanity wins again! 💪🏽 \nPlease watch the people’s reaction after an accident.❤️👏🏽🤝 #KindnessMatters #helpinghand #YCBU  https://t.co/5x5iABfZvh"
+	},
+	{
+		"created_at": "Sun Mar 15 13:53:20 +0000 2020",
+		"id": 1239187930754601000,
+		"id_str": "1239187930754600965",
+		"full_text": "Kle' baru tau aku noq... https://t.co/4RGMXffgbT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239187922462498800,
+					"id_str": "1239187922462498817",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ62ZhU4AExd8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ62ZhU4AExd8H.jpg",
+					"url": "https://t.co/4RGMXffgbT",
+					"display_url": "pic.twitter.com/4RGMXffgbT",
+					"expanded_url": "https://twitter.com/putuebo/status/1239187930754600965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 886,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239187922462498800,
+					"id_str": "1239187922462498817",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ETJ62ZhU4AExd8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETJ62ZhU4AExd8H.jpg",
+					"url": "https://t.co/4RGMXffgbT",
+					"display_url": "pic.twitter.com/4RGMXffgbT",
+					"expanded_url": "https://twitter.com/putuebo/status/1239187930754600965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 886,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2441,
+			"friends_count": 2110,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0a64660c15166000",
+			"url": "https://api.twitter.com/1.1/geo/id/0a64660c15166000.json",
+			"place_type": "poi",
+			"name": "Mcd Kebo Iwa",
+			"full_name": "Mcd Kebo Iwa",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.1919,
+							-8.61788
+						],
+						[
+							115.1919,
+							-8.61788
+						],
+						[
+							115.1919,
+							-8.61788
+						],
+						[
+							115.1919,
+							-8.61788
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kle' baru tau aku noq... https://t.co/4RGMXffgbT"
+	},
+	{
 		"created_at": "Sat Mar 14 18:13:10 +0000 2020",
 		"id": 1238890930796548000,
 		"id_str": "1238890930796548096",
