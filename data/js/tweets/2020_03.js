@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 17:01:02 +0000 2020",
+		"id": 1139719518316482600,
+		"id_str": "1241047107932262400",
+		"full_text": "Tokoh kartun ternama penyandang disabilitas.\n\nA thread~",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152524484,
+			"id_str": "152524484",
+			"name": "Rezki Achyana",
+			"screen_name": "MrAchy",
+			"location": "Jakarta Selatan, DKI Jakarta",
+			"description": "Have a great life with disabled people and fight for their rights. Anyway, the rainbow looks so B-eautiful 🌈",
+			"url": "https://t.co/OhKPPve0u1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OhKPPve0u1",
+							"expanded_url": "http://www.parakerja.co.id",
+							"display_url": "parakerja.co.id",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2584,
+			"friends_count": 1575,
+			"listed_count": 13,
+			"created_at": "Sun Jun 06 05:05:52 +0000 2010",
+			"favourites_count": 615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049640274618535937/YkZRZHoD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049640274618535937/YkZRZHoD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152524484/1558203270",
+			"profile_link_color": "D02B54",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 586,
+		"favorite_count": 1118,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Tokoh kartun ternama penyandang disabilitas.\n\nA thread~"
+	},
+	{
+		"created_at": "Fri Mar 20 11:36:19 +0000 2020",
+		"id": 1240965390848553000,
+		"id_str": "1240965390848552960",
+		"full_text": "@1979_khairul @fadlizon Mancing di air keruh",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1979_khairul",
+					"name": "khairul_1979🇲🇨🇲🇨🇲🇨🇲🇨",
+					"id": 1200960467440558000,
+					"id_str": "1200960467440558080",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "fadlizon",
+					"name": "Fadli Zon",
+					"id": 79139422,
+					"id_str": "79139422",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1240925084249813000,
+		"in_reply_to_status_id_str": "1240925084249812992",
+		"in_reply_to_user_id": 1200960467440558000,
+		"in_reply_to_user_id_str": "1200960467440558080",
+		"in_reply_to_screen_name": "1979_khairul",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2425,
+			"friends_count": 2113,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@1979_khairul @fadlizon Mancing di air keruh"
+	},
+	{
+		"created_at": "Fri Mar 20 09:03:33 +0000 2020",
+		"id": 1240872405959991300,
+		"id_str": "1240926943249182720",
+		"full_text": "#AyoMenjadiPahlawan kamu ga musti punya kekuatan super, ketika kamu menjaga kebersihan dan menghindari kerumunan, kamu adalah seorang pahlawan yang menyelamatkan banyak jiwa,,, https://t.co/T8ZtjFxa95",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AyoMenjadiPahlawan",
+					"indices": [
+						0,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240870563616141300,
+					"id_str": "1240870563616141314",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ETh1NASUMAIpi85.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETh1NASUMAIpi85.jpg",
+					"url": "https://t.co/T8ZtjFxa95",
+					"display_url": "pic.twitter.com/T8ZtjFxa95",
+					"expanded_url": "https://twitter.com/Natasya_jessy/status/1240872405959991297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240870563616141300,
+					"id_str": "1240870563616141314",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ETh1NASUMAIpi85.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETh1NASUMAIpi85.jpg",
+					"url": "https://t.co/T8ZtjFxa95",
+					"display_url": "pic.twitter.com/T8ZtjFxa95",
+					"expanded_url": "https://twitter.com/Natasya_jessy/status/1240872405959991297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1217344331125674000,
+			"id_str": "1217344331125673984",
+			"name": "Jessy",
+			"screen_name": "Natasya_jessy",
+			"location": "jakarta ",
+			"description": "what we gonna do today",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 410,
+			"friends_count": 448,
+			"listed_count": 0,
+			"created_at": "Wed Jan 15 07:14:44 +0000 2020",
+			"favourites_count": 518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226850220236926979/9ncWS9H__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226850220236926979/9ncWS9H__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1217344331125673984/1581338872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#AyoMenjadiPahlawan kamu ga musti punya kekuatan super, ketika kamu menjaga kebersihan dan menghindari kerumunan, kamu adalah seorang pahlawan yang menyelamatkan banyak jiwa,,, https://t.co/T8ZtjFxa95"
+	},
+	{
 		"created_at": "Wed Mar 18 17:47:48 +0000 2020",
 		"id": 1240334099144798200,
 		"id_str": "1240334099144798208",
