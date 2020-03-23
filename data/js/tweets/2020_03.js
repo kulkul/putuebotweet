@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 16:04:08 +0000 2020",
+		"id": 1241757563231719400,
+		"id_str": "1241757563231719424",
+		"full_text": "Disainer Slovenia, Jure Tovrljan merespon logo2 terkenal terkait gerakan social distancing.\n\nhttps://t.co/I7RSRlrV2E https://t.co/MmHcInGFss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7RSRlrV2E",
+					"expanded_url": "https://www.boredpanda.com/artist-shows-how-famous-logos-should-look-during-during-the-coronavirus-outbreak/?cexp_id=26766&cexp_var=36&_f=featured",
+					"display_url": "boredpanda.com/artist-shows-h…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241757543870824400,
+					"id_str": "1241757543870824450",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ETub6DOVAAIdCe_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETub6DOVAAIdCe_.jpg",
+					"url": "https://t.co/MmHcInGFss",
+					"display_url": "pic.twitter.com/MmHcInGFss",
+					"expanded_url": "https://twitter.com/putuebo/status/1241757563231719424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241757543870824400,
+					"id_str": "1241757543870824450",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ETub6DOVAAIdCe_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETub6DOVAAIdCe_.jpg",
+					"url": "https://t.co/MmHcInGFss",
+					"display_url": "pic.twitter.com/MmHcInGFss",
+					"expanded_url": "https://twitter.com/putuebo/status/1241757563231719424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241757548656488400,
+					"id_str": "1241757548656488448",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ETub6VDUcAAXKwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETub6VDUcAAXKwB.jpg",
+					"url": "https://t.co/MmHcInGFss",
+					"display_url": "pic.twitter.com/MmHcInGFss",
+					"expanded_url": "https://twitter.com/putuebo/status/1241757563231719424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241757557040894000,
+					"id_str": "1241757557040893955",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ETub60SUUAMIrOy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETub60SUUAMIrOy.jpg",
+					"url": "https://t.co/MmHcInGFss",
+					"display_url": "pic.twitter.com/MmHcInGFss",
+					"expanded_url": "https://twitter.com/putuebo/status/1241757563231719424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241757560316690400,
+					"id_str": "1241757560316690443",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ETub7AfVAAsOSm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETub7AfVAAsOSm7.jpg",
+					"url": "https://t.co/MmHcInGFss",
+					"display_url": "pic.twitter.com/MmHcInGFss",
+					"expanded_url": "https://twitter.com/putuebo/status/1241757563231719424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2421,
+			"friends_count": 2108,
+			"listed_count": 15,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sl",
+		"text": "Disainer Slovenia, Jure Tovrljan merespon logo2 terkenal terkait gerakan social distancing.\n\nhttps://t.co/I7RSRlrV2E https://t.co/MmHcInGFss"
+	},
+	{
 		"created_at": "Fri Mar 20 17:01:02 +0000 2020",
 		"id": 1139719518316482600,
 		"id_str": "1241047107932262400",
