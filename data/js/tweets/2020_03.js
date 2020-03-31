@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 11:47:04 +0000 2020",
+		"id": 1244492516553945000,
+		"id_str": "1244591974943866880",
+		"full_text": "Ngiring sareng-sareng mesikian lawan virus Covid19, sampunang saling pelihang, wusan mejugjag, hidup bersih wit saking angga sarira soang-soang\n.\nArt by Gus Dark @gus_dark_art\nMotion graphic by Julian Vargas @jdvfilms\nMusic by Gus Teja @gusteja_official \nProducer Stephen Leonard https://t.co/sNMQwB1Hld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jdvfilms",
+					"name": "Joie de Vivre Films",
+					"id": 797218576813867000,
+					"id_str": "797218576813867008",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244492363893854200,
+					"id_str": "1244492363893854209",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244492363893854209/pu/img/cwB4Gmvrh4DcEzV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244492363893854209/pu/img/cwB4Gmvrh4DcEzV5.jpg",
+					"url": "https://t.co/sNMQwB1Hld",
+					"display_url": "pic.twitter.com/sNMQwB1Hld",
+					"expanded_url": "https://twitter.com/GusDark4/status/1244492516553945088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244492363893854200,
+					"id_str": "1244492363893854209",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244492363893854209/pu/img/cwB4Gmvrh4DcEzV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244492363893854209/pu/img/cwB4Gmvrh4DcEzV5.jpg",
+					"url": "https://t.co/sNMQwB1Hld",
+					"display_url": "pic.twitter.com/sNMQwB1Hld",
+					"expanded_url": "https://twitter.com/GusDark4/status/1244492516553945088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 39373,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244492363893854209/pu/vid/320x320/jklU3hn_YFBj4Hwp.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244492363893854209/pu/vid/720x720/T8Huy_cLKjiTemyo.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244492363893854209/pu/pl/ExFPA9AZsn1Nu8WY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244492363893854209/pu/vid/480x480/Sw1abO1eqQlKoyaU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1197023131669418000,
+			"id_str": "1197023131669417986",
+			"name": "Gus Dark",
+			"screen_name": "GusDark4",
+			"location": "Bali",
+			"description": "an Illustrator, propaganda, activist, creative, most of all Human beings, a Balinese from small island of paradise. IG : gus_dark_art.",
+			"url": "https://t.co/oQa5vuWyjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oQa5vuWyjW",
+							"expanded_url": "http://gusthebalinese.wixsite.com/darkade",
+							"display_url": "gusthebalinese.wixsite.com/darkade",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 330,
+			"listed_count": 0,
+			"created_at": "Wed Nov 20 05:25:35 +0000 2019",
+			"favourites_count": 6859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197026444267835393/T5Qjr5rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197026444267835393/T5Qjr5rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1197023131669417986/1574228512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ngiring sareng-sareng mesikian lawan virus Covid19, sampunang saling pelihang, wusan mejugjag, hidup bersih wit saking angga sarira soang-soang\n.\nArt by Gus Dark @gus_dark_art\nMotion graphic by Julian Vargas @jdvfilms\nMusic by Gus Teja @gusteja_official \nProducer Stephen Leonard https://t.co/sNMQwB1Hld"
+	},
+	{
 		"created_at": "Sun Mar 29 09:11:51 +0000 2020",
 		"id": 1244190522073211000,
 		"id_str": "1244190522073210881",
