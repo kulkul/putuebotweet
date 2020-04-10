@@ -1,6 +1,781 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 17:13:38 +0000 2020",
+		"id": 1244404788529250300,
+		"id_str": "1248298037119578113",
+		"full_text": "[XRW-561]\n\nCENCOR\nArtis :  KAHO SHIBUYA\nDurasi : 136min\n\nLink : https://t.co/pWeZqMHyb8\nPw : https://t.co/31JTiLzH5a https://t.co/WczCmgxVeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pWeZqMHyb8",
+					"expanded_url": "https://paste.co.id/Tk9RiLMzMi",
+					"display_url": "paste.co.id/Tk9RiLMzMi",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/31JTiLzH5a",
+					"expanded_url": "http://DAPOER.COM",
+					"display_url": "DAPOER.COM",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1244404725253951500,
+					"id_str": "1244404725253951489",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244404725253951489/pu/img/m9dzive36XOpreuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244404725253951489/pu/img/m9dzive36XOpreuq.jpg",
+					"url": "https://t.co/WczCmgxVeI",
+					"display_url": "pic.twitter.com/WczCmgxVeI",
+					"expanded_url": "https://twitter.com/DapoerBokep/status/1244404788529250305/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244404725253951500,
+					"id_str": "1244404725253951489",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244404725253951489/pu/img/m9dzive36XOpreuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244404725253951489/pu/img/m9dzive36XOpreuq.jpg",
+					"url": "https://t.co/WczCmgxVeI",
+					"display_url": "pic.twitter.com/WczCmgxVeI",
+					"expanded_url": "https://twitter.com/DapoerBokep/status/1244404788529250305/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 316,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							140,
+							79
+						],
+						"duration_millis": 132099,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244404725253951489/pu/vid/560x316/mdR3ZZstF0F63dJc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1244404725253951489/pu/pl/WvNV43ezok65TaTY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1244404725253951489/pu/vid/478x270/Ep64h7RcAl-Iu8O_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227607071924686800,
+			"id_str": "1227607071924686849",
+			"name": "DAPOER BOKEP 🔞",
+			"screen_name": "DapoerBokep",
+			"location": "",
+			"description": "BOKEP JEPANG\nBOKEP HENTAI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49829,
+			"friends_count": 1,
+			"listed_count": 185,
+			"created_at": "Wed Feb 12 14:55:28 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230284254384279552/RRZuRx3D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230284254384279552/RRZuRx3D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227607071924686849/1583281696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "et",
+		"text": "[XRW-561]\n\nCENCOR\nArtis :  KAHO SHIBUYA\nDurasi : 136min\n\nLink : https://t.co/pWeZqMHyb8\nPw : https://t.co/31JTiLzH5a https://t.co/WczCmgxVeI"
+	},
+	{
+		"created_at": "Thu Apr 09 16:14:35 +0000 2020",
+		"id": 1248283174892789800,
+		"id_str": "1248283174892789767",
+		"full_text": "@andivox @GlennFredly 😭😭😭",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andivox",
+					"name": "Andi Malewa",
+					"id": 148402950,
+					"id_str": "148402950",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "GlennFredly",
+					"name": "Latuihamallo",
+					"id": 58546044,
+					"id_str": "58546044",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1248195705585328000,
+		"in_reply_to_status_id_str": "1248195705585328128",
+		"in_reply_to_user_id": 148402950,
+		"in_reply_to_user_id_str": "148402950",
+		"in_reply_to_screen_name": "andivox",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2415,
+			"friends_count": 2105,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@andivox @GlennFredly 😭😭😭"
+	},
+	{
+		"created_at": "Thu Apr 09 15:56:25 +0000 2020",
+		"id": 1248278602950439000,
+		"id_str": "1248278602950438913",
+		"full_text": "Superhero juga butuh masker https://t.co/XrhLzw0SWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248278595794923500,
+					"id_str": "1248278595794923520",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EVLGxOsUcAAeZ9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVLGxOsUcAAeZ9M.jpg",
+					"url": "https://t.co/XrhLzw0SWp",
+					"display_url": "pic.twitter.com/XrhLzw0SWp",
+					"expanded_url": "https://twitter.com/putuebo/status/1248278602950438913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248278595794923500,
+					"id_str": "1248278595794923520",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EVLGxOsUcAAeZ9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVLGxOsUcAAeZ9M.jpg",
+					"url": "https://t.co/XrhLzw0SWp",
+					"display_url": "pic.twitter.com/XrhLzw0SWp",
+					"expanded_url": "https://twitter.com/putuebo/status/1248278602950438913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2415,
+			"friends_count": 2105,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Superhero juga butuh masker https://t.co/XrhLzw0SWp"
+	},
+	{
+		"created_at": "Thu Apr 09 03:00:41 +0000 2020",
+		"id": 1248083384133243000,
+		"id_str": "1248083384133242882",
+		"full_text": "Banyak yg bilang https://t.co/z8Bzt7YWBs penipuan. Saya coba order jam tangan murah, sudah bayar ongkir. Hampir 4 bulan menunggu. Datanglah kemasan rapuh, isinya cuma tali jam terpotong, yg ngantar pos indonesia dg tagihan 9k, katanya pengganti bea pelabuhan. https://t.co/3J059gAMbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8Bzt7YWBs",
+					"expanded_url": "http://wish.com",
+					"display_url": "wish.com",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248083374658343000,
+					"id_str": "1248083374658342912",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIVN3SU0AADqnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIVN3SU0AADqnQ.jpg",
+					"url": "https://t.co/3J059gAMbJ",
+					"display_url": "pic.twitter.com/3J059gAMbJ",
+					"expanded_url": "https://twitter.com/putuebo/status/1248083384133242882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 818,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 611,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248083374658343000,
+					"id_str": "1248083374658342912",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EVIVN3SU0AADqnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVIVN3SU0AADqnQ.jpg",
+					"url": "https://t.co/3J059gAMbJ",
+					"display_url": "pic.twitter.com/3J059gAMbJ",
+					"expanded_url": "https://twitter.com/putuebo/status/1248083384133242882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 818,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 818,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 611,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2415,
+			"friends_count": 2105,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Banyak yg bilang https://t.co/z8Bzt7YWBs penipuan. Saya coba order jam tangan murah, sudah bayar ongkir. Hampir 4 bulan menunggu. Datanglah kemasan rapuh, isinya cuma tali jam terpotong, yg ngantar pos indonesia dg tagihan 9k, katanya pengganti bea pelabuhan. https://t.co/3J059gAMbJ"
+	},
+	{
+		"created_at": "Thu Apr 09 02:46:15 +0000 2020",
+		"id": 1248079749416505300,
+		"id_str": "1248079749416505344",
+		"full_text": "Drama bule kalo masuk kamar mandi Asia... nemu kakus jongkok nangis, ngga nemu tisu nangis. Nemu bak air 1x1x1.. eh, malah nyemplung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2415,
+			"friends_count": 2105,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Drama bule kalo masuk kamar mandi Asia... nemu kakus jongkok nangis, ngga nemu tisu nangis. Nemu bak air 1x1x1.. eh, malah nyemplung"
+	},
+	{
 		"created_at": "Thu Apr 09 01:09:03 +0000 2020",
 		"id": 1248055290026537000,
 		"id_str": "1248055290026536960",
@@ -201,7 +976,7 @@ Grailbird.data.tweets_2020_04 =
 			"user_mentions": [
 				{
 					"screen_name": "wirascorpig",
-					"name": "🇼‌🇮‌🇷‌🇦‌",
+					"name": "🇼🇮🇷🇦",
 					"id": 2868391693,
 					"id_str": "2868391693",
 					"indices": [
