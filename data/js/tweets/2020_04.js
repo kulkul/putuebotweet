@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 15:27:19 +0000 2020",
+		"id": 1250083220600717300,
+		"id_str": "1250083220600717312",
+		"full_text": "Lockdown di India menyebabkan polusi menurun drastis. Gunung Himalaya yg biasanya tak tampak selama puluhan tahun, kini mereka dapat menyaksikan keindahannya dari bbrpa kota India utara. Org2 India menyambut fenomena ini sbg keajaiban. Lihat saja foto2 postingan mereka di medsos https://t.co/WlMoLmqTcz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250083178405978000,
+					"id_str": "1250083178405978113",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkwBwyUYAECvuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkwBwyUYAECvuI.jpg",
+					"url": "https://t.co/WlMoLmqTcz",
+					"display_url": "pic.twitter.com/WlMoLmqTcz",
+					"expanded_url": "https://twitter.com/putuebo/status/1250083220600717312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 933,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 933,
+							"h": 525,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250083178405978000,
+					"id_str": "1250083178405978113",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkwBwyUYAECvuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkwBwyUYAECvuI.jpg",
+					"url": "https://t.co/WlMoLmqTcz",
+					"display_url": "pic.twitter.com/WlMoLmqTcz",
+					"expanded_url": "https://twitter.com/putuebo/status/1250083220600717312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 933,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 933,
+							"h": 525,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250083190963748900,
+					"id_str": "1250083190963748864",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkwCfkUwAAPRq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkwCfkUwAAPRq1.jpg",
+					"url": "https://t.co/WlMoLmqTcz",
+					"display_url": "pic.twitter.com/WlMoLmqTcz",
+					"expanded_url": "https://twitter.com/putuebo/status/1250083220600717312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250083202825257000,
+					"id_str": "1250083202825256961",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkwDLwVAAEo4YP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkwDLwVAAEo4YP.jpg",
+					"url": "https://t.co/WlMoLmqTcz",
+					"display_url": "pic.twitter.com/WlMoLmqTcz",
+					"expanded_url": "https://twitter.com/putuebo/status/1250083220600717312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250083206293942300,
+					"id_str": "1250083206293942272",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkwDYrU8AAHe21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkwDYrU8AAHe21.jpg",
+					"url": "https://t.co/WlMoLmqTcz",
+					"display_url": "pic.twitter.com/WlMoLmqTcz",
+					"expanded_url": "https://twitter.com/putuebo/status/1250083220600717312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2416,
+			"friends_count": 2092,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Lockdown di India menyebabkan polusi menurun drastis. Gunung Himalaya yg biasanya tak tampak selama puluhan tahun, kini mereka dapat menyaksikan keindahannya dari bbrpa kota India utara. Org2 India menyambut fenomena ini sbg keajaiban. Lihat saja foto2 postingan mereka di medsos https://t.co/WlMoLmqTcz"
+	},
+	{
 		"created_at": "Mon Apr 13 08:55:34 +0000 2020",
 		"id": 1249622244881395700,
 		"id_str": "1249622244881395721",
