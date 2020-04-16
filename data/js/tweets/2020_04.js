@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 00:56:22 +0000 2020",
+		"id": 1250588814533202000,
+		"id_str": "1250588814533201920",
+		"full_text": "Temukan gambar tersembunyi si kelinci bunny di cover majalah Playboy klasik https://t.co/3B0Fi8VlOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249252441184505900,
+					"id_str": "1249252441184505857",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EVY8efeXkAE0g8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVY8efeXkAE0g8S.jpg",
+					"url": "https://t.co/3B0Fi8VlOn",
+					"display_url": "pic.twitter.com/3B0Fi8VlOn",
+					"expanded_url": "https://twitter.com/gray/status/1249252446817394689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 504,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 504,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1249252446817394700,
+					"source_status_id_str": "1249252446817394689",
+					"source_user_id": 17782234,
+					"source_user_id_str": "17782234"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249252441184505900,
+					"id_str": "1249252441184505857",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EVY8efeXkAE0g8S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVY8efeXkAE0g8S.jpg",
+					"url": "https://t.co/3B0Fi8VlOn",
+					"display_url": "pic.twitter.com/3B0Fi8VlOn",
+					"expanded_url": "https://twitter.com/gray/status/1249252446817394689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 504,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 504,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1249252446817394700,
+					"source_status_id_str": "1249252446817394689",
+					"source_user_id": 17782234,
+					"source_user_id_str": "17782234"
+				},
+				{
+					"id": 1249252441184501800,
+					"id_str": "1249252441184501761",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EVY8efeXgAEedCA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVY8efeXgAEedCA.jpg",
+					"url": "https://t.co/3B0Fi8VlOn",
+					"display_url": "pic.twitter.com/3B0Fi8VlOn",
+					"expanded_url": "https://twitter.com/gray/status/1249252446817394689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1249252446817394700,
+					"source_status_id_str": "1249252446817394689",
+					"source_user_id": 17782234,
+					"source_user_id_str": "17782234"
+				},
+				{
+					"id": 1249252441192894500,
+					"id_str": "1249252441192894467",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EVY8efgXkAMnkhh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVY8efgXkAMnkhh.jpg",
+					"url": "https://t.co/3B0Fi8VlOn",
+					"display_url": "pic.twitter.com/3B0Fi8VlOn",
+					"expanded_url": "https://twitter.com/gray/status/1249252446817394689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 913,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1249252446817394700,
+					"source_status_id_str": "1249252446817394689",
+					"source_user_id": 17782234,
+					"source_user_id_str": "17782234"
+				},
+				{
+					"id": 1249252441180209200,
+					"id_str": "1249252441180209153",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EVY8efdWAAErWk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVY8efdWAAErWk6.jpg",
+					"url": "https://t.co/3B0Fi8VlOn",
+					"display_url": "pic.twitter.com/3B0Fi8VlOn",
+					"expanded_url": "https://twitter.com/gray/status/1249252446817394689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 673,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 673,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1249252446817394700,
+					"source_status_id_str": "1249252446817394689",
+					"source_user_id": 17782234,
+					"source_user_id_str": "17782234"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2415,
+			"friends_count": 2084,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Temukan gambar tersembunyi si kelinci bunny di cover majalah Playboy klasik https://t.co/3B0Fi8VlOn"
+	},
+	{
 		"created_at": "Tue Apr 14 15:27:19 +0000 2020",
 		"id": 1250083220600717300,
 		"id_str": "1250083220600717312",
