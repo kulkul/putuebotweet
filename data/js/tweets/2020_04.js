@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 11:34:12 +0000 2020",
+		"id": 1251309772730744800,
+		"id_str": "1251474102700761088",
+		"full_text": "Spider-Man: STAY AT HOME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80957643,
+			"id_str": "80957643",
+			"name": "Daniel Richtman",
+			"screen_name": "DanielRPK",
+			"location": "",
+			"description": "''A Twitter influencer and writer'' - CNBC.\nContact/Business inquiries: DanielRPK10@gmail.com\nhttps://t.co/uRi88luJr7",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uRi88luJr7",
+							"expanded_url": "http://patreon.com/DanielRPK",
+							"display_url": "patreon.com/DanielRPK",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 82850,
+			"friends_count": 26252,
+			"listed_count": 616,
+			"created_at": "Thu Oct 08 22:15:01 +0000 2009",
+			"favourites_count": 27491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149707558271279104/YNVP2_Fd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149707558271279104/YNVP2_Fd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80957643/1558972761",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 3816,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Spider-Man: STAY AT HOME"
+	},
+	{
 		"created_at": "Fri Apr 17 03:14:16 +0000 2020",
 		"id": 1248442777676873700,
 		"id_str": "1250985904623108096",
