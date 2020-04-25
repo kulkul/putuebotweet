@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 01:23:04 +0000 2020",
+		"id": 1253271422970900500,
+		"id_str": "1253494636338962446",
+		"full_text": "Perokok Diklaim Sulit Kena Corona, Prancis akan Beri Plester Nikotin ke Pasien COVID-19 https://t.co/605SToIF4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/605SToIF4g",
+					"expanded_url": "http://dlvr.it/RVJDzk",
+					"display_url": "dlvr.it/RVJDzk",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58880688,
+			"id_str": "58880688",
+			"name": "Pikiran Rakyat",
+			"screen_name": "pikiran_rakyat",
+			"location": "Bandung, Jawa Barat",
+			"description": "Lebih Tahu Jawa Barat\nKirimkan Foto/Video anda ke :\nWA/Telegram : 08112355650\n(Pikiran Rakyat)",
+			"url": "https://t.co/gJsw8u2Z07",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJsw8u2Z07",
+							"expanded_url": "http://www.pikiran-rakyat.com",
+							"display_url": "pikiran-rakyat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417438,
+			"friends_count": 15,
+			"listed_count": 618,
+			"created_at": "Tue Jul 21 18:48:20 +0000 2009",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 273656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0071B8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242328027297533952/GUj7kkkG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242328027297533952/GUj7kkkG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58880688/1515550538",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7A95FF",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Perokok Diklaim Sulit Kena Corona, Prancis akan Beri Plester Nikotin ke Pasien COVID-19 https://t.co/605SToIF4g"
+	},
+	{
 		"created_at": "Thu Apr 23 20:18:13 +0000 2020",
 		"id": 1253417915912581000,
 		"id_str": "1253417915912581122",
