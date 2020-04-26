@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 10:56:54 +0000 2020",
+		"id": 1254001433277427700,
+		"id_str": "1254001433277427712",
+		"full_text": "@Gundala60873561 @AnakKolong___ https://t.co/sWjkG2NA74",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gundala60873561",
+					"name": "Gundala(Rakyat Kecil)",
+					"id": 1205493769107230700,
+					"id_str": "1205493769107230720",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AnakKolong___",
+					"name": "Anak Kolong™",
+					"id": 1152151683746582500,
+					"id_str": "1152151683746582528",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sWjkG2NA74",
+					"expanded_url": "https://twitter.com/pikiran_rakyat/status/1253271422970900480?s=19",
+					"display_url": "twitter.com/pikiran_rakyat…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1253673906247852000,
+		"in_reply_to_status_id_str": "1253673906247852032",
+		"in_reply_to_user_id": 1205493769107230700,
+		"in_reply_to_user_id_str": "1205493769107230720",
+		"in_reply_to_screen_name": "Gundala60873561",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2415,
+			"friends_count": 2078,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253271422970900500,
+		"quoted_status_id_str": "1253271422970900480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sWjkG2NA74",
+			"expanded": "https://twitter.com/pikiran_rakyat/status/1253271422970900480?s=19",
+			"display": "twitter.com/pikiran_rakyat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 23 10:36:06 +0000 2020",
+			"id": 1253271422970900500,
+			"id_str": "1253271422970900480",
+			"full_text": "Perokok Diklaim Sulit Kena Corona, Prancis akan Beri Plester Nikotin ke Pasien COVID-19 https://t.co/605SToIF4g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/605SToIF4g",
+						"expanded_url": "http://dlvr.it/RVJDzk",
+						"display_url": "dlvr.it/RVJDzk",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58880688,
+				"id_str": "58880688",
+				"name": "Pikiran Rakyat",
+				"screen_name": "pikiran_rakyat",
+				"location": "Bandung, Jawa Barat",
+				"description": "Lebih Tahu Jawa Barat\nKirimkan Foto/Video anda ke :\nWA/Telegram : 08112355650\n(Pikiran Rakyat)",
+				"url": "https://t.co/gJsw8u2Z07",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJsw8u2Z07",
+								"expanded_url": "http://www.pikiran-rakyat.com",
+								"display_url": "pikiran-rakyat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 417495,
+				"friends_count": 15,
+				"listed_count": 618,
+				"created_at": "Tue Jul 21 18:48:20 +0000 2009",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 273837,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0071B8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1242328027297533952/GUj7kkkG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242328027297533952/GUj7kkkG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58880688/1515550538",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7A95FF",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 209,
+			"favorite_count": 377,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Gundala60873561 @AnakKolong___ https://t.co/sWjkG2NA74"
+	},
+	{
 		"created_at": "Fri Apr 24 01:23:04 +0000 2020",
 		"id": 1253271422970900500,
 		"id_str": "1253494636338962446",
