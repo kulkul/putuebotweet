@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 19:27:48 +0000 2020",
+		"id": 1254854781182414800,
+		"id_str": "1254854781182414849",
+		"full_text": "@cahkebumen @sipenakecil Mungkin yg di belakang elus2 idung",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cahkebumen",
+					"name": "cah kebumen",
+					"id": 100257731,
+					"id_str": "100257731",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "sipenakecil",
+					"name": "𝚙𝚎𝚗𝚊 𝚔𝚎𝚌𝚒𝚕",
+					"id": 61728941,
+					"id_str": "61728941",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1254823009228972000,
+		"in_reply_to_status_id_str": "1254823009228972032",
+		"in_reply_to_user_id": 100257731,
+		"in_reply_to_user_id_str": "100257731",
+		"in_reply_to_screen_name": "cahkebumen",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2414,
+			"friends_count": 2076,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@cahkebumen @sipenakecil Mungkin yg di belakang elus2 idung"
+	},
+	{
 		"created_at": "Sat Apr 25 10:56:54 +0000 2020",
 		"id": 1254001433277427700,
 		"id_str": "1254001433277427712",
