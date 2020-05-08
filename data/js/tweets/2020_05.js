@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 14:16:42 +0000 2020",
+		"id": 1258400369698148400,
+		"id_str": "1258400369698148352",
+		"full_text": "@oyikk Baru belajar om he.. he..",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oyikk",
+					"name": "oyikk",
+					"id": 61942976,
+					"id_str": "61942976",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258376584903311400,
+		"in_reply_to_status_id_str": "1258376584903311362",
+		"in_reply_to_user_id": 61942976,
+		"in_reply_to_user_id_str": "61942976",
+		"in_reply_to_screen_name": "oyikk",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2421,
+			"friends_count": 2086,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3a77fe0710239fe2",
+			"url": "https://api.twitter.com/1.1/geo/id/3a77fe0710239fe2.json",
+			"place_type": "city",
+			"name": "Mengwi",
+			"full_name": "Mengwi, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.099127,
+							-8.653287
+						],
+						[
+							115.209595,
+							-8.653287
+						],
+						[
+							115.209595,
+							-8.442924
+						],
+						[
+							115.099127,
+							-8.442924
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@oyikk Baru belajar om he.. he.."
+	},
+	{
+		"created_at": "Thu May 07 14:16:11 +0000 2020",
+		"id": 1257098203431747600,
+		"id_str": "1258400237439217664",
+		"full_text": "Yuk dengerin lagu Heal The World yg dinyanyikan anak anak yg bercerita tentang harapan hari esok yang lebih baik. Harapan itu diwujudkan dengan cinta di dalam hati setiap orang, kepedulian, empati kepada sesama, dan saling tolong menolong. https://t.co/oBEGBTbpQB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257098013270356000,
+					"id_str": "1257098013270355968",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257098013270355968/pu/img/_QqyzBZ_MITDHW6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257098013270355968/pu/img/_QqyzBZ_MITDHW6P.jpg",
+					"url": "https://t.co/oBEGBTbpQB",
+					"display_url": "pic.twitter.com/oBEGBTbpQB",
+					"expanded_url": "https://twitter.com/henrysubiakto/status/1257098203431747585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257098013270356000,
+					"id_str": "1257098013270355968",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257098013270355968/pu/img/_QqyzBZ_MITDHW6P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257098013270355968/pu/img/_QqyzBZ_MITDHW6P.jpg",
+					"url": "https://t.co/oBEGBTbpQB",
+					"display_url": "pic.twitter.com/oBEGBTbpQB",
+					"expanded_url": "https://twitter.com/henrysubiakto/status/1257098203431747585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1257098013270355968/pu/vid/426x240/jULVq3npZZ-F4yme.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1257098013270355968/pu/pl/639YK-ZD_HyjEOsl.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 201554665,
+			"id_str": "201554665",
+			"name": "Communication Corner",
+			"screen_name": "henrysubiakto",
+			"location": "henrysubiakto.blogspot.com",
+			"description": "Guru Besar Komunikasi Universitas Airlangga, Alumni Program Doktor Ilmu Sosial Unair, PAI London, Pasca Komunikasi UI, Fak Hukum UII & Komunikasi Fisipol UGM.",
+			"url": "https://t.co/7wwsnySKtV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7wwsnySKtV",
+							"expanded_url": "https://www.youtube.com/channel/UCfNQiucQ7F1DlHVe0ObYLIA",
+							"display_url": "youtube.com/channel/UCfNQi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18825,
+			"friends_count": 115,
+			"listed_count": 15,
+			"created_at": "Tue Oct 12 03:08:34 +0000 2010",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255294020789600257/HFqPgIgT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255294020789600257/HFqPgIgT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201554665/1391524164",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Yuk dengerin lagu Heal The World yg dinyanyikan anak anak yg bercerita tentang harapan hari esok yang lebih baik. Harapan itu diwujudkan dengan cinta di dalam hati setiap orang, kepedulian, empati kepada sesama, dan saling tolong menolong. https://t.co/oBEGBTbpQB"
+	},
+	{
+		"created_at": "Thu May 07 11:00:38 +0000 2020",
+		"id": 1258351028023353300,
+		"id_str": "1258351028023353347",
+		"full_text": "@sekologic @lnelnn Coba link ini https://t.co/lx7R4icucR",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sekologic",
+					"name": "Seftian Eko",
+					"id": 411542611,
+					"id_str": "411542611",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "lnelnn",
+					"name": ".",
+					"id": 1077078290223919100,
+					"id_str": "1077078290223919105",
+					"indices": [
+						11,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lx7R4icucR",
+					"expanded_url": "http://stat.ks.kidsklik.com/statics/files/2012/09/134845137249761570.jpg",
+					"display_url": "stat.ks.kidsklik.com/statics/files/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258300137509552000,
+		"in_reply_to_status_id_str": "1258300137509552130",
+		"in_reply_to_user_id": 411542611,
+		"in_reply_to_user_id_str": "411542611",
+		"in_reply_to_screen_name": "sekologic",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2421,
+			"friends_count": 2086,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 11989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@sekologic @lnelnn Coba link ini https://t.co/lx7R4icucR"
+	},
+	{
 		"created_at": "Wed May 06 20:32:57 +0000 2020",
 		"id": 1258132668383768600,
 		"id_str": "1258132668383768576",
