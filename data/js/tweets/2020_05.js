@@ -1,6 +1,890 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 16:50:51 +0000 2020",
+		"id": 1263512592980406300,
+		"id_str": "1263512592980406272",
+		"full_text": "@girlwithtanskin @depresionistaa πԳ๑ᱥᵅᴷ ᴃℇ໗√∂༬༏⍺⑀工",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "girlwithtanskin",
+					"name": "made.",
+					"id": 1129610194474811400,
+					"id_str": "1129610194474811392",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "depresionistaa",
+					"name": "new year new sadness",
+					"id": 1095526050501554200,
+					"id_str": "1095526050501554176",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1263302126681288700,
+		"in_reply_to_status_id_str": "1263302126681288705",
+		"in_reply_to_user_id": 1129610194474811400,
+		"in_reply_to_user_id_str": "1129610194474811392",
+		"in_reply_to_screen_name": "girlwithtanskin",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2074,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ja",
+		"text": "@girlwithtanskin @depresionistaa πԳ๑ᱥᵅᴷ ᴃℇ໗√∂༬༏⍺⑀工"
+	},
+	{
+		"created_at": "Thu May 21 06:50:08 +0000 2020",
+		"id": 1263361417538723800,
+		"id_str": "1263361417538723840",
+		"full_text": "Cuma butuh 20 detik aja... 🤟 https://t.co/DxjMRzTzGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263360919381307400,
+					"id_str": "1263360919381307392",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263360919381307392/pu/img/FW6rmxnsz8HG2gvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263360919381307392/pu/img/FW6rmxnsz8HG2gvT.jpg",
+					"url": "https://t.co/DxjMRzTzGk",
+					"display_url": "pic.twitter.com/DxjMRzTzGk",
+					"expanded_url": "https://twitter.com/putuebo/status/1263361417538723840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263360919381307400,
+					"id_str": "1263360919381307392",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263360919381307392/pu/img/FW6rmxnsz8HG2gvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263360919381307392/pu/img/FW6rmxnsz8HG2gvT.jpg",
+					"url": "https://t.co/DxjMRzTzGk",
+					"display_url": "pic.twitter.com/DxjMRzTzGk",
+					"expanded_url": "https://twitter.com/putuebo/status/1263361417538723840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							5
+						],
+						"duration_millis": 29972,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1263360919381307392/pu/pl/csE0aAaQ5J-kHpaU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1263360919381307392/pu/vid/480x400/7-GIa19r7t_iuxry.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1263360919381307392/pu/vid/324x270/xZR3d6VtXq1FWM4S.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2074,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6ab2f5132f36eb85",
+			"url": "https://api.twitter.com/1.1/geo/id/6ab2f5132f36eb85.json",
+			"place_type": "city",
+			"name": "Kuta",
+			"full_name": "Kuta, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.083847,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.849261
+						],
+						[
+							115.240267,
+							-8.601695
+						],
+						[
+							115.083847,
+							-8.601695
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Cuma butuh 20 detik aja... 🤟 https://t.co/DxjMRzTzGk"
+	},
+	{
+		"created_at": "Thu May 21 06:03:50 +0000 2020",
+		"id": 1263349765544132600,
+		"id_str": "1263349765544132609",
+		"full_text": "Belajar bahasa Perancis\nhttps://t.co/nLOCIptui0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259910789596676000,
+					"id_str": "1259910789596676096",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259910789596676096/pu/img/z20VC9kRjY9acPTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259910789596676096/pu/img/z20VC9kRjY9acPTK.jpg",
+					"url": "https://t.co/nLOCIptui0",
+					"display_url": "pic.twitter.com/nLOCIptui0",
+					"expanded_url": "https://twitter.com/jpaudouy/status/1259910886434668546/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 596,
+							"h": 934,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 934,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259910886434668500,
+					"source_status_id_str": "1259910886434668546",
+					"source_user_id": 195366253,
+					"source_user_id_str": "195366253"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259910789596676000,
+					"id_str": "1259910789596676096",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259910789596676096/pu/img/z20VC9kRjY9acPTK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259910789596676096/pu/img/z20VC9kRjY9acPTK.jpg",
+					"url": "https://t.co/nLOCIptui0",
+					"display_url": "pic.twitter.com/nLOCIptui0",
+					"expanded_url": "https://twitter.com/jpaudouy/status/1259910886434668546/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 596,
+							"h": 934,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 934,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259910886434668500,
+					"source_status_id_str": "1259910886434668546",
+					"source_user_id": 195366253,
+					"source_user_id_str": "195366253",
+					"video_info": {
+						"aspect_ratio": [
+							298,
+							467
+						],
+						"duration_millis": 79863,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259910789596676096/pu/vid/596x934/q94oH5PwXdezNm_K.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259910789596676096/pu/vid/360x564/psuZpPQzY2HjCg28.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259910789596676096/pu/vid/320x500/Z4Y9CS7L3rQ90Bdo.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259910789596676096/pu/pl/DatVCl0qUwrt5bGl.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 195366253,
+							"id_str": "195366253",
+							"name": "Jean-Paul Audouy",
+							"screen_name": "jpaudouy",
+							"location": "Paris, France",
+							"description": "International s̵p̵y̵/cook 🍋. Man of many mysteries. An anglophile in Paris. \"Voleur d'Amphores, Dresseur de Loulous\" 😉. Insta @roodoodoo974",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2044,
+							"friends_count": 1678,
+							"listed_count": 24,
+							"created_at": "Sun Sep 26 14:33:56 +0000 2010",
+							"favourites_count": 115761,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 59772,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "BADFCD",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1262294455782080512/GFNKc-5N_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262294455782080512/GFNKc-5N_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/195366253/1588485991",
+							"profile_link_color": "FF0000",
+							"profile_sidebar_border_color": "F2E195",
+							"profile_sidebar_fill_color": "FFF7CC",
+							"profile_text_color": "0C3E53",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2074,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "cf712fd91280ebff",
+			"url": "https://api.twitter.com/1.1/geo/id/cf712fd91280ebff.json",
+			"place_type": "city",
+			"name": "Denpasar Barat",
+			"full_name": "Denpasar Barat, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.173695,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.70934
+						],
+						[
+							115.235563,
+							-8.591728
+						],
+						[
+							115.173695,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Belajar bahasa Perancis\nhttps://t.co/nLOCIptui0"
+	},
+	{
+		"created_at": "Thu May 21 05:54:21 +0000 2020",
+		"id": 1260882135465914400,
+		"id_str": "1263347378595278848",
+		"full_text": "@qorygore Dentuman keras terjadi tepatnya pukul 06:00 di aceh karena raksasa ,sebarkan berita ini ke 16 grup jika tidak maka keluarga anda akan sial 7 turunan\n#bacotsantuy \n#Brobrogorelockdown https://t.co/GUP58qCK6M",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bacotsantuy",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"text": "Brobrogorelockdown",
+					"indices": [
+						173,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qorygore",
+					"name": "QG",
+					"id": 194856182,
+					"id_str": "194856182",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260880820744581000,
+					"id_str": "1260880820744581127",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260880820744581127/pu/img/IJBVj8M6TwVZbVt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260880820744581127/pu/img/IJBVj8M6TwVZbVt2.jpg",
+					"url": "https://t.co/GUP58qCK6M",
+					"display_url": "pic.twitter.com/GUP58qCK6M",
+					"expanded_url": "https://twitter.com/Naufalazhr20/status/1260882135465914368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 312,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260880820744581000,
+					"id_str": "1260880820744581127",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260880820744581127/pu/img/IJBVj8M6TwVZbVt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260880820744581127/pu/img/IJBVj8M6TwVZbVt2.jpg",
+					"url": "https://t.co/GUP58qCK6M",
+					"display_url": "pic.twitter.com/GUP58qCK6M",
+					"expanded_url": "https://twitter.com/Naufalazhr20/status/1260882135465914368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 312,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							39,
+							50
+						],
+						"duration_millis": 13167,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260880820744581127/pu/vid/312x400/0w21Juxc2kgxqBIM.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260880820744581127/pu/pl/icgEBVF6DYukShrx.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1260738038008885200,
+		"in_reply_to_status_id_str": "1260738038008885249",
+		"in_reply_to_user_id": 194856182,
+		"in_reply_to_user_id_str": "194856182",
+		"in_reply_to_screen_name": "qorygore",
+		"user": {
+			"id": 1257795108642029600,
+			"id_str": "1257795108642029568",
+			"name": "pemuda akhir zaman",
+			"screen_name": "Naufalazhr20",
+			"location": "",
+			"description": "nonsense",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 15,
+			"listed_count": 0,
+			"created_at": "Tue May 05 22:11:48 +0000 2020",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257795259804704768/UnMaGuGt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257795259804704768/UnMaGuGt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1257795108642029568/1588717358",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@qorygore Dentuman keras terjadi tepatnya pukul 06:00 di aceh karena raksasa ,sebarkan berita ini ke 16 grup jika tidak maka keluarga anda akan sial 7 turunan\n#bacotsantuy \n#Brobrogorelockdown https://t.co/GUP58qCK6M"
+	},
+	{
 		"created_at": "Mon May 18 08:31:51 +0000 2020",
 		"id": 1262299849895997400,
 		"id_str": "1262299849895997442",
