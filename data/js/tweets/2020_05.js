@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 14:43:54 +0000 2020",
+		"id": 1264567808437956600,
+		"id_str": "1264567808437956609",
+		"full_text": "Kalau Jepang punya Amabie, maka Indonesia punya Kaligrafi Bali yang dipercaya memiliki kekuatan menolak wabah penyakit, kaosnya bisa dipesan via WA  087-761-712-147 Rp 130rb+ongkir dari Bali. Detilnya ada di Facebook: https://t.co/Nf4w0ptTdT https://t.co/63xEmC2zKb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nf4w0ptTdT",
+					"expanded_url": "https://web.facebook.com/permalink.php?story_fbid=129364952072291&id=101430361532417",
+					"display_url": "web.facebook.com/permalink.php?…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264566061938077700,
+					"id_str": "1264566061938077698",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykIiTVcAISno9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykIiTVcAISno9.jpg",
+					"url": "https://t.co/63xEmC2zKb",
+					"display_url": "pic.twitter.com/63xEmC2zKb",
+					"expanded_url": "https://twitter.com/putuebo/status/1264567808437956609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264566061938077700,
+					"id_str": "1264566061938077698",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykIiTVcAISno9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykIiTVcAISno9.jpg",
+					"url": "https://t.co/63xEmC2zKb",
+					"display_url": "pic.twitter.com/63xEmC2zKb",
+					"expanded_url": "https://twitter.com/putuebo/status/1264567808437956609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1264566140505739300,
+					"id_str": "1264566140505739264",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykNG_U0AAf1Dc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykNG_U0AAf1Dc.jpg",
+					"url": "https://t.co/63xEmC2zKb",
+					"display_url": "pic.twitter.com/63xEmC2zKb",
+					"expanded_url": "https://twitter.com/putuebo/status/1264567808437956609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1264566140509909000,
+					"id_str": "1264566140509908993",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EYykNHAUcAEtV2_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYykNHAUcAEtV2_.jpg",
+					"url": "https://t.co/63xEmC2zKb",
+					"display_url": "pic.twitter.com/63xEmC2zKb",
+					"expanded_url": "https://twitter.com/putuebo/status/1264567808437956609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2405,
+			"friends_count": 2075,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kalau Jepang punya Amabie, maka Indonesia punya Kaligrafi Bali yang dipercaya memiliki kekuatan menolak wabah penyakit, kaosnya bisa dipesan via WA  087-761-712-147 Rp 130rb+ongkir dari Bali. Detilnya ada di Facebook: https://t.co/Nf4w0ptTdT https://t.co/63xEmC2zKb"
+	},
+	{
 		"created_at": "Sat May 23 05:18:27 +0000 2020",
 		"id": 1264063119661252600,
 		"id_str": "1264063119661252608",
