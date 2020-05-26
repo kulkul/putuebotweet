@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 17:06:44 +0000 2020",
+		"id": 1264966140431724500,
+		"id_str": "1264966140431724544",
+		"full_text": "Konsep marketing keren tak ternyana https://t.co/cjzj0y4sb1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cjzj0y4sb1",
+					"expanded_url": "https://twitter.com/ashtonmcknzie/status/1263350486721114113",
+					"display_url": "twitter.com/ashtonmcknzie/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2076,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263350486721114000,
+		"quoted_status_id_str": "1263350486721114113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cjzj0y4sb1",
+			"expanded": "https://twitter.com/ashtonmcknzie/status/1263350486721114113",
+			"display": "twitter.com/ashtonmcknzie/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 21 06:06:42 +0000 2020",
+			"id": 1263350486721114000,
+			"id_str": "1263350486721114113",
+			"full_text": "tag your sons and daughters 😂 #joust https://t.co/noXg2HJN5m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "joust",
+						"indices": [
+							30,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263350328168075300,
+						"id_str": "1263350328168075264",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263350328168075264/pu/img/2QwbE2n_JJxMXsG1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263350328168075264/pu/img/2QwbE2n_JJxMXsG1.jpg",
+						"url": "https://t.co/noXg2HJN5m",
+						"display_url": "pic.twitter.com/noXg2HJN5m",
+						"expanded_url": "https://twitter.com/ashtonmcknzie/status/1263350486721114113/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263350328168075300,
+						"id_str": "1263350328168075264",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263350328168075264/pu/img/2QwbE2n_JJxMXsG1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263350328168075264/pu/img/2QwbE2n_JJxMXsG1.jpg",
+						"url": "https://t.co/noXg2HJN5m",
+						"display_url": "pic.twitter.com/noXg2HJN5m",
+						"expanded_url": "https://twitter.com/ashtonmcknzie/status/1263350486721114113/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 61162,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1263350328168075264/pu/pl/VdXOY_sO1K-GJP2a.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1263350328168075264/pu/vid/576x1024/c4rReD-_OGoc5bIF.mp4?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1263350328168075264/pu/vid/320x568/NjqmIYfjyS8xP6un.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1263350328168075264/pu/vid/360x640/HC_h6qv8lPERCYMp.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1260052798697169000,
+				"id_str": "1260052798697168896",
+				"name": "Ashton McKenzie",
+				"screen_name": "ashtonmcknzie",
+				"location": "",
+				"description": "dude",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 99,
+				"friends_count": 6,
+				"listed_count": 1,
+				"created_at": "Tue May 12 03:42:59 +0000 2020",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 134,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263343435592773633/H_a2CauH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263343435592773633/H_a2CauH_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 794,
+			"favorite_count": 3258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Konsep marketing keren tak ternyana https://t.co/cjzj0y4sb1"
+	},
+	{
+		"created_at": "Mon May 25 05:45:20 +0000 2020",
+		"id": 1264794658573435000,
+		"id_str": "1264794658573434880",
+		"full_text": "@murryas Yen di beten punyan nyuh ngaenin i iluh, enggalan ketara ajak banjar... 😆",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "murryas",
+					"name": "murr",
+					"id": 52037819,
+					"id_str": "52037819",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1264773384769925000,
+		"in_reply_to_status_id_str": "1264773384769925121",
+		"in_reply_to_user_id": 52037819,
+		"in_reply_to_user_id_str": "52037819",
+		"in_reply_to_screen_name": "murryas",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2076,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@murryas Yen di beten punyan nyuh ngaenin i iluh, enggalan ketara ajak banjar... 😆"
+	},
+	{
+		"created_at": "Mon May 25 04:23:59 +0000 2020",
+		"id": 1264774190067888000,
+		"id_str": "1264774190067888128",
+		"full_text": "@pandebaik @dokterMade @BaleBengong @blogdokter @kurawa Mantab koleksinya om, hape batubata jaman bahula masih nyimpen gak",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pandebaik",
+					"name": "PanDeBaik #BEJO#HOKI",
+					"id": 63144141,
+					"id_str": "63144141",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "dokterMade",
+					"name": "dokterMade",
+					"id": 236639447,
+					"id_str": "236639447",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "BaleBengong",
+					"name": "BaleBengong",
+					"id": 59300777,
+					"id_str": "59300777",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "blogdokter",
+					"name": "Blognya Seorang Dokter",
+					"id": 6846792,
+					"id_str": "6846792",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "kurawa",
+					"name": "Rudi Valinka",
+					"id": 46651600,
+					"id_str": "46651600",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1264765787375452200,
+		"in_reply_to_status_id_str": "1264765787375452161",
+		"in_reply_to_user_id": 63144141,
+		"in_reply_to_user_id_str": "63144141",
+		"in_reply_to_screen_name": "pandebaik",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2076,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@pandebaik @dokterMade @BaleBengong @blogdokter @kurawa Mantab koleksinya om, hape batubata jaman bahula masih nyimpen gak"
+	},
+	{
+		"created_at": "Mon May 25 04:03:12 +0000 2020",
+		"id": 1264768958156009500,
+		"id_str": "1264768958156009474",
+		"full_text": "Yen suba atine inguh\nAwak telah pesu peluh\nKuwangan ngajeng taluh\nAnggon ngaenin I iluh\nDi beten punyan waluh\nSaget garang semaluh\nI iluh mekaik aduh-aduh\nMara bangun nagih labuh\nKrana bayu subu tuyuh\nSrandang-srendeng kangin-kauh\nMakejang ngaden anak buduh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2403,
+			"friends_count": 2076,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "Yen suba atine inguh\nAwak telah pesu peluh\nKuwangan ngajeng taluh\nAnggon ngaenin I iluh\nDi beten punyan waluh\nSaget garang semaluh\nI iluh mekaik aduh-aduh\nMara bangun nagih labuh\nKrana bayu subu tuyuh\nSrandang-srendeng kangin-kauh\nMakejang ngaden anak buduh"
+	},
+	{
 		"created_at": "Sun May 24 14:43:54 +0000 2020",
 		"id": 1264567808437956600,
 		"id_str": "1264567808437956609",
