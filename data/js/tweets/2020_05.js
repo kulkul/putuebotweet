@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 16:29:14 +0000 2020",
+		"id": 1265239734269251600,
+		"id_str": "1265319090328989697",
+		"full_text": "@sudjiwotedjo 1. Edukasi dulu rakyat dg penyuluhan ttg covid19 ini berserta protokol kesehatanya di tingkat Rt, \n2. Siapkan rumah sakit khusus untuk anak2 yg terkena covid19 kita belum punya . \n3. Siapkan Pasar2 tradisional yg sesuai protokol kesehatan covid19.\n4. Siapkan pembayaran e- money. https://t.co/aZ4hXGg24Z",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sudjiwotedjo",
+					"name": "Jack Separo Gendeng",
+					"id": 186801139,
+					"id_str": "186801139",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265239717458571300,
+					"id_str": "1265239717458571264",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8I0crVcAAHLV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8I0crVcAAHLV1.jpg",
+					"url": "https://t.co/aZ4hXGg24Z",
+					"display_url": "pic.twitter.com/aZ4hXGg24Z",
+					"expanded_url": "https://twitter.com/AyubeeB/status/1265239734269251584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265239717458571300,
+					"id_str": "1265239717458571264",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8I0crVcAAHLV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8I0crVcAAHLV1.jpg",
+					"url": "https://t.co/aZ4hXGg24Z",
+					"display_url": "pic.twitter.com/aZ4hXGg24Z",
+					"expanded_url": "https://twitter.com/AyubeeB/status/1265239734269251584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265239725192839200,
+					"id_str": "1265239725192839170",
+					"indices": [
+						294,
+						317
+					],
+					"media_url": "http://pbs.twimg.com/media/EY8I05fVAAIYXM_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY8I05fVAAIYXM_.jpg",
+					"url": "https://t.co/aZ4hXGg24Z",
+					"display_url": "pic.twitter.com/aZ4hXGg24Z",
+					"expanded_url": "https://twitter.com/AyubeeB/status/1265239734269251584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1265233888500048000,
+		"in_reply_to_status_id_str": "1265233888500047873",
+		"in_reply_to_user_id": 186801139,
+		"in_reply_to_user_id_str": "186801139",
+		"in_reply_to_screen_name": "sudjiwotedjo",
+		"user": {
+			"id": 1152113533238145000,
+			"id_str": "1152113533238145024",
+			"name": "Ayubeeb buchanan",
+			"screen_name": "AyubeeB",
+			"location": "",
+			"description": "Only a foolish leader makes people fight.\nLet's celebrate democracy together with love and peace.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1514,
+			"friends_count": 1345,
+			"listed_count": 0,
+			"created_at": "Fri Jul 19 07:10:46 +0000 2019",
+			"favourites_count": 18455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227743215865827328/pU_IgCJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227743215865827328/pU_IgCJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152113533238145024/1571644504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@sudjiwotedjo 1. Edukasi dulu rakyat dg penyuluhan ttg covid19 ini berserta protokol kesehatanya di tingkat Rt, \n2. Siapkan rumah sakit khusus untuk anak2 yg terkena covid19 kita belum punya . \n3. Siapkan Pasar2 tradisional yg sesuai protokol kesehatan covid19.\n4. Siapkan pembayaran e- money. https://t.co/aZ4hXGg24Z"
+	},
+	{
 		"created_at": "Mon May 25 17:06:44 +0000 2020",
 		"id": 1264966140431724500,
 		"id_str": "1264966140431724544",
