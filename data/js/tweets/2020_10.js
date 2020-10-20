@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 23:20:44 +0000 2020",
+		"id": 1318331274969239600,
+		"id_str": "1318331274969239553",
+		"full_text": "@steven_ndut @donopradana Apa daya nggak bisa ngejim.. cabang olga murmer https://t.co/xgpmzqj71l",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steven_ndut",
+					"name": "Steven Setiono",
+					"id": 1279481040478728200,
+					"id_str": "1279481040478728192",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "donopradana",
+					"name": "Sahabatnya Melvin",
+					"id": 326969903,
+					"id_str": "326969903",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318330892008312800,
+					"id_str": "1318330892008312833",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318330892008312833/pu/img/YCKT0hQdNBiuArR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318330892008312833/pu/img/YCKT0hQdNBiuArR9.jpg",
+					"url": "https://t.co/xgpmzqj71l",
+					"display_url": "pic.twitter.com/xgpmzqj71l",
+					"expanded_url": "https://twitter.com/putuebo/status/1318331274969239553/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318330892008312800,
+					"id_str": "1318330892008312833",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318330892008312833/pu/img/YCKT0hQdNBiuArR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318330892008312833/pu/img/YCKT0hQdNBiuArR9.jpg",
+					"url": "https://t.co/xgpmzqj71l",
+					"display_url": "pic.twitter.com/xgpmzqj71l",
+					"expanded_url": "https://twitter.com/putuebo/status/1318331274969239553/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							427
+						],
+						"duration_millis": 34600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318330892008312833/pu/vid/360x640/OpQoO4EECHT1KQVT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1318330892008312833/pu/pl/8eztn8XFpT1xiwp3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318330892008312833/pu/vid/320x568/fjFzh44Bn4IgtOyg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318330892008312833/pu/vid/480x854/VD-c8OIjeVG1jhHO.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1317825073919635500,
+		"in_reply_to_status_id_str": "1317825073919635457",
+		"in_reply_to_user_id": 1279481040478728200,
+		"in_reply_to_user_id_str": "1279481040478728192",
+		"in_reply_to_screen_name": "steven_ndut",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2356,
+			"friends_count": 1995,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@steven_ndut @donopradana Apa daya nggak bisa ngejim.. cabang olga murmer https://t.co/xgpmzqj71l"
+	},
+	{
 		"created_at": "Wed Oct 14 21:36:37 +0000 2020",
 		"id": 1316493136898580500,
 		"id_str": "1316493136898580480",
