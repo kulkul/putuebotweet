@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 12:23:36 +0000 2020",
+		"id": 1325554278522499000,
+		"id_str": "1325776049179815937",
+		"full_text": "@marshad69 @digeeembokFC https://t.co/iIkfD9K7xq",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marshad69",
+					"name": "Hadi Sudjiatno",
+					"id": 60227545,
+					"id_str": "60227545",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "digeeembokFC",
+					"name": "악마 - 魔鬼 - השטן",
+					"id": 88873256,
+					"id_str": "88873256",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325554275393523700,
+					"id_str": "1325554275393523712",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EmVQlyNU0AAMtAm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmVQlyNU0AAMtAm.jpg",
+					"url": "https://t.co/iIkfD9K7xq",
+					"display_url": "pic.twitter.com/iIkfD9K7xq",
+					"expanded_url": "https://twitter.com/wahyu_rc/status/1325554278522499073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325554275393523700,
+					"id_str": "1325554275393523712",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EmVQlyNU0AAMtAm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmVQlyNU0AAMtAm.jpg",
+					"url": "https://t.co/iIkfD9K7xq",
+					"display_url": "pic.twitter.com/iIkfD9K7xq",
+					"expanded_url": "https://twitter.com/wahyu_rc/status/1325554278522499073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1325484283838963700,
+		"in_reply_to_status_id_str": "1325484283838963712",
+		"in_reply_to_user_id": 60227545,
+		"in_reply_to_user_id_str": "60227545",
+		"in_reply_to_screen_name": "marshad69",
+		"user": {
+			"id": 503100045,
+			"id_str": "503100045",
+			"name": "Wahyudi R. Chaniago",
+			"screen_name": "wahyu_rc",
+			"location": "Kupang, NTT",
+			"description": "Pengajar, Pelajar, dan Pekerja IT.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40,
+			"friends_count": 244,
+			"listed_count": 0,
+			"created_at": "Sat Feb 25 14:42:07 +0000 2012",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/436923716396539904/0LpnbXKc_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/436923716396539904/0LpnbXKc_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/503100045/1440975731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@marshad69 @digeeembokFC https://t.co/iIkfD9K7xq"
+	},
+	{
 		"created_at": "Fri Nov 06 10:03:49 +0000 2020",
 		"id": 1324169691921723400,
 		"id_str": "1324653708064354309",
