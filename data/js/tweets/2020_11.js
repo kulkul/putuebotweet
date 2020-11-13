@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 18:21:35 +0000 2020",
+		"id": 1326707236278694000,
+		"id_str": "1326953300395057157",
+		"full_text": "I have a hero, i call him Dad https://t.co/yF13bzvavk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326707227265101800,
+					"id_str": "1326707227265101824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EmlpMaoUcAA17W6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmlpMaoUcAA17W6.jpg",
+					"url": "https://t.co/yF13bzvavk",
+					"display_url": "pic.twitter.com/yF13bzvavk",
+					"expanded_url": "https://twitter.com/_leonSR_/status/1326707236278693888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326707227265101800,
+					"id_str": "1326707227265101824",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EmlpMaoUcAA17W6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmlpMaoUcAA17W6.jpg",
+					"url": "https://t.co/yF13bzvavk",
+					"display_url": "pic.twitter.com/yF13bzvavk",
+					"expanded_url": "https://twitter.com/_leonSR_/status/1326707236278693888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3303949284,
+			"id_str": "3303949284",
+			"name": "Sekjen Sunda Empire",
+			"screen_name": "_leonSR_",
+			"location": "",
+			"description": "Live Love Laugh",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3723,
+			"friends_count": 3885,
+			"listed_count": 1,
+			"created_at": "Sun Aug 02 06:15:52 +0000 2015",
+			"favourites_count": 23443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319544383759241216/OI45HaKM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319544383759241216/OI45HaKM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303949284/1605019212",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a hero, i call him Dad https://t.co/yF13bzvavk"
+	},
+	{
 		"created_at": "Mon Nov 09 12:23:36 +0000 2020",
 		"id": 1325554278522499000,
 		"id_str": "1325776049179815937",
