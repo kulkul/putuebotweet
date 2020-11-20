@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 19 13:42:44 +0000 2020",
+		"id": 1329386899442520000,
+		"id_str": "1329419841078317056",
+		"full_text": "UITE hanya untuk orang yang tidak punya backing massa yg besar, klo mau ngomong seenak udel? Buatlah Ormas... Dijamin hukum mlingser ketakutan. Yang ada paling \"collateral damage\" dikorbanin bagai pion, si orang kuat mah buebaaasss... \n#sayabersamaJRX https://t.co/M71C2oKrhc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sayabersamaJRX",
+					"indices": [
+						236,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329386896804380700,
+					"id_str": "1329386896804380672",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EnLuVtkVgAA70oR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnLuVtkVgAA70oR.jpg",
+					"url": "https://t.co/M71C2oKrhc",
+					"display_url": "pic.twitter.com/M71C2oKrhc",
+					"expanded_url": "https://twitter.com/GusDark4/status/1329386899442520064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329386896804380700,
+					"id_str": "1329386896804380672",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EnLuVtkVgAA70oR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnLuVtkVgAA70oR.jpg",
+					"url": "https://t.co/M71C2oKrhc",
+					"display_url": "pic.twitter.com/M71C2oKrhc",
+					"expanded_url": "https://twitter.com/GusDark4/status/1329386899442520064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1197023131669418000,
+			"id_str": "1197023131669417986",
+			"name": "Gus Dark | Darkade Propaganda",
+			"screen_name": "GusDark4",
+			"location": "Bali",
+			"description": "an Illustrator, propagandist, activist, creative, most of all Human beings, a Balinese from small island of paradise. IG : gus_dark_art.",
+			"url": "https://t.co/oQa5vuWyjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oQa5vuWyjW",
+							"expanded_url": "http://gusthebalinese.wixsite.com/darkade",
+							"display_url": "gusthebalinese.wixsite.com/darkade",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 579,
+			"listed_count": 1,
+			"created_at": "Wed Nov 20 05:25:35 +0000 2019",
+			"favourites_count": 12404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197026444267835393/T5Qjr5rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197026444267835393/T5Qjr5rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1197023131669417986/1586179650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "UITE hanya untuk orang yang tidak punya backing massa yg besar, klo mau ngomong seenak udel? Buatlah Ormas... Dijamin hukum mlingser ketakutan. Yang ada paling \"collateral damage\" dikorbanin bagai pion, si orang kuat mah buebaaasss... \n#sayabersamaJRX https://t.co/M71C2oKrhc"
+	},
+	{
+		"created_at": "Thu Nov 19 13:41:45 +0000 2020",
+		"id": 1329333412889444400,
+		"id_str": "1329419596403621899",
+		"full_text": "Dipenjara karena kata-kata, vonis 1 thnn 2 bulan ini akan jadi catatan buruk dlm sejarah untuk generasi ke depan khususnya Bali. Bali paceklik orang kritis, sekarang ditakut2i dgn hukum berlandaskan 'Rasa' dan parahnya Rasa tak punya dasar yang jelas. \n#BebaskanJRXsid #pasalkaret https://t.co/OECKFoWtfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BebaskanJRXsid",
+					"indices": [
+						253,
+						268
+					]
+				},
+				{
+					"text": "pasalkaret",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329333361488187400,
+					"id_str": "1329333361488187393",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329333361488187393/pu/img/X34093HrVrKFrC7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329333361488187393/pu/img/X34093HrVrKFrC7l.jpg",
+					"url": "https://t.co/OECKFoWtfS",
+					"display_url": "pic.twitter.com/OECKFoWtfS",
+					"expanded_url": "https://twitter.com/GusDark4/status/1329333412889444353/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329333361488187400,
+					"id_str": "1329333361488187393",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329333361488187393/pu/img/X34093HrVrKFrC7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329333361488187393/pu/img/X34093HrVrKFrC7l.jpg",
+					"url": "https://t.co/OECKFoWtfS",
+					"display_url": "pic.twitter.com/OECKFoWtfS",
+					"expanded_url": "https://twitter.com/GusDark4/status/1329333412889444353/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							449
+						],
+						"duration_millis": 14915,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1329333361488187393/pu/vid/720x898/Ww-hfGFX5gHaT3kU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1329333361488187393/pu/pl/ph8VnGoiblAPXPVV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1329333361488187393/pu/vid/320x398/Fs67N9oiuAMR63GT.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1329333361488187393/pu/vid/360x448/4PHumGn7fQcNc61g.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1197023131669418000,
+			"id_str": "1197023131669417986",
+			"name": "Gus Dark | Darkade Propaganda",
+			"screen_name": "GusDark4",
+			"location": "Bali",
+			"description": "an Illustrator, propagandist, activist, creative, most of all Human beings, a Balinese from small island of paradise. IG : gus_dark_art.",
+			"url": "https://t.co/oQa5vuWyjW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oQa5vuWyjW",
+							"expanded_url": "http://gusthebalinese.wixsite.com/darkade",
+							"display_url": "gusthebalinese.wixsite.com/darkade",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 579,
+			"listed_count": 1,
+			"created_at": "Wed Nov 20 05:25:35 +0000 2019",
+			"favourites_count": 12404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197026444267835393/T5Qjr5rf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197026444267835393/T5Qjr5rf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1197023131669417986/1586179650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Dipenjara karena kata-kata, vonis 1 thnn 2 bulan ini akan jadi catatan buruk dlm sejarah untuk generasi ke depan khususnya Bali. Bali paceklik orang kritis, sekarang ditakut2i dgn hukum berlandaskan 'Rasa' dan parahnya Rasa tak punya dasar yang jelas. \n#BebaskanJRXsid #pasalkaret https://t.co/OECKFoWtfS"
+	},
+	{
 		"created_at": "Wed Nov 18 12:13:21 +0000 2020",
 		"id": 1329034958661304300,
 		"id_str": "1329034958661304320",
