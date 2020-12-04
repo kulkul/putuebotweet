@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 13:33:05 +0000 2020",
+		"id": 1334490844674461700,
+		"id_str": "1334490844674461697",
+		"full_text": "@BabeSingit @100 @50 NKRI!! https://t.co/WzKUm4WYLw",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BabeSingit",
+					"name": "Babe Singit",
+					"id": 1321812251683115000,
+					"id_str": "1321812251683115010",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "100",
+					"name": "100 ⭕️",
+					"id": 386798540,
+					"id_str": "386798540",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"screen_name": "50",
+					"name": "max",
+					"id": 23029196,
+					"id_str": "23029196",
+					"indices": [
+						17,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334490836256522200,
+					"id_str": "1334490836256522240",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EoUQWFsVgAApojE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoUQWFsVgAApojE.jpg",
+					"url": "https://t.co/WzKUm4WYLw",
+					"display_url": "pic.twitter.com/WzKUm4WYLw",
+					"expanded_url": "https://twitter.com/putuebo/status/1334490844674461697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 552,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334490836256522200,
+					"id_str": "1334490836256522240",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EoUQWFsVgAApojE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoUQWFsVgAApojE.jpg",
+					"url": "https://t.co/WzKUm4WYLw",
+					"display_url": "pic.twitter.com/WzKUm4WYLw",
+					"expanded_url": "https://twitter.com/putuebo/status/1334490844674461697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 552,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334404667682381800,
+		"in_reply_to_status_id_str": "1334404667682381830",
+		"in_reply_to_user_id": 1321812251683115000,
+		"in_reply_to_user_id_str": "1321812251683115010",
+		"in_reply_to_screen_name": "BabeSingit",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 1993,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "@BabeSingit @100 @50 NKRI!! https://t.co/WzKUm4WYLw"
+	},
+	{
 		"created_at": "Wed Dec 02 18:20:04 +0000 2020",
 		"id": 1334197047293927400,
 		"id_str": "1334200677648613376",
