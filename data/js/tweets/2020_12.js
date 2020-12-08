@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 04:44:25 +0000 2020",
+		"id": 1312377928898945000,
+		"id_str": "1335807354151976960",
+		"full_text": "Namanya Omar. Ia ikut menyembelih kaum kiri di Bali, bahkan memenggal paman sendiri.\n\nJurnalis Life Co Rentmeester memfotonya datang berdoa ke pantai kuburan massal korban, 1966. Membunuh, bagaimanapun hendak dinormalisasi, tetaplah meninggalkan kesan tak sedap bagi pelakunya. https://t.co/Icfmqh7dgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312376279442702300,
+					"id_str": "1312376279442702336",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EjZ_RdvUwAA6Mq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjZ_RdvUwAA6Mq9.jpg",
+					"url": "https://t.co/Icfmqh7dgf",
+					"display_url": "pic.twitter.com/Icfmqh7dgf",
+					"expanded_url": "https://twitter.com/potretlawas/status/1312377928898945025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1868,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312376279442702300,
+					"id_str": "1312376279442702336",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EjZ_RdvUwAA6Mq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjZ_RdvUwAA6Mq9.jpg",
+					"url": "https://t.co/Icfmqh7dgf",
+					"display_url": "pic.twitter.com/Icfmqh7dgf",
+					"expanded_url": "https://twitter.com/potretlawas/status/1312377928898945025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 874,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1868,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1312376288758231000,
+					"id_str": "1312376288758231041",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EjZ_SAcUcAEkm7Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjZ_SAcUcAEkm7Z.jpg",
+					"url": "https://t.co/Icfmqh7dgf",
+					"display_url": "pic.twitter.com/Icfmqh7dgf",
+					"expanded_url": "https://twitter.com/potretlawas/status/1312377928898945025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1515,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 828754122115395600,
+			"id_str": "828754122115395584",
+			"name": "Potret Lawas",
+			"screen_name": "potretlawas",
+			"location": "",
+			"description": "Berbagi potret dan cerita. Menziarahi dan mengobrolkan masa lalu, mengingat kini.\n\nKontak: suratpotretlawas@gmail.com",
+			"url": "https://t.co/pBLatcSUa6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pBLatcSUa6",
+							"expanded_url": "http://instagram.com/potretlawas",
+							"display_url": "instagram.com/potretlawas",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225818,
+			"friends_count": 11,
+			"listed_count": 241,
+			"created_at": "Mon Feb 06 23:55:55 +0000 2017",
+			"favourites_count": 8776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202730977979617281/vvh9f2ZF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202730977979617281/vvh9f2ZF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/828754122115395584/1584777984",
+			"profile_link_color": "C50017",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4155,
+		"favorite_count": 14943,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Namanya Omar. Ia ikut menyembelih kaum kiri di Bali, bahkan memenggal paman sendiri.\n\nJurnalis Life Co Rentmeester memfotonya datang berdoa ke pantai kuburan massal korban, 1966. Membunuh, bagaimanapun hendak dinormalisasi, tetaplah meninggalkan kesan tak sedap bagi pelakunya. https://t.co/Icfmqh7dgf"
+	},
+	{
+		"created_at": "Mon Dec 07 04:43:58 +0000 2020",
+		"id": 1335568172976492500,
+		"id_str": "1335807238947000322",
+		"full_text": "Jagal. Algojo.\n\nJurnalis majalah Life Co Rentmeester memotret seorang pria yang setelah peristiwa G30S turut direkrut militer untuk memburu dan membasmi orang-orang yang dianggap komunis. Ia menyandang parang maut andalannya dalam sebuah bilik suram. Awal 1966. https://t.co/1V65jyWXA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335568163946152000,
+					"id_str": "1335568163946151936",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EojkK0FUwAAex9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojkK0FUwAAex9d.jpg",
+					"url": "https://t.co/1V65jyWXA7",
+					"display_url": "pic.twitter.com/1V65jyWXA7",
+					"expanded_url": "https://twitter.com/potretlawas/status/1335568172976492548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1188,
+							"h": 1765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335568163946152000,
+					"id_str": "1335568163946151936",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EojkK0FUwAAex9d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojkK0FUwAAex9d.jpg",
+					"url": "https://t.co/1V65jyWXA7",
+					"display_url": "pic.twitter.com/1V65jyWXA7",
+					"expanded_url": "https://twitter.com/potretlawas/status/1335568172976492548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1188,
+							"h": 1765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335568169612669000,
+					"id_str": "1335568169612668929",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EojkLJMU8AEvU-A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojkLJMU8AEvU-A.jpg",
+					"url": "https://t.co/1V65jyWXA7",
+					"display_url": "pic.twitter.com/1V65jyWXA7",
+					"expanded_url": "https://twitter.com/potretlawas/status/1335568172976492548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 828754122115395600,
+			"id_str": "828754122115395584",
+			"name": "Potret Lawas",
+			"screen_name": "potretlawas",
+			"location": "",
+			"description": "Berbagi potret dan cerita. Menziarahi dan mengobrolkan masa lalu, mengingat kini.\n\nKontak: suratpotretlawas@gmail.com",
+			"url": "https://t.co/pBLatcSUa6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pBLatcSUa6",
+							"expanded_url": "http://instagram.com/potretlawas",
+							"display_url": "instagram.com/potretlawas",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225818,
+			"friends_count": 11,
+			"listed_count": 241,
+			"created_at": "Mon Feb 06 23:55:55 +0000 2017",
+			"favourites_count": 8776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202730977979617281/vvh9f2ZF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202730977979617281/vvh9f2ZF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/828754122115395584/1584777984",
+			"profile_link_color": "C50017",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 517,
+		"favorite_count": 2648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Jagal. Algojo.\n\nJurnalis majalah Life Co Rentmeester memotret seorang pria yang setelah peristiwa G30S turut direkrut militer untuk memburu dan membasmi orang-orang yang dianggap komunis. Ia menyandang parang maut andalannya dalam sebuah bilik suram. Awal 1966. https://t.co/1V65jyWXA7"
+	},
+	{
 		"created_at": "Sun Dec 06 21:21:13 +0000 2020",
 		"id": 1335695815369625600,
 		"id_str": "1335695815369625600",
