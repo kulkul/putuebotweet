@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 08:08:55 +0000 2020",
+		"id": 1336916731919384600,
+		"id_str": "1336945979602337794",
+		"full_text": "Seputaran dalung dwn sekitarnya, yang mau minuman segar bisa mampir ke Jessi Juice di Jl. Raya Dalung no. 115. Yuk support usaha lokal #KamisBisnis @BaleBengong https://t.co/ybrKCX0dQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KamisBisnis",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BaleBengong",
+					"name": "BaleBengong",
+					"id": 59300777,
+					"id_str": "59300777",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336916723115520000,
+					"id_str": "1336916723115520001",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2urSeUcAEw8xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2urSeUcAEw8xy.jpg",
+					"url": "https://t.co/ybrKCX0dQU",
+					"display_url": "pic.twitter.com/ybrKCX0dQU",
+					"expanded_url": "https://twitter.com/papaaraaa/status/1336916731919384577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336916723115520000,
+					"id_str": "1336916723115520001",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2urSeUcAEw8xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2urSeUcAEw8xy.jpg",
+					"url": "https://t.co/ybrKCX0dQU",
+					"display_url": "pic.twitter.com/ybrKCX0dQU",
+					"expanded_url": "https://twitter.com/papaaraaa/status/1336916731919384577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119378292,
+			"id_str": "119378292",
+			"name": "Papa Ara dan Aksara",
+			"screen_name": "papaaraaa",
+			"location": "Bali, Indonesia",
+			"description": "Fulltime Daddy and Husband. #ASRoma Fanatic! Johnny Cash on playlist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 241,
+			"listed_count": 4,
+			"created_at": "Wed Mar 03 13:22:52 +0000 2010",
+			"favourites_count": 783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301893678202462208/6OT-KZku_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301893678202462208/6OT-KZku_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119378292/1369379717",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Seputaran dalung dwn sekitarnya, yang mau minuman segar bisa mampir ke Jessi Juice di Jl. Raya Dalung no. 115. Yuk support usaha lokal #KamisBisnis @BaleBengong https://t.co/ybrKCX0dQU"
+	},
+	{
 		"created_at": "Mon Dec 07 04:44:25 +0000 2020",
 		"id": 1312377928898945000,
 		"id_str": "1335807354151976960",
