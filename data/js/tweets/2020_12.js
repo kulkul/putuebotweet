@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 04:09:18 +0000 2020",
+		"id": 1338257424772378600,
+		"id_str": "1339422393656254464",
+		"full_text": "Ngeri terhadap rasa nyeri saat disuntik, bahkan sebelum jarum suntik dibuka, sesungguhnya dapat diatasi. Banyak orang dewasa takut disuntik. Kalem saja. Santai. Dan tersenyumlah.\n\n#Komik #MediaLawanCovid19 https://t.co/4QkojFCCpy https://t.co/vF6CpaCcZw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Komik",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "MediaLawanCovid19",
+					"indices": [
+						187,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4QkojFCCpy",
+					"expanded_url": "https://lokadata.id/artikel/komik-agar-tak-kesakitan-tersenyumlah-saat-disuntik-vaksin",
+					"display_url": "lokadata.id/artikel/komik-…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338257422788522000,
+					"id_str": "1338257422788521984",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EpJyCR9W8AAtGHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpJyCR9W8AAtGHN.jpg",
+					"url": "https://t.co/vF6CpaCcZw",
+					"display_url": "pic.twitter.com/vF6CpaCcZw",
+					"expanded_url": "https://twitter.com/LokadataID/status/1338257424772378627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338257422788522000,
+					"id_str": "1338257422788521984",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EpJyCR9W8AAtGHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpJyCR9W8AAtGHN.jpg",
+					"url": "https://t.co/vF6CpaCcZw",
+					"display_url": "pic.twitter.com/vF6CpaCcZw",
+					"expanded_url": "https://twitter.com/LokadataID/status/1338257424772378627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 763,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17588443,
+			"id_str": "17588443",
+			"name": "LokadataID",
+			"screen_name": "LokadataID",
+			"location": "Jakarta Capital Region",
+			"description": "Media berbasis jurnalisme data dan riset | Terbaru: Data SDGs Tanpa Kemiskinan, Tanpa Kelaparan, dan Kehidupan sehat dan Sejahtera - https://t.co/hckMHUhzhC",
+			"url": "https://t.co/NUzQhoB4g2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NUzQhoB4g2",
+							"expanded_url": "http://Lokadata.id",
+							"display_url": "Lokadata.id",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hckMHUhzhC",
+							"expanded_url": "http://dashboard.lokadata.id",
+							"display_url": "dashboard.lokadata.id",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 512104,
+			"friends_count": 19,
+			"listed_count": 1492,
+			"created_at": "Mon Nov 24 08:16:57 +0000 2008",
+			"favourites_count": 1655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 537664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D1D2D4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300736562699804672/kMRlHFu7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300736562699804672/kMRlHFu7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17588443/1599444643",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCED7C",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Ngeri terhadap rasa nyeri saat disuntik, bahkan sebelum jarum suntik dibuka, sesungguhnya dapat diatasi. Banyak orang dewasa takut disuntik. Kalem saja. Santai. Dan tersenyumlah.\n\n#Komik #MediaLawanCovid19 https://t.co/4QkojFCCpy https://t.co/vF6CpaCcZw"
+	},
+	{
 		"created_at": "Mon Dec 14 17:44:14 +0000 2020",
 		"id": 1338310158896783400,
 		"id_str": "1338540313187520513",
