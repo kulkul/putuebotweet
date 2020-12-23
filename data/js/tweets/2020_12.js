@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 15:57:51 +0000 2020",
+		"id": 1341274256034787300,
+		"id_str": "1341412643341537285",
+		"full_text": "Yang heboh di Indonesia tahun 2000an, sebuah trit singkat \n\n1. Penampakan azan maghrib Trans TV https://t.co/xlS3x6qHZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341274245083500500,
+					"id_str": "1341274245083500549",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0p0cyVEAUHu2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0p0cyVEAUHu2N.jpg",
+					"url": "https://t.co/xlS3x6qHZ5",
+					"display_url": "pic.twitter.com/xlS3x6qHZ5",
+					"expanded_url": "https://twitter.com/windaul/status/1341274256034787329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341274245083500500,
+					"id_str": "1341274245083500549",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0p0cyVEAUHu2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0p0cyVEAUHu2N.jpg",
+					"url": "https://t.co/xlS3x6qHZ5",
+					"display_url": "pic.twitter.com/xlS3x6qHZ5",
+					"expanded_url": "https://twitter.com/windaul/status/1341274256034787329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100686498,
+			"id_str": "100686498",
+			"name": "warga sipil",
+			"screen_name": "windaul",
+			"location": "DM For Inquiries",
+			"description": "Energy comms. Politics/Broadway/classicals nerd. 🔃/❤️ ≠ Endorsement. Don’t quote/repost without permission | Jangan dikutip tanpa izin",
+			"url": "https://t.co/WdxEgJvATv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WdxEgJvATv",
+							"expanded_url": "http://medium.com/@windaul",
+							"display_url": "medium.com/@windaul",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14070,
+			"friends_count": 400,
+			"listed_count": 14,
+			"created_at": "Thu Dec 31 05:05:40 +0000 2009",
+			"favourites_count": 16025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340090071140057088/_qeq0_N2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340090071140057088/_qeq0_N2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100686498/1608394091",
+			"profile_link_color": "ED9FD2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "C4799D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7557,
+		"favorite_count": 29627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Yang heboh di Indonesia tahun 2000an, sebuah trit singkat \n\n1. Penampakan azan maghrib Trans TV https://t.co/xlS3x6qHZ5"
+	},
+	{
 		"created_at": "Thu Dec 17 04:09:18 +0000 2020",
 		"id": 1338257424772378600,
 		"id_str": "1339422393656254464",
