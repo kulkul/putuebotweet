@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 16:13:52 +0000 2020",
+		"id": 1342503838515773400,
+		"id_str": "1342503838515773440",
+		"full_text": "Kartun ini ditolak muat di web @PehBaliCartoon, kupajang di sini aja.. #COVID19\n... #MerryChristmas and #HappyNewYear2021 #cartoon https://t.co/A8UcKPThf8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "MerryChristmas",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"text": "HappyNewYear2021",
+					"indices": [
+						104,
+						121
+					]
+				},
+				{
+					"text": "cartoon",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PehBaliCartoon",
+					"name": "Peh! Bali Cartoon",
+					"id": 1197426280796283000,
+					"id_str": "1197426280796282882",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342503830215258000,
+					"id_str": "1342503830215258112",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EqGIHuWU8AA7P0s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqGIHuWU8AA7P0s.jpg",
+					"url": "https://t.co/A8UcKPThf8",
+					"display_url": "pic.twitter.com/A8UcKPThf8",
+					"expanded_url": "https://twitter.com/putuebo/status/1342503838515773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 948,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 948,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342503830215258000,
+					"id_str": "1342503830215258112",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EqGIHuWU8AA7P0s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqGIHuWU8AA7P0s.jpg",
+					"url": "https://t.co/A8UcKPThf8",
+					"display_url": "pic.twitter.com/A8UcKPThf8",
+					"expanded_url": "https://twitter.com/putuebo/status/1342503838515773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 948,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 948,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2360,
+			"friends_count": 2009,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Kartun ini ditolak muat di web @PehBaliCartoon, kupajang di sini aja.. #COVID19\n... #MerryChristmas and #HappyNewYear2021 #cartoon https://t.co/A8UcKPThf8"
+	},
+	{
 		"created_at": "Tue Dec 22 15:57:51 +0000 2020",
 		"id": 1341274256034787300,
 		"id_str": "1341412643341537285",
