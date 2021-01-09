@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 16:51:37 +0000 2021",
+		"id": 1347536826630766600,
+		"id_str": "1347586771639406599",
+		"full_text": "((KABAR TERBARU)) Malam ini Pemprov Bali &amp; Christian Dior menandatangani MoU kerja sama penggunaan kain endek Bali dalam desain produk-produk Dior.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59300777,
+			"id_str": "59300777",
+			"name": "BaleBengong",
+			"screen_name": "BaleBengong",
+			"location": "Bali",
+			"description": "Portal jurnalisme warga tentang Bali sejak 26 Juni 2007 | Tempat warga berbagi informasi & berdiskusi apa saja | #ngortwit | Silakan mention untuk berkabar.",
+			"url": "https://t.co/dtVD1dIkjx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dtVD1dIkjx",
+							"expanded_url": "http://www.BaleBengong.id",
+							"display_url": "BaleBengong.id",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107324,
+			"friends_count": 740,
+			"listed_count": 177,
+			"created_at": "Thu Jul 23 00:16:01 +0000 2009",
+			"favourites_count": 205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F3F1E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176001319519211522/ij-VY1vT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176001319519211522/ij-VY1vT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59300777/1592753073",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "in",
+		"text": "((KABAR TERBARU)) Malam ini Pemprov Bali &amp; Christian Dior menandatangani MoU kerja sama penggunaan kain endek Bali dalam desain produk-produk Dior."
+	},
+	{
 		"created_at": "Wed Jan 06 18:07:03 +0000 2021",
 		"id": 1346880977482649600,
 		"id_str": "1346880977482649603",
