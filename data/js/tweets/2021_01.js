@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 17:31:27 +0000 2021",
+		"id": 1353580649265979400,
+		"id_str": "1354119775568334848",
+		"full_text": "The man who does not read has no advantage over the man who cannot read. —Mark Twain https://t.co/kbLvTOknpR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1353580643641385000,
+					"id_str": "1353580643641384960",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EsjibH8W4AAL9fX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsjibH8W4AAL9fX.jpg",
+					"url": "https://t.co/kbLvTOknpR",
+					"display_url": "pic.twitter.com/kbLvTOknpR",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/1353580649265979392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353580643641385000,
+					"id_str": "1353580643641384960",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EsjibH8W4AAL9fX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsjibH8W4AAL9fX.jpg",
+					"url": "https://t.co/kbLvTOknpR",
+					"display_url": "pic.twitter.com/kbLvTOknpR",
+					"expanded_url": "https://twitter.com/ValaAfshar/status/1353580649265979392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259725229,
+			"id_str": "259725229",
+			"name": "Vala Afshar",
+			"screen_name": "ValaAfshar",
+			"location": "Boston",
+			"description": "Chief Digital Evangelist @Salesforce | Columnist: @ZDNet | Show: @DisrupTVShow | Book: https://t.co/oSpLljigAi",
+			"url": "https://t.co/hrhaCHhyjx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hrhaCHhyjx",
+							"expanded_url": "https://www.zdnet.com/meet-the-team/us/vafshar/",
+							"display_url": "zdnet.com/meet-the-team/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oSpLljigAi",
+							"expanded_url": "http://bit.ly/tposbe",
+							"display_url": "bit.ly/tposbe",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 525548,
+			"friends_count": 300,
+			"listed_count": 11052,
+			"created_at": "Wed Mar 02 13:31:29 +0000 2011",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 429135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259725229/1439209336",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 241,
+		"favorite_count": 908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The man who does not read has no advantage over the man who cannot read. —Mark Twain https://t.co/kbLvTOknpR"
+	},
+	{
 		"created_at": "Thu Jan 21 13:58:22 +0000 2021",
 		"id": 1352254212420194300,
 		"id_str": "1352254212420194307",
