@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 16:31:00 +0000 2021",
+		"id": 1361243273726058500,
+		"id_str": "1361352322278809604",
+		"full_text": "Anak bapak dah 6 tahun aja hari ini...\n\nMatur Suksema untuk sketsanya bli @putuebo \nMasih tiang simpan sampai hari ini... https://t.co/GMGEBcgp4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "putuebo",
+					"name": "Putu Ebo",
+					"id": 14065297,
+					"id_str": "14065297",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361243271037522000,
+					"id_str": "1361243271037521924",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQbivcVEAQFp6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQbivcVEAQFp6J.jpg",
+					"url": "https://t.co/GMGEBcgp4i",
+					"display_url": "pic.twitter.com/GMGEBcgp4i",
+					"expanded_url": "https://twitter.com/pandebaik/status/1361243273726058499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 436,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 436,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361243271037522000,
+					"id_str": "1361243271037521924",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQbivcVEAQFp6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQbivcVEAQFp6J.jpg",
+					"url": "https://t.co/GMGEBcgp4i",
+					"display_url": "pic.twitter.com/GMGEBcgp4i",
+					"expanded_url": "https://twitter.com/pandebaik/status/1361243273726058499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 436,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 436,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63144141,
+			"id_str": "63144141",
+			"name": "PanDeBaik #BEJO#HOKI",
+			"screen_name": "pandebaik",
+			"location": "BALI",
+			"description": "Blogger / Balinese / Droiders / https://t.co/D4ZKTNeQzG / PNS / 195 cm / #BEJO / #HOKI / #BaliTolakReklamasi",
+			"url": "https://t.co/UgF4iTbZ3O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UgF4iTbZ3O",
+							"expanded_url": "http://www.pandebaik.com/",
+							"display_url": "pandebaik.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/D4ZKTNeQzG",
+							"expanded_url": "http://pandebaik.com",
+							"display_url": "pandebaik.com",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1869,
+			"friends_count": 256,
+			"listed_count": 35,
+			"created_at": "Wed Aug 05 14:18:01 +0000 2009",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556822994480140290/ztoyve_z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556822994480140290/ztoyve_z_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63144141/1406727061",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d88db2919bf03a65",
+			"url": "https://api.twitter.com/1.1/geo/id/d88db2919bf03a65.json",
+			"place_type": "city",
+			"name": "East Denpasar",
+			"full_name": "East Denpasar, Indonesia",
+			"country_code": "ID",
+			"country": "Indonesia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.2141769,
+							-8.6750868
+						],
+						[
+							115.274881,
+							-8.6750868
+						],
+						[
+							115.274881,
+							-8.591728
+						],
+						[
+							115.2141769,
+							-8.591728
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Anak bapak dah 6 tahun aja hari ini...\n\nMatur Suksema untuk sketsanya bli @putuebo \nMasih tiang simpan sampai hari ini... https://t.co/GMGEBcgp4i"
+	},
+	{
 		"created_at": "Thu Feb 11 09:14:58 +0000 2021",
 		"id": 1359793036385919000,
 		"id_str": "1359793036385918977",
