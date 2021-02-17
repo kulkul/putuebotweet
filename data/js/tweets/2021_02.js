@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 08:34:55 +0000 2021",
+		"id": 1361465733373386800,
+		"id_str": "1361594897187229700",
+		"full_text": "Someone is bored.. 🕷🕸 https://t.co/5b0zXCjYpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361465700234199000,
+					"id_str": "1361465700234199041",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361465700234199041/pu/img/C1Zct5Oifevv3hMB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361465700234199041/pu/img/C1Zct5Oifevv3hMB.jpg",
+					"url": "https://t.co/5b0zXCjYpN",
+					"display_url": "pic.twitter.com/5b0zXCjYpN",
+					"expanded_url": "https://twitter.com/buitengebieden_/status/1361465733373386754/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361465700234199000,
+					"id_str": "1361465700234199041",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361465700234199041/pu/img/C1Zct5Oifevv3hMB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361465700234199041/pu/img/C1Zct5Oifevv3hMB.jpg",
+					"url": "https://t.co/5b0zXCjYpN",
+					"display_url": "pic.twitter.com/5b0zXCjYpN",
+					"expanded_url": "https://twitter.com/buitengebieden_/status/1361465733373386754/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361465700234199041/pu/vid/480x480/0qWWQCOcLw_-zxd0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361465700234199041/pu/pl/GBV3Qqz-Ub3Yv6bg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361465700234199041/pu/vid/640x640/LlN6DJ4MUtMK-RcL.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361465700234199041/pu/vid/320x320/2-qFrIL6iJ00knOO.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130021685351080000,
+			"id_str": "1130021685351079938",
+			"name": "Buitengebieden",
+			"screen_name": "buitengebieden_",
+			"location": "Please support me",
+			"description": "Welcome to the positive side of Twitter! I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
+			"url": "https://t.co/wHhrEbcYA8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wHhrEbcYA8",
+							"expanded_url": "http://paypal.me/buitengebieden",
+							"display_url": "paypal.me/buitengebieden",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 244955,
+			"friends_count": 54,
+			"listed_count": 1276,
+			"created_at": "Sun May 19 08:05:39 +0000 2019",
+			"favourites_count": 17838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130021685351079938/1558253468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7429,
+		"favorite_count": 38009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone is bored.. 🕷🕸 https://t.co/5b0zXCjYpN"
+	},
+	{
+		"created_at": "Tue Feb 16 08:21:00 +0000 2021",
+		"id": 1361591395547496400,
+		"id_str": "1361591395547496451",
+		"full_text": "Baiklah, saya ikut sebarkan. Walau ada tanggapan di media kalo logo ini belum pas. ~Btw, kawan tuli prefer utk tidak menggunakan istilah tuna rungu. https://t.co/MvUCghQhG2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361591371581165600,
+					"id_str": "1361591371581165570",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EuVYI3BVEAI1v3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuVYI3BVEAI1v3I.jpg",
+					"url": "https://t.co/MvUCghQhG2",
+					"display_url": "pic.twitter.com/MvUCghQhG2",
+					"expanded_url": "https://twitter.com/putuebo/status/1361591395547496451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361591371581165600,
+					"id_str": "1361591371581165570",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EuVYI3BVEAI1v3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuVYI3BVEAI1v3I.jpg",
+					"url": "https://t.co/MvUCghQhG2",
+					"display_url": "pic.twitter.com/MvUCghQhG2",
+					"expanded_url": "https://twitter.com/putuebo/status/1361591395547496451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 766,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1361591382297612300,
+					"id_str": "1361591382297612290",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EuVYJe8VEAIDdUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuVYJe8VEAIDdUa.jpg",
+					"url": "https://t.co/MvUCghQhG2",
+					"display_url": "pic.twitter.com/MvUCghQhG2",
+					"expanded_url": "https://twitter.com/putuebo/status/1361591395547496451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 769,
+							"h": 854,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 769,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2366,
+			"friends_count": 2012,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Baiklah, saya ikut sebarkan. Walau ada tanggapan di media kalo logo ini belum pas. ~Btw, kawan tuli prefer utk tidak menggunakan istilah tuna rungu. https://t.co/MvUCghQhG2"
+	},
+	{
 		"created_at": "Mon Feb 15 16:31:00 +0000 2021",
 		"id": 1361243273726058500,
 		"id_str": "1361352322278809604",
