@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 24 20:54:00 +0000 2021",
+		"id": 1364679995801571300,
+		"id_str": "1364679995801571328",
+		"full_text": "Nemu fakta.. lukisan2 Cy Twomly nilainya ratusan milyar rupiah, bahkan sampai trilyun. Kaya gini contoh karyanya.. mantap yes (apa kesel?) https://t.co/nJJbjrL719",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364679907658264600,
+					"id_str": "1364679907658264578",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EvBRJUgVcAI39Fj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvBRJUgVcAI39Fj.jpg",
+					"url": "https://t.co/nJJbjrL719",
+					"display_url": "pic.twitter.com/nJJbjrL719",
+					"expanded_url": "https://twitter.com/putuebo/status/1364679995801571328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364679907658264600,
+					"id_str": "1364679907658264578",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EvBRJUgVcAI39Fj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvBRJUgVcAI39Fj.jpg",
+					"url": "https://t.co/nJJbjrL719",
+					"display_url": "pic.twitter.com/nJJbjrL719",
+					"expanded_url": "https://twitter.com/putuebo/status/1364679995801571328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 569,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364679969964662800,
+					"id_str": "1364679969964662786",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EvBRM8nVoAIxbF1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvBRM8nVoAIxbF1.jpg",
+					"url": "https://t.co/nJJbjrL719",
+					"display_url": "pic.twitter.com/nJJbjrL719",
+					"expanded_url": "https://twitter.com/putuebo/status/1364679995801571328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364679983814246400,
+					"id_str": "1364679983814246400",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EvBRNwNVgAA-GEX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvBRNwNVgAA-GEX.jpg",
+					"url": "https://t.co/nJJbjrL719",
+					"display_url": "pic.twitter.com/nJJbjrL719",
+					"expanded_url": "https://twitter.com/putuebo/status/1364679995801571328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 432,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 329,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 432,
+							"h": 329,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364679986804756500,
+					"id_str": "1364679986804756480",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EvBRN7WVEAATMhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvBRN7WVEAATMhx.jpg",
+					"url": "https://t.co/nJJbjrL719",
+					"display_url": "pic.twitter.com/nJJbjrL719",
+					"expanded_url": "https://twitter.com/putuebo/status/1364679995801571328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2363,
+			"friends_count": 2006,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Nemu fakta.. lukisan2 Cy Twomly nilainya ratusan milyar rupiah, bahkan sampai trilyun. Kaya gini contoh karyanya.. mantap yes (apa kesel?) https://t.co/nJJbjrL719"
+	},
+	{
+		"created_at": "Wed Feb 24 20:42:34 +0000 2021",
+		"id": 1364677120350244900,
+		"id_str": "1364677120350244865",
+		"full_text": "@monezz Funtap!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "monezz",
+					"name": "monez",
+					"id": 42819496,
+					"id_str": "42819496",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1364624843585450000,
+		"in_reply_to_status_id_str": "1364624843585449986",
+		"in_reply_to_user_id": 42819496,
+		"in_reply_to_user_id_str": "42819496",
+		"in_reply_to_screen_name": "monezz",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2363,
+			"friends_count": 2006,
+			"listed_count": 14,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@monezz Funtap!"
+	},
+	{
 		"created_at": "Tue Feb 16 08:34:55 +0000 2021",
 		"id": 1361465733373386800,
 		"id_str": "1361594897187229700",
