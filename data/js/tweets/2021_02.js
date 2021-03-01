@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 12:02:42 +0000 2021",
+		"id": 1365576771639283700,
+		"id_str": "1365995842981687296",
+		"full_text": "Ini dia kumpulan thread setahun di Bali dengan tema: Tempat Makan dan Ngopi di Bali. \n\nSemuanya foto pribadi ya gada yang nyomot google jadi valid ai udah berkunjung langsung. Like dulu buat dikunjungi nanti.\n\n[A THREAD]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42556892,
+			"id_str": "42556892",
+			"name": "Eunike Kartini",
+			"screen_name": "euniceapril",
+			"location": "Bali, Indonesia",
+			"description": "ati-ati salty banget 🤭 suka random tweet aja dan kasih rekomendasi tempat-tempat di Bali",
+			"url": "https://t.co/zCybZpAIAB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zCybZpAIAB",
+							"expanded_url": "http://instagram.com/tarinaminusta",
+							"display_url": "instagram.com/tarinaminusta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11233,
+			"friends_count": 568,
+			"listed_count": 137,
+			"created_at": "Tue May 26 03:42:14 +0000 2009",
+			"favourites_count": 13045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360160691819171842/RyS9174O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360160691819171842/RyS9174O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42556892/1610885035",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3548,
+		"favorite_count": 22461,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "in",
+		"text": "Ini dia kumpulan thread setahun di Bali dengan tema: Tempat Makan dan Ngopi di Bali. \n\nSemuanya foto pribadi ya gada yang nyomot google jadi valid ai udah berkunjung langsung. Like dulu buat dikunjungi nanti.\n\n[A THREAD]"
+	},
+	{
 		"created_at": "Thu Feb 25 12:51:07 +0000 2021",
 		"id": 1364920863213068300,
 		"id_str": "1364920863213068289",
