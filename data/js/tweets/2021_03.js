@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 31 13:47:51 +0000 2021",
+		"id": 1376647562870943700,
+		"id_str": "1377256329882955777",
+		"full_text": "@rizkidwika Ide buat kantor kementrian\nKementan : nanas\nKementrian perikanan : ikan\nKemendag : tas belanja\nKemenhumkam : rumah terbalik, soalnya hukum tumpul diatas tajam dibawah #eh https://t.co/CFFWBEMBun",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eh",
+					"indices": [
+						179,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rizkidwika",
+					"name": "𝗗𝗪𝗜𝗞",
+					"id": 41284868,
+					"id_str": "41284868",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1376647557732954000,
+					"id_str": "1376647557732954115",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ExrVqPOU8AMO3Ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExrVqPOU8AMO3Ux.jpg",
+					"url": "https://t.co/CFFWBEMBun",
+					"display_url": "pic.twitter.com/CFFWBEMBun",
+					"expanded_url": "https://twitter.com/indomiegorengkk/status/1376647562870943748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1376647557732954000,
+					"id_str": "1376647557732954115",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ExrVqPOU8AMO3Ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExrVqPOU8AMO3Ux.jpg",
+					"url": "https://t.co/CFFWBEMBun",
+					"display_url": "pic.twitter.com/CFFWBEMBun",
+					"expanded_url": "https://twitter.com/indomiegorengkk/status/1376647562870943748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1376647557732999200,
+					"id_str": "1376647557732999171",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ExrVqPOVoAMKG3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExrVqPOVoAMKG3Z.jpg",
+					"url": "https://t.co/CFFWBEMBun",
+					"display_url": "pic.twitter.com/CFFWBEMBun",
+					"expanded_url": "https://twitter.com/indomiegorengkk/status/1376647562870943748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 250,
+							"h": 165,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 165,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 165,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1376647557732950000,
+					"id_str": "1376647557732950016",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ExrVqPOU4AApfPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExrVqPOU4AApfPK.jpg",
+					"url": "https://t.co/CFFWBEMBun",
+					"display_url": "pic.twitter.com/CFFWBEMBun",
+					"expanded_url": "https://twitter.com/indomiegorengkk/status/1376647562870943748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 749,
+							"h": 409,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 409,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1376647557732913200,
+					"id_str": "1376647557732913158",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/ExrVqPOUUAYYc1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExrVqPOUUAYYc1K.jpg",
+					"url": "https://t.co/CFFWBEMBun",
+					"display_url": "pic.twitter.com/CFFWBEMBun",
+					"expanded_url": "https://twitter.com/indomiegorengkk/status/1376647562870943748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1376506890822119400,
+		"in_reply_to_status_id_str": "1376506890822119424",
+		"in_reply_to_user_id": 41284868,
+		"in_reply_to_user_id_str": "41284868",
+		"in_reply_to_screen_name": "rizkidwika",
+		"user": {
+			"id": 296964014,
+			"id_str": "296964014",
+			"name": "bilalmoch",
+			"screen_name": "indomiegorengkk",
+			"location": "Jakarta",
+			"description": "siapakah aku?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447,
+			"friends_count": 449,
+			"listed_count": 0,
+			"created_at": "Wed May 11 17:58:23 +0000 2011",
+			"favourites_count": 21738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364206336838262785/Dooa6-v__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364206336838262785/Dooa6-v__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/296964014/1609195410",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 1169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@rizkidwika Ide buat kantor kementrian\nKementan : nanas\nKementrian perikanan : ikan\nKemendag : tas belanja\nKemenhumkam : rumah terbalik, soalnya hukum tumpul diatas tajam dibawah #eh https://t.co/CFFWBEMBun"
+	},
+	{
+		"created_at": "Wed Mar 31 13:47:37 +0000 2021",
+		"id": 1376506890822119400,
+		"id_str": "1377256270932058115",
+		"full_text": "From this                            To this https://t.co/gVyrJTJWoG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1376506886070050800,
+					"id_str": "1376506886070050828",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ExpVuEcVoAw7Z3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExpVuEcVoAw7Z3H.jpg",
+					"url": "https://t.co/gVyrJTJWoG",
+					"display_url": "pic.twitter.com/gVyrJTJWoG",
+					"expanded_url": "https://twitter.com/rizkidwika/status/1376506890822119424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1376506886070050800,
+					"id_str": "1376506886070050828",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ExpVuEcVoAw7Z3H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExpVuEcVoAw7Z3H.jpg",
+					"url": "https://t.co/gVyrJTJWoG",
+					"display_url": "pic.twitter.com/gVyrJTJWoG",
+					"expanded_url": "https://twitter.com/rizkidwika/status/1376506890822119424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1376506888683069400,
+					"id_str": "1376506888683069442",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ExpVuOLVIAIYmxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExpVuOLVIAIYmxw.jpg",
+					"url": "https://t.co/gVyrJTJWoG",
+					"display_url": "pic.twitter.com/gVyrJTJWoG",
+					"expanded_url": "https://twitter.com/rizkidwika/status/1376506890822119424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 780,
+							"h": 393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 343,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41284868,
+			"id_str": "41284868",
+			"name": "𝗗𝗪𝗜𝗞",
+			"screen_name": "rizkidwika",
+			"location": "Kekaisaran Sunda Empire",
+			"description": "(kb.) Makhluk Tuhan Paling Bekasi. Mengetwit tentang arsitektur, sejarah, perkotaan, balajær, hingga jagat showbiz Indonesia. DM untuk kontak/kerja sama.",
+			"url": "https://t.co/AVIrQkz9lq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AVIrQkz9lq",
+							"expanded_url": "http://youtube.com/c/rizkidwika",
+							"display_url": "youtube.com/c/rizkidwika",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25179,
+			"friends_count": 991,
+			"listed_count": 63,
+			"created_at": "Wed May 20 03:17:00 +0000 2009",
+			"favourites_count": 10183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335204941548277761/oLFTa5Xo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335204941548277761/oLFTa5Xo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41284868/1553156845",
+			"profile_link_color": "00918A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2087,
+		"favorite_count": 10367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From this                            To this https://t.co/gVyrJTJWoG"
+	},
+	{
 		"created_at": "Thu Mar 25 06:11:28 +0000 2021",
 		"id": 1374967148720791600,
 		"id_str": "1374967148720791555",
