@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 07:00:34 +0000 2021",
+		"id": 1384039200819802000,
+		"id_str": "1384039200819802112",
+		"full_text": "Pelatihan Animasi 2D secara GRATIS dan bagi yang berprestasi akan disalurkan untuk bekerja di industri kreatif.\n\nDisediakan Uang Transport (dari manapun di seluruh Indonesia) + Uang Saku + Makan.\n\nBatas akhir pendaftaran 24 April 2021 https://t.co/8Lxd6Ft6Rl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384039185896464400,
+					"id_str": "1384039185896464385",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EzUYTn6UYAENUSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzUYTn6UYAENUSY.jpg",
+					"url": "https://t.co/8Lxd6Ft6Rl",
+					"display_url": "pic.twitter.com/8Lxd6Ft6Rl",
+					"expanded_url": "https://twitter.com/putuebo/status/1384039200819802112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384039185896464400,
+					"id_str": "1384039185896464385",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EzUYTn6UYAENUSY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzUYTn6UYAENUSY.jpg",
+					"url": "https://t.co/8Lxd6Ft6Rl",
+					"display_url": "pic.twitter.com/8Lxd6Ft6Rl",
+					"expanded_url": "https://twitter.com/putuebo/status/1384039200819802112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2336,
+			"friends_count": 1975,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Pelatihan Animasi 2D secara GRATIS dan bagi yang berprestasi akan disalurkan untuk bekerja di industri kreatif.\n\nDisediakan Uang Transport (dari manapun di seluruh Indonesia) + Uang Saku + Makan.\n\nBatas akhir pendaftaran 24 April 2021 https://t.co/8Lxd6Ft6Rl"
+	},
+	{
 		"created_at": "Sun Apr 18 11:43:48 +0000 2021",
 		"id": 1383748091455557600,
 		"id_str": "1383748091455557633",
