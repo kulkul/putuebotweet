@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 16:20:19 +0000 2021",
+		"id": 1446053707351609300,
+		"id_str": "1446148391877038090",
+		"full_text": "@03__nakula Dal dal.. https://t.co/VH9hdMuzVS",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "03__nakula",
+					"name": "Nakula",
+					"id": 1101696077147729900,
+					"id_str": "1101696077147729920",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446053554704183300,
+					"id_str": "1446053554704183300",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446053554704183300/pu/img/ysCDQmSz82QsNR_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446053554704183300/pu/img/ysCDQmSz82QsNR_l.jpg",
+					"url": "https://t.co/VH9hdMuzVS",
+					"display_url": "pic.twitter.com/VH9hdMuzVS",
+					"expanded_url": "https://twitter.com/Mytyhsym06/status/1446053707351609347/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446053554704183300,
+					"id_str": "1446053554704183300",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446053554704183300/pu/img/ysCDQmSz82QsNR_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446053554704183300/pu/img/ysCDQmSz82QsNR_l.jpg",
+					"url": "https://t.co/VH9hdMuzVS",
+					"display_url": "pic.twitter.com/VH9hdMuzVS",
+					"expanded_url": "https://twitter.com/Mytyhsym06/status/1446053707351609347/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 34048,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446053554704183300/pu/vid/480x852/NpMS_tyqhDIhxleo.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446053554704183300/pu/vid/720x1280/yGjEcLDoxmHwpkkh.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446053554704183300/pu/vid/320x568/08nd6_1ep1avGYzE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1446053554704183300/pu/pl/PQcdYmhaHM1i8a9q.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446002626030538800,
+		"in_reply_to_status_id_str": "1446002626030538756",
+		"in_reply_to_user_id": 1101696077147729900,
+		"in_reply_to_user_id_str": "1101696077147729920",
+		"in_reply_to_screen_name": "03__nakula",
+		"user": {
+			"id": 973379350044196900,
+			"id_str": "973379350044196864",
+			"name": "Jaka Sambung",
+			"screen_name": "Mytyhsym06",
+			"location": "Kota Makassar, Sulawesi Selata",
+			"description": "lugu dan polos tapi bukan kadrung",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1235,
+			"friends_count": 1529,
+			"listed_count": 0,
+			"created_at": "Tue Mar 13 02:04:56 +0000 2018",
+			"favourites_count": 1527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193891198995296256/FzTZ9vZm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193891198995296256/FzTZ9vZm_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "@03__nakula Dal dal.. https://t.co/VH9hdMuzVS"
+	},
+	{
+		"created_at": "Thu Oct 07 16:14:37 +0000 2021",
+		"id": 1446146959769686000,
+		"id_str": "1446146959769686021",
+		"full_text": "@GusDark4 @pandebaik @iwanfals @gunsnroses @HaiMagazine Harta karun ne gus... coba tukar aji kaos darkade mungkin beruntung dapet fotokopiane...",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GusDark4",
+					"name": "Gus Dark | Darkade Propaganda",
+					"id": 1197023131669418000,
+					"id_str": "1197023131669417986",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "pandebaik",
+					"name": "PanDeBaik #BEJO#HOKI",
+					"id": 63144141,
+					"id_str": "63144141",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "iwanfals",
+					"name": "❤",
+					"id": 60406679,
+					"id_str": "60406679",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "gunsnroses",
+					"name": "Guns N' Roses",
+					"id": 95955871,
+					"id_str": "95955871",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "HaiMagazine",
+					"name": "HAI, ayo vaksin!",
+					"id": 32358893,
+					"id_str": "32358893",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446113810197057500,
+		"in_reply_to_status_id_str": "1446113810197057536",
+		"in_reply_to_user_id": 1197023131669418000,
+		"in_reply_to_user_id_str": "1197023131669417986",
+		"in_reply_to_screen_name": "GusDark4",
+		"user": {
+			"id": 14065297,
+			"id_str": "14065297",
+			"name": "Putu Ebo",
+			"screen_name": "putuebo",
+			"location": "Bali",
+			"description": "Half Cartoonist, Half Jedi. Full timer cinta NKRI",
+			"url": "http://t.co/bHuYxX1W2B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bHuYxX1W2B",
+							"expanded_url": "http://putuebo.com",
+							"display_url": "putuebo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2311,
+			"friends_count": 1958,
+			"listed_count": 13,
+			"created_at": "Sat Mar 01 16:05:55 +0000 2008",
+			"favourites_count": 12363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8FF13",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/490531049705713664/lVtgvmY7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14065297/1411580550",
+			"profile_link_color": "A60A0A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DE5E11",
+			"profile_text_color": "FFD583",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@GusDark4 @pandebaik @iwanfals @gunsnroses @HaiMagazine Harta karun ne gus... coba tukar aji kaos darkade mungkin beruntung dapet fotokopiane..."
+	},
+	{
 		"created_at": "Wed Oct 06 17:26:40 +0000 2021",
 		"id": 1307381102743441400,
 		"id_str": "1445802701439201282",
