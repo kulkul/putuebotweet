@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 22:56:10 +0000 2022",
+		"id": 1528540752585732000,
+		"id_str": "1528872445863526401",
+		"full_text": "HALAH HALAH. https://t.co/hQMU6HQoeJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1528540685829255200,
+					"id_str": "1528540685829255168",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1528540685829255168/pu/img/-4czZS5qdlIZsMI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1528540685829255168/pu/img/-4czZS5qdlIZsMI5.jpg",
+					"url": "https://t.co/hQMU6HQoeJ",
+					"display_url": "pic.twitter.com/hQMU6HQoeJ",
+					"expanded_url": "https://twitter.com/uradn/status/1528540752585732098/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1528540685829255200,
+					"id_str": "1528540685829255168",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1528540685829255168/pu/img/-4czZS5qdlIZsMI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1528540685829255168/pu/img/-4czZS5qdlIZsMI5.jpg",
+					"url": "https://t.co/hQMU6HQoeJ",
+					"display_url": "pic.twitter.com/hQMU6HQoeJ",
+					"expanded_url": "https://twitter.com/uradn/status/1528540752585732098/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							569
+						],
+						"duration_millis": 29867,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1528540685829255168/pu/vid/640x1138/o_pbT7wL3p1X0XtN.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1528540685829255168/pu/vid/480x852/Np6mnaHEugp21pZ6.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1528540685829255168/pu/vid/320x568/qu8BY-zkqKiF8K-O.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1528540685829255168/pu/pl/p4Nn4UnejKVkHt-u.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46984101,
+			"id_str": "46984101",
+			"name": "uradn",
+			"screen_name": "uradn",
+			"location": "127.0.0.1",
+			"description": "If technology is the solution, politicians are the problem. Live the way I type; fast, lot of mistakes. https://t.co/LQJRJnAT0K | https://t.co/sLlW9BwyIo | https://t.co/qir4r6ypCv",
+			"url": "https://t.co/taf8oL5Zm1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/taf8oL5Zm1",
+							"expanded_url": "http://kuncigames.com",
+							"display_url": "kuncigames.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LQJRJnAT0K",
+							"expanded_url": "http://plantseeds.io",
+							"display_url": "plantseeds.io",
+							"indices": [
+								104,
+								127
+							]
+						},
+						{
+							"url": "https://t.co/sLlW9BwyIo",
+							"expanded_url": "http://sadasa.id",
+							"display_url": "sadasa.id",
+							"indices": [
+								130,
+								153
+							]
+						},
+						{
+							"url": "https://t.co/qir4r6ypCv",
+							"expanded_url": "http://coolstairsnft.com",
+							"display_url": "coolstairsnft.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3923,
+			"friends_count": 2815,
+			"listed_count": 120,
+			"created_at": "Sat Jun 13 23:12:20 +0000 2009",
+			"favourites_count": 23107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 145845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190638365814771718/SD1Q0Q-f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190638365814771718/SD1Q0Q-f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46984101/1350324964",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3490,
+		"favorite_count": 12224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "HALAH HALAH. https://t.co/hQMU6HQoeJ"
+	},
+	{
 		"created_at": "Sun May 15 03:01:14 +0000 2022",
 		"id": 1525672627419103200,
 		"id_str": "1525672627419103232",
