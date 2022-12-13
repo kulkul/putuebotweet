@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 12 22:18:02 +0000 2022",
+		"id": 1602376508529590300,
+		"id_str": "1602427582661947392",
+		"full_text": "I tried the viral Lensa AI portrait app, and got lots and lots of nudes. I know AI image generation models are full of sexist and racist biases, but this one really hit home.  My latest story for @techreview  https://t.co/AA1cyFFnU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techreview",
+					"name": "MIT Technology Review",
+					"id": 15808647,
+					"id_str": "15808647",
+					"indices": [
+						196,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AA1cyFFnU1",
+					"expanded_url": "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/",
+					"display_url": "technologyreview.com/2022/12/12/106…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070974484,
+			"id_str": "1070974484",
+			"name": "Melissa Heikkilä",
+			"screen_name": "Melissahei",
+			"location": "London",
+			"description": "Senior reporter for AI @techreview. | Ex @POLITICOEurope & @TheEconomist | Forbes 30 under 30 | She/her | melissa (a) technologyreview (dot) com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10341,
+			"friends_count": 2762,
+			"listed_count": 260,
+			"created_at": "Tue Jan 08 13:50:07 +0000 2013",
+			"favourites_count": 3737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234463366070095872/Nv8rETC__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234463366070095872/Nv8rETC__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070974484/1663774954",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I tried the viral Lensa AI portrait app, and got lots and lots of nudes. I know AI image generation models are full of sexist and racist biases, but this one really hit home.  My latest story for @techreview  https://t.co/AA1cyFFnU1"
+	},
+	{
 		"created_at": "Sun Dec 11 13:09:26 +0000 2022",
 		"id": 1601626185464938500,
 		"id_str": "1601927138931712000",
