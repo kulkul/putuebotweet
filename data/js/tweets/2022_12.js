@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 15:00:56 +0000 2022",
+		"id": 1606199567644500000,
+		"id_str": "1607391013991247874",
+		"full_text": "@PolJokesID https://t.co/pfViM2f9EB",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PolJokesID",
+					"name": "Political Jokes ID",
+					"id": 808244774469677000,
+					"id_str": "808244774469677057",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1606199561760166000,
+					"id_str": "1606199561760165888",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Fkpd_c0aUAAiA_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fkpd_c0aUAAiA_P.jpg",
+					"url": "https://t.co/pfViM2f9EB",
+					"display_url": "pic.twitter.com/pfViM2f9EB",
+					"expanded_url": "https://twitter.com/Mnkanam1/status/1606199567644499968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1606199561760166000,
+					"id_str": "1606199561760165888",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Fkpd_c0aUAAiA_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fkpd_c0aUAAiA_P.jpg",
+					"url": "https://t.co/pfViM2f9EB",
+					"display_url": "pic.twitter.com/pfViM2f9EB",
+					"expanded_url": "https://twitter.com/Mnkanam1/status/1606199567644499968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1606109806963687400,
+		"in_reply_to_status_id_str": "1606109806963687425",
+		"in_reply_to_user_id": 808244774469677000,
+		"in_reply_to_user_id_str": "808244774469677057",
+		"in_reply_to_screen_name": "PolJokesID",
+		"user": {
+			"id": 1025695841275674600,
+			"id_str": "1025695841275674625",
+			"name": "Anam semesta ",
+			"screen_name": "Mnkanam1",
+			"location": "Yogyakarta, Indonesia",
+			"description": "Selamat datang di akun saya, mohon maaf apabila twit anda sering saya like",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 515,
+			"listed_count": 0,
+			"created_at": "Sat Aug 04 10:51:59 +0000 2018",
+			"favourites_count": 7350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1579741191876542464/-q0R0YFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1579741191876542464/-q0R0YFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1025695841275674625/1670566771",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@PolJokesID https://t.co/pfViM2f9EB"
+	},
+	{
 		"created_at": "Sun Dec 25 22:13:40 +0000 2022",
 		"id": 1607137530016862200,
 		"id_str": "1607137530016862208",
